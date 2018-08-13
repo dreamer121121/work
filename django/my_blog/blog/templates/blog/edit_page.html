@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit_page</title>
+</head>
+<body>
+{% if article %}
+    <form action= "{% url 'blog:edit_action' article.id  %}" method="post">
+        {% csrf_token %}
+            <label>文章标题
+                    <input type="text" name="title" value="{{article.title}}"/>
+            </label>
+            <br/>
+            <label>文章内容
+                    <input type="text" name="content"  value="{{article.content}}"/>
+            </label>
+            <br/>
+            <input type="submit" />
+    </form>
+{% else %}
+    <form action= "{% url 'blog:edit_action' 0  %}" method="post">
+        {% csrf_token %}
+            <label>文章标题
+                    <input type="text" name="title"/>
+            </label>
+            <br/>
+            <label>文章内容
+                    <input type="text" name="content" />
+            </label>
+            <br/>
+            <input type="submit" />
+    </form>
+{% endif %}
+</body>
+</html>
