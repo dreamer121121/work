@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>书目查询</title>
+</head>
+<body>
+    {% if errors %}
+        {% for error in errors%}
+            <li style="color: red;">{{error}}</li>
+        {% endfor %}
+    {% endif %}
+    <form action="" method="get" >
+        <input type="text" name="q">
+        <input type="submit" value="Search">
+    </form>
+
+</body>
+</html>
