@@ -1,6 +1,7 @@
 from django.shortcuts import render
-from django.http import HttpResponse
+from django.http import HttpResponseRedirect
 from .import models
+from django.core.mail import send_mail  # 导入发送邮件模块
 
 
 def search(request):
@@ -19,6 +20,10 @@ def search(request):
 
 
 def contact(request):
+    return render(request, 'contact_form.html')
+
+
+def contact_us(request):
     errors = []
     if request.method == 'POST':
         if not request.POST.get('subject', ''):
@@ -34,5 +39,5 @@ def contact(request):
                 request.POST.get('email', 'noreply@example.com'),
                 ['siteowner@example.com'],
             )
-            return HttpResponseRedirect('/contact/thanks/')
+            return HttpResponseRedirect('/contact/thanks/')  # 重定向函数
     return render('contact_form.html', {'errors': errors})
