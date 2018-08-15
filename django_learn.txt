@@ -1,0 +1,176 @@
+django安装：
+pip install django==version -i https://pypi.doubanio.com/simple
+查看django的版本
+进入django的shell模式：python manage.py shell
+更改语言：settings中设置language_code=zh-hans
+
+
+
+模型--视图--模板：
+1.创建项目：（1）.创建一个文件夹，在该文件夹下启动命令行：django-admin startproject 项目名称
+(2)创建一个视图文件：views.py
+(3)启动开发服务器：python manage.py runserver
+
+2.views.py:视图文件的编写和URL文件的配置 ：
+视图函数与ULR配置文件应该采用“松耦合原则”即：视图函数与URL的配置不在同一个地方。
+
+3.动态URL： 漂亮的URL就像是高质量的Web应用的一个标志。
+
+4.django服务器在开启时默认为Debug模式。
+
+5.模板引擎：将python代码与页面设计的工作分离由此引入模板引擎
+模板主要用于编写html文件。
+
+（1）创建模板对象：
+最简单的方法为直接实例化：
+1.from django import template
+t=template.Template（）
+
+（2）模板的渲染
+1.context类（一系列变量和值的字典）
+实例：
+>>> from django.template import Template, Context
+>>> raw_template = """<p>Dear {{ person_name }},</p>
+...
+... <p>Thanks for placing an order from {{ company }}. It's scheduled to
+... ship on {{ ship_date|date:"F j, Y" }}.</p>
+...
+... {% if ordered_warranty %}
+... <p>Your warranty information will be included in the packaging.</p>
+... {% else %}
+... <p>You didn't order a warranty, so you're on your own when
+... the products inevitably stop working.</p>
+... {% endif %}
+...
+... <p>Sincerely,<br />{{ company }}</p>"""
+>>> t = Template(raw_template)#实例化
+>>> import datetime
+>>> c = Context({'person_name': 'John Smith',
+...     'company': 'Outdoor Equipment',
+...     'ship_date': datetime.date(2009, 4, 2),
+...     'ordered_warranty': False})
+>>> t.render(c)#将Context中的数据加入到源html文件中
+raw_input 中保存的就是html的原文件
+
+总结：django的模板系统四部曲：1.写模板 2.创建Template对象 3.创建Context 4.调用render()方法。
+
+3.深度变量查找
+
+句点查找的顺序 ：
+
+字典类型查找 （比如 foo["bar"] )5
+
+属性查找 (比如 foo.bar )
+
+方法调用 （比如 foo.bar() )
+
+列表类型索引查找 (比如 foo[bar] )
+
+4.标签
+%if/else%
+
+%for%
+
+5.在视图中使用模板：
+
+手动加载：（费时费力一般不采用）
+自动加载：（1）from django.template.loader import get_template
+t=get_template('filename')
+context={}
+html=t.render(context)
+(2) from django.shortcuts import render_to_response
+return render_to_response(html文件，{})
+
+6.locals技巧：
+locals :返回的是一个在该函数中的局部变量与值一一对应的一个字典，可以替代人工写的context
+=================================================================================================================
+models的本质就是用python语法来操作数据库
+MVC开发模式（了解其含义）
+MTV开发模式（了解其含义）
+Models:
+一个model对应一张表，以类的形式对数据库进行操作，实现了对象关系映射，不需编写SQl语句。
+
+1.创建数据库并在django中进行配置
+pyhton2中使用pip install python-mysql进行来连接数据库
+python3中使用pip install pymysql
+特别注意：！！！！在django中使用MYSQLdb来对数据库进行操作
+因此在python3中使用django连接数据库时需要在__init__.py中添加：
+import pymysql
+pymysql.install_as_MySQLdb()
+
+@!!!mysql数据库长时间连接后（8小时）后会自动断开。
+
+专用于字符串处理的unicode方法：
+def __unicode__(self):#此种方法在python3里不再适用
+	return self.name
+
+def __str__(self):#python3中用此魔法方法来处理字符串问题
+	return self.name
+
+
+2.利用models来对数据库进行增删改查等操作：
+分析一条命令：
+models.Publisher.objects.all()
+models 是app中的模板，Publisher是我们在模板中定义的类，objects是对象管理器是django自动生成的。all(),get()等都是我们可以调用的方法。
+增：models.Publisher.objects.create(按字段添加内容）
+查：models.Publisher.objects.get(name=''),models.Publisher.objects.filter(name='')
+改：p=models.Publisher.objects.get(),p.字段，直接进行修改
+删：models.Publisher.objects.get(..).delete()
+
+数据排序：
+models.Publisher.objects.order_by("name")#按指定字段排序
+models.Publisher.objects.order_by("-name")#按指定字段逆向排序
+也可以在Publisher类中再添加新的类：
+class Meta:
+	ordering = ['name']
+
+更新多个对象：
+models.Publisher.objects.filter(pk=3).update(name="")#只更新某一列或某几列
+models.Publisher.objects.all().update(name="")#同时更新多条记录的country字段
+
+
+创建表的类时：
+如想允许某一字段的值为空则在该字段后加上：(blank=True)
+================================================================================================================
+django的管理界面：
+
+1.在settings_installed app中注册。
+
+2.创建超级用户：python manage.py createsuperuser
+
+3.将数据库在app文件中注册：
+
+from django.contrib import admin
+from .import models
+admin.site.register(models.Publisher)
+admin.site.register(models.Author)
+admin.site.register(models.Book)
+#在admin站点注册各个表
+================================================================================================================
+表单
+models.Book.objects.filter(title__icontains=q)
+注意：title_icontains 是一个查询关键字。含义是：查询书目中包含q的所有书籍，但在包含大量产品数据的数据库中不推荐使用这种查询方法，速度会很慢！
+
+send_mail函数：
+http://docs.djangoproject.com/en/dev/topics/email/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
