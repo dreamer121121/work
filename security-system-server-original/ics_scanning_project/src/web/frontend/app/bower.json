@@ -1,0 +1,21 @@
+{
+  "name": "ics-scanning",
+  "description": "工控扫描",
+  "main": "app.js",
+  "authors": [
+    "WangAo"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "ICS"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

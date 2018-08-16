@@ -1,0 +1,9 @@
+控制器
+PLC
+others
+Audit Vault可自动化审计收集、监视和报告流程，将审计数据转变为关键的安全资源以检测未授权活动。Oracle Audit Vault AV组件默认监听TCP 5700端口，当处理action.execute请求时，进程对用户提交给参数的输入缺少充分校验，远程攻击者可以利用漏洞创建任意对象，以应用程序进程上下文执行任意代码。
+管理工具
+SCADA
+DCS
+HMI
+SCADA/HMI

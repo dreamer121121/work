@@ -1,0 +1,38 @@
+<div ng-controller="searchInitCtrl">
+<div class="search-wrapper">
+    <div class="container">
+        <p class="search-title">工业联网设备搜索</p>
+        <form class="search-form clearfix" action="#">
+            <select class="search-select" name="" id="" ng-model="input.type" ng-options="t.value as t.name for t in input.options">
+            </select>
+            <div class="input-group">
+                <input type="text" title="设备查询字段包括:ip、country、city、port、protocol,对于WEB页面查询字段包括:ip,port,city,port。
+多个查询条件使用空格分隔,例如:ip:192.168.10.100 port:8080" placeholder="搜索格式为“查询字段:查询内容" ng-model="input.key">
+                <button class="submit main-input-submit" title="搜索" ng-click="input.submit()"></button>
+                <ul class="select-wrapper" ng-show="input.related">
+                    <li ng-repeat="key in input.relatedKey"><a href="" ng-click="input.keyOnClick(key.text)">{{key.text}}</a></li>
+                    <li><a href="" ng-click="input.keyOnClick('S7-200')">S7-200</a></li>
+                    <li><a href="" ng-click="input.keyOnClick('S7-300')">S7-300</a></li>
+                    <div class="close"><a href="" ng-click="input.closeRelated();">关闭</a></div>
+                </ul>
+            </div>
+        </form>
+    </div>
+</div>
+<div class="protocol-wrapper">
+    <div class="container">
+        <h2 class="protocol-wrapper-title">Protocol</h2>
+        <ul class="protocols-list clearfix">
+            <li ng-repeat="each in protocol.list">
+                <h3 class="name" ng-click="protocol.searchProtocol(each.proto_name)">{{each.proto_name}}</h3>
+                <dl>
+                    <dd class="protocol">{{each.nw_proto}}</dd>
+                    <dd class="port"><a href="" ng-click="protocol.searchPort(each.port)">{{each.port}}</a></dd>
+                </dl>
+            </li>
+        </ul>
+    </div>
+</div>
+</div>>
+
+

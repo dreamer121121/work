@@ -1,0 +1,85 @@
+{
+    "vertices" : {
+        "ip" : {
+            "key" : "v_ip",
+            "properties" : [
+                "name", "province", "country"
+            ]
+        },
+        "department" : {
+            "key" : "v_department",
+            "properties" : [
+                "name", "info"
+            ]
+        },
+        "file" : {
+            "key" : "v_file",
+            "properties" : [
+                "name", "info"
+            ]
+        },
+        "url" : {
+            "key" : "v_url",
+            "properties" : [
+                "name", "info"
+            ]
+        },
+        "domain" : {
+            "key" : "v_domain",
+            "properties" : [
+                "name"
+            ]
+        }
+    },
+    "edges" : {
+        "ip2dep" : {
+            "key" : "e_ip2dep",
+            "properties": [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["ip", "department"]
+        },
+        "ip2file" : {
+            "key" : "e_ip2file",
+            "properties" : [
+                "INDEX", "hash", "time", "DSI", "DSU"
+            ],
+            "vertices" : ["ip", "file"]
+        },
+        "url2file" : {
+            "key" : "e_url2file",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["url", "file"]
+        },
+        "ip2url" : {
+            "key" : "e_ip2url",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["ip", "url"]
+        },
+        "DNS" : {
+            "key" : "e_DNS",
+            "properties" : [
+                "INDEX", "hash", "time", "DNSServer", "transProto", "reqDomain", "reqType", "reqCount", "direct", "respFlag", "respVal", "RPReqType", "RSIP", "TTL", "SR"
+            ],
+            "vertices" : ["ip", "domain"]
+        },
+        "ip2domain" : {
+            "key" : "e_ip2domain",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["ip", "domain"]
+        },
+        "access" : {
+            "key" : "e_access",
+            "properties" : [
+                "INDEX", "packages", "bytes", "srcPort", "dstPort", "time", "tcpFlag", "transProto", "hash"
+            ],
+            "vertices" : ["ip", "ip"]
+        }
+    }
+}

@@ -1,0 +1,197 @@
+﻿ABB PCM600 2.6	ABB PCM600是保护及控制IED管理器，主要用于能源行业。 ABB PCM600 OPC Server IEC61850身份验证密码临时保护方式存在漏洞。本地攻击者可利用此漏洞访问受影响设备。	管理工具
+ABB PCM600 2.6	ABB PCM600是保护及控制IED管理器，主要用于能源行业。 ABB PCM600主应用密码更改后未正确保存。本地攻击者可利用此漏洞访问受影响设备。	管理工具
+ABB PCM600 2.6	ABB PCM600是保护及控制IED管理器，主要用于能源行业。 ABB PCM600 身份验证凭证保存方式存在漏洞。本地攻击者可利用此漏洞访问受影响设备。	管理工具
+ABB PCM600 2.6	ABB PCM600是保护及控制IED管理器，主要用于能源行业。 ABB PCM600 ACTConfig配置文件里的主应用密码使用了弱哈希函数。本地攻击者可利用此漏洞访问受影响设备。	管理工具
+HP Network Automation 9.22 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation中存在远程代码执行和信息泄露漏洞。允许攻击者利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 9.22.01 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation中存在远程代码执行和信息泄露漏洞。允许攻击者利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 9.22.02 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation中存在远程代码执行和信息泄露漏洞。允许攻击者利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 10.00 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation中存在远程代码执行和信息泄露漏洞。允许攻击者利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 10.00.01	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation中存在远程代码执行和信息泄露漏洞。允许攻击者利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 9.22 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation存在远程代码执行和信息泄露漏洞。允许攻击者可利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 9.22.01 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation存在远程代码执行和信息泄露漏洞。允许攻击者可利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 9.22.02 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation存在远程代码执行和信息泄露漏洞。允许攻击者可利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 10.00 	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation存在远程代码执行和信息泄露漏洞。允许攻击者可利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+HP Network Automation 10.00.01	HP Network Automation是美国惠普（HP）公司的一套自动化网络配置管理工具。该工具能对分布广泛的多厂商网络设备进行自动化的配置变更、软件更新、合规审计以及跟踪和控制。 HP Network Automation存在远程代码执行和信息泄露漏洞。允许攻击者可利用该漏洞执行任意代码，或获取敏感信息。	管理工具
+Siemens SIMATIC CP 343-1 Advanced devices <3.0.44 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens CP 343-1 Lean devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens CP 343-1 devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens TIM 3V-IE devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens TIM 3V-IE Advanced devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens TIM 3V-IE DNP3 devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens TIM 4R-IE devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens TIM 4R-IE DNP3 devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens CP 443-1 devices 	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens CP 443-1 Advanced devices	Siemens SIMATIC CP 343-1/TIM 3V-IE/TIM 4R-IE/CP 443-1是通信机模块。 Siemens SIMATIC CP 343-1 Advanced 设备3.0.44之前版本, CP 343-1 Lean, CP 343-1, TIM 3V-IE, TIM 3V-IE Advanced, TIM 3V-IE DNP3, TIM 4R-IE, TIM 4R-IE DNP3, CP 443-1, CP 443-1 Advanced在访问保护层的实现上存在安全漏洞，允许未经身份验证的远程攻击者利用此漏洞通过TCP端口102上的会话获取管理员访问权限。	管理工具
+Siemens SICAM MIC <2404	Siemens SICAM MIC是属于SICAM RTU产品家族的能源自动化模块化遥控设备。 Siemens SICAM MIC 2404之前版本存在身份验证绕过漏洞,远程攻击者通过访问设备的Web接口(TCP/80端口)，利用此漏洞可执行管理员操作。	管理工具
+HP Network Automation 9.0X 	HP Network Automation是一套自动化网络配置管理工具。 HP Network Automation存在多个安全漏洞，允许攻击者进行跨站脚本，跨站请求伪造和点击劫持攻击，可获取敏感信息，执行恶意代码等。	管理工具
+HP Network Automation 9.1X 	HP Network Automation是一套自动化网络配置管理工具。 HP Network Automation存在多个安全漏洞，允许攻击者进行跨站脚本，跨站请求伪造和点击劫持攻击，可获取敏感信息，执行恶意代码等。	管理工具
+HP Network Automation 9.2X 	HP Network Automation是一套自动化网络配置管理工具。 HP Network Automation存在多个安全漏洞，允许攻击者进行跨站脚本，跨站请求伪造和点击劫持攻击，可获取敏感信息，执行恶意代码等。	管理工具
+HP Network Automation 10.X	HP Network Automation是一套自动化网络配置管理工具。 HP Network Automation存在多个安全漏洞，允许攻击者进行跨站脚本，跨站请求伪造和点击劫持攻击，可获取敏感信息，执行恶意代码等。	管理工具
+HP Network Automation 9.10 	HP Network Automation是一款自动化网络配置管理工具。 HP Network Automati存在安全绕过漏洞。攻击者可以利用这个漏洞绕过某些安全限制。	管理工具
+HP Network Automation 9.20	HP Network Automation是一款自动化网络配置管理工具。 HP Network Automati存在安全绕过漏洞。攻击者可以利用这个漏洞绕过某些安全限制。	管理工具
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Invensys Wonderware Information Server存在SQL注入漏洞。允许攻击者危及该应用程序，访问或修改数据或利用底层数据库中潜在的漏洞。	管理工具
+Invensys Wonderware Information Server 4.5 Portal 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Invensys Wonderware Information Server存在SQL注入漏洞。允许攻击者危及该应用程序，访问或修改数据或利用底层数据库中潜在的漏洞。	管理工具
+Invensys Wonderware Information Server 5.0 Portal 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Invensys Wonderware Information Server存在SQL注入漏洞。允许攻击者危及该应用程序，访问或修改数据或利用底层数据库中潜在的漏洞。	管理工具
+Invensys Wonderware Information Server 5.5 Portal	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Invensys Wonderware Information Server存在SQL注入漏洞。允许攻击者危及该应用程序，访问或修改数据或利用底层数据库中潜在的漏洞。	管理工具
+Siemens SINEMA Server 12	SINEMA Server是西门子工业网络管理软件能够快速诊断工业以太网、工业交换机SCALANCE、PROFINET和CP443-1、CP343-1、ET200(PN)等网络设备的通讯状态。 SINEMA Server存在目录遍历漏洞，允许远程攻击者利用漏洞提交特殊的目录遍历序列如'../'来绕过WEB限制，获取敏感信息。	管理工具
+Siemens SINEMA Server 12	SINEMA Server是西门子工业网络管理软件能够快速诊断工业以太网、工业交换机SCALANCE、PROFINET和CP443-1、CP343-1、ET200(PN)等网络设备的通讯状态。 SINEMA Server存在未明安全漏洞，允许远程攻击者利用漏洞执行任意代码。	管理工具
+Siemens SINEMA Server 12	SINEMA Server是西门子工业网络管理软件能够快速诊断工业以太网、工业交换机SCALANCE、PROFINET和CP443-1、CP343-1、ET200(PN)等网络设备的通讯状态。 SINEMA Server处理特制HTTP请求存在安全漏洞，允许远程攻击者利用漏洞提交特制的请求使WEB接口崩溃。	管理工具
+RuggedCom Rugged Operating System <3.12.2	RuggedCom Inc罗杰康公司是世界领先的生产用于工业环境的高性能网络和通信设备的制造商。 RuggedCom Rugged Operating System监听TCP 443端口的WEB服务器存在验证绕过和劫持会话漏洞，允许远程非特权账户(如Guest或Operator)通过网络执行一些受限的管理操作。	管理工具
+RuggedCom Rugged Operating System <3.12.2	RuggedCom Inc罗杰康公司是世界领先的生产用于工业环境的高性能网络和通信设备的制造商。 RuggedCom Rugged Operating System监听TCP 443端口的WEB服务器使用不充分随机值，允许攻击者猜测活动WEB会话的会话ID并劫持。攻击者必须知道管理员客户端IP地址进行攻击。	管理工具
+Siemens SINAMICS S/G < 4.6.11	Siemens SINAMICS S/G是西门子公司开发的变频器，主要用于机械工程和工厂建设。 Siemens SINAMICS S/G开放FTP(21端口)和telnet(23端口)服务未能对用户的请求进行正确限制，允许远程攻击者利用漏洞通过这些服务执行管理员操作。	管理工具
+Siemens SCALANCE X-200 4.4.9 	Siemens Scalance X200是西门子公司发布的工业以太网交换机。 Siemens Scalance X200交换机WEB接口存在未明漏洞，允许远程攻击者利用漏洞以管理员权限访问设备。	管理工具
+Siemens SCALANCE X-200IRT 5.0.9	Siemens Scalance X200是西门子公司发布的工业以太网交换机。 Siemens Scalance X200交换机WEB接口存在未明漏洞，允许远程攻击者利用漏洞以管理员权限访问设备。	管理工具
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。攻击者可以利用漏洞可破坏应用、执行未授权操作。	管理工具
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。攻击者可以利用漏洞可破坏应用、执行未授权操作。	管理工具
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。攻击者利用此漏洞可在受影响站点上下文的用户浏览器中执行任意脚本代码。	管理工具
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。攻击者利用此漏洞可在受影响站点上下文的用户浏览器中执行任意脚本代码。	管理工具
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。本地攻击者利用此漏洞获取敏感信息。	管理工具
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server可以集中反映生产管理情况的Web解决方案。 Wonderware Information Server 4.0 SP1、Wonderware Information Server 4.5 Portal、Wonderware Information Server 5.0 Portal在实现上存在安全漏洞。本地攻击者利用此漏洞获取敏感信息。	管理工具
+Siemens SIMATIC S7-1200 2.0.2 	SIEMENS SIMATIC S7-1200是一款西门子开发的自动化应用产品。SIEMENS SIMATIC S7-1200 处理设备管理的TCP报文时(ISO-TSAP)存在一个错误，允许攻击者向TCP 102端口发送特殊报文使设备进入缺陷模式(defect mode)。允许攻击者利用漏洞进行拒绝服务攻击。	管理工具
+Siemens SIMATIC S7-1200 2.0.3	SIEMENS SIMATIC S7-1200是一款西门子开发的自动化应用产品。SIEMENS SIMATIC S7-1200 处理设备管理的TCP报文时(ISO-TSAP)存在一个错误，允许攻击者向TCP 102端口发送特殊报文使设备进入缺陷模式(defect mode)。允许攻击者利用漏洞进行拒绝服务攻击。	管理工具
+WellinTech KingView 通用版6.53（kingMess.exe 65.20.2003.10400） 	KingView KingMes是一款制造执行管理系统。KingView KingMes组件存在内存破坏漏洞，Kingmess在读取异常信息时，缺乏安全保护，会造成内存溢出。允许远程攻击者在运行用户上下文执行任意代码。触发此漏洞需在应用程序中打开特制的日志文件。	管理工具
+WellinTech KingView 通用版6.55（kingMess.exe 65.50.2011.18049） 	KingView KingMes是一款制造执行管理系统。KingView KingMes组件存在内存破坏漏洞，Kingmess在读取异常信息时，缺乏安全保护，会造成内存溢出。允许远程攻击者在运行用户上下文执行任意代码。触发此漏洞需在应用程序中打开特制的日志文件。	管理工具
+WellinTech KingView 通用版6.52（kingMess.exe 65.20.2003.10300）	KingView KingMes是一款制造执行管理系统。KingView KingMes组件存在内存破坏漏洞，Kingmess在读取异常信息时，缺乏安全保护，会造成内存溢出。允许远程攻击者在运行用户上下文执行任意代码。触发此漏洞需在应用程序中打开特制的日志文件。	管理工具
+wago WAGO I/O System 758	WAGO I/O System 758模块是现场总线PC接口卡系列产品。WAGO I/O System 758模块758-870、758-874、758-875、758-876 IPC设备的Web管理账户存在默认密码，可使远程攻击者通过TCP会话获取管理员访问权限。	管理工具
+vtiger vtiger CRM 5.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 vtiger CRM 5.1.0版本中的modules/com_vtiger_workflow/sortfieldsjson.php中存在目录遍历漏洞。远程攻击者可利用该漏洞通过&lsquo;module_name&rsquo;参数中的..(点点)读取任意文件。	管理工具
+ICONICS, Inc. GENESIS32 8.05 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. GENESIS32 9.13 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. GENESIS32 9.01 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. GENESIS32 9.22 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. BizViz 9.13 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. BizViz 9.01 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. BizViz 8.05 	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+ICONICS, Inc. BizViz 9.22	GENESIS32/BizViz是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/BizViz应用的安全配置(Security Configurator)组件存在安全漏洞，允许攻击者绕过正常的验证方法，获得管理员控制。作为锁定的ICONICS GENESIS32或BizViz用户的攻击者，可在没有联系ICONICS技术支持的情况下生成验证代码，攻击者之后可以以管理员权限登录安全配置组件，更改系统设置或提升其他用户权限。	管理工具
+Emerson Electric Co DeltaV 9 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV Workstations 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV Workstations 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV Workstations 9	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在跨站脚本漏洞，攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，可获得敏感信息或劫持用户会话。	管理工具
+Emerson Electric Co DeltaV 9 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV Workstations 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV Workstations 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV Workstations 9	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品不正确过滤用户提交输入，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或控制应用系统。	管理工具
+Emerson Electric Co DeltaV 9 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV Workstations 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV Workstations 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV Workstations 9	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品存在拒绝服务条件，允许攻击者向TCP 111和UDP 111端口发送特制报文使POSTSERV.EXE崩溃。	管理工具
+Emerson Electric Co DeltaV 9 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV Workstations 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV Workstations 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV Workstations 9	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品没有正确过滤项目文件输入，部分字段中的非法信息可导致应用程序崩溃或可能以应用程序上下文执行任意代码。	管理工具
+Emerson Electric Co DeltaV 9 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV Workstations 11 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV Workstations 10 	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Emerson Electric Co DeltaV Workstations 9	Emerson Electric是一家多元化全球制造商。提供网络能源、过程管理、工业自动化、环境优化技术、工具和储存等业务。Emerson Electric DeltaV多个产品使用的ActiveX控件存在漏洞，允许攻击者构建恶意WEB页，诱使用户解析，覆盖系统任意文件。	管理工具
+Parallels Parallels Plesk Panel 9.3 	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。在备份过程中PLESK panel会把处理的详细日志记录到/opt/psa/PMM/sessions(Debian/Ubuntu)和/usr/local/psa/PMM/sessions(Centos)中，详细的日志文件以psadump.log命名，并全局可读，此文件包含管理员信息。	管理工具
+Parallels Parallels Plesk Panel 9.5	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。在备份过程中PLESK panel会把处理的详细日志记录到/opt/psa/PMM/sessions(Debian/Ubuntu)和/usr/local/psa/PMM/sessions(Centos)中，详细的日志文件以psadump.log命名，并全局可读，此文件包含管理员信息。	管理工具
+EmbryoCore CMS EmbryoCore CMS 1.03	EmbryoCore CMS是一款内容管理系统。EmbryoCore CMS存在SQL注入漏洞。由于EmbryoCore CMS未能正确过滤用户提交的输入，远程攻击者可以利用漏洞提交恶意SQL查询，可获得数据库敏感信息或控制应用程序。	管理工具
+EmbryoCore CMS EmbryoCore CMS 1.03	EmbryoCore CMS是一款内容管理系统。EmbryoCore CMS存在HTML注入漏洞。攻击者可以利用这个问题在受影响的机器上执行任意代码，达到攻击的目的。	管理工具
+vtiger vtiger CRM 5.1	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在漏洞。由于vtiger CRM未能正确过滤提交给'module_name'参数的输入，攻击者可以通过目录遍历序列，以WEB权限查看系统文件内容。	管理工具
+D-Link DCS-900 null 	D-Link DCS是摄像设备产品。D-Link DCS存在漏洞。由于D-Link DCS产品提供的'security.cgi'未能正确过滤用户提交的输入，可触发跨站请求伪造攻击，攻击者构建恶意URI，诱使用户访问，可以管理员权限执行恶意操作。	管理工具
+D-Link DCS-5300 null 	D-Link DCS是摄像设备产品。D-Link DCS存在漏洞。由于D-Link DCS产品提供的'security.cgi'未能正确过滤用户提交的输入，可触发跨站请求伪造攻击，攻击者构建恶意URI，诱使用户访问，可以管理员权限执行恶意操作。	管理工具
+D-Link DCS-2000 null	D-Link DCS是摄像设备产品。D-Link DCS存在漏洞。由于D-Link DCS产品提供的'security.cgi'未能正确过滤用户提交的输入，可触发跨站请求伪造攻击，攻击者构建恶意URI，诱使用户访问，可以管理员权限执行恶意操作。	管理工具
+HP Network Automation 7.2 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在一个未明错误，允许远程攻击者可以利用漏洞获得未授权访问。	管理工具
+HP Network Automation 7.5 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在一个未明错误，允许远程攻击者可以利用漏洞获得未授权访问。	管理工具
+HP Network Automation 7.6 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在一个未明错误，允许远程攻击者可以利用漏洞获得未授权访问。	管理工具
+HP Network Automation 9.0 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在一个未明错误，允许远程攻击者可以利用漏洞获得未授权访问。	管理工具
+HP Network Automation 9.10	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在一个未明错误，允许远程攻击者可以利用漏洞获得未授权访问。	管理工具
+Cloupia FlexPod Management and Automation 0	Cloupia提供端到端的FlexPod配置，管理，自动化解决方案。Cloupia End-To-End FlexPod management存在目录遍历漏洞，jQuery File Tree是一个可配置的Ajax文件浏览器jQuery插件。未验证访问此模块允许远程攻击者浏览宿主服务器上的整个文件系统。	管理工具
+vTiger vtiger CRM <= 5.2.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 vtiger CRM中存在认证绕过漏洞。攻击者可利用该漏洞绕过认证进程，下载数据库备份进而修改配置设置。vtiger CRM 5.2.1版本中存在该漏洞，其他版本也可能受影响。	管理工具
+vTiger vtiger CRM 5.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM中的某些模块没有校验用户访问级别，可使用graph.php脚本进行匿名模式调用，利用此漏洞可用于查看或修改某些配置(组织名，模版，备份)。攻击者可以下载备份数据获得敏感信息。	管理工具
+Invensys Wonderware Inbatch 9.0 SP1 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch存在三个安全漏洞，这些漏洞存在于GUIControls, BatchObjSrv和BatchSecCtrl控件中。向控件引用的属性/方法提交超长字符串值，诱使客户端用户解析，可触发拒绝服务攻击，成功利用漏洞可以以登录用户上下文执行任意代码。	管理工具
+Invensys Wonderware Inbatch 9.0 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch存在三个安全漏洞，这些漏洞存在于GUIControls, BatchObjSrv和BatchSecCtrl控件中。向控件引用的属性/方法提交超长字符串值，诱使客户端用户解析，可触发拒绝服务攻击，成功利用漏洞可以以登录用户上下文执行任意代码。	管理工具
+Invensys Wonderware Inbatch 8.1 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch存在三个安全漏洞，这些漏洞存在于GUIControls, BatchObjSrv和BatchSecCtrl控件中。向控件引用的属性/方法提交超长字符串值，诱使客户端用户解析，可触发拒绝服务攻击，成功利用漏洞可以以登录用户上下文执行任意代码。	管理工具
+Invensys Wonderware InBatch 9.0 SP2 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch存在三个安全漏洞，这些漏洞存在于GUIControls, BatchObjSrv和BatchSecCtrl控件中。向控件引用的属性/方法提交超长字符串值，诱使客户端用户解析，可触发拒绝服务攻击，成功利用漏洞可以以登录用户上下文执行任意代码。	管理工具
+Invensys Wonderware InBatch 9.5	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch存在三个安全漏洞，这些漏洞存在于GUIControls, BatchObjSrv和BatchSecCtrl控件中。向控件引用的属性/方法提交超长字符串值，诱使客户端用户解析，可触发拒绝服务攻击，成功利用漏洞可以以登录用户上下文执行任意代码。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板给某些源省略Content-Type头的字符集参数。远程攻击者可能利用涉及到account/power-mode-logout和某些其他文件的解释冲突导致未明的影响。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板给某些源省略Content-Type头的字符集参数。远程攻击者可能利用涉及到account/power-mode-logout和某些其他文件的解释冲突导致未明的影响。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板在web页面中包含RFC 1918 IP地址。远程攻击者可以通过读取该页面获得潜在地敏感信息，正如admin/home/admin和某些其他文件中证明的。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板在web页面中包含RFC 1918 IP地址。远程攻击者可以通过读取该页面获得潜在地敏感信息，正如admin/home/admin和某些其他文件中证明的。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，该漏洞源于服务器管理面板未给https会话中的cookie设置安全标志。远程攻击者更易于通过拦截http会话中的传输来捕获该cookie，该漏洞已在login_up.php3和某些其他文件使用的cookie中被证实。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，该漏洞源于服务器管理面板未给https会话中的cookie设置安全标志。远程攻击者更易于通过拦截http会话中的传输来捕获该cookie，该漏洞已在login_up.php3和某些其他文件使用的cookie中被证实。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，该漏洞源于服务器管理面板未能准确验证XML文档储存的字符串数据。远程攻击者可以借助一个特制的REST URL参数导致拒绝服务（语法分析错误）或者可能具有其他未明的影响，该漏洞已在admin/和某些其他文件的参数中被证实。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，该漏洞源于服务器管理面板未能准确验证XML文档储存的字符串数据。远程攻击者可以借助一个特制的REST URL参数导致拒绝服务（语法分析错误）或者可能具有其他未明的影响，该漏洞已在admin/和某些其他文件的参数中被证实。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本的服务器管理面板中存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制输入注入任意web脚本或者HTML,该漏洞已在admin/health/和某些其他文件中被证实。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本的服务器管理面板中存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制输入注入任意web脚本或者HTML,该漏洞已在admin/health/和某些其他文件中被证实。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中的服务器管理面板中存在多个SQL注入漏洞。远程攻击者可以借助特制输入执行任意SQL命令，正如login_up.php3和某些其他文件中证明的。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中的服务器管理面板中存在多个SQL注入漏洞。远程攻击者可以借助特制输入执行任意SQL命令，正如login_up.php3和某些其他文件中证明的。	管理工具
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板给某些源省略Content-Type头的字符集参数。远程攻击者可能利用涉及到account/power-mode-logout和某些其他文件的解释冲突导致未明的影响。	管理工具
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0_build1011110331.18版本中存在漏洞，其服务器管理面板给某些源省略Content-Type头的字符集参数。远程攻击者可能利用涉及到account/power-mode-logout和某些其他文件的解释冲突导致未明的影响。	管理工具
+HomeSeer HS2 2.5.0.20	HomeSeer HS2 2.5.0.20版本web界面的/ctrl中存在跨站请求伪造（CSRF）漏洞。远程攻击者可利用该漏洞劫持管理员认证来请求执行任意程序。	管理工具
+vtiger vtiger CRM 5.0.4 RC 	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+vtiger vtiger CRM 4.2 	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+vtiger vtiger CRM 4.2.4 	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+vtiger vtiger CRM 5.0.3 	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+vtiger vtiger CRM 5.0.4 	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+vtiger vtiger 5.0.4 RC	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM )。vtiger CRM存在输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，攻击者可以构建恶意WEB页，诱使用户解析，获得敏感信息或劫持用户会话。	管理工具
+SafeNet Sentinel HASP SDK 5.10 	Safenet提供软件保护和证书管理产品，受影响产品Sentinel HASP，之前为Aladdin HASP SRM是一款数字证书管理程序。7T IGSS使用SafeNet Sentinel HASP SDK用于管理数字证书。可远程访问的WEB应用程序Sentinel HASP管理控制中心不充分校验用户输入，特殊的字符可允许攻击者构建和向配置文件注入HTML。成功利用漏洞允许攻击者更改配置文件中的代码。此漏洞可使用Mozilla FIrefox 2.0重现，目前使用当前的Mozilla Firefox, Microsoft Internet Explorer, Opera和Google Chrome不能触发此漏洞。	管理工具
+SafeNet Sentinel HASP Run-time 5.95	Safenet提供软件保护和证书管理产品，受影响产品Sentinel HASP，之前为Aladdin HASP SRM是一款数字证书管理程序。7T IGSS使用SafeNet Sentinel HASP SDK用于管理数字证书。可远程访问的WEB应用程序Sentinel HASP管理控制中心不充分校验用户输入，特殊的字符可允许攻击者构建和向配置文件注入HTML。成功利用漏洞允许攻击者更改配置文件中的代码。此漏洞可使用Mozilla FIrefox 2.0重现，目前使用当前的Mozilla Firefox, Microsoft Internet Explorer, Opera和Google Chrome不能触发此漏洞。	管理工具
+HomeSeer HS2 2.5.0.20	HomeSeer HS2是一个家庭自动化和远程访问软件套件，设计用于整合家庭中的系统。HomeSeer HS2 WEB服务程序存在多个安全，HomeSeer HS2 2.5.0.20和之前版本包含的WEB接口存在目录遍历漏洞，允许远程攻击者访问WEB目录之外的文件。 此外HomeSeer HS2 2.5.0.20接口受存储和反射型跨站脚本漏洞，攻击者可以请求类似http://ipaddress/example<script>alert(document.cookie)</script>的WEB页，使JavaScript存储在日志查看页面中。管理员查看日志文件可导致JavaScript在目标浏览器中执行。HomeSeer HS2 web接口也受跨站请求伪造攻击，成功的CSRFG攻击可使攻击者以管理员用户运行命令。	管理工具
+vTiger vtiger CRM <= 5.2.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 vtiger CRM 5.3.0之前的版本中存在漏洞，该漏洞源于其不能正确的识别Leads模块中字段有缺陷的状态。远程认证用户可通过读取以前创建的报告绕过目的访问限制。	管理工具
+vTiger vtiger CRM 5.2.1	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 vTiger CRM 5.2.1以及之前版本中存在多个跨站脚本漏洞。该漏洞源于对用户提供的数据没有经过正确的检查。远程攻击者可利用该漏洞在受影响站点上下文的未知用户浏览器中执行任意脚本代码，窃取基于cookie的认证证书进而发起其他攻击，或者可通过多个参数注入任意web脚本或者HTML，例如：viewname和activity_mode 参数。	管理工具
+vTiger vtiger CRM 5.2.1	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 vTiger CRM 5.2.1和之前版本中的Calendar模块存在SQL注入漏洞。远程攻击者可以借助onlyforuser参数执行任意SQL命令。	管理工具
+vTiger vtiger CRM 5.2.1	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。 Vtiger CRM 5.2.1以及之前版本中存在多个本地文件包含漏洞。由于对用户提供的输入没有经过正确的过滤，攻击者可利用该漏洞获取潜在的敏感信息，并在web服务器进程中执行任意本地脚本，危害应用程序和计算机，也可能导致其他的攻击。	管理工具
+vTiger vtiger CRM 5.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。vtiger CRM存在本地文件包含漏洞。由于通过"module"和"action" GET参数提供给graph.php的输入在用于包含文件之前缺少校验，攻击者通过目录遍历序列和URL编码的空字节可包含之前上传的文件：http://[host]/graph.php?module=../storage/2011/October/week3/UploadedFile.txt%00http://[host]/graph.php?module=1&action=../../storage/2011/October/week3/UploadedFile.txt%00	管理工具
+vTiger vtiger CRM 5.x	vtiger CRM是一套基于Web以销售能力自动化(SFA)为主的客户关系管理系统(CRM)。vtiger CRM存在本地文件包含漏洞。由于通过"file" GET参数提供给index.php的输入在用于包含文件之前缺少校验，攻击者通过目录遍历序列和URL编码的空字节可包含之前上传的文件：http://[host]/index.php?module=Accounts&action=AccountsAjax&ajax=true&file=AddressChange&file=../../storage/2011/October/week3/UploadedFile.txt%00	管理工具
+Parallels Plesk Panel 10.0-10.2	Plesk是用于管理站点的综合控制面板解决方案。Parallels Plesk Panel存在跨站脚本漏洞。由于某些未明输入在被返回至用户前未能正确过滤，攻击者可以利用漏洞在受影响的站点上下文的用户浏览器会话中执行任意HTML和脚本代码。	管理工具
+Parallels Plesk Panel 10.0-10.2	Plesk是用于管理站点的综合控制面板解决方案。Parallels Plesk Panel存在SQL注入漏洞。由于某些未明输入在被用于SQL查询之前未能正确过滤，攻击者可以利用漏洞通过注入任意SQL代码来操纵SQL查询。	管理工具
+vTiger vtiger CRM 5.2.1	vtiger CRM是基于web的开源客户关系管理系统。 vtiger CRM存在多个跨站脚本漏洞。由于程序未能正确滤用户提供的输入，攻击者可利用此漏洞在受影响的站点上下文的信任用户浏览器中执行任意脚本代码，窃取基于cookie的身份验证并发起其他攻击。	管理工具
+vTiger vtiger CRM <= 5.2.x	vtiger CRM是基于web的开源客户关系管理系统。 vtiger CRM使用了位于/cron/class.phpmailer.php的受影响版本类文件，在实现上存在远程代码执行漏洞，恶意用户可利用此漏洞执行任意代码。	管理工具
+vTiger vtiger CRM <= 5.2.x	vtiger CRM是基于web的开源客户关系管理系统。 vtiger CRM在处理多个参数的过滤时存在漏洞，恶意用户可利用此漏洞通过特制的URL在受害者浏览器中执行任意脚本代码。	管理工具
+vTiger vtiger CRM <= 5.2.x	vtiger CRM是基于web的开源客户关系管理系统。 vtiger CRM在处理多个参数的过滤时存在漏洞，恶意用户可利用此漏洞通过特制的URL在受害者浏览器中执行任意脚本代码。	管理工具
+IBM Tivoli Security Information and Event Manager 2.0	IBM Tivoli Security Information and Event Manager是一款可支持客户部署针对数据中心中的实时威胁管理和法规遵从性管理(借助用户活动监控和日志管理实现)的自动化安全管理解决方案。TSIEM存在跨站脚本攻击，传递给自定义报告的输入在返回用户之前缺少过滤，可导致跨站脚本攻击，攻击者可获得敏感信息或劫持用户会话。	管理工具
+HP Network Automation 7.2 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行SQL注入攻击，攻击者可以获得敏感信息或操作数据库。	管理工具
+HP Network Automation 7.5 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行SQL注入攻击，攻击者可以获得敏感信息或操作数据库。	管理工具
+HP Network Automation 7.6 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行SQL注入攻击，攻击者可以获得敏感信息或操作数据库。	管理工具
+HP Network Automation 9.0 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行SQL注入攻击，攻击者可以获得敏感信息或操作数据库。	管理工具
+HP Network Automation 9.10	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行SQL注入攻击，攻击者可以获得敏感信息或操作数据库。	管理工具
+HP Network Automation 7.2 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行跨站脚本攻击，攻击者可以获得敏感信息或劫持用户会话。	管理工具
+HP Network Automation 7.5 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行跨站脚本攻击，攻击者可以获得敏感信息或劫持用户会话。	管理工具
+HP Network Automation 7.6 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行跨站脚本攻击，攻击者可以获得敏感信息或劫持用户会话。	管理工具
+HP Network Automation 9.0 	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行跨站脚本攻击，攻击者可以获得敏感信息或劫持用户会话。	管理工具
+HP Network Automation 9.10	HP Network Automation是一款自动化网络配置管理工具。运行在Linux, Solaris和Windows平台下的HP Network Automation存在安全漏洞，允许攻击者进行跨站脚本攻击，攻击者可以获得敏感信息或劫持用户会话。	管理工具
+Rockwell Automation Rockwell OPC Automation 1.1.8.0 	Rockwell Automation RSLinx是一款Rockwell为用户提供的通讯管理软件。创建调试字符串时OPC自动化ActiveX控件("RsiOPCAuto.OPCServer")存在边界错误，向"Connect()"方法的"ProgID"参数提交超长字符串可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序上下文执行任意代码。	管理工具
+Rockwell Automation RSLinx 2.3.1 Build 10	Rockwell Automation RSLinx是一款Rockwell为用户提供的通讯管理软件。创建调试字符串时OPC自动化ActiveX控件("RsiOPCAuto.OPCServer")存在边界错误，向"Connect()"方法的"ProgID"参数提交超长字符串可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序上下文执行任意代码。	管理工具
+BMC Dashboards 7.6.01	BMC Dashboards是一款用于BSM决策支持自动化的运营管理分析软件。BMC Dashboards存在多个输入漏洞，允许攻击者进行跨站脚本攻击。	管理工具
+BMC Dashboards 7.6.01	BMC Dashboards是一款用于BSM决策支持自动化的运营管理分析软件。BMC Dashboards存在多个输入漏洞，允许攻击者获得源文件敏感信息。	管理工具
+HP Network Automation 7.2 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在未明安全漏洞，允许远程攻击者获得敏感信息。	管理工具
+HP Network Automation 7.5 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在未明安全漏洞，允许远程攻击者获得敏感信息。	管理工具
+HP Network Automation 7.6 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在未明安全漏洞，允许远程攻击者获得敏感信息。	管理工具
+HP Network Automation 9.0 	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在未明安全漏洞，允许远程攻击者获得敏感信息。	管理工具
+HP Network Automation 9.10	HP Network Automation是一款自动化网络配置管理工具。HP Network Automation存在未明安全漏洞，允许远程攻击者获得敏感信息。	管理工具
+Invensys Wonderware Inbatch 8.1 SP1 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch客户端ActiveX控件存在一个缓冲区溢出，攻击者可以构建恶意WEB页，诱使用户解析，使应用程序崩溃，或以应用程序安全上下文执行任意代码。	管理工具
+Invensys Wonderware Inbatch 9.0 SP1 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch客户端ActiveX控件存在一个缓冲区溢出，攻击者可以构建恶意WEB页，诱使用户解析，使应用程序崩溃，或以应用程序安全上下文执行任意代码。	管理工具
+Invensys Wonderware Inbatch 9.0 	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch客户端ActiveX控件存在一个缓冲区溢出，攻击者可以构建恶意WEB页，诱使用户解析，使应用程序崩溃，或以应用程序安全上下文执行任意代码。	管理工具
+Invensys Wonderware Inbatch 8.1	Invensys Wonderware inBatch是一款工控批量管理软件。Invensys Wonderware inBatch客户端ActiveX控件存在一个缓冲区溢出，攻击者可以构建恶意WEB页，诱使用户解析，使应用程序崩溃，或以应用程序安全上下文执行任意代码。	管理工具
+Cyber-Ark Software Password Vault Web Access 5.0 	Privileged Identity Management Suite针对管理员密码管理提供完整的解决方案，包括密码自动化管理，操作过程记录，应用程序内嵌密码管理。Password Vault Web Access (PVWA)是PIM Suite模块，允许通过WEB入口访问。Password Vault Web Access存在一个跨站脚本攻击，攻击者可以利用漏洞构建恶意链接，诱使用户访问，可以目标用户上下文执行任意脚本，获得敏感信息或劫持目标用户会话。	管理工具
+Cyber-Ark Software Password Vault Web Access 5.5.patch #4 	Privileged Identity Management Suite针对管理员密码管理提供完整的解决方案，包括密码自动化管理，操作过程记录，应用程序内嵌密码管理。Password Vault Web Access (PVWA)是PIM Suite模块，允许通过WEB入口访问。Password Vault Web Access存在一个跨站脚本攻击，攻击者可以利用漏洞构建恶意链接，诱使用户访问，可以目标用户上下文执行任意脚本，获得敏感信息或劫持目标用户会话。	管理工具
+Cyber-Ark Software Password Vault Web Access 6.0 patch #2	Privileged Identity Management Suite针对管理员密码管理提供完整的解决方案，包括密码自动化管理，操作过程记录，应用程序内嵌密码管理。Password Vault Web Access (PVWA)是PIM Suite模块，允许通过WEB入口访问。Password Vault Web Access存在一个跨站脚本攻击，攻击者可以利用漏洞构建恶意链接，诱使用户访问，可以目标用户上下文执行任意脚本，获得敏感信息或劫持目标用户会话。	管理工具
+ICONICS, Inc. GENESIS64 10.51 	Symantec LiveUpdate Administrator是一款Symantec产品升级管理程序。GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/64由于不正确校验用户提供的输入，可触发多个内存破坏和整数溢出漏洞。成功利用漏洞可以以应用程序安全上下文执行任意代码。	管理工具
+ICONICS, Inc. GENESIS32 9.21	Symantec LiveUpdate Administrator是一款Symantec产品升级管理程序。GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。GENESIS32/64由于不正确校验用户提供的输入，可触发多个内存破坏和整数溢出漏洞。成功利用漏洞可以以应用程序安全上下文执行任意代码。	管理工具
+Hitachi Tuning Manager Software 6.4 01 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.0 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.0 (Windows) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.1 -00 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.1 -00 (Windows) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.2 -00 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.2 -00 (Windows) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.2 -01 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.2 -01 (Windows) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 6.4 01 (Windows) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 7.0 (Solaris(SPARC)) 	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具
+Hitachi Tuning Manager Software 7.0 (Windows)	Hitachi Tuning Manager是一款具备自动化、智能式及路径感知功能的存储资源管理软件，能够监控、分析及审核由应用至存储设备的存储网络资源性能。Hitachi Tuning Manager存在多个输入验证问题，远程攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持目标用户会话。	管理工具

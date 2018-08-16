@@ -1,0 +1,997 @@
+Hunting Electric Grid Vulnerabilities ? isssource.com	isssource.com	http://www.isssource.com/hunting-electric-grid-vulnerabilities/	SCIENCE	isssource.com - There is a new method to pinpoint which electrical service areas will be most vulnerable as populations grow and temperatures rise. “For the first time, we were able to apply data at a high enough ...	There is a new method to pinpoint which electrical service areas will be most vulnerable as populations grow and temperatures rise.\
+\
+“For the first time, we were able to apply data at a high enough resolution to be relevant,” said Oak Ridge National Laboratory’s (ORNL) Melissa Allen, co-author of “Impacts of Climate Change on Sub-regional Electricity Demand and Distribution in the Southern United States.”\
+\
+    RELATED STORIES\
+    Side Channel Monitoring for Malware\
+    IMPACT on Cyber Security\
+    How to Hook a Bandwidth Crook\
+    Light-based Wireless Communications Possible \
+\
+Allen and her team developed new algorithms that combine ORNL’s infrastructure and population datasets with high-resolution climate simulations run on the lab’s Titan supercomputer. The integrated approach identifies substations at the neighborhood level and determines their ability to handle additional demand based on predicted changes in climate and population.\
+\
+The new, high-resolution capability can explore the interconnections in complex systems such as critical infrastructure and weather and determine potential pathways to adapt to future global change.\
+A new ORNL-developed method pinpoints electrical service areas across the southern United States most vulnerable to climate change and predicted population growth.\
+\
+A new ORNL-developed method pinpoints electrical service areas across the southern United States most vulnerable to climate change and predicted population growth.\
+\
+“These results can affect how future service areas are defined and where new substation capacity within the national grid may need to be located,” Allen said.\
+\
+The authors note the study could inform city leaders and utilities when planning for adjustments or upgrades to existing infrastructure. The analysis also helps decision makers prepare resources needed for population movement in response to future extreme weather events, particularly in the Gulf Coast region. After a natural disaster, such as a high intensity hurricane, tens of thousands could end up displaced to areas ill-equipped to handle the sudden influx of people for an unknown period of time.\
+\
+For this analysis, the research team examined impacts of population and temperature changes through 2050 in Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, Oklahoma, Tennessee and Texas, but Allen said the method could apply to other regions.	20160802
+Cyanogen clears up 'misinformation' about the future of its operating system	afterdawn.com/	http://www.afterdawn.com/news/article.cfm/2016/07/27/cyanogen-clears-up-misinformation-about-the-future-of-its-operating-system	TECHNOLOGY	afterdawn.com - Today, founder Steve Kondik addressed the "misinformation" and seems to suggest that Cyanogen is doing just fine: I wanted to quickly address the circus of misinformation which has sprung up recent...	Over the past week, there have been multiple reports about the future of Cyanogen Inc., the company behind the popular CyanogenMod Android fork. None were good.\
+Today, founder Steve Kondik addressed the "misinformation" and seems to suggest that Cyanogen is doing just fine:\
+\
+    I wanted to quickly address the circus of misinformation which has sprung up recently, particularly for everyone who uses CM or has been involved with the project.\
+\
+    tl;dr: CyanogenMod isn't going anywhere, nor has Cyanogen Inc. discontinued it's efforts towards the goal of bringing it to a larger audience.\
+\
+    It's been seven years since I released the first version of CM, and so much has happened. The speed of the mobile space is only accelerating. I co-founded the company three years ago, knowing fully the kind of response it might invoke- an epic mix of love and hate. We had a few successes at the Inc, but also our share of stuff which just didn't work at all. Anyone insane enough to do a startup will tell you that it will probably go wrong before it goes right, no matter how good your intentions are. All you can do is fix it, or it's the end. You find out what works and what doesn't work, and go towards the things which work.\
+\
+    CyanogenMod is something that works. Perhaps it doesn't need to "go big" to work. I'm still wildly inspired by the idea of a platform which forces participation. Whether it's the choice to hack your phone to bits and figure out how to install the damn thing to begin with, learning what's possible afterwards, or just having the confidence of being in control, it still serves an important role which hasn't been filled outside of the custom ROM community. Cyanogen Inc (including myself) will still be sponsoring the project and will continue to have an active role in it's development. Contrary to popular belief, we are not "pivoting to apps" nor are we shelving CM :) We'll have additional information on the Inc site soon.\
+\
+    Thanks for sticking with us and for all the awesomeness and support over the years.	20160802
+Continuous Visibility of Vulnerabilities is More Critical than Ever for CISOs and Security Posture	tenable.com/blog	https://www.tenable.com/blog/continuous-visibility-of-vulnerabilities-is-more-critical-than-ever-for-cisos-and-security	SCIENCE	tenable.com - Traditionally, vulnerability scanning—credentialed and/or non-credentialed—has been predominantly a security compliance exercise driven by regulations (e.g. HIPAA, FFIEC) or industry standards (e.g...	Traditionally, vulnerability scanning—credentialed and/or non-credentialed—has been predominantly a security compliance exercise driven by regulations (e.g. HIPAA, FFIEC) or industry standards (e.g. PCI). The underlying rationale is that periodic scanning is a basic security hygiene process to identify and prioritize vulnerabilities and to demonstrate that security vulnerabilities are regularly patched or fixed. Most organizations perform quarterly scans, some monthly, some less than that.\
+\
+Much like housekeeping, vulnerability scanning is a continuous process: you are never done. As vulnerabilities are patched or remediated, new ones are discovered even in a relatively static IT environment. \
+\
+As cyber threats increase at an accelerating pace, staying abreast of vulnerabilities and having near or real-time visibility into the vulnerabilities of the network is even more critical.\
+Why continuous scanning and visibility of vulnerabilities is critical\
+\
+There are two major reasons why continuous visibility of vulnerabilities is critical in today’s cybersecurity environment:\
+\
+    Acceleration of network devices being continuously on-boarded into the IT environment\
+    Increasing need to rapidly respond when a security breach or event occurs\
+\
+Virtual computing and mobile devices are also increasing the rate of change within the IT. Virtual computing, whether on-premises or in the cloud, means that new system hosts are continuously being discovered in the network. Whereas it used to take weeks for a new host to be provisioned or deployed, now they are deployed within minutes. So every day or hour a new host may appear on the network which, if it is not scanned, introduces new vulnerabilities or re-introduces previously eradicated vulnerabilities.\
+\
+BYOD, driven by the rapid adoption of mobile computing within the workplace, is also accelerating the rate of change within the network. Mobile devices are constantly logging into the network and introducing potential new vulnerabilities, again re-enforcing the need to scan these devices when they appear on the network.\
+\
+Finally, in today’s cybersecurity environment, it is not if you will be breached or if a security event will occur, but when. Therefore, the most critical factor is to rapidly respond when a breach or event occurs. This means knowing your IT assets and security state. It means knowing which assets are vulnerable and need to be patched immediately. It means continuous scanning to ensure a known exploited vulnerability is not re-introduce	20160802
+Side Channel Monitoring for Malware ? isssource.com	isssource.com	http://www.isssource.com/side-channel-monitoring-for-malware/	SCIENCE	isssource.com - A new technique for wirelessly monitoring Internet of Things (IoT) devices for malicious software – without affecting the operation of the ubiquitous but low-power equipment, is in development. The...	A new technique for wirelessly monitoring Internet of Things (IoT) devices for malicious software – without affecting the operation of the ubiquitous but low-power equipment, is in development.\
+\
+The technique will rely on receiving and analyzing side-channel signals, electromagnetic emissions produced unintentionally by the electronic devices as they execute programs. These signals end up produced by semiconductors, capacitors, power supplies and other components, and can currently be measured up to a half-meter away from operating IoT devices.\
+\
+    RELATED STORIES\
+    IMPACT on Cyber Security\
+    How to Hook a Bandwidth Crook\
+    Light-based Wireless Communications Possible\
+    Exxon’s Whale of Drone Idea \
+\
+By comparing these unintended side-channel emissions to a database of what the devices should be doing when they are operating normally, researchers can tell if malicious software has been installed.\
+\
+“We will be looking at how the program is changing its behavior,” said Alenka Zajic, the project’s principal investigator and an assistant professor in the School of Electrical and Computer Engineering at the Georgia Institute of Technology. “If an Internet of Things device is attacked, the insertion of malware will affect the program that is running, and we can detect that remotely.”\
+\
+The four-year project, funded by a $9.4 million grant from the Defense Advanced Research Projects Agency (DARPA), will also include two faculty members from Georgia Tech’s School of Computer Science: Professors Milos Prvulovic and Alessandro Orso. Also part of the project will be a research team from Northrop-Grumman, headed by Matthew Welborn.\
+\
+Details of an early prototype of the side-channel technique, called “Zero-Overhead Profiling” because the monitoring doesn’t affect the system being observed, ended up presented at the International Symposium on Software Testing and Analysis (ISSTA).\
+\
+Within the next four years, an estimated 30 billion IoT devices will be in operation, doing everything from controlling home heating and air conditioning to sensing and managing critical infrastructure.\
+\
+The devices are usually small with limited processor power and memory. Their limited computing capabilities means they can’t run the kinds of malware protection software found on laptop computers, and they cannot use virtualization and other technology to protect the system software even when an application is taken over by an attacker. This means that once attackers compromise the Internet-connected application, they typically “own” the entire IoT device and can even make it falsely respond to traditional queries about its own security status.\
+\
+“The main challenge from a security perspective is to make these devices secure so somebody can’t take them over,” Zajic said. “There will be a lot of processing power out there that needs to be monitored, but you can’t just put traditional security software on that processor because it doesn’t have enough power for both the security software and the tasks the device is supposed to be doing.”\
+\
+Side Channel Research\
+Zajic and Prvulovic pioneered research on measuring side-channel signals emitted from devices.\
+\
+These emissions differ from the signals the devices were intended to produce for communicating information across the Internet to other devices. The researchers have already shown they can pick up the signals close to the devices using specially designed antennas, and one project goal is to extend the range to as much as three meters.\
+\
+“When a processor executes instructions, values are represented as ones and zeroes, which creates a fluctuation in the current,” Zajic said. “That creates changes in the electromagnetic field we are measuring, providing a pattern for what each part of the program looks like on a spectrum analyzer.”\
+\
+Key to detecting changes in the signals is getting a “before” recording of what these signals should look like to draw a comparison with an “after” set of signals for each combination of device and software. The researchers plan to evaluate each IoT device, sampling and recording its typical operation to create a database. To avoid recording overwhelming amounts of data, the system will take periodic samples from different stages of program loops.\
+\
+“If somebody inserts something into the program loop, the peaks in the spectrum will shift and we can detect that,” Zajic said. “This is something that we can monitor in real time using advanced pattern-matching technology that uses machine learning to improve its performance.”\
+\
+Malware Challenge\
+Detecting malware, however, is more of a challenge.\
+\
+“The technique is currently 95 percent accurate at profiling – pinpointing the exact point in the IoT program code that is currently executing,” Prvulovic said. “However, detection of malware is a much more difficult problem. Profiling is about identifying which part of the program is the best match for the signal, whereas malware detection is about detecting, with sufficient confidence, that the signal does not match any part of the original program, even when the malware is designed to resemble the original code of the application.”\
+\
+Zajic and Prvulovic have been studying a wide range of devices to determine the emissions produced.\
+\
+“We have more than one source on a circuit board, so we have been trying to localize the sources so we can build an antenna to give us the best possible signal,” Zajic said. “There are multiple places on the board where you connect to the same information, though it may be modulated at different frequencies.”\
+\
+Ultimately, researchers expect the project – dubbed Computational Activity Monitoring by Externally Leveraging Involuntary Analog Signals (CAMELIA) – to be capable of monitoring several IoT devices simultaneously. That will require development of advanced processing techniques able to differentiate signals from each device, and new antennas able to pick up the signals from a greater distance.	20160802
+Scoular AR Plant gets SHARP ? isssource.com	isssource.com	http://www.isssource.com/scoular-ar-plant-gets-sharp/	BUSINESS	isssource.com - The Scoular Company knows thinking safety first is much more than just a saying – they actually back it up. That is why the company’s facility in Helena, Arkansas, received the Occupational Safety ...	The Scoular Company knows thinking safety first is much more than just a saying – they actually back it up.\
+\
+That is why the company’s facility in Helena, Arkansas, received the Occupational Safety and Health Administration’s (OSHA) Safety and Health Achievement Program (SHARP) award June 28 for its commitment to workplace safety.\
+\
+    RELATED STORIES\
+    Safety: On TRACK with SHARP\
+    Rubber Maker Stays SHARP\
+    IL Recycler Creates Safety Culture\
+    Safety through Realistic Training \
+\
+The Helena, AR, facility, a grain elevator operation, is the latest in a long line of organizations with the Scoular Company that earned the SHARP designation.\
+\
+In 2009, Scoular staff contacted the Arkansas Department of Labor (ADOL), Safety Division, OSHA Consultation Division and inquired about SHARP. SHARP recognizes small business employers who have used OSHA’s On-site Consultation Program services and operate a quality injury and illness prevention program.\
+\
+The company initially achieved SHARP status in 2012, and its certification renewed in 2014. Scoular’s SHARP renewal now extended through June 2018.\
+\
+In June, 2014, The Scoular Company’s facilities in Channahon and Andres, IL, received the SHARP award. In addition, Scoular’s Idalia and Sterling, CO, facilities also received SHARP plaques in June 2014.\
+\
+In an effort to follow suit, Scoular wanted to strengthen its existing safety culture at its Helena facility. Staff recognized an effective method for accomplishing this would be to engage health and safety consultants to provide hazard assessment and abatement training for employees.\
+\
+After working with the Arkansas Department of Labor (ADoL), Safety Division, OSHA Consultation Division, Scoular’s workplace safety and health hazards ended up abated; its recordkeeping improved, and employee involvement in the safety process was 100 percent.\
+\
+Since becoming a member of the SHARP Program, Scoular’s safety bar continues to rise.\
+\
+For over 5 years, no injuries or illnesses have occurred at this facility. Daily tool box meetings are held with hourly employees volunteering to be presenters. As a member of the Arkansas SHARP & Voluntary Protection Program Association, the company is now part of an outreach group for SHARP and serves as a model for worksite safety and health.\
+\
+Scoular is a 120-year-old company with more than $6 billion in sales. It operates 90 independent business units that focus on grain, feed ingredients, and food ingredients around the globe.	20160802
+Propane Plant Blaze Forces Evac ? isssource.com	isssource.com	http://www.isssource.com/propane-plant-blaze-forces-evac/	ENVIRONMENT	isssource.com - Crews from more than 30 suburban fire departments prevented a seven-alarm blaze at a Gurnee, IL, propane gas business from igniting several large stores of propane at the facility, fire officials s...	Crews from more than 30 suburban fire departments prevented a seven-alarm blaze at a Gurnee, IL, propane gas business from igniting several large stores of propane at the facility, fire officials said.\
+\
+“I would say — without question — the greatest amount of danger that could have occurred in that situation was averted,” Gurnee Fire Lt. Joe Arnold said of the Thursday incident.\
+\
+    RELATED STORIES\
+    Blaze Wipes Out CA Baby Food Maker\
+    Pellet Mill Fire in ME\
+    PA Chemical Plant Fire\
+    Gas Plant Fire Shuts Gulf Platforms \
+\
+Witnesses said they heard explosions and saw tanks flying through the air “like popcorn” when what started just before noon as a small fire at the Pinnacle Propane Express plant, 3895 Clearview Court, escalated and forced fire and police officials to evacuate an area ranging from a half mile to 1.5 miles around the building.\
+\
+No one was hurt, authorities said, and the cause of the fire remains under investigation.\
+\
+The bulk of the damage occurred in a large stack of mostly empty 20-gallon propane tanks that were being stored outside the facility waiting to be cleaned, inspected and refilled, Arnold said.\
+\
+“They have residual amounts of propane, so you’re still fighting a propane fire, which quickly outpaced the amount of water that we could get on this fire,” he said.\
+\
+Firefighters used more than 600,000 gallons of water as well as foam to control the blaze and prevent it from spreading to full tanks nearby.\
+\
+“The biggest concern was the amount of cylinders that were on fire and that (the fire) was impinging on one of two 30,000-gallon propane storage tanks that were about 70 percent full,” Arnold said.\
+\
+Additionally, two semitrailer trucks nearby had a load of full cylinders. Beyond the fire, firefighters had to be wary of exploding propane tanks.\
+\
+“They would just blow up into the air and blow some 300 feet away,” Arnold said. “The issue is whether or not they’re going to blow straight up 300 feet, or out. That’s where the hazard becomes significant, not knowing what the trajectory is and which way they’re going to go.”\
+\
+The initial 911 calls came shortly before noon from people who thought they heard gunshots, Gurnee Deputy Police Chief Willie Meyer said. By 2:30 p.m., the fire call upgraded to a seventh alarm that brought more firefighters to the scene.\
+\
+Gurnee Fire Chief Fred Friedl said crews responded to a report of a small fire that “took off on us,” and officials became concerned about large cylinder tanks at the rear of the building and worked with police to evacuate the building and general area.\
+\
+The village used its emergency phone system to order area residents and workers to evacuate. Gurnee police assisted in the evacuations, and people loaded onto Gurnee Elementary District 56 buses and taken out of the area.\
+\
+Angel Schultz, director of operations at a nearby business, said the fire started slowly in the rear of the building where they fill the propane tanks.\
+\
+“And then within, what, 30 minutes, you could hear the explosions and you could see the propane tanks actually flying through there like popcorn,” Schultz said.\
+\
+Once the explosions started, people got scared and started running, she said.\
+\
+“You could feel it. You could feel the ground shake,” Schultz said. “You could see propane tanks flying through the air, so a lot of people were nervous, especially people who work there — they’re more familiar with how dangerous this stuff is.”\
+\
+Police closed several area roads including Delany and Sunset roads where they meet Route 41, and Northwestern Avenue, Meyer said.\
+\
+The nearby Union Pacific railroad was also shut down until firefighters cleared the scene just after 5 p.m., Arnold said. No damage estimates were available, but Arnold said the majority of the damage occurred outside the facility with some building repairs that will be necessary.\
+\
+A nearby business, Lambent Technologies, was also damaged by debris. It’s located across the railroad tracks about 300 feet away from Pinnacle Propane Express.\
+\
+“We are cooperating with emergency personnel and regulatory agencies to ensure the safety and security off the Gurnee community,” a Pinnacle Propane spokesman said. “We are also conducting a thorough investigation to determine the cause of the incident, and to mitigate the risk of any future incidents.”	20160802
+Peanut Processor Shelled with Safety Fines ? isssource.com	isssource.com	http://www.isssource.com/peanut-processor-shelled-with-safety-fines/	SCIENCE	isssource.com - Great Southern Peanut LLC is facing $110,310 in fines for 21 health and safety violations at its Leesburg, GA, facility, said officials at the Occupational Safety and Health Administration (OSHA). ...	Great Southern Peanut LLC is facing $110,310 in fines for 21 health and safety violations at its Leesburg, GA, facility, said officials at the Occupational Safety and Health Administration (OSHA).\
+\
+Great Southern Peanut processes raw peanuts to include cleaning, shelling, sorting, packaging and shipping. OSHA investigators issued citations for 13 repeated, four serious and four other-than-serious safety and health violations.\
+\
+    RELATED STORIES\
+    Safety Hazards at CT Gauge Maker\
+    Food Maker Faces Serious Violations\
+    Electroplating Firm Faces Repeat Safety Fines\
+    Dust Explosion Hazards at Grain Operator \
+\
+OSHA initiated the follow-up inspection to verify abatement of hazards from citations the agency issued to Great Southern Peanut and Georgia Farm Services LLC in March 2014.\
+\
+The repeated citations relate to the employer’s failure to:\
+• Properly guard open sided floors and platforms\
+• Keep floors clean and dry in the vehicle service pit area\
+• Develop and implement procedures to enter a confined space area\
+• Keep surfaces free from hazardous accumulations of combustible peanut dust\
+• Provide a handrail and railing on a fixed stairway\
+\
+The serious citations relate to the employer:\
+• Not having the required height for a guard railing system\
+• Exposing workers to unguarded horizontal shafts\
+• Failing to have stairway risers uniform and consistent\
+\
+The other-than-serious citation relates to the employer:\
+• Not posting the annual summary of workplace injuries and illnesses recorded on the OSHA 300 log\
+• Failing to provide medical evaluations for employees required to wear respirators\
+• Failing to provide baseline and annual audiogram testing for employees exposed to noise\
+\
+“Great Southern Peanut continues to ignore its responsibility to protect workers from hazards that could potentially result in serious injury or death,” said Kimberly Austin acting director of OSHA’s Savannah Area Office. “Employers should not wait for an OSHA inspection to identify hazards; they must be proactive in identifying and removing hazards.”	20160802
+Post-Hunt Survival Skills: Scope and Triage	tenable.com/blog	https://www.tenable.com/blog/post-hunt-survival-skills-scope-and-triage	SCIENCE	tenable.com - Inevitably when you threat hunt - you will find something. What happens next? A barrage of questions ensues: Answering these questions can be the most unexpectedly challenging aspect of threat hunt...	Inevitably when you threat hunt - you will find something. What happens next? A barrage of questions ensues:\
+\
+    Is it an incident, administrative activity, an external attacker in your environment?\
+    How did the attackers get in, what did they touch, and what systems and services are impacted.\
+    Is it simply a misconfiguration of a service, uncovered by the hunt?\
+\
+Answering these questions can be the most unexpectedly challenging aspect of threat hunting, depending on the size and maturity of your organization. How do you determine when to escalate and call in responders?\
+\
+"Tenable provides many features to find and scope the breadth of an incident prior to the fire drill"\
+\
+The time to deploy new security technologies for response and forensics is not during an incident. Leveraging simple tools that you already have in your arsenal to follow up the hunt is essential to ensuring success. Tenable provides many features to find and scope the breadth of an incident prior to the fire drill to make it less frantic, and to arm incident responders with critical information to enable quick and decisive action.\
+Continuous endpoint data collection\
+\
+Tenable captures ongoing information about hosts in several categories:\
+\
+    AutoRuns and Scheduled Tasks\
+    File Downloads\
+    Host Changes\
+    Network Traffic\
+    Processes Launched\
+    Software/Services Installed\
+    Threat Intelligence and Malware Indicators\
+    User Creation and Modification\
+\
+This information—already captured in your environment through regular monitoring—can provide the essential information to scope an incident and to identify what happened during an event.\
+Host persistence - autoruns and scheduled tasks\
+\
+We’ve blogged before about leveraging the power of Nessus® with built-in threat intelligence to detect malicious or unique autoruns, scheduled tasks, and other registry entries that are signs of attacker persistence.\
+Autoruns and Scheduled Tasks Output\
+\
+Every scan, whether scheduled or ad-hoc that has the Windows plugin family enabled, comes with a host of autoruns and other detections that capture this invaluable information for responders to work with.\
+Monitoring host changes\
+\
+The attackers will have touched something to forward their objective: running reconnaissance commands, installing persistent backdoors or credentials, or accessing and changing files. All of these things leave digital footprints that the responder can follow to recreate what happened. Tenable SecurityCenter Continuous View™ (Security Center CV™) host data sensors continuously monitor activity at the system level, capturing authentication, system changes, files in monitored directories, programs and processes launched, as well as anomalous system activity such as unique executables and binaries or unusual commands launched by a user.\
+\
+ASD Top 4 Mitigation Strategies\
+Lateral movement and exfiltration\
+\
+Lateral movement between hosts in your environment is almost as critical for an attacker’s success as the initial entry point. When attackers remain in one place for too long they get caught. The upside to this is that as an attacker traverses hosts it leaves a spider web of network activity tracking back to the initial entry point. SecurityCenter CV continually monitors network traffic at multiple layers from flow information through protocol inspection, and stores all of the findings without the storage overhead of deep packet inspection tools.\
+\
+Unexpected connections between hosts are flagged as anomalies, particularly when using an administrative protocol such as SSH or VNC. Traffic is also flagged for abnormally large sizes and abnormally long durations, useful for detecting attempted data exfiltration.\
+\
+Passive Network Forensics Anomalies\
+\
+Finally, threat intelligence plays a role here as well. As discussed in Threat Hunting 201, all traffic inspected is automatically matched against intelligence sources, to immediately flag attempts to communicate with known malicious destinations.\
+\
+Passive Network Forensics Suspicious Activity\
+Targeted triage audits\
+\
+Once an initial scope has been put together, you need a targeted data capture of the hosts involved to grab artifacts and to build an incident timeline. Nessus can facilitate data capture on hosts using customized audit files to run commands, pull information and organize the data.\
+\
+For Windows hosts, running PowerShell Cmdlets from within Nessus policies opens up some very innovative use cases that rapidly perform targeted forensic searches across your environment and output the results as compliance findings in Nessus and SecurityCenter.\
+\
+Compliance findings\
+\
+PowerShell forensics is a rapidly emerging method for dealing with Windows incidents, and Nessus can facilitate calls to other tools like Invoke-IR PowerForensics by wrapping it in logic-based automation using an audit file.\
+\
+Not content to work in Windows-only environments, audit files also have the ability in Linux/Unix environments to run CMD_EXEC checks, which execute a shell command and then compare the resulting output. The possibilities here are limited only by your team’s imagination and command-line familiarity.\
+\
+<custom_item>\
+type: CMD_EXEC\
+description: "Make sure that we are running FreeBSD 4.9 or higher"\
+cmd: "uname –a"\
+timeout: 7200\
+expect: "FreeBSD (4\\.(9|[1-9][0-9])|[5-9]\\.)"\
+dont_echo_cmd: YES\
+</custom_item>\
+\
+As with all forensic info-gathering, use with caution and understand what commands you are automating with Nessus, as well as their expected output. In an ideal scenario, your security team would preemptively build files with frequently needed triage commands and just leverage these audits when incidents occur to save time and ensure that scripts work as intended. More mature organizations can automate the whole process using SecurityCenter CV, and launch targeted Nessus audits against hosts triggered by real-time detections like high-level indicator events to provide a complete package of data before you even know you need it.\
+\
+"Using your existing security tools in unexpected ways not only makes your team more agile in their response but it also helps to reduce the crisis mindset"\
+\
+Hunting forces many organizations to deal with security incidents that they have never prepared for. Using your existing security tools in unexpected ways not only makes your team more agile in their response but it also helps to reduce the crisis mindset by leveraging familiar technologies that the team is already comfortable with. Tenable Nessus and SecurityCenter CV are extremely useful and versatile tools in your arsenal to thwart the bad guys—scoping incidents and quickly gathering artifacts, while continuously uncovering weaknesses in your environment and managing your vulnerabilities.\
+More information\
+\
+See my previous blogs on threat hunting techniques:\
+\
+    Threat Hunting 101: Taming Your Data\
+    Threat Hunting 201: Quick Wins with DNS\
+    Threat Hunting 202: Practical Whitelisting\
+\
+And visit our website to learn more about Tenable’s Threat Hunting solution.	20160802
+Trojan in Google Play Android Apps ? isssource.com	isssource.com	http://www.isssource.com/trojan-in-google-play-android-apps/	TECHNOLOGY	isssource.com - There are currently 155 Android apps on the official Google Play Store infected with the Android.Spy Trojan. This is a Trojan that collects details about the user’s device and then shows ads on top...	There are currently 155 Android apps on the official Google Play Store infected with the Android.Spy Trojan.\
+\
+This is a Trojan that collects details about the user’s device and then shows ads on top of the phone’s homescreen or of other applications, and inside the OS notification area.\
+\
+    RELATED STORIES\
+    Android RAT Builder Released\
+    Linux Kernel Defenses added to Nougat\
+    Android FDE Vulnerability Patched\
+    Google makes 108 Fixes for Android \
+\
+Google is aware of the issue, but they have not yet removed all the offending apps, said researchers at Security firm Dr.Web who discovered the issue.\
+\
+The Trojan, named Android.Spy.305, is a newer variation of the Android.Spy family.\
+\
+Back in April, researchers found Android.Spy.277 in 104 Android apps on the Google Play Store, which ended up downloaded over 3.2 million times.\
+\
+Adding up the total number of downloads for Android.Spy.305, Dr.Web security researchers said over 2.8 million users might be affected by this new Trojan.\
+\
+As with the original, Android.Spy.305 will begin its malicious behavior after the user installs the tainted app. The first thing it will do is collect data on the user’s device, such as the email address connected to their Google user account, OS language, OS version, device name and model, and IMEI.\
+\
+Additionally, the Trojan also collects details such as the screen resolution, mobile network operator, a list of installed applications, the name of the app through which delivered the Trojan, the developer ID and the SDK version.\
+\
+The last two details are important because Dr.Web researchers said the Trojan is actually inside an advertising SDK, used to build other applications.	20160802
+Mr. Robot Season 2 Unmasked	tenable.com/blog	https://www.tenable.com/blog/mr-robot-season-2-unmasked	SCIENCE	tenable.com - In the season 2 premiere of Mr. Robot, our protagonist, Elliot, struggles with an internal battle involving the memory of his father and the ramifications of the last hack in season 1. In this epis...	In the season 2 premiere of Mr. Robot, our protagonist, Elliot, struggles with an internal battle involving the memory of his father and the ramifications of the last hack in season 1. In this episode we see several challenges that all information security professionals face on a daily basis, from the hacking tools our adversaries use to the internal struggle we often experience assessing technology-based risks at our organizations.\
+Tracking actions on the network\
+\
+In one of the early scenes, Gideon talks to Elliot about how the FBI thinks Gideon is behind the hack or is somehow complicit. He then talks about giving over all evidence. Gideon believes the FBI is hacking his email; he knows someone is looking at his email. SecurityCenter Continuous View™ (SecurityCenter CV™) provides a full solution for monitoring events such as password changes, login and logoff events, and many of the concerns Gideon is worried about. The strength in the SecurityCenter CV system is the combination of data from several sources using Nessus® to actively scan and interrogate systems for vulnerabilities and configuration issues, passively monitoring the same systems looking for vulnerabilities and behaviors that are malicious in nature, and collecting logs from network devices and host operating systems. To further support the security team in identifying risk, SecurityCenter CV has a feed of reports, assurance report cards (ARC), and dashboards to monitor such changes. For example:\
+\
+    ISO/IEC27000: User Access Management\
+    CSF PROTECT.Access Control (PR.AC) \
+    CSF: User Access and Least Privilege \
+\
+CSF Dashboard Main User\
+The exploit and post-exploitation\
+\
+Later in the episode, Darlene uses the Social Engineer Toolkit (SET), written by Dave Kennedy at TrustedSec, to run her third party module which created an executable file called “cryptowall.exe” on a USB thumb drive. She gives this drive to Mobley, her right hand man, to plug into a workstation at E-Corp. Cryptowalls are a relatively new family of malware that acts as a form of ransomware, the most famous being CryptoLocker. The malware encrypts files on the operating system and requires payment to decrypt them.\
+\
+Ransomware is quickly becoming the most prevalent malware grabbing headlines. While not typically used by penetration testers, the malware infection method used in this episode is a real and serious threat to our security. Training users on the authorized use of systems, and monitoring the use of privileged users is paramount to an organization's security. A USB drive and an unhappy employee can often circumvent the best security solutions.\
+\
+However, tracking USB insertions is not the only issue plaguing E-Corp. They are also not properly securing the edge of the network, by using proxy servers and egress filters. If you follow the commands used by Darlene in the SET program, she is setting the call home server to 192.251.68.254. This IP is actually a public accessible IP address that is owned by NBC, but seems to be a C2 address with some interesting base64 encoded text. The SET tool is also pointing to port 80, which is used for HTTP. While HTTP is a difficult port to filter or block, by using a proxy server, the egress points in the network can be set up in such a manner to block port 80 from all systems except the proxy server. Had this been configured, and then using Tenable NetFlow Monitor and Tenable Network Monitor collectors, evidence of the call home might have been blocked or, at the very least, tracked more efficiently. SecurityCenter CV has the ability to identify traffic flows using port and IP combinations. With the advanced correlation abilities found in Log Correlation Engine™ (LCE®), anomalies and first time events can easily be identified. Here are a few SecurityCenter CV dashboards that are helpful when analyzing traffic patterns:\
+\
+    Detect Suspicious Activity \
+    NetFlow Monitor\
+    CSF: Continuous Monitoring \
+\
+CSF Dashboard Continuous Monitoring\
+The regime\
+\
+This first episode focuses on Elliot’s regime-maintaining control of his mind by maintaining control of information. This is an illusion many organizations have with respect to their security posture, as they may do the same thing day after day. They only scan the safe IPs and never truly scrutinize the network. By practicing continuous monitoring, and looking in the far reaches of your network, you can begin to see the true environment and assess the true risk. Tenable SecurityCenter CV offers five sensors - active scanning, intelligent connectors, agent scanning, passive listening, and host data - to deliver comprehensive intelligence that protects your organization. SecurityCenter CV can help security professionals expand their daily regime to include continuous visibility and context that facilitates decisive action.	20160726
+Transforming Security: The Thousand Mile Journey Begins with a Single Step	tenable.com/blog	https://www.tenable.com/blog/transforming-security-the-thousand-mile-journey-begins-with-a-single-step	SCIENCE	tenable.com - Information security professionals are all on the same journey, to protect customer and employee data, safeguard our company’s intellectual property and trade secrets, and strengthen our company’s ...	Information security professionals are all on the same journey, to protect customer and employee data, safeguard our company’s intellectual property and trade secrets, and strengthen our company’s brand and reputation. It’s a long, difficult journey, filled with many twists and turns. But it’s our passion for security that keeps us going.\
+\
+The waves of change are also surrounding us. It’s human nature to evolve; in business we strive to adapt quickly for improvements that can yield better results. But with these changes come new challenges, requiring new approaches and new solutions. This includes security.\
+\
+To understand the impact of these changes, we need to understand our history. Security has always been an afterthought. We layer security controls around existing IT infrastructure. Therefore, if we don’t understand the future of IT, we won’t understand the future of security. Let’s review a few of these IT trends and changes that will continue to impact our industry.\
+IT infrastructure migrates to the cloud\
+\
+"The most significant shift in the security market is the move to the cloud"\
+\
+The most significant shift is the move to the cloud. I’m not just talking about the use of cloud application or cloud services, but the outright migration of IT infrastructure from corporate data centers to the cloud. This trend will affect security—drastically.\
+\
+    Traditional network and infrastructure controls will no longer be an afterthought in designing and deploying systems. They will be embedded into the cloud infrastructure.\
+    System hardening and patching will be accomplished simply with a new image that is created and destroyed as needed.\
+    The perimeter is now the cloud—and the need for perimeter controls will vanish.\
+\
+Last year GE announced they would move all but four datacenters to the cloud. That was 30 data centers and 9,000 workloads around the world. Why? A 52% reduction in total cost of ownership. In Australia, companies are blazing ahead with cloud deployments to offer new services, both in the public and private sectors. With the rapid growth of cloud services in Australia, AWS is looking to open a second regional zone in Melbourne just to keep up with the demand.\
+\
+But that’s not the only trend impacting security.\
+Applications are the future\
+\
+The future of security is the application. It’s the critical component of digital business and the digital economy, storing your most sensitive data and intellectual property. Think about it… Every day we use applications on our smart devices to play games, check email, talk to friends, pay bills and book travel by communicating with other cloud based applications.\
+\
+"The future of security is the application"\
+\
+As a society, we are already in the future, but security is trailing behind. We are focused on securing the infrastructure that will soon be outsourced, and ignoring the application. And it’s only getting harder, as new application technologies continually emerge. The devops and container movements are having a dramatic impact on how we secure applications and few are paying attention.\
+The traditional endpoint is dead\
+\
+"The endpoint as we currently know it is dead"\
+\
+BYOD (bring your own device) policies move beyond the mobile device to all end user devices. Once all of your IT infrastructure is in the cloud, why would you continue to issue desktops or laptops to employees? You won’t. You may provide a stipend for them to purchase their device of choice or just simply require them to use their own. In either case, the endpoint as we currently know it is dead, and so is the need to deploy and manage endpoint security controls, including:\
+\
+    Anti-virus, anti-malware and other preventive controls\
+    File integrity, event logging and other monitoring controls\
+    Forensics, incident investigation and other response controls\
+\
+These endpoint security controls will either be provided as part of the base operating system, embedded in the hosts by the cloud providers, or will no longer provide value as stand-alone security controls.\
+Layered security creates gaps\
+\
+"Defense in depth leaves gaps in our security defenses"\
+\
+It’s obvious our approach to security is outdated. Defense in depth has created a culture of deploying isolated, point solutions that leave gaps in our security defenses. It’s these gaps that allow attackers to hide from detection, thus maximizing potential exposure and loss to the organization. Not only is the approach outdated; the technologies we’re deploying today won’t address the needs of the future. In our future world, these gaps get bigger before they get smaller. We need a new approach to resolve these gaps today and in the future.\
+Transforming security\
+\
+It’s time to transform our approach to security. We must look at our security defenses as an integrated, holistic set of capabilities, working together to continuously improve our security defenses. We need to focus on capabilities, not tools.\
+\
+Car\
+Bridging the gaps\
+\
+On every journey, we’ll encounter gaps along the route. We need to bridge these gaps to continue on.\
+\
+Before we begin our new security journey, let’s define the elements needed to build the bridge.\
+\
+Security bridge\
+\
+A bridge requires a strong foundation. Use the Visibility domains of Discover and Assess to build the foundation of the bridge; Discover to inventory your infrastructure and to eliminate blind spots; Assess to evaluate the security state of each asset and address any weaknesses. A strong foundation provides a resilient security roadmap.\
+\
+With a foundation in place, you need spans to support the road. Use the Context domains of Monitor and Analyze to span the bridge. Monitoring the activities of your assets creates the long spans across the gaps, while analysis supports the future road.\
+\
+With the supports in place, it’s time for the road, enabling action. Use the Action domains of Respond and Protect to build your road. Rapid response minimizes exposure and loss, while protection allows for future automation.\
+Map\
+The journey\
+\
+The journey to comprehensive security is fraught with gaps and delays. Take each leg of the journey one step at a time, being careful to check back with your roadmap plan for guidance.\
+\
+    Inventory all your assets – You can’t protect what you aren’t aware of. This is the first step on your journey, and the one step that is commonly skipped.\
+    Continuously assess device vulnerabilities – Regardless of your route, device vulnerabilities will always be landmines along the way.\
+    Assess application vulnerabilities – On your journey to the future, your main focus will change to application vulnerabilities rather than device vulnerabilities. Check such new landmarks as containers and microservices.\
+    Audit security configurations – Misconfigurations in device settings, cloud applications and cloud services can veer you off course. These are the core visibility areas that clear the way for your journey.\
+    Monitor and analyze all logs – Your map details expand as you drive into the future. Check network and device logs, but also be sure to monitor application, cloud service and cloud infrastructure logs.\
+    Monitor and analyze all user accounts – There are lots of other vehicles on the road with you. Drive defensively; check user controls and their access to all applications.\
+    Monitor and analyze all network traffic – As you leave the confines of your perimeter, you need to constantly check the traffic and behavior in the cloud.\
+    Respond to all incidents – Incidents are now prioritized, based on the intelligence you have gathered along the way. Stop and respond to critical incidents that impact your progress.\
+    Automate remediation – The final step requires trust in the data and analytics you have gathered. Just as it requires trust in technology to ride a self-driving car, so your journey into the future of security takes a while to achieve trust in cloud deployments.\
+\
+The journey from defense in depth security to comprehensive security requires planning, a detailed map, and accurate directions. The route may be long, but your end goal is readily achieved if you take it one step at a time.\
+Reaching your destination\
+\
+The security journey may start with a small step, but it is a challenging adventure through threats, attacks, and vulnerabilities. Plan your trip wisely and map out your priorities carefully to move toward your destination of comprehensive security for a brighter, more resilient future.\
+\
+This blog is based my talk at the RSA Conference 2016 in Singapore. See the complete presentation on the RSA website.	20160726
+How to Hook a Bandwidth Crook ? isssource.com	isssource.com	http://www.isssource.com/how-to-hook-a-bandwidth-crook/	SCIENCE	isssource.com - A system is in development that allows cellphone and laptop users to help detect and locate someone stealing bandwidth on radio frequency waves. A team from the University of Utah School of Computi...	A system is in development that allows cellphone and laptop users to help detect and locate someone stealing bandwidth on radio frequency waves.\
+\
+A team from the University of Utah School of Computing received a three-year, $1 million grant from the National Science Foundation (NSF) to devise the system to help tighten security of the nation’s radio spectrum, a valuable resource used for satellite communication and for commercial, public safety and military applications.\
+\
+    RELATED STORIES\
+    Light-based Wireless Communications Possible\
+    Exxon’s Whale of Drone Idea\
+    Security Risks in 3-D Printing\
+    Smartphone App Manages Privacy Preferences \
+\
+University of Utah School of Computing Professor Sneha Kumar Kasera’s grant aligns with the Advanced Wireless Research Initiative unveiled July 15 by the White House and led by NSF. The initiative researches new wireless technologies, applications and services to make wireless communication faster, more responsive and more robust. NSF will invest more than $400 million in support of this initiative over the next seven years, according to NSF Program Director Thyaga Nandagopal.\
+\
+“Fundamental research on advanced wireless will be transformative and take us beyond the current and next generation of wireless — beyond what has been envisioned thus far,” said Jim Kurose, head of Computer and Information Science and Engineering at NSF.\
+\
+The problem of stealing radio frequencies for private use — what Kasera calls “unauthorized spectrum use” — can become much more serious when more cellphones, laptops and other mobile devices utilize what’s called “software-defined radio” technology, a fast-rising technology where you can change the functions of a radio device by simply updating its software instead of making more costly hardware changes.\
+\
+Once more devices turn to this technology for better flexibility, it is likely hackers then will use it to create software to steal radio bandwidth, or worse, create malware for phones and computers meant to disrupt radio and satellite communications. For example, imagine terrorists using malware to attack software-defined radios that clog up emergency-services radio frequencies in the time of a crisis.\
+“It’s not fully understood yet as to what scale this problem currently exists. But this is in anticipation that with more software-defined radios this will become a much bigger problem,” Kasera said. “Once you have that software-defined radio capability, hackers will write all kinds of bad apps for them.”\
+\
+Kasera created an idea that everyday users of cellphones and laptops could aid authorities in catching these kinds of hackers.\
+\
+He is researching a system in which people could download an app or piece of software for their devices that can detect if an unauthorized radio frequency is being used and where the location of the offender might be.\
+\
+All devices with built-in radios can receive signals within a certain frequency range. When someone with a phone or laptop briefly runs Kasera’s software, it could tell authorities if a hacker is using unauthorized bandwidth of a certain frequency range and at what strength it’s being transmitted. If enough people in the area are simultaneously running the program, the system also could help locate the thief by triangulating the signal.\
+\
+Currently, the Federal Communications Commission has an enforcement bureau that detects unauthorized use of radio frequencies whenever it receives complaints, Kasera said, but it’s an arduous manual process, and they do not have enough resources to cover all areas.\
+\
+“We thought that there should be a better way of doing this, and then we started thinking of ideas about crowdsourcing,” he said. “Our goal is to be able to monitor for unauthorized use 100 percent of the time, cover 100 percent of the area and cover 100 percent of the frequency, and that can only be achieved at that scale through crowdsourcing.”\
+\
+Kasera’s co-researchers include University of Utah electrical and computer engineering associate professor Neal Patwari; School of Computing assistant professor Jeff M. Phillips; researcher Kurt Derr with the Idaho National Laboratory; and Milind Buddhikot, distinguished member of technical staff with Nokia Bell Labs in New Jersey.	20160726
+Cyber Hygiene in Higher Education: Cybersecurity Projects during Summer Break	tenable.com/blog	https://www.tenable.com/blog/cyber-hygiene-in-higher-education-cybersecurity-projects-during-summer-break	SCIENCE	tenable.com - School is out for summer. This is a good time for schools to focus on cybersecurity projects for the coming year. Threat hunting, vulnerability management and the core value of continuous visibilit...	School is out for summer. This is a good time for schools to focus on cybersecurity projects for the coming year. Threat hunting, vulnerability management and the core value of continuous visibility are essential goals that school systems should commit to over the long, hot summer.\
+\
+Finding time to improve is never easy. Information security professionals within the education sector in particular seldom have the time to reexamine their practices or to implement new procedures during the school year. Compounding these constraints is the complexity of IT systems in colleges and universities.\
+\
+"Educational campuses are unique in the breadth of their IT missions"\
+\
+Educational campuses are unique in the breadth of their IT missions. Not only must they serve large, mobile student populations, they also support the scientific and research needs of an academic staff while maintaining sensitive personal, academic, financial and medical records.\
+\
+Cyber self-improvement is vital for schools, now more than ever. In April, the personal information of a Washington State school district was inadvertently released by the district after an outside party “spoofed” the email address from the superintendent. The email sought employee names, addresses, salary information and social security numbers.\
+\
+Recently, certain Colorado schools experienced a security breach related to a proprietary platform called Infinite Campus. The Infinite Campus software stores personal and academic information, and may have released the personal information of over 2,000 students. Although several districts use the Infinite Campus platform, this compromised district expanded the collected data beyond grades, attendance and schedules to include highly confidential personal information. This may have been why they were targeted.\
+\
+Most recently in Maine, a data breach widened as more employees complained of ID theft. In late March, district payroll employees received a phishing email which successfully tricked users into responding. The email asked for employee W-2 information. When several employees attempted to file tax returns this year, they discovered false ones had already been filed using their information.\
+\
+Last summer, universities seemed to be more in the crosshairs as a flurry of cybersecurity incidents illustrated the growing threat facing higher education institutions.\
+\
+    The entire engineering school of a prominent Pennsylvania university had to be taken offline for an extensive investigation and clean-up of its network and systems.\
+    Virginia universities were the target of a cyberattack against two officials whose work was connected with China.\
+    Even one of our country’s oldest universities suffered a hack that compromised user credentials in eight schools.\
+\
+"This is the best time to beef-up security measures, performing asset discovery to create a baseline inventory of assets"\
+\
+Now is the time for information security professionals to start cyber summer activities, and planning back-to-school projects to tackle cybersecurity challenges during the coming school year. Specifically, this is the best time to beef-up security measures, performing asset discovery to create a baseline inventory of assets and to prioritize these assets, and to implement best security practices.\
+\
+Best practices include using next generation firewalls and security for web and email services, as well as system monitoring and advanced threat detection.\
+Summer threat hunting and back to school vulnerability management\
+\
+Threat hunting and vulnerability management are core capabilities for achieving continuous monitoring in your network and detecting threats before they are exploited. This can help you detect and mitigate outsider threats and attacks, as well as insider threats—both malicious and user error—that can compromise your systems and data.\
+\
+Colleges and universities can use the relative quiet of summer break to establish a foundation of effective threat hunting and vulnerability management by implementing solutions such as Tenable SecurityCenter Continuous View™ (SecurityCenter CV™), which provides a platform to continuously monitor networks for critical vulnerabilities and threats.\
+\
+SecurityCenter CV gives organizations the ability to monitor their networks 24x7 for new vulnerabilities, devices and incidents. The solution can alert administrators to threats and incidents, and produce reports for IT, security and administrative personnel.\
+\
+Several large higher education institutions use Tenable SecurityCenter CV to protect their networks. For example, the Auckland University of Technology, the second largest university in New Zealand, selected Tenable SecurityCenter CV for greater visibility, multiple scanning mechanisms, and enhanced reporting.\
+\
+"The relative lull in educational activities over the summer provides an opportunity that should not be wasted"\
+\
+By employing sound cybersecurity practices such as threat hunting and vulnerability management through proven technologies such as Tenable SecurityCenter CV, schools, colleges and universities can take large strides toward improving their cybersecurity posture for the upcoming school year and beyond. The relative lull in educational activities over the summer provides an opportunity that should not be wasted.	20160726
+Xbox One S to officially launch on August 2nd	afterdawn.com/	http://www.afterdawn.com/news/article.cfm/2016/07/20/xbox-one-s-to-officially-launch-on-august-2nd	TECHNOLOGY	\
+\
+afterdawn.com - Microsoft has confirmed that its upcoming slimmed-down console, the Xbox One S, will officially launch on August 2nd alongside the Windows 10 Anniversary Edition OS. The new console is 40 percent s...	Microsoft has confirmed that its upcoming slimmed-down console, the Xbox One S, will officially launch on August 2nd alongside the Windows 10 Anniversary Edition OS.\
+The new console is 40 percent smaller than the original Xbox One, and now comes in the "robot white" color scheme. On the outside, the Xbox One S has lost the gigantic power brick of its predecessor and will come with the option to buy a vertical stand.\
+\
+On the inside, Microsoft has upgraded the raw processing power of the console, adding 4K video support (including 4K Ultra HD Blu-rays), HDR support for gaming and video and a built-in IR blaster. Aesthetically, the USB ports have been moved to a more convenient spot up front, along with the controller pairing button.\
+\
+"The Xbox One S for us was a realization that first, we want to make a smaller Xbox, but there was also some capability that we saw growing out in the market around HDR and 4K video," Xbox head Phil Spencer said last month. "So we said, if we're going to do an upgrade to our console, let's go ahead and embrace some of the technologies that are coming and make those part of our core SKU."\
+\
+In addition, the console comes with a modified controller that has textured grips and the addition of Bluetooth.\
+\
+The 500GB edition will sell for $299, 1TB for $349 and 2TB for $399. Amazon has all three editions available for pre-order now.\
+\
+If you are outside of the U.S., the 2TB will launch in Australia, Austria, Belgium, Canada, Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Netherlands, New Zealand, Norway, Poland, Portugal, Slovakia, Spain, Sweden, Switzerland, Turkey and the UK on the same day.	20160726
+No Security Plan in Place for Companies « isssource.com	isssource.com	http://www.isssource.com/no-security-plan-in-place-for-companies/	BUSINESS	isssource.com - In this era of heightened cybersecurity awareness, just 22 percent of companies have a comprehensive plan in place to deal with major incidents, a new survey said. At the same time, 97 percent said...	In this era of heightened cybersecurity awareness, just 22 percent of companies have a comprehensive plan in place to deal with major incidents, a new survey said.\
+\
+At the same time, 97 percent said they have been the victims of a digital attack, and 55 percent said they have seen an increase in cyber attacks, according to a new survey from KPMG and British Telecom.\
+\
+    RELATED STORIES\
+    ICS Components Still Connected to Internet\
+    Ransomware Masked as Rockwell Update\
+    Android Ransomware Attacks Quadruple\
+    Email Scam Losses: $3 Billion \
+\
+“Our research is showing us that people don’t have a plan that they can turn to if they are under considerable attack,” said BT Americas CISO Jason Cook.\
+\
+In particular, a good plan should include more than just the IT department, he said.\
+\
+“Do you deliberately mention business functions that are not directly tied into cybersecurity?” he asked. “What does the legal team do? How does vendor management get involved? How do you communicate with partners and customers?”\
+\
+In the dynamic, evolving security world, the plan cannot be set in stone, it has to have the ability to remain fluid.\
+\
+In addition, the survey also found only 23 percent of respondents have adequate cyber insurance in place.\
+\
+“The rest have either no cyber insurance, or have inadequate cyber insurance,” Cook said.\
+\
+Cyber insurance can typically cover loss and damage to digital assets, business interruption costs associated with system downtime, direct financial losses associated with a cyber fraud or extortion attempt, provision of specialist support to incident management and forensics and investigation, and provision of reputation management services, said David Ferbrache, technical director for cyber security at KPMG.\
+\
+Companies should also look for coverage related to problems that relate to their business partners.\
+\
+“This might cover the damages associated with a security breach which impact a third party such as the inability to meet contractual obligations,” Ferbrache said.\
+\
+Insurance policies may also cover specifically things like physical damage that results from cyber attacks on industrial control systems.\
+\
+“This has been an issue for oil and gas firms and industrial manufacturing firms,” he said.\
+\
+According to the survey, 51 percent of companies also had no strategy for dealing with ransomware and other types of blackmail, Cook said.\
+\
+The report emanated from a survey of 100 CISOs, CIOs and other IT executives at Fortune 500 companies in the U.S., the UK, Singapore, India and Australia.	20160726
+Threat Hunting with YARA and Nessus	tenable.com/blog	https://www.tenable.com/blog/threat-hunting-with-yara-and-nessus	WORLD	\
+\
+tenable.com - In Nessus 6.7, file system scanning functionality was introduced that could look for specific file hashes of files on disk. This was in addition to the running process detection which has been supp...\
+	In Nessus 6.7, file system scanning functionality was introduced that could look for specific file hashes of files on disk. This was in addition to the running process detection which has been supported for quite some time. Now, as part of the Nessus 6.8 release, we’ve introduced YARA to our Windows malware file scanning subsystem. This provides an alternate method of defining criteria to search for files based on textual or binary patterns.\
+What is YARA?\
+\
+YARA is an open source tool, originally developed by Victor Alvarez, that helps malware researchers identify malware. YARA works by ingesting “rules” and applying the logic in the rules to identify malicious files or processes.\
+Writing a rule\
+\
+For the purpose of this blog, we will write a couple of very simple rules. However, the YARA rule syntax is quite rich (consult the Writing YARA Rules guide). Nessus supports all of the YARA 3.4 built-in keywords including those defined in the PE and ELF sub-modules.\
+\
+I wrote a simple IRC bot to write rules against. To write our first rule, first examine some of the strings located in the IRC bot binary (output shortened for readability):\
+IRC bot\
+\
+As you can see, the binary contains some fairly unique strings. We’ll write our first rule just using those strings:\
+Writing rules\
+\
+The above rule will only be “triggered” if all five of the unique strings are located in the file.\
+\
+Next, we will use the rules file with Nessus.\
+Configuring Nessus\
+\
+After selecting your scan target and naming the scan, the first step is to configure the Windows credentials. The Nessus malware file system scanner runs over WMI so we must have this configured. This is how it looks in my scanner:\
+\
+Windows credentials\
+\
+Next, we’ll enable the YARA plugin. To do that, you must enable plugins 59275 (Malicious Process Detection) and 91990 (Malicious File Detection Using YARA). You can easily find the plugins by using the Advanced Search feature and setting Malware is equal to true. The plugins will be located in the Windows plugin family.\
+\
+Enable the plugin\
+\
+Finally, we will upload our YARA rule and select the directories to scan. We can do this by going to the Malware settings in the Assessment menu. If the Scan file system setting is enabled, you can add a YARA rules file by clicking the Add File link. In the image below, I’ve uploaded the newly created rule in the file tenable_bot_rules.yar. I’ve selected Scan %ProgramFiles(x86) as the directory to run the scan against.\
+\
+Upload rules\
+\
+With those steps completed, we can start the scan.\
+Getting results\
+\
+Four minutes later, the scan finishes. We can see that something was found on the target:\
+\
+Runtime results\
+\
+Drilling down we can see that ircbot_v1.exe matched our rule Tenablebot in C:\\Program Files(x86)\\dontlookhere\\ . The offending binary is even attached to the scan.\
+\
+Results #1\
+Using more rules\
+\
+Nessus only accepts one rule file per scan, so all rules must be included in a single file. Rules should be listed one after another.\
+\
+For example, let’s say we heard a rumor that our example IRC bot was being packed with UPX to defeat static analysis. We can add a new rule to the rules file that checks for signs of UPX. Specifically, this rule will be triggered if the first two PE section names are “UPX0” and “UPX1”.\
+Add UPX rule\
+\
+If we upload this updated YARA rule file and rescan the target, we find a UPX packed binary!\
+\
+Results #2\
+Additional resources\
+\
+Writing your own rules can be a difficult task. Luckily, there are a number of helpful resources available to help:\
+\
+    Yara Rules actively curates a set of YARA rules released under the GPLv2 license.\
+    The MalwareConfig site maintains rule sets that they use to identify malicious binaries.\
+    The Yara Rule Generator creates a rule based on your provided file samples.	20160726
+Auto Parts Maker Faces Repeat Safety Fines « isssource.com	isssource.com	http://www.isssource.com/auto-parts-maker-faces-repeat-safety-fines/	HEALTH	isssource.com - Pyongsan America and temporary staffing agency, Surge Staffing, face $106,020 in combined fines for 11 safety violations at Pyongsan’s Auburn, AL, facility, said officials at the Occupational Safet...	Pyongsan America and temporary staffing agency, Surge Staffing, face $106,020 in combined fines for 11 safety violations at Pyongsan’s Auburn, AL, facility, said officials at the Occupational Safety and Health Administration (OSHA).\
+\
+OSHA investigators inspected the automobile auto parts manufacturer and found that permanent and temporary employees faced the dangers of being caught-in machinery, hit by objects and the risk of amputation.\
+\
+    RELATED STORIES\
+    Safety Fines for CO Steel Mill\
+    2 TX Firms Face Safety Fines\
+    Fined for Failing to Fix Safety Flaws\
+    Fractured Fingers Lead to Safety Fines \
+\
+Pyongsan manufactures heating, ventilation and air conditioning hoses for Hyundai, Kia, Chrysler and General Motors.\
+\
+OSHA initiated the inspection in January as part of its Regional Emphasis Program on Safety Hazards in the Auto Parts Industry and cited Pyongsan and Surge Staffing LLC for 11 safety violations.\
+\
+Surge Staffing, also based in Auburn, provides approximately 50 temporary employees to Pyongsan.\
+\
+“Pyongsan America continues to put workers, both permanent and temporary, at risk of serious injury or death by exposing them to serious workplace hazards,” said Joseph Roesler, OSHA’s area director in Mobile. “Employers must take responsibility for worker safety every day. They shouldn’t wait until an OSHA inspection or worse, when someone is hurt, to evaluate and correct workplace deficiencies.”\
+\
+OSHA issued four repeated citations to Pyongsan for its failure to:\
+• Develop and implement proper procedures to prevent machinery from starting-up during maintenance or servicing\
+• Conduct periodic inspections of the energy control procedures for equipment with multiple energy sources\
+• Train employees performing work on hazardous energy sources\
+• Protect workers from crushing and amputation hazards due to improper machine guarding\
+\
+The agency also issued two serious citations to Surge for failing to train employees and protect them from crushing and amputation hazards.\
+\
+In addition, OSHA cited Pyongsan for two serious violations for not requiring workers to de-energize equipment when changing out parts on machinery and exposing employees to amputation hazards due to ineffective machine guarding on the mechanical power presses. Inspector also issued one serious citation to Surge for this same machine-guarding hazard.\
+\
+The agency also cited Pyongsan with two other-than-serious violations for failure to provide copies of OSHA’s 300 injury and illness log within four business hours for Surge Staffing employees who had recordable injuries while working at the facility. The other violation was for not inspecting and testing the mechanical power presses at least weekly to determine its operational condition.\
+\
+OSHA is considering placing Pyongsan America Inc. in its Severe Violators Enforcement Program. The program focuses on recalcitrant employers that endanger workers by committing willful, repeat or failure-to-abate violations. Under the program, OSHA may inspect any of the employer’s facilities if it has reasonable grounds to believe there are similar violations.	20160726
+Influence of the NIST Cybersecurity Framework on Hong Kong	tenable.com/blog	http://www.tenable.com/blog/influence-of-the-nist-cybersecurity-framework-on-hong-kong	SCIENCE	tenable.com - Security is a common language across the globe; every person, organization, and country is concerned about security. From personal data privacy, business impact of cyber threats, to protection of c...	Security is a common language across the globe; every person, organization, and country is concerned about security. From personal data privacy, business impact of cyber threats, to protection of core infrastructures, our objective in security is very simple: we all want to prevent attackers from doing something catastrophic. But after so many years and so many generations of technology, is there a simple solution for us all?\
+NIST\
+\
+I am so lucky to have the privilege of visiting different organizations to exchange viewpoints in information security. And through those discussions, I have discovered that the Cybersecurity Framework (CSF) from the U.S. National Institute of Standards and Technology (NIST) is influencing my hometown—Hong Kong.\
+HKMA\
+\
+Hong Kong, one of the premiere global financial centres of the world, has a solid tradition of protecting the finance industry and managing risk. The Hong Kong Monetary Authority (HKMA), governed by the Exchange Fund Ordinance and the Banking Ordinance of Hong Kong, is responsible for maintaining monetary and banking stability. In response to the latest cyber threats, HKMA published a circular in September 2015 highlighting the growing importance of Cybersecurity Risk Management. This circular drew a great deal of attention from the banking industry in Hong Kong, as all of the banks were looking for solutions to meet the requirements listed in the circular. When I visit banks and discuss this circular, some of them tell me that their security consultants suggest they can implement the NIST Cybersecurity Framework in response to HKMA's circular. Recently, in May 2016, HKMA launched the Cybersecurity Fortification Initiative. This initiative includes three parts: the Cybersecurity Fortification Initiative (CFI), the Cyber Resilience Assessment Framework (C-RAF), and the Intelligence-led Cyber Attack Simulation Testing (iCAST).\
+\
+"Security is a common language across the globe"\
+Similarities between initiatives\
+\
+I found an interesting similarity in the C-RAF and CSF; the Cyber Resilience Assessment Framework, Step 2, maturity assessment and the NIST Cybersecurity Framework both include five technical functions: identify, protect, detect, respond and recover. HKMA has not yet released details of C-RAF, but I believe the detailed version will share similarities with the NIST CSF. Why is that?\
+\
+The NIST Cybersecurity Framework provides a flexible and risk-based implementation approach, it is not a one-size-fits-all framework, instead it enables different organizations to select the cybersecurity risk management process that fits their current situation. Why is that important? Because even in the same industry, each organization may have a different security posture. And the best way to help improve your security posture is to understand yourself better, to set an achievable goal, and to review and refine your objectives each year.\
+\
+"Even in the same industry, each organization may have a different security posture"\
+\
+I believe HKMA will provide specific security controls and recommendations, based on the uniqueness of the Hong Kong FSI market. But take a look at the NIST CSF now to better prepare for HKMA recommendations.\
+SFC\
+\
+And last but not least, the Securities and Futures Commission (SFC) of Hong Kong issued a Circular to all Licensed Corporations in Hong Kong on 23 March 2016. The circular enumerated the first Suggested Cybersecurity Controls, including:\
+\
+    Establish a strong governance framework to supervise cybersecurity management\
+\
+After reading this blog, which framework comes to mind first? The NIST CSF is a tried and true framework gaining popularity worldwide. It’s worth serious consideration at your organization.\
+Tenable solutions\
+\
+Tenable can help you implement a framework. Our unique SecurityCenter Continuous View™ (SecurityCenter CV™) solution can help. SecurityCenter CV will first collect data using different methods. For example, it can scan the network, together with picking up network packets and data from hosts. All data is pulled together, and based on what you have and what is happening, SecurityCenter CV will advise you about what to address and what you should be concerned about.\
+\
+The SecurityCenter CV also provides dashboards for many frameworks. For example: \
+\
+The HKMA Cyber Security Risk Management dashboard maps to the cyber security controls prescribed by HKMA. It provides an initial view of your current security posture and what you have in your network, and it helps you identify significant risks so you can prepare better for different audit requirements.\
+\
+HKMA Dashboard\
+\
+ \
+\
+A lot of customers will move on to build their own security framework, based on CSF. SecurityCenter CV supports over 90% of the NIST CSF technical controls and includes 9 Assurance Report Cards (ARCs) and 20 dashboards built specifically to illustrate CSF conformance.\
+\
+CSF Dashboard\
+\
+ \
+\
+With the ARCs, you can report on your security posture that matches your business context.\
+\
+CSF ARC	20160719
+BP Inks Monitoring Pact with aeSolutions « isssource.com	isssource.com	http://www.isssource.com/bp-inks-monitoring-pact-with-aesolutions/	SCIENCE	isssource.com - After a three-year software evaluation period, BP selected aeSolutions’ aeShield to assist asset personnel in monitoring Control, Alarm and Safety Instrumented Systems (CASIS) performance for all u...	After a three-year software evaluation period, BP selected aeSolutions’ aeShield to assist asset personnel in monitoring Control, Alarm and Safety Instrumented Systems (CASIS) performance for all upstream oil & gas assets around the globe.\
+\
+To date, it has been a challenge to automate the monitoring of these devices due to the lack of common systems in place across BP’s facilities. However, by going with aeShield, BP hopes to achieve centralized reporting, standard enforcement consistent with internal procedures, reduced man-hours, monitored IPLs, and efficient Management of Change (MOC) tracking.\
+\
+During initial rollout, BP will focus on HAZOP/LOPA studies, safety requirements specification, SIL verification, and IPL performance monitoring.\
+\
+The software transfers data from the HAZOP/LOPA, to SIS design and verification, and into Operations and Maintenance activities. This contiguous data model simplifies monitoring protection layer (both SIF and IPL) performance against assumptions made during the initial risk assessment and design versus current real world performance.\
+\
+“aeShield provides the exact solution needed for complex global operations. Our software platform centralizes data providing for one source of the truth, which is invaluable — saving time, money, and improving overall safety programs. A software implementation with this kind of impact in an organization cannot be taken lightly,” said Mike Scott, executive vice president of global process safety gechnology for aeSolutions. “Most importantly we are focused on making safety simple, which allows businesses to reduce risk and improve business performance.”	20160719
+NJ Metal Treatment Firm Faces Safety Fines « isssource.com	isssource.com	http://www.isssource.com/nj-metal-treatment-firm-faces-safety-fines/	SCIENCE	isssource.com - Bennett Heat Treating and Brazing Co. Inc. is facing $87,500 in fines for 30 safety violations at its Newark, New Jersey, facility, said officials at the Occupational Safety and Health Administrati...	Bennett Heat Treating and Brazing Co. Inc. is facing $87,500 in fines for 30 safety violations at its Newark, New Jersey, facility, said officials at the Occupational Safety and Health Administration (OSHA).\
+\
+OSHA investigators issued citations to Bennett Heat Treating and Brazing Co. Inc. for one other-than-serious and 29 serious safety and health violations.\
+\
+    RELATED STORIES\
+    Lead Hazards at PA Manufacturer\
+    Auto Parts Maker Faces Safety Fines\
+    WI Factory Faces Safety Fines\
+    Food Maker Fined after Worker Fatality \
+\
+OSHA initiated an inspection Jan. 8 as part of the agency’s Health-High-Hazard Top 50 Local Emphasis Program. A follow-up inspection to address multiple safety violations noted during the Jan. 8 inspection took place Feb. 23.\
+\
+The agency cited the serious violations because the company exposed employees to approximately 9-foot falls, improperly stored compressed gases, multiple electrical hazards and used corrosive chemicals without a proper decontamination shower. Bennett also failed to properly label anhydrous ammonia and provide employees handling the gas with proper personal protective equipment, labeling, and emergency showers.\
+\
+“Bennett Heat Treating and Brazing Co. failed to follow required safety and health standards intended to protect its employees by preventing serious work-related injuries, long-term illnesses or worse,” said Brian Flynn, acting director at OSHA’s Parsippany Area Office. “Falls are one of the leading causes of workplace deaths and the improper use of compressed gases and chemicals can lead to disaster if not addressed. This employer must immediately address the hazards we identified.”	20160719
+DHS Awards Funding for Security R&D « isssource.com	isssource.com	http://www.isssource.com/dhs-awards-funding-for-security-rd/	TECHNOLOGY	isssource.com - Three contracts totaling $3.66 million ended up awarded to fund the research and development (R&D) of privacy-enhancing technologies that better defend personally identifying information and protec...	Three contracts totaling $3.66 million ended up awarded to fund the research and development (R&D) of privacy-enhancing technologies that better defend personally identifying information and protect privacy in cyber space.\
+\
+Awarded through Broad Agency Announcement HSHQDC-14-R-B0014-TTA-3-0017-I, these projects are part of the Department of Homeland Security (DHS) Science and Technology Directorate (S&T) Cyber Security Division’s (CSD) Data Privacy program. CSD’s Data Privacy program works with cyber security researchers to develop innovative, easy-to-use and cost-effective privacy-enhancing technologies that can be quickly deployed in the public and private sectors.\
+\
+    RELATED STORIES\
+    DHS Releases Security Awards\
+    DHS Tightens Security for Federal Networks\
+    Cyber Security Education RAMPS Up\
+    Ensuring ‘Trustworthy’ Systems\
+\
+“It is essential for government and private-sector organizations to stay ahead of criminals who are using increasingly sophisticated methods to extract personally identifiable information,” said DHS Under Secretary for Science and Technology Dr. Reginald Brothers. “The new privacy-enhancing technologies being developed through these awards will help to strengthen the data-privacy protections of connected systems and simultaneously safeguard the personal information of millions of Americans.”\
+\
+Privacy-related breaches cause multimillion-dollar impacts on federal, state and local governments as well as on the private sector. In addition to lost or stolen personally identifiable information, there have been a growing number of privacy violations involving improper use of data. DHS continuously seeks ways of mitigating these risks more effectively while maintaining functionality to carry out its missions most effectively.\
+\
+The newly announced contracts will focus research and development efforts in the following areas:\
+\
+    International Computer Science Institute of Berkeley, California, will receive $665,000 to develop technology that will detect privacy intrusions on mobile devices and alert the device owner to proactively protect their private information\
+    Raytheon BBN Technologies of Cambridge, Massachusetts, will receive $1.3 million to develop technology for performing multiple online searches simultaneously to facilitate information sharing while also preserving privacy. S&T CSD is partnering with the Israel National Cyber Bureau on this R&D project.\
+    Yale University of New Haven, Connecticut, will receive $1.7 million to develop technology that will help protect the identity and location of individuals against malicious tracking and surveillance.\
+\
+“The focus of each award is targeted to a key area of need in the extremely critical and evolving data privacy discussion,” said Anil John, S&T Data Privacy program manager. “Once completed, the technology created through these R&D awards will deliver new tools to better protect against data privacy attacks.”	20160719
+New Insider Threat Trojan « isssource.com	isssource.com	http://www.isssource.com/new-insider-threat-trojan/	TECHNOLOGY	isssource.com - There is a new Trojan designed to help attackers recruit insiders within their targeted organizations. This insider threat Trojan, called “Delilah,” uses social engineering and extortion, including...	There is a new Trojan designed to help attackers recruit insiders within their targeted organizations.\
+\
+This insider threat Trojan, called “Delilah,” uses social engineering and extortion, including ransomware techniques, to recruit insiders, said Avivah Litan, vice president and analyst at Gartner Research, who gathered the information from Israel-based threat intelligence firm Diskin Advanced Technologies (DAT).\
+\
+    RELATED STORIES\
+    Trojan Converts PC into Proxy Server\
+    Trojan Reappears after 9 Years\
+    APT Attacker’s Malware of Choice\
+    Hosting Firm Used in Attacks \
+\
+The Trojan, often delivered through adult and gaming websites, collects personal information that could allow attackers to manipulate or blackmail the targeted individual.\
+\
+In addition to personal information on the victim’s workplace and family, Delilah is capable of capturing video from the targeted user’s webcam.\
+\
+Victims end up instructed to use VPNs and the Tor anonymity network, and delete their browsing history, most likely in an effort to avoid leaving any evidence that could turn up during an audit.\
+\
+The Trojan remains closely held and is not yet available on the common black market, and is only shared amongst closed hacker groups, DAT researchers said.\
+\
+Litan said the Trojan currently sees action in closed groups. The malware appears to be under development as it has several bugs, including error messages when the webcam plugin ends up used and long system freezes.\
+\
+Researchers said use of Delilah still involves a high level of manual work to identify and prioritize potential victims. However, the Trojan’s developers offer managed social engineering and fraud services for customers who need help with these tasks.\
+\
+“Surely, to combat Delilah and similar bots, it is especially important to collect and analyze endpoint data and information on VPN usage and TOR connections,” Litan said in a blog post.\
+\
+“Insider threats are continuing to increase with active recruitment of insiders from organized criminals operating on the dark web,” she said. “With Trojans like Delilah, organizations should expect insider recruitment to escalate further and more rapidly. This will only add to the volume of insider threats caused by disgruntled employees selling their services on the Dark Web in order to harm their employers.”	20160719
+IE PoC Released, Attackers Pounce « isssource.com	isssource.com	http://www.isssource.com/ie-poc-released-attackers-pounce/	TECHNOLOGY	isssource.com - Neutrino exploit kit developers added a just-patched Internet Explorer (IE) bug after researchers published a proof-of-concept (PoC) exploit. It all started with two remote code execution vulnerabi...	Neutrino exploit kit developers added a just-patched Internet Explorer (IE) bug after researchers published a proof-of-concept (PoC) exploit.\
+\
+It all started with two remote code execution vulnerabilities in the JScript and VBScript scripting engines used in Windows that ended up patched in May. The flaws, tracked as CVE-2016-0187 and CVE-2016-0189, could end up exploited through IE for which Microsoft released a separate security bulletin.\
+\
+    RELATED STORIES\
+    Malware Uses Tor for OS X Backdoor\
+    Exploit Kit Leverages Flash Zero Day\
+    Updated Tor Browser Releases\
+    Exploit Kit Hides with Tor \
+\
+Symantec reported CVE-2016-0189 ended up exploited in targeted attacks aimed at users in South Korea before Microsoft fixed the vulnerability. Experts said the attackers likely delivered the exploit via compromised websites or spear-phishing emails.\
+\
+Researchers from Austin, TX-based security R&D startup Theori last month analyzed Microsoft’s patch and created a PoC exploit for CVE-2016-0189, which they successfully tested on IE 11 running on Windows 10.\
+\
+After the researchers published the exploit code, however, developers of the Neutrino exploit kit took it and adapted it, said researchers at FireEye.\
+\
+The vulnerability resides within scripting engines in IE and suffers from exploitation in an effort to achieve Remote Code Execution (RCE).\
+\
+In Neutrino attacks, attackers use an Adobe Flash file to deliver exploits. In the attacks observed by the security firm, the Flash file, which profiles the victim’s system in order to determine which exploit to use, included exploits for five vulnerabilities – three for Flash Player and two for IE.\
+\
+The exploit added to Neutrino is identical to the one published by researchers, FireEye said. The only difference, they said in a blog post, is in the code that runs after initial control. While the PoC exploit ended up tested on Windows 10, experts believe attackers might be able to adapt it for older versions of the operating system as well.	20160719
+Linksys' ever popular WRT54GL still brings in millions in revenue, 11 years after launch	afterdawn.com/	http://www.afterdawn.com/news/article.cfm/2016/07/06/linksys-ever-popular-wrt54gl-still-brings-in-millions-in-revenue-11-years-after-launch	TECHNOLOGY	afterdawn.com - Arstechnica had a very interesting article today on a wireless router that should be familiar to many Afterdawn readers; the Linksys WRT54GL. The router was released in 2005 and remains up for sale...	Arstechnica had a very interesting article today on a wireless router that should be familiar to many Afterdawn readers; the Linksys WRT54GL.\
+The router was released in 2005 and remains up for sale, bringing in millions in revenue for the company despite certainly having outlived its usefulness (from a tech standpoint). The router uses the 802.11g Wi-Fi standard (since elapsed by 802.11n and 802.11ac, it can only use the 2.4GHz frequency band, and it has max speeds of just 54Mbps, far lower than the new 1Gbps standard.\
+\
+"To be honest, it somewhat baffles my mind," said Linksys Global Product Manager Vince La Duca. But will they stop selling it? No way. "We'll keep building it because people keep buying it," La Duca added.\
+\
+Having sold over 30 million units since launch, why does the WRT54GL remain so popular? The answer may lie in its support for popular open source firmware like DD-WRT. Linksys has always allowed users to quickly and easily unlock their devices to run Linux-based open-source software that offers more advanced capabilities that some more locked-down routers nowadays don't even offer. Of course, the router does have great name recognition (nearly 4000 positive reviews on Amazon) and a cheap price tag ($43 on Amazon), which certainly helps with the popularity. The report also says small businesses use the routers as a cheap way to offer public Wi-Fi hotspots.\
+\
+"People say, 'I had it, it worked, or a friend had it and it's been working ever since nonstop, so I went and bought one,'" La Duca noted. Customers also know they can "quickly throw DD-WRT on there and do hotspots [and] VPNs with them. Even though you can do it on newer stuff, it seems like there is this interesting cult following behind it." 	20160712
+Google makes 108 Fixes for Android « isssource.com	isssource.com	http://www.isssource.com/google-makes-108-fixes-for-android/	TECHNOLOGY	isssource.com - Google released its Android Security Bulletin for July with 108 patches overall. The first patch, 2016-07-05, includes fixes for vulnerabilities found in Android OS. RELATED STORIES Android Keyboar...	Google released its Android Security Bulletin for July with 108 patches overall.\
+\
+The first patch, 2016-07-05, includes fixes for vulnerabilities found in Android OS.\
+\
+    RELATED STORIES\
+    Android Keyboard App Collects Info\
+    Malware Strikes Android App\
+    Android Apps Out of Google Play\
+    Android Malware Sneaks in, Takes Over Phone \
+\
+Among these are seven critical RCE flaws affecting the Mediaserver component, which can end up triggered via email, web browsing, and MMS, by making the component process specially crafted media files, and a RCE flaw in OpenSSL and BoringSSL an attacker could leverage with a specially crafted file.\
+\
+The rest are mostly elevation of privilege and information disclosure vulnerabilities in a variety of services, libraries, Bluetooth, and the Framework APIs.\
+\
+A second security patch level – 2016-07-05 – contains patches for vulnerabilities and for device specific ones.\
+\
+Among these are mostly elevation of privilege vulnerabilities affecting Qualcomm, NVIDIA and MediaTek drivers and components, and some kernel flaws.\
+\
+None of the fixed flaws can end up misused to break Android’s Full-Disk Encryption (FDE).\
+\
+The good news is there is no indication that any of the fixed issues are undergoing exploitation.\
+\
+“This bulletin has two security patch level strings in order to provide Android partners with the flexibility to move more quickly to fix a subset of vulnerabilities that are similar across all Android devices,” Google said in a blog post.\
+\
+“Android partners are encouraged to fix all issues in this bulletin and use the latest security patch level string.”\
+\
+Users of smartphones running Android but are not manufactured by Google will have to wait for their manufacturer or carriers to push out the patches.	20160712
+Security Evolution: New Approach Brings Dividends « isssource.com	isssource.com	http://www.isssource.com/security-evolution-new-approach-brings-dividends/	TECHNOLOGY	isssource.com - By Gregory Hale Spear phishing campaigns used in advanced persistent threat (APT) attacks and social engineering are gaining a foothold into enterprise systems these days, which is providing a pivo...	By Gregory Hale\
+Spear phishing campaigns used in advanced persistent threat (APT) attacks and social engineering are gaining a foothold into enterprise systems these days, which is providing a pivot point for assaults into the industrial control network.\
+\
+One case in point, a spear-phishing campaign by APT attackers targeted multiple sectors, including chemical, critical manufacturing, energy, and government facilities.\
+\
+“The IT space is often used as a vector to get into the OT networks,” said George Wrenn, cybersecurity officer (CSO) and vice president cybersecurity at Schneider Electric. “Attackers will use any and all methods, tools and tactics to get access to ICS systems. The rule is, ‘there are no rules.’ ”\
+\
+The spear phishing attack involved emails with links that redirected to web sites hosting malicious files that exploited a Zero Day vulnerability (since then patched) in Adobe Flash Player, according to a report in the July-August ICS Monitor.\
+\
+The IT case is just one scenario showing if an attacker wants to get in, the attacker will get in. That means end users’ approach to cybersecurity has to evolve from hardening the perimeter to securing from the inside out, beginning with core infrastructure and going out to the devices. That change could boost added productivity and ward off inside and outside attacks.\
+\
+    RELATED STORIES\
+    Securing Safety: Know the Risk\
+    Security from Executive Level\
+    Standards for Productivity and Profit\
+    Establishing, Improving Safety, Security\
+    Time for Cyber Security is Now\
+    Enabling Business Through Safety, Security \
+\
+“Several times we have walked into a site and we saw a great deal of resources being allocated to the perimeter, like intrusion prevention systems, outside firewalls, and boundary protection,” said Jay Abdallah, director of cybersecurity, EMEA, at Schneider Electric. “The company was also spending a significant amount of money on physical security, operational security, access control methodologies, man-in-the-middle traps, and other controls like deep packet inspection. The industry is spending millions on the perimeter and we are pretty convinced we are not going to get an attack from the outside world, meanwhile our USBs are completely unlocked and people don’t realize just charging your smartphone could introduce a vulnerability or a weakness in the operating system that could allow for exploitable code. While it is a great idea on spending to protect the outside, it is just as critical to protect from the inside.”\
+\
+System Knowledge\
+For the end user, understanding what they have on the system and knowing the main area they need to protect remains the vital concern and always has to be top of mind.\
+\
+“That goes back to the importance of the assessment process,” said John Cusimano, director of industrial cybersecurity at aeSolutions. “You can’t design protection until you know what it is you are protecting. So, step one is assessing what is currently in place.”\
+\
+In quite a few cases, the user really doesn’t know what they have in terms of documentation or drawings on what is installed. Or if they do have the paper work, in quite a few cases the documents are out of date.\
+\
+To solve that issue, the integrator or user needs to roll up his or her sleeves and get a full understanding of what is on the system, and then document it.\
+\
+Once he or she figures that out, the next step in the process is to take the system and partition it using the zones-and-conduits model, Cusimano said. Stemming from the IEC 62443 standard, the zones-and-conduits model is part of a defense-in-depth approach that helps lock down a network. Using this model, a user creates a focused zone on the system that segments specific critical assets in a part of the ICS network. The zone should only allow minimum required traffic in, and when threats do come through, alarms sound. A conduit is a pathway of communications that enters and exits a zone.\
+\
+“What you do is partition the system into zones and conduits and then you can do your risk assessment because it is impossible to risk assess a large system at once,” Cusimano said. “You have to break it down. That is one of the big benefits of the zones and conduits approach.”\
+\
+Growing Threat\
+Protecting from within is becoming a clearer message. A majority (62 percent) of security professionals said insider threats have become more frequent in the last 12 months, according to a SpectorSoft report.\
+\
+The report also found fewer than 50 percent of organizations have appropriate controls to prevent insider attacks. Insider threats are difficult to detect, the report said, since the majority of security budgets and efforts end up directed at defending the perimeter.\
+\
+“If we can show how the perimeter of a particular system can be breached, it is game over. Once an attacker has breached the physical boundary, he or she should be able to do anything they want,” Abdallah said.\
+\
+That is where a new way to think about security comes into play.\
+\
+“I would hope that everyone will start to realize the importance of moving beyond traditional tactical security controls to more strategic controls like using application control and whitelisting methods,” said Joel Langill, an independent security researcher, consultant, and creator of the website SCADAhacker.com. “Strategic controls offer more resilience to evolving threats that are coming through sophisticated threat actors by not depending on knowledge that originates external to your security perimeter. By identifying a safe and secure baseline fingerprint, that can be used to detect anomalies very quickly within the secure industrial networks.”\
+\
+Understanding What to Do\
+Once the user understands that protecting from the inside is just as important as protecting the perimeter, they then have to rely on training to set everyone straight.\
+\
+“Now that the threats are in the industrial control spaces, users, operators and engineers are going through safety training, and part of that training is cybersecurity,” said Joshua Carlson, industrial automation manager for cyber security in North America at Schneider Electric. “That has to continue to happen on a regular cadence. If you don’t invest in and train those people, they are going to forget. They will slip up.”\
+\
+Attack methods are evolving and so, too, should security approaches so end users don’t end up protecting one area and end up watching attackers race through another.\
+\
+“We are trying to stress you don’t just update your technology, you have to update your people with training so they can continue to understand that threats are evolving,” Carlson said.\
+\
+Gregory Hale is the Editor/Founder of Industrial Safety and Security Source (ISSSource.com).	20160712
+Four Reasons the EU General Data Protection Regulation is Important to Security	tenable.com/blog	http://www.tenable.com/blog/four-reasons-the-eu-general-data-protection-regulation-is-important-to-security	SCIENCE	tenable.com - Brexit has catapulted the European Union (EU) into the news recently. However, from a security perspective, I think the EU General Data Protection Regulation (GDPR) is more important in terms of po...	Brexit has catapulted the European Union (EU) into the news recently. However, from a security perspective, I think the EU General Data Protection Regulation (GDPR) is more important in terms of potential actions that need to be taken by organizations. The European Parliament passed the GDPR in April of this year, and it will become enforceable in May 2018. Once in force, the regulation will require every organization that offers products or services to EU citizens, as well as those handling data of EU citizens, to adhere to a strict set of data privacy and security measures.\
+\
+"The impact of GDPR measures is broader than information security"\
+\
+The impact of these measures is broader than information security, and it may well require significant changes to business processes and systems. If the GDPR applies to your organization, it is likely that your business leaders, privacy experts, and legal professionals are already discussing compliance measures. Security leaders should be included in these discussions to ensure that security is adequately prepared and funded to address the changes to people, process, and technology needed to meet the requirements of the regulation.\
+Reasons the GDPR is important to security professionals\
+\
+    Penalties for violations are severe: Under Article 83(5) of the Regulation, serious infringements can result in fines of up to €20M or 4% of the offending company’s global annual revenue, whichever is higher.\
+    The “personal data” definition has expanded: Personal data means any information relating to an identified or identifiable natural person (“data subject”). An identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. This definition of personal data is important to information security professionals because it implicates data that may not seem, at first glance, to qualify as personal. IP addresses, application user IDs, Global Positioning System (GPS) data, cookies, media access control (MAC) addresses, unique mobile device identifiers (UDID), and International Mobile Equipment IDs (IMEI) are some examples.\
+    “Technical and organisational measures” require adequate general information security controls: The GDPR uses the phrase “technical and organisational measures” 21 times. In essence, the GDPR is asking controllers to employ information security frameworks, which enable professionals to create consistent, repeatable processes and implement controls that are generally accepted by the information security community.\
+    The jurisdictional reach includes organizations outside of the EU: The GDPR’s jurisdictional reach (called the “territorial scope”) is broad and includes most organizations. Organizations based outside of the EU that offer goods or services to EU data subjects are covered by the regulation.\
+\
+If you don’t suffer from triskaidekaphobia, I invite you to join Scott Giordano, a data privacy expert, and me for an upcoming webcast on July 27th where we will discuss Thirteen Essential Steps for Meeting the Security Challenges of the New EU General Data Protection Regulation. Scott is an attorney with nearly 20 years of legal, technology and risk management consulting experience. He holds Information Security Systems Professional (CISSP) and Certified Information Privacy Professional (CIPP) certifications. He is an expert on the intersection of law and technology as it applies to e-discovery, information governance, compliance and risk management issues.	20160712
+Rexroth Bosch BLADEcontrol-WebVIS Vulnerabilities	ICS-CERT	https://ics-cert.us-cert.gov/advisories/ICSA-16-187-01	SCIENCE	ics-cert.us-cert.gov - Independent researcher Maxim Rupp has identified a SQL injection vulnerability and a cross-site scripting vulnerability in the Rexroth Bosch BLADEcontrol-WebVIS. Rexroth Bosch has produced a new ve...	OVERVIEW\
+\
+Independent researcher Maxim Rupp has identified a SQL injection vulnerability and a cross-site scripting vulnerability in the Rexroth Bosch BLADEcontrol-WebVIS. Rexroth Bosch has produced a new version to mitigate these vulnerabilities.\
+\
+These vulnerabilities could be exploited remotely.\
+AFFECTED PRODUCTS\
+\
+The following BLADEcontrol-WebVIS versions are affected:\
+\
+BLADEcontrol-WebVIS, Version 3.0.2 and earlier.\
+IMPACT\
+\
+Application is vulnerable to a SQL injection vulnerability by performing database operations that were unintended by the web application designer and, in some instances, can lead to compromise of the database server or lead to remote code execution. Application also fails to validate, filter, or encode user input before returning it to a user’s web client.\
+\
+Impact to individual organizations depends on many factors that are unique to each organization. NCCIC/ICS-CERT recommends that organizations evaluate the impact of these vulnerabilities based on their operational environment, architecture, and product implementation.\
+BACKGROUND\
+\
+Rexroth Bosch is a Germany-based company that maintains offices in 22 countries around the world, including the US, UK, Netherlands, Italy, India, Germany, France, Czech Republic, China, and Australia.\
+\
+The affected product, BLADEcontrol, is a web-based HMI system. According to Rexroth Bosch, BLADEcontrol is deployed across the Energy sector. Rexroth Bosch estimates that this product is used in 80 countries.\
+VULNERABILITY CHARACTERIZATION\
+VUNLNERABILITY OVERVIEW\
+\
+SQL INJECTIONa\
+\
+Application is vulnerable to a SQL injection vulnerability by performing database operations that were unintended by the web application designer and, in some instances, can lead to compromise of the database server or lead to remote code execution.\
+\
+CVE-2016-4507b has been assigned to this vulnerability. A CVSS v3 base score of 6.4 has been assigned; the CVSS vector string is (AV:N/AC:L/PR:L/UI:N/S:C/C:L/I:L/A:N).c\
+\
+CROSS-SITE SCRIPTINGd\
+\
+Application fails to validate, filter, or encode user input before returning it to a user’s web client.\
+\
+CVE-2016-4508e has been assigned to this vulnerability. A CVSS v3 base score of 6.1 has been assigned; the CVSS vector string is (AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N).f\
+VUNLNERABILITY DETAILS\
+EXPLOITABILITY\
+\
+These vulnerabilities could be exploited remotely.\
+EXISTENCE OF EXPLOIT\
+\
+No known public exploits specifically target these vulnerabilities.\
+DIFFICULTY\
+\
+An attacker with a low skill would be able to exploit these vulnerabilities.\
+MITIGATION\
+\
+Rexroth Bosch has created a new version of BLADEcontrol-WebVIS that can be downloaded at https://urldefense.proofpoint.com/v2/url?u=https-3A__webvis.bladecontrol.de&d=BQIGaQ&c=54IZrppPQZKX9mLzcGdPfFD1hxrcB__aEkJFOKJFd00&r=uwyZa8MpvYuELzcbQo3O8w&m=gdR9Hs8g1XK_6upAeFtiU1GwkZEZm9Fhf6pLZgonQWg&s=cy2NnYaA1p-d8DGzLqy1R9v9veMUdwK3KI6FuvLdW04&e= (link is external)\
+\
+ICS-CERT recommends that users take defensive measures to minimize the risk of exploitation of these vulnerabilities. Specifically, users should:\
+\
+Minimize network exposure for all control system devices and/or systems, and ensure that they are not accessible from the Internet.\
+Locate control system networks and remote devices behind firewalls, and isolate them from the business network.\
+When remote access is required, use secure methods, such as Virtual Private Networks (VPNs), recognizing that VPNs may have vulnerabilities and should be updated to the most current version available. Also recognize that VPN is only as secure as the connected devices.\
+\
+ICS-CERT reminds organizations to perform proper impact analysis and risk assessment prior to deploying defensive measures.\
+\
+ICS-CERT also provides a section for control systems security recommended practices on the ICS-CERT web page at: http://ics-cert.us-cert.gov/content/recommended-practices. Several recommended practices are available for reading and download, including Improving Industrial Control Systems Cybersecurity with Defense-in-Depth Strategies.\
+\
+Additional mitigation guidance and recommended practices are publicly available in the ICS‑CERT Technical Information Paper, ICS-TIP-12-146-01B--Targeted Cyber Intrusion Detection and Mitigation Strategies, that is available for download from the ICS-CERT web site (http://ics-cert.us-cert.gov/).\
+\
+Organizations observing any suspected malicious activity should follow their established internal procedures and report their findings to ICS-CERT for tracking and correlation against other incidents.	20160712
+Auto Parts Maker Faces Safety Fines « isssource.com	isssource.com	http://www.isssource.com/auto-parts-maker-faces-safety-fines-4/	HEALTH	isssource.com - Challenge Manufacturing is facing $75,000 in fines for 14 safety violations at its Kansas City, MO, auto parts manufacturing facility, said officials at the Occupational Safety and Health Administr...	Challenge Manufacturing is facing $75,000 in fines for 14 safety violations at its Kansas City, MO, auto parts manufacturing facility, said officials at the Occupational Safety and Health Administration (OSHA).\
+\
+OSHA investigators issued 13 serious and one other-than-serious safety and health violation.\
+\
+    RELATED STORIES\
+    WI Factory Faces Safety Fines\
+    Food Maker Fined after Worker Fatality\
+    Record Safety Fine for Auto Parts Maker\
+    TX Steel Fabricator Faces Safety Fines \
+\
+OSHA opened a February inspection after receiving a complaint of unsafe working conditions at the Kansas City facility that stamps, welds and assembles automotive parts.\
+\
+The agency’s Kansas City area office found the employer failed to:\
+• Conduct noise monitoring in the facility\
+• Ensure employees wore hearing protection\
+• Evaluate workplaces to determine permit-required confined spaces\
+• Install adequate machine guarding\
+• Develop, document and require the use of machine safety procedures such as lockout/tagout to control machine movement during service and maintenance\
+• Removed damaged, unsafe powered industrial trucks from service\
+• Label hazardous chemicals\
+• Train workers on hazards\
+• Provide strain relief for cords and cables\
+\
+The Walker, Michigan-based company also has stamping facilities in Michigan and Texas. The Kansas City plant was opened in 2014.\
+\
+“OSHA has specific guidelines to protect workers from dangerous machinery, chemicals and other hazards in the workplace,” said Dave Keim, OSHA’s acting area director for in Kansas City. “Challenge Manufacturing needs to re-evaluate its safety and health programs to ensure employees are being protected from job hazards.”	20160712
+ICS Components Remain Connected to Internet « isssource.com	isssource.com	http://www.isssource.com/ics-components-remain-connected-to-internet/	BUSINESS	isssource.com - Organizations likely have ICS components connected to the Internet that could allow attackers to launch an assault against critical infrastructure systems, a new report said. The report found 17,04...	Organizations likely have ICS components connected to the Internet that could allow attackers to launch an assault against critical infrastructure systems, a new report said.\
+\
+The report found 17,042 ICS components on 13,698 different hosts exposed to the Internet, likely belong to large organizations, said researchers at Kaspersky Lab. These organizations include energy, transportation, aerospace, oil and gas, chemicals, automotive and manufacturing, food and service, governmental, financial and medical institutions.\
+\
+    RELATED STORIES\
+    Ransomware Masked as Rockwell Update\
+    Android Ransomware Attacks Quadruple\
+    Email Scam Losses: $3 Billion\
+    Training Doesn’t Thwart Insider Risk\
+\
+To minimize the possibility of a cyber attack, ICS should be run in a physically isolated environment; however, the report shows thousands of hosts suffer from exposure with 91.1 percent of these ICS hosts having vulnerabilities that can end up exploited remotely. In addition, 3.3 percent of ICS hosts located in these organizations contain critical vulnerabilities that can end up remotely exploited.\
+\
+image003\
+\
+Connected systems are more flexible, able to react quickly to critical situations and implement updates, but in turn, this gives attackers a chance to remotely control critical ICS components. This can result in physical harm to the equipment as well as potential danger to the whole critical infrastructure.\
+\
+Major findings of the report include:\
+• 188,019 hosts with ICS components available via the Internet have been identified in 170 countries.\
+• Most of the remotely available hosts with ICS components installed are in the United States (30.5 percent – 57,417) and Europe. In Europe, Germany has a leading position (13.9 percent – 26,142 hosts), followed by Spain (5.9 percent – 11,264 hosts), and France (5.6 percent – 10,578 hosts).\
+• 92 percent (172,982) of remotely available ICS hosts have vulnerabilities. 87 percent of these hosts contain medium risk vulnerabilities and 7 percent of them have critical vulnerabilities.\
+• The number of vulnerabilities in ICS components has increased tenfold during the past five years: From 19 vulnerabilities in 2010 to 189 vulnerabilities in 2015. The most vulnerable ICS components were Human Machine Interfaces (HMI), Electric Devices and SCADA systems.\
+• 91.6 percent (172,338 different hosts) of all the externally available ICS devices use weak Internet connection protocols, which opens the opportunity for attackers to conduct ’man in the middle’ attacks.\
+“There is no 100 percent guarantee that a particular ICS installation won’t have at least one vulnerable component at any single moment in time,” said Andrey Suvorov, head of critical infrastructure protection at Kaspersky Lab. “However, this doesn’t mean that there is no way to protect a factory, a power plant, or even a block in a smart city from cyber attacks. Simple awareness of vulnerabilities in the components used inside a particular industrial facility is the basic requirement for security management of the facility.”	20160712
+Independence Day	tenable.com/blog	http://www.tenable.com/blog/independence-day	WORLD	tenable.com - In cybersecurity as in national security, remembrance and eternal vigilance are essential to maintaining our freedom. Our nation has seen many changes since its founding 240 years ago, and it still...	In cybersecurity as in national security, remembrance and eternal vigilance are essential to maintaining our freedom.\
+\
+Our nation has seen many changes since its founding 240 years ago, and it still is functioning pretty well despite the fact that our security and economy today depend largely on technology that did not exist a little more than a generation ago. But the keys to protecting our liberty and promoting the general welfare remain the same in cyberspace as in the real world: remembrance and eternal vigilance.\
+Remembrance\
+"Those who cannot remember the past are condemned to repeat it"\
+\
+During our Independence Day celebrations we remember the challenges our nation has faced and the lessons we have learned from them. George Santayana wrote, “Those who cannot remember the past are condemned to repeat it.” The threats we have faced in the real world are varied, but we have learned from them and meet them with a strong defense and national resolve. Unfortunately, this is a lesson we still are learning in cyberspace. Despite repeated high-profile breaches of government information systems, our cybersecurity remains incomplete.\
+\
+A recent evaluation by the Government Accountability Office found that 18 Executive Branch agencies with high-impact systems—those holding sensitive information whose loss could cause catastrophic harm—rated cyberattacks from nation-states as the most dangerous and frequently-occurring threat these systems face. Yet although there are regulatory requirements and technical guidance from the National Institute of Standards and Technology, a review of four agencies found cybersecurity gaps in their high-impact systems.\
+\
+“Until the selected agencies address weaknesses in access and other controls, including fully implementing elements of their information security programs, the sensitive data maintained on selected systems will be at increased risk,” the report concluded.\
+Vigilance\
+"Agencies should be constantly monitoring the status of and activity on their networks and attached systems"\
+\
+One of the basic principles for fully securing our information systems was recognized nearly 200 years ago: “Eternal vigilance is the price of liberty." Thomas Jefferson and the others to whom this statement has been attributed were not talking about cybersecurity, but it applies just the same. The Homeland Security Department has made continuous monitoring the standard for federal cybersecurity. This means that instead of static, periodic assessments of IT systems every month, year, or three years, agencies should be constantly monitoring the status of and activity on their networks and attached systems. This level of visibility allows agencies to not only respond quickly to incidents, but to be proactive and eliminate or mitigate threats before they become incidents.\
+\
+This standard is supported by the Continuous Diagnostics and Mitigation (CDM) program, and by a Blanket Purchase Agreement through the General Services Administration. This makes available off-the-shelf technology to give real-time visibility into government networks and systems. Products such as the Tenable SecurityCenter Continuous View™ provide this vigilance so that agencies can ensure that their systems are protected, and the intelligence needed to protect our most valuable assets by defending against the most serious threats.\
+Security and liberty\
+\
+In recent years attention has been paid to an apparent conflict between security and liberty. Yet while it is true that liberty can be threatened by abuses in the name of security, the two are not mutually exclusive. In fact, there is little liberty without security. As with so much else, this applies in cyberspace as well as the real world.\
+"There is little liberty without security"\
+\
+Without adequate security, we cannot have the freedom to access and use information online with confidence, we cannot rely on the privacy of information that we use in online transactions, and we cannot depend on the delivery of critical services by our government. We achieve that security by remembering and learning from the lessons of the past, and by exercising eternal vigilance.	20160712
+\N	\N	\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N	\N	\N

@@ -1,0 +1,10 @@
+README.txt
+setup.py
+zoomeye/__init__.py
+zoomeye/zoomeye.py
+zoomeye.egg-info/PKG-INFO
+zoomeye.egg-info/SOURCES.txt
+zoomeye.egg-info/dependency_links.txt
+zoomeye.egg-info/requires.txt
+zoomeye.egg-info/top_level.txt
+zoomeye.egg-info/zip-safe

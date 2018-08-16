@@ -1,0 +1,312 @@
+﻿Trihedral VTScada 8 	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8版本和11.2.02之前版本的WAP接口中存在授权问题漏洞。远程攻击者可利用该漏洞绕过身份验证，读取任意文件。	SCADA
+Trihedral VTScada <11.2.02	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8版本和11.2.02之前版本的WAP接口中存在授权问题漏洞。远程攻击者可利用该漏洞绕过身份验证，读取任意文件。	SCADA
+Trihedral VTScada 8 	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8版本和11.2.02之前版本的WAP接口中存在缓冲区溢出漏洞。远程攻击者可利用该漏洞造成拒绝服务（越边界读取和应用程序崩溃）。	SCADA
+Trihedral VTScada <11.2.02	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8版本和11.2.02之前版本的WAP接口中存在缓冲区溢出漏洞。远程攻击者可利用该漏洞造成拒绝服务（越边界读取和应用程序崩溃）。	SCADA
+Trihedral VTScada 8 	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8.x版本至11.1.24版本的WAP接口中存在目录遍历漏洞。远程攻击者可借助特制的路径名，利用该漏洞读取任意文件。	SCADA
+Trihedral VTScada <11.2.02	Trihedral VTScada（前称VTS）是加拿大Trihedral Engineering公司的一套基于Windows平台提供Web界面选项的SCADA系统。 Trihedral VTScada 8.x版本至11.1.24版本的WAP接口中存在目录遍历漏洞。远程攻击者可借助特制的路径名，利用该漏洞读取任意文件。	SCADA
+ESC 8832 <=3.02	ESC 8832是美国ESC公司的一套基于Web的SCADA系统。 ESC 8832 3.02及之前版本中存在安全漏洞。远程攻击者可通过对参数实施暴力破解攻击利用该漏洞获取未授权的访问权限。	SCADA
+ESC 8832 <=3.02	ESC 8832是美国ESC公司的一套基于Web的SCADA系统。 ESC 8832 3.02及之前版本中存在安全漏洞。远程攻击者可利用该漏洞未授权更改配置。	SCADA
+Meteocontrol WEB'log	Meteocontrol WEB'log是德国Meteocontrol公司的一套基于Web使用不同的连接（能源/工业）设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品中存在跨站请求伪造漏洞。远程攻击者可利用该漏洞执行未授权操作。	SCADA
+Meteocontrol WEB'log Basic 100 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品存在信息泄露漏洞，允许未经授权的攻击者可利用漏洞访问post-admin登录页面。	SCADA
+Meteocontrol WEB'log Light 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品存在信息泄露漏洞，允许未经授权的攻击者可利用漏洞访问post-admin登录页面。	SCADA
+Meteocontrol WEB'log ProPro Unlimited	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品存在信息泄露漏洞，允许未经授权的攻击者可利用漏洞访问post-admin登录页面。	SCADA
+Meteocontrol WEB'log Basic 100 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品以明文形式存储信息，允许远程攻击者可利用漏洞获取敏感信息。	SCADA
+Meteocontrol WEB'log Light 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品以明文形式存储信息，允许远程攻击者可利用漏洞获取敏感信息。	SCADA
+Meteocontrol WEB'log ProPro Unlimited	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品以明文形式存储信息，允许远程攻击者可利用漏洞获取敏感信息。	SCADA
+Meteocontrol WEB'log Basic 100 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品的access command shell-like功能中存在安全漏洞，允许远程攻击者可利用漏洞提交特殊请求执行任意命令。	SCADA
+Meteocontrol WEB'log Light 	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品的access command shell-like功能中存在安全漏洞，允许远程攻击者可利用漏洞提交特殊请求执行任意命令。	SCADA
+Meteocontrol WEB'log ProPro Unlimited	Meteocontrol WEB'log是一套基于Web使用不同的连接设备来提供能源和动力配置管理功能的SCADA系统。 多款Meteocontrol WEB'log产品的access command shell-like功能中存在安全漏洞，允许远程攻击者可利用漏洞提交特殊请求执行任意命令。	SCADA
+Cogent Real-Time Systems Cogent DataHub <=7.3.9	Cogent Real-Time Systems Cogent DataHub是加拿大Cogent Real-Time Systems公司的一套实时数据解决方案，它属于SCADA（数据采集与监视控制系统）和自动化软件。 Cogent Real-Time Systems Cogent DataHub 7.3.9及之前版本中存在提权漏洞。攻击者可利用该漏洞获取提升的权限。	SCADA
+Rockwell Automation Allen-Bradley CompactLogix 1769-L*(<28.011+)	Rockwell Automation Allen-Bradley CompactLogix是美国罗克韦尔（Rockwell Automation）公司的一套基于Web的SCADA系统。1769-L16ER-BB1B等都是使用在其中的控制器。 Rockwell Automation Allen-Bradley CompactLogix的Web服务器中存在跨站脚本漏洞。远程攻击者可利用该漏洞注入任意Web脚本或HTML。	SCADA
+Sauter EY-WS505F0x0 moduWeb Vision <1.6.0	Sauter moduWeb Vision是一套用于HVAC的嵌入式基于Web的SCADA系统。 Sauter modoWeb Vision的Web服务器中存在跨站脚本漏洞，允许远程攻击者利用漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。	SCADA
+Sauter EY-WS505F0x0 moduWeb Vision <1.6.0	Sauter moduWeb Vision是一套用于HVAC的嵌入式基于Web的SCADA系统。 Sauter modoWeb Vision以明文形式传输数据。远程攻击者可利用该漏洞获取证书，绕过身份验证。	SCADA
+Sauter EY-WS505F0x0 moduWeb Vision <1.6.0	Sauter moduWeb Vision是一套用于HVAC的嵌入式基于Web的SCADA系统。 Sauter modoWeb Vision使用不安全的方式存储证书，允许远程攻击者可利用该漏洞绕过身份验证。	SCADA
+Motorola Solutions, Inc MOSCAD IP Gateway	Motorola Solutions MOSCAD SCADA IP Gateway是美国摩托罗拉（Motorola Solutions）公司的一套基于Web提供管理功能的SCADA系统。 Motorola Solutions MOSCAD SCADA IP Gateway中存在跨站请求伪造漏洞，允许远程攻击者劫持管理员的身份验证的修改密码的请求。	SCADA
+Motorola Solutions, Inc MOSCAD IP Gateway	Motorola Solutions MOSCAD SCADA IP Gateway是美国摩托罗拉（Motorola Solutions）公司的一套基于Web提供管理功能的SCADA系统。 Motorola Solutions MOSCAD SCADA IP Gateway中存在任意文件下载漏洞。远程攻击者利用此漏洞通过未明向量读取任意文件。	SCADA
+Exemys Telemetry Web Server	Exemys Telemetry Web Server是阿根廷Exemys公司的一套基于Web的SCADA系统。 Exemys Telemetry Web Server中存在安全漏洞。攻击者可通过忽略location头利用该漏洞直接访问信息。	SCADA
+ininet solutions scada web server <2.02	IniNet SCADA Web Server是第三方基于Web的服务器软件。 SCADA Web Server 2.02之前版本未能有效过滤路径名内的某些元素，在实现上存在路径遍历漏洞。攻击者可利用该漏洞读取任意OS文件。	SCADA
+ininet solutions scada web server <2.02	IniNet SCADA Web Server是第三方基于Web的服务器软件。 IniNet Solutions SCADA Web Server存在缓冲区溢出漏洞，攻击者可利用该漏洞执行任意代码。	SCADA
+ininet solutions scada web server <2.02	IniNet SCADA Web Server是第三方基于Web的服务器软件。 SCADA Web Server 2.02之前版本在处理URL编码的输入时，存在安全限制绕过漏洞。攻击者可利用该漏洞执行未授权操作。	SCADA
+Nordex SE Nordex Control 2 (NC2) SCADA <=16	Nordex Control 2 是基于Web的SCADA系统，用于风力发电站。 Nordex Control 2 (NC2) SCADA 16及更早版本，Wind Farm Portal应用存在多个跨站脚本漏洞。远程攻击者利用此漏洞可注入任意Web脚本或HTML。	SCADA
+Resource Data Management Resource Data Management < 2.2	Resource Data Management是基于Web的SCADA监控系统。 Resource Data Management在实现上存在权限提升漏洞。攻击者利用该漏洞可提升权限，更改任意用户的密码。	SCADA
+IBC SOLAR ServeMaster TLP+ 	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 IBC Solar ServeMaster存在源码漏洞。攻击者可利用此漏洞获取可执行脚本的源码。	SCADA
+IBC SOLAR Danfoss TLX Pro+	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 IBC Solar ServeMaster存在源码漏洞。攻击者可利用此漏洞获取可执行脚本的源码。	SCADA
+IBC SOLAR ServeMaster TLP+ 	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 ServeMaster TLP+及Danfoss TLX Pro+存在纯文本密码漏洞。攻击者通过查看网页源码，可利用该漏洞获取纯文本密码。	SCADA
+IBC SOLAR Danfoss TLX Pro+	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 ServeMaster TLP+及Danfoss TLX Pro+存在纯文本密码漏洞。攻击者通过查看网页源码，可利用该漏洞获取纯文本密码。	SCADA
+IBC SOLAR ServeMaster TLP+ 	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 ServeMaster TLP+及Danfoss TLX Pro+存在跨站脚本漏洞。攻击者利用此漏洞可执行XSS攻击。	SCADA
+IBC SOLAR Danfoss TLX Pro+	ServeMaster TLP+及Danfoss TLX Pro+是基于Web的SCADA系统。 ServeMaster TLP+及Danfoss TLX Pro+存在跨站脚本漏洞。攻击者利用此漏洞可执行XSS攻击。	SCADA
+Resource Data Management Resource Data Management < 2.2	Resource Data Management是基于Web的SCADA监控系统。 Resource Data Management在实现上存在跨站请求伪造漏洞。攻击者利用该漏洞可执行未授权操作。	SCADA
+Schneider Electric InduSoft Web Studio <7.1.3.5 Patch 5 	InduSoft Web Studio是用于开发人机界面、监督控制和数据采集的SCADA系统和嵌入式仪表解决方案。 Schneider Electric InduSoft Web Studio before 7.1.3.5 Patch 5及Wonderware InTouch Machine Edition through 7.1 SP3 Patch 4在配置文件中以纯文本形式存储项目窗口的密码，这可使本地用户通过读取该文件，获取敏感信息。	SCADA
+Schneider Electric Wonderware InTouch Machine Edition 7.1 SP3 Patch 4	InduSoft Web Studio是用于开发人机界面、监督控制和数据采集的SCADA系统和嵌入式仪表解决方案。 Schneider Electric InduSoft Web Studio before 7.1.3.5 Patch 5及Wonderware InTouch Machine Edition through 7.1 SP3 Patch 4在配置文件中以纯文本形式存储项目窗口的密码，这可使本地用户通过读取该文件，获取敏感信息。	SCADA
+Elipse SCADA 2.29 b141	Elipse SCADA是一个基于WEB的SCADA系统，部署在重要的制造，能源，水力等系统中。 该程序在加载DLL时存在DLL劫持漏洞（指向的DLL名为wfapi.dll），允许攻击者利用漏洞构建恶意应用，置放于特定路径中，可使应用恶意加载DLL并执行。	SCADA
+Ecava IntegraXor SCADA Server < 4.2.4488	IntegraXor是用于创建及运行基于Web的SCADA系统人机接口。 IntegraXor SCADA Server 4.2.4488之前版本，在处理重命名的恶意DLL时存在安全漏洞，如果攻击者在默认安装位置移植了不安全的DLL后，则可在受影响应用中执行恶意代码。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Ignition在使用的哈希算法MD5存在安全漏洞，可导致对数据库存储帐户进行暴力攻击。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Ignition阻止暴力攻击机制存在安全漏洞，攻击者在HTTP请求中设置会话ID参数，可绕过该机制。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Ignition在用户退出后，没有删除会话，这可使攻击者重新利用当前会话。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Ignition以明文形式在设置文件中保存OPC Server用户名及密码，攻击者可利用上获取敏感信息。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Inductive Automation Ignition存在信息泄露漏洞，允许攻击者利用漏洞获取敏感信息。	SCADA
+Inductive Automation Ignition 7.7.2	Ignition是Inductive Automation提供的更新版FactoryPMI，人机接口/SCADA产品。 Ignition存在安全漏洞，攻击者利用此漏洞可在有漏洞的Web应用中执行恶意内容。服务器直接从HTTP请求读数据，然后在HTTP响应中返回。	SCADA
+Honeywell XL Web Controller XL1000C100 EXCEL WEB 104 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C1000 EXCEL WEB 600 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C1000U EXCEL WEB 600 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C100U EXCEL WEB 104 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C50 EXCEL WEB 52 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C500 EXCEL WEB 300 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C500U EXCEL WEB 300 I/O 	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+Honeywell XL Web Controller XL1000C50U EXCEL WEB 52 I/O UU	Honeywell XL Web Controller是基于Web的SCADA系统。 Honeywell XL Web Controller存在安全漏洞，通过FTP服务器内目录遍历漏洞，攻击者利用此漏洞可访问受影响系统的Web Root目录。	SCADA
+CIMON UltimateAccess 3.00 	CmnView是一个基于WEB的SCADA应用。 CmnView应用包含的DLL未能指定绝对路径，允许攻击者利用漏洞构建恶意应用，置放在特定路径中，可使应用恶意加载DLL并执行。	SCADA
+CIMON UltimateAccess <=3.01 	CmnView是一个基于WEB的SCADA应用。 CmnView应用包含的DLL未能指定绝对路径，允许攻击者利用漏洞构建恶意应用，置放在特定路径中，可使应用恶意加载DLL并执行。	SCADA
+CIMON CmnView 2.14.0.1	CmnView是一个基于WEB的SCADA应用。 CmnView应用包含的DLL未能指定绝对路径，允许攻击者利用漏洞构建恶意应用，置放在特定路径中，可使应用恶意加载DLL并执行。	SCADA
+MICROSYS, spol. s r.o. PROMOTIC	MICROSYS PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC存在缓冲区溢出漏洞，由于程序未能正确的边界检查用户提供的数据，攻击者可利用此漏洞在应用程序上下文中执行任意代码或发起拒绝服务攻击。	SCADA
+ClearSCADA ClearSCADA 2010R1	ClearSCADA是集成的SCADA主机平台。 ClearSCADA 'dbserver.exe'存在远程验证绕过漏洞，允许攻击者利用此漏洞绕过身份验证机制，获取敏感信息。	SCADA
+Honeywell Experion PKS R40x(<R400.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'dual_onsrv.exe'模块存在远程代码执行漏洞，攻击者可以利用此漏洞在受影响的应用程序的上下文中执行任意代码。或发起拒绝服务攻击。	SCADA
+Honeywell Experion PKS R41x(<R410.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'dual_onsrv.exe'模块存在远程代码执行漏洞，攻击者可以利用此漏洞在受影响的应用程序的上下文中执行任意代码。或发起拒绝服务攻击。	SCADA
+Honeywell Experion PKS R43x(<R430.2)	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'dual_onsrv.exe'模块存在远程代码执行漏洞，攻击者可以利用此漏洞在受影响的应用程序的上下文中执行任意代码。或发起拒绝服务攻击。	SCADA
+Honeywell Experion PKS R40x(<R400.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个栈缓冲区溢出漏洞，因为应用程序未能正确边界检查用户提供的数据将其复制到一个充分大小的缓冲区之前。远程攻击者可能利用这些漏洞来执行任意代码或在受影响的应用程序的上下文中引起动态内存损坏。	SCADA
+Honeywell Experion PKS R41x(<R410.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个栈缓冲区溢出漏洞，因为应用程序未能正确边界检查用户提供的数据将其复制到一个充分大小的缓冲区之前。远程攻击者可能利用这些漏洞来执行任意代码或在受影响的应用程序的上下文中引起动态内存损坏。	SCADA
+Honeywell Experion PKS R43x(<R430.2)	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个栈缓冲区溢出漏洞，因为应用程序未能正确边界检查用户提供的数据将其复制到一个充分大小的缓冲区之前。远程攻击者可能利用这些漏洞来执行任意代码或在受影响的应用程序的上下文中引起动态内存损坏。	SCADA
+Honeywell Experion PKS R40x(<R400.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在文件包含漏洞，因为它未能充分地过滤的用户提供的输入。攻击者可以利用这个漏洞获得敏感信息或在Web服务器进程的上下文中执行任意脚本代码。	SCADA
+Honeywell Experion PKS R41x(<R410.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在文件包含漏洞，因为它未能充分地过滤的用户提供的输入。攻击者可以利用这个漏洞获得敏感信息或在Web服务器进程的上下文中执行任意脚本代码。	SCADA
+Honeywell Experion PKS R43x(<R430.2)	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在文件包含漏洞，因为它未能充分地过滤的用户提供的输入。攻击者可以利用这个漏洞获得敏感信息或在Web服务器进程的上下文中执行任意脚本代码。	SCADA
+Honeywell Experion PKS R40x(<R400.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'confd.exe'模块存在目录遍历漏洞，因为它未能充分地过滤用户提供的输入。远程攻击者可以利用与目录遍历序列特制的请求（'../'）来检索应用程序任意文件，获取敏感信息。	SCADA
+Honeywell Experion PKS R41x(<R410.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'confd.exe'模块存在目录遍历漏洞，因为它未能充分地过滤用户提供的输入。远程攻击者可以利用与目录遍历序列特制的请求（'../'）来检索应用程序任意文件，获取敏感信息。	SCADA
+Honeywell Experion PKS R43x(<R430.2)	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS 'confd.exe'模块存在目录遍历漏洞，因为它未能充分地过滤用户提供的输入。远程攻击者可以利用与目录遍历序列特制的请求（'../'）来检索应用程序任意文件，获取敏感信息。	SCADA
+Honeywell Experion PKS R40x(<R400.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个远程堆缓冲区溢出漏洞，因为它未能对用户提供的输入进行充分的边界检查。允许攻击者利用漏洞在受影响用户的应用程序上下文中执行任意代码或发起拒绝服务攻击。	SCADA
+Honeywell Experion PKS R41x(<R410.6) 	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个远程堆缓冲区溢出漏洞，因为它未能对用户提供的输入进行充分的边界检查。允许攻击者利用漏洞在受影响用户的应用程序上下文中执行任意代码或发起拒绝服务攻击。	SCADA
+Honeywell Experion PKS R43x(<R430.2)	Honeywell EPKS用于工业及生产进程的自动化及控制，是分布式控制系统解决方案，包括基于Web的SCADA系统。 Honeywell Experion PKS存在多个远程堆缓冲区溢出漏洞，因为它未能对用户提供的输入进行充分的边界检查。允许攻击者利用漏洞在受影响用户的应用程序上下文中执行任意代码或发起拒绝服务攻击。	SCADA
+Yokogawa Electric Corporation FAST/TOOLS	FAST/TOOLS软件包是一款分布式数据采集与监控(SCADA)系统。 Yokogawa FAST/TOOLS存在XML外部实体注入漏洞，攻击者可以利用这个漏洞来获得敏感信息或发起拒绝服务攻击。	SCADA
+MatrikonOPC DNP3 OPC Server 1.2.3.0	MatrikonOPC DNP3 OPC Server是加拿大MatrikonOPC公司的一款远程SCADA通讯类OPC服务器产品。该产品可连接多个DNP3兼容设备。 MatrikonOPC DNP3 OPC Server 1.2.3.0版本中存在拒绝服务漏洞，该漏洞源于程序存在未处理的异常。攻击者可借助特制的消息利用该漏洞造成拒绝服务。	SCADA
+Nordex SE Nordex Control 2 (NC2) SCADA 16	Nordex Control 2是一个风机控制系统。 Nordex Control 2 (NC2) SCADA 16之前版本存在跨站脚本漏洞，由于程序未能正确过滤'username'参数，远程攻击者以利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+Novus WS10 Data Server 1.83	NOVUS Electronics是工业控制、数据捕获及管理系统厂商，主要针对工厂自动化。 WS10 Data Server SCADA存在缓冲区溢出漏洞，允许攻击者利用漏洞向TCP 2001提交恶意请求使应用程序崩溃。	SCADA
+Schneider Electric ClearSCADA 2010 R3 (build 72.4560) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric ClearSCADA 2010 R3.1 (build 72.4644) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R1 (build 73.4729) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1 (build 73.4832) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1a (build 73.4903) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.2 (build 73.4955) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R2 (build 74.5094) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R2.1 (build 74.5192) 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2014 R1 (build 75.5210)	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA WEB接口存在跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可执行系统管理操作等。	SCADA
+Schneider Electric ClearSCADA 2010 R3-2014 R1	ClearSCADA是集成的SCADA主机平台。 Schneider Electric ClearSCADA存在远程未明漏洞，允许攻击者利用该漏洞获取敏感信息。	SCADA
+Schneider Electric ClearSCADA	ClearSCADA是集成的SCADA主机平台。 Schneider Electric ClearSCADA存在远程安全绕过漏洞，允许攻击者利用此漏洞绕过安全限制，执行未授权的操作。	SCADA
+CG Automation Solutions Inc. ePAQ-9410/9420 Multifunction Gateway	CG是自动化SCADA系统的电力，交通，可再生能源和水/废水处理事业的美国的供应商。 ePAQ-9410 Substation Gateway Serial-Connected设备存在本地拒绝服务漏洞，由于未能正确验证用户提供的输入。攻击者可以利用此漏洞崩溃受影响的设备，发起拒绝服务攻击。	SCADA
+CG Automation Solutions Inc. ePAQ-9410/9420 Multifunction Gateway	CG是自动化SCADA系统的电力，交通，可再生能源和水/废水处理事业的美国的供应商。 ePAQ-9410 Substation Gateway存在本地拒绝服务漏洞，因为它未能正确验证用户提供的输入。 攻击者可以利用此漏洞使受影响的设备崩溃，拒绝服务合法用户。	SCADA
+Cogent Real-Time Systems Cogent DataHub	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在远程目录遍历漏洞，该漏洞是由于程序未能正确过滤用户提供的输入。允许攻击者利用漏洞访问受限目录。	SCADA
+MICROSYS, spol. s r.o. PROMOTIC	MICROSYS PROMOTIC是一款SCADA软件。 Microsys PROMOTIC存在未明漏洞，目前没有详细的漏洞描述。	SCADA
+SIEMENS PCS7 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens多款产品存在本地权限提升漏洞，允许攻击者利用漏洞在受影响计算机上提升权限。	SCADA
+SIEMENS SIMATIC WinCC <7.3	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens多款产品存在本地权限提升漏洞，允许攻击者利用漏洞在受影响计算机上提升权限。	SCADA
+SIEMENS SIMATIC WinCC <7.3 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC And PCS7存在远程权限提升漏洞，远程攻击者可以利用此漏洞获取受影响的设备上提升权限。	SCADA
+SIEMENS PCS7 <8.1	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC And PCS7存在远程权限提升漏洞，远程攻击者可以利用此漏洞获取受影响的设备上提升权限。	SCADA
+SIEMENS SIMATIC WinCC <7.3 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens多款产品数据库服务器存在远程权限提升漏洞，远程攻击者可以利用此漏洞提升权限，并执行未经授权的操作。	SCADA
+SIEMENS PCS7 <8.1	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens多款产品数据库服务器存在远程权限提升漏洞，远程攻击者可以利用此漏洞提升权限，并执行未经授权的操作。	SCADA
+SIEMENS SIMATIC WinCC <7.3 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC and PCS7存在信息泄露漏洞，允许攻击者利用漏洞获取敏感信息或发起进一步攻击。	SCADA
+SIEMENS PCS7 <8.1	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC and PCS7存在信息泄露漏洞，允许攻击者利用漏洞获取敏感信息或发起进一步攻击。	SCADA
+SIEMENS SIMATIC WinCC <7.3 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC和PCS7存在权限提升漏洞，允许攻击者利用漏洞获得受影响的设备上的管理访问权限。	SCADA
+SIEMENS PCS7 <8.1	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC和PCS7存在权限提升漏洞，允许攻击者利用漏洞获得受影响的设备上的管理访问权限。	SCADA
+Triangle MicroWorks SCADA Data Gateway < 3.03.729	SCADA Data Gateway是系统集成商和公共事业事业的Windows应用，可收集OPC, IEC 60870-6 (TASE.2/ICCP), IEC 61850, IEC 60870-5, DNP3, Modbus Server/Slave设备上的数据，然后将这些数据传输给支持OPC, IEC 60870-6 (TASE.2/ICCP) Client, IEC 60870-5, DNP3, Modbus Client/Master通讯协议的其他控制系统。 SCADA Data Gateway由于捆绑了有心脏滴血漏洞的OpenSSL（CVE-2014-0160），在实现上存在信息泄露漏洞。恶意用户可利用此漏洞获取敏感信息。	SCADA
+cogentdatahub cogent_datahub 7.3.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.2.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.1.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.1.1.63 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.1.1 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.1.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.0.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.3.1 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.3.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.3.3 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.3.4	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在目录遍历漏洞，允许攻击者利用漏洞访问内置文件，获取敏感信息或进行拒绝服务攻击。	SCADA
+Triangle MicroWorks SCADA Data Gateway	Triangle MicroWorks是一家总部设在美国的公司，Triangle MicroWorks产品是单机或第三方组件产品，使用各种传输协议与外设/从设备进行通信(OPC Client, IEC 60870-6 (TASE.2/ICCP) Client, IEC 60870-5, DNP3, Modbus)。 Triangle MicroWorks SCADA通过串口的Data Gateway未能正确校验输入，允许攻击者提交特制的DNP3报文，可导致处理大量数据，造成拒绝服务攻击。	SCADA
+Triangle MicroWorks SCADA Data Gateway	Triangle MicroWorks是一家总部设在美国的公司，Triangle MicroWorks产品是单机或第三方组件产品，使用各种传输协议与外设/从设备进行通信(OPC Client, IEC 60870-6 (TASE.2/ICCP) Client, IEC 60870-5, DNP3, Modbus)。 Triangle MicroWorks SCADA Data Gateway未能正确校验输入，允许攻击者提交特制的DNP3报文，可导致处理大量数据，造成拒绝服务攻击。	SCADA
+cogentdatahub cogent_datahub 7.3.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.2.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.1.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.1.1.63 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.1.1 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.1.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.0.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.0 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.3.1 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.3.2 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.3.3 	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+cogentdatahub cogent_datahub 7.3.4	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在反射型跨站脚本漏洞，允许攻击者利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	SCADA
+Cogent Real-Time Systems Cogent DataHub < 7.3.5	Cogent DataHub是实时数据解决方案，属于SCADA和自动化软件。 Cogent DataHub 7.3.5之前版本在存储密码哈希时未能使用salt，攻击者可以暴力猜测，利用此漏洞获取明文密码。	SCADA
+Cogent Real-Time Systems Cogent DataHub < 7.3.5	Cogent DataHub是SCADA和自动化领域的软件。 Cogent Real-Time Systems Cogent DataHub存在堆缓冲区溢出漏洞。远程攻击者可通过请求中的‘Content-Length’字段中的负值利用该漏洞执行任意代码。	SCADA
+Cogent Real-Time Systems Cogent DataHub	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub WEB服务组件的GetPermissions.asp存在远程代码执行漏洞，允许攻击者利用漏洞提交特殊的请求，注入命令并执行。	SCADA
+Beijing Jichang Qiu Shi Science and Technology Co., Ltd. CenturyStar 7.12	CenturyStar是一个国内流行的SCADA工控软件。 CenturyStar CamW2000.dll ActiveX控件中的SetMyAddress函数在处理特制参数时存在溢出漏洞，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可使应用程序崩溃或执行任意代码。	SCADA
+Schneider Electric ClearSCADA 2013 	Schneider Electric ClearSCADA是开放软件平台，可以远程管理关键架构。 Schneider ClearSCADA在解析项目文件的实现上存在安全漏洞。要利用此漏洞需要安装 "PLC Driver"。	SCADA
+Schneider Electric ClearSCADA 2010	Schneider Electric ClearSCADA是开放软件平台，可以远程管理关键架构。 Schneider ClearSCADA在解析项目文件的实现上存在安全漏洞。要利用此漏洞需要安装 "PLC Driver"。	SCADA
+Schneider Electric SCADAPack 33x	Schneider Electric SCADAPack是一款遥测、远程SCADA系统解决方案。 Schneider Electric SCADAPack启用了VxWorks debug代理，允许远程攻击者利用漏洞向UDP/17185端口发送特制请求，可控制设备。	SCADA
+Beijing Jichang Qiu Shi Science and Technology Co., Ltd. CenturyStar 7.12	CenturyStar是一个国内流行的SCADA工控软件。 CenturyStar CamW2000.dll ActiveX控件中的SetMyAddress函数在解析参数时存在溢出漏洞，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可使应用程序崩溃或执行任意代码。	SCADA
+MICROSYS, spol. s r.o. MICROSYS 8.2.13	MICROSYS PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC PmTrends.dll ActiveX控件start函数未能正确过滤用户输入，允许攻击者利用漏洞构建恶意WEB页，诱使用户解析，可使应用程序崩溃。	SCADA
+Siemens simatic wincc open architecture <3.12	Siemens SIMATIC WinCC基于Windows平台，能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 Siemens SIMATIC WinCC Open Architecture存在密码泄露漏洞，远程攻击者可以利用此漏洞获取密码，执行未经授权的访问。	SCADA
+Siemens simatic wincc open architecture <3.12	Siemens SIMATIC WinCC基于Windows平台，能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 SIEMENS SIMATIC WinCC Open Architecture存在未明任意代码执行漏洞，远程攻击者可以利用此漏洞在受影响的应用程序的上下文中执行任意代码，可能导致拒绝服务攻击。	SCADA
+Siemens simatic wincc open architecture <3.12	Siemens SIMATIC WinCC基于Windows平台，能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 SIEMENS SIMATIC WinCC Open Architecture存在信息泄露漏洞，远程攻击者可以利用此漏洞获取敏感信息。	SCADA
+Siemens simatic wincc open architecture <3.12	Siemens SIMATIC WinCC基于Windows平台，能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。 SIEMENS SIMATIC WinCC OA 3.12之前版本存在安全漏洞。远程攻击者可以利用漏洞造成拒绝服务攻击。	SCADA
+Wellintech KingSCADA 3.1 	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品通过本地KAEClientManager控制台来执行验证服务，而对远程连接没有进行正确的校验，远程共集资和可向TCP 8130端口发送特制的报文获取敏感信息，如数据库验证凭据等。	SCADA
+Wellintech KingGraphic 3.1 	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品通过本地KAEClientManager控制台来执行验证服务，而对远程连接没有进行正确的校验，远程共集资和可向TCP 8130端口发送特制的报文获取敏感信息，如数据库验证凭据等。	SCADA
+Wellintech KingAlarm&Event 2.0.2	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品通过本地KAEClientManager控制台来执行验证服务，而对远程连接没有进行正确的校验，远程共集资和可向TCP 8130端口发送特制的报文获取敏感信息，如数据库验证凭据等。	SCADA
+Schneider Electric ClearSCADA 2010 R2 - 2010 R3.1 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 Schneider Electric ClearSCADA DNP3驱动中的DNP3Driver.exe存在安全漏洞，允许远程攻击者利用漏洞提交包含错误的IP报文，触发event-journal消息，可消耗大量资源，使应用挂起，造成拒绝服务攻击。	SCADA
+Schneider Electric SCADA Expert ClearSCADA 2013 R1 - 2013 R1.2	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 Schneider Electric ClearSCADA DNP3驱动中的DNP3Driver.exe存在安全漏洞，允许远程攻击者利用漏洞提交包含错误的IP报文，触发event-journal消息，可消耗大量资源，使应用挂起，造成拒绝服务攻击。	SCADA
+Wellintech KingSCADA 3.1 	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品所包含的ActiveX组件在处理"ProjectURL"属性时存在未明错误，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可下载和执行任意代码。	SCADA
+Wellintech KingGraphic 3.1 	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品所包含的ActiveX组件在处理"ProjectURL"属性时存在未明错误，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可下载和执行任意代码。	SCADA
+Wellintech KingAlarm&Event 2.0.2	KingSCADA是一种通用的工业监控软件,它融过程控制设计、现场操作以及工厂资源管理于一体。KingGraphic可以从多个工业实时数据库和关系数据库中获取数据。 WellinTech KingSCADA,KingGraphic和KingAlarm&Event产品所包含的ActiveX组件在处理"ProjectURL"属性时存在未明错误，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可下载和执行任意代码。	SCADA
+Ecava IntegraXor 4.1.4360	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。 Ecava IntegraXor SCADA服务器未能正确限制对项目目录文件的限制，允许远程攻击者利用漏洞提交特制的URL无需验证访问系统项目目录中备份文件。	SCADA
+NovaTech Orion5/Orion5r DNP Slave 1.23.10 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion DNP产品的Master驱动未能正确校验输入，允许远程攻击者利用漏洞发送基于IP的报文，使OrionLX中的Orion Process重启，造成拒绝服务攻击。	SCADA
+NovaTech Orion5/Orion5r DNP Master 1.27.38 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion DNP产品的Master驱动未能正确校验输入，允许远程攻击者利用漏洞发送基于IP的报文，使OrionLX中的Orion Process重启，造成拒绝服务攻击。	SCADA
+NovaTech OrionLX DNP Slave 1.23.10 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion DNP产品的Master驱动未能正确校验输入，允许远程攻击者利用漏洞发送基于IP的报文，使OrionLX中的Orion Process重启，造成拒绝服务攻击。	SCADA
+NovaTech OrionLX DNP Master 1.27.38	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion DNP产品的Master驱动未能正确校验输入，允许远程攻击者利用漏洞发送基于IP的报文，使OrionLX中的Orion Process重启，造成拒绝服务攻击。	SCADA
+NovaTech Orion5/Orion5r DNP Slave 1.23.10 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion Substation Automation Platform DNP3驱动存在安全漏洞，允许本地攻击者利用漏洞通过串口链接发送特制的报文，可使OrionLX中的Orion Process重启。	SCADA
+NovaTech Orion5/Orion5r DNP Master 1.27.38 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion Substation Automation Platform DNP3驱动存在安全漏洞，允许本地攻击者利用漏洞通过串口链接发送特制的报文，可使OrionLX中的Orion Process重启。	SCADA
+NovaTech OrionLX DNP Slave 1.23.10 	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion Substation Automation Platform DNP3驱动存在安全漏洞，允许本地攻击者利用漏洞通过串口链接发送特制的报文，可使OrionLX中的Orion Process重启。	SCADA
+NovaTech OrionLX DNP Master 1.27.38	NovaTech Orion Substation Automation Platform是一款使用DNP3协议的SCADA RTU系统。 NovaTech Orion Substation Automation Platform DNP3驱动存在安全漏洞，允许本地攻击者利用漏洞通过串口链接发送特制的报文，可使OrionLX中的Orion Process重启。	SCADA
+Alstom Grid e-Terracontrol 3.5 	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-terracontrol DNP Master驱动未能正确骄傲眼输入，允许可物理访问设备的用户通过串口线提交特殊输入，可使服务进入死循环而造成拒绝服务攻击。	SCADA
+Alstom Grid e-Terracontrol 3.6 	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-terracontrol DNP Master驱动未能正确骄傲眼输入，允许可物理访问设备的用户通过串口线提交特殊输入，可使服务进入死循环而造成拒绝服务攻击。	SCADA
+Alstom Grid e-Terracontrol 3.7	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-terracontrol DNP Master驱动未能正确骄傲眼输入，允许可物理访问设备的用户通过串口线提交特殊输入，可使服务进入死循环而造成拒绝服务攻击。	SCADA
+ABB MicroSCADA 9.x	ABB MicroSCADA是用于变电站控制的自动化软件。 ABB MicroSCADA wserver.exe不正确过滤用户提交的输入，允许远程攻击者利用漏洞向TCP 12221端口发送特制请求可触发基于栈缓冲区溢出，可使应用程序崩溃或执行任意代码。	SCADA
+ABB MicroSCADA 9.x	ABB MicroSCADA是用于变电站控制的自动化软件。 ABB MicroSCADA wserver.exe "CreateProcessA()"函数未能正确过滤用户提交给参数的输入，允许远程攻击者利用漏洞向TCP 12221端口发送特制请求可触发基于栈的缓冲区溢出，可使应用程序崩溃或以SYSTEM上下文执行任意代码。	SCADA
+Cogent Real-Time Systems Cogent DataHub < 7.3.4	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub存在拒绝服务漏洞。攻击者可以利用漏洞使服务器崩溃，并导致拒绝服务条件。	SCADA
+Alstom Grid e-Terracontrol 3.5 	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-Terracontrol软件不正确校验或没有校验用户提交的输入，允许远程攻击者利用漏洞提交特殊请求使软件进行死循环，使进程崩溃，造成拒绝服务攻击。	SCADA
+Alstom Grid e-Terracontrol 3.6 	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-Terracontrol软件不正确校验或没有校验用户提交的输入，允许远程攻击者利用漏洞提交特殊请求使软件进行死循环，使进程崩溃，造成拒绝服务攻击。	SCADA
+Alstom Grid e-Terracontrol 3.7	Alstom e-Terracontrol是一款SCADA系统上用于监视和控制电能系统的软件。 Alstom e-Terracontrol软件不正确校验或没有校验用户提交的输入，允许远程攻击者利用漏洞提交特殊请求使软件进行死循环，使进程崩溃，造成拒绝服务攻击。	SCADA
+Schneider Electric ClearSCADA 2013	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。 ClearSCADA处理WEB请求存在一个错误，允许远程攻击者利用漏洞提交恶意请求，触发异常，使应用程序崩溃。	SCADA
+Wellintech KingView 6.53	Kingview是亚控公司推出的第一款针对中小型项目推出的用于监视与控制自动化设备和过程的SCADA产品。 WellinTech KingView ActiveX存在多个任意文件覆盖漏洞。由于程序未能正确过滤用户输入，攻击者可以利用漏洞将任意文件保存在受影响应用上下文计算机上。	SCADA
+Cogent Real-Time Systems DataHub 7.3.2	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub包含一个未明安全漏洞，允许远程攻击者利用漏洞覆盖任意文件，目前没有详细漏洞细节提供。	SCADA
+Cogent Real-Time Systems DataHub 7.3.2	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub(vd_cdatahub2)包含一个未明安全漏洞，允许远程攻击者利用漏洞使系统崩溃。	SCADA
+Cogent Real-Time Systems DataHub 7.3.2	Cogent DataHub是SCADA和自动化领域的软件。 Cogent DataHub(vd_cdatahub)包含一个未明安全漏洞，允许远程攻击者利用漏洞使系统崩溃。	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-3530 RTAC 	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，本地攻击者可以利用该漏洞使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-3505 RTAC 	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，本地攻击者可以利用该漏洞使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-2241 RTAC	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，本地攻击者可以利用该漏洞使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-3530 RTAC 	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，允许远程攻击者可以利用该漏洞提交特制的DNP3 TCP报文使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-3505 RTAC 	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，允许远程攻击者可以利用该漏洞提交特制的DNP3 TCP报文使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Schweitzer Engineering Laboratories (SEL) SEL-2241 RTAC	Schweitzer Engineering Laboratories是一个位于美国华盛顿州的著名生产商，在电力系统继电保护、控制、监测、表计和SCADA领域处于领先地位。 Schweitzer Engineering Laboratories SEL-2241, SEL-3505, and SEL-3530 RTAC不正确验证DNP3输入，允许远程攻击者可以利用该漏洞提交特制的DNP3 TCP报文使软件进入死循环，导致程序崩溃。在某些条件下，DNP3驱动会自动重启，恢复通信，但严重的情况下，设备ALARM contact会触发断言，需要重载恢复设备驱动设置。 所影响产品如下： SEL-3530-R100 -V0-Z001001-D20090915 - SEL-3530- SEL-3530-R123-V0-Z002001 SEL-3530-4-R107-V0-Z001001-D20100818 - SEL-3530-4-R123-V0-Z002001-D20130117 SEL-3505-R119-V0-Z001001-D20120720 - SEL-3505-R123-V0-Z002001-D20130117 SEL-2241-R113-V0-Z001001-D20110721 - SEL-2241-R123-V0-Z002001-D20130117	SCADA
+Microsys, spol. s r.o. PROMOTIC 8.1.4 	PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC存在目录遍历漏洞。允许远程攻击者通过未指定向量读取任意文件。	SCADA
+MICROSYS, spol. s r.o. PROMOTIC 8.1.3	PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC存在目录遍历漏洞。允许远程攻击者通过未指定向量读取任意文件。	SCADA
+Clorius Controls A/S ICS SCADA 00.00.0110 	Clorius Controls ICS SCADA是一款工业控制系统软件。 Clorius Controls ICS SCADA未能正确限制对/html/info.html URL的访问，允许远程攻击者利用漏洞直接提交请求获取内部IP地址，MAC地址和固件版本信息。	SCADA
+Clorius Controls A/S ICS SCADA 00.00.0095	Clorius Controls ICS SCADA是一款工业控制系统软件。 Clorius Controls ICS SCADA未能正确限制对/html/info.html URL的访问，允许远程攻击者利用漏洞直接提交请求获取内部IP地址，MAC地址和固件版本信息。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.x 	Schneider Electric和7T Interactive Graphical SCADA System是一款自动化监视和控制系统。Interactive Graphical SCADA System在处理某些请求时dc.exe存在未明错误，允许攻击者向TCP 12397端口提交恶意请求触发缓冲区溢出，可使应用服务崩溃。	SCADA
+Schneider Electric Interactive Graphical SCADA System 10.x	Schneider Electric和7T Interactive Graphical SCADA System是一款自动化监视和控制系统。Interactive Graphical SCADA System在处理某些请求时dc.exe存在未明错误，允许攻击者向TCP 12397端口提交恶意请求触发缓冲区溢出，可使应用服务崩溃。	SCADA
+Sinapsi eSolar 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。Sinapsi eSolar设备把硬编码密码存放在设备的PHP文件中，使用此密码，攻击者可以以管理员权限登录。	SCADA
+Sinapsi eSolar DUO 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。Sinapsi eSolar设备把硬编码密码存放在设备的PHP文件中，使用此密码，攻击者可以以管理员权限登录。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。Sinapsi eSolar设备把硬编码密码存放在设备的PHP文件中，使用此密码，攻击者可以以管理员权限登录。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar Light是太阳能应用内使用的监控系统。 Sinapsi eSolar Light Photovoltaic System Monitor (又名Schneider Electric Ezylog photovoltaic SCADA 管理服务器)，Sinapsi eSolar，Sinapsi eSolar DUO固件2.0.2870_2.2.12之前的版本中的管理页面中存在漏洞。该漏洞源于程序不需要身份验证。远程攻击者可通过发送直接请求（如发送请求到ping.php）利用该漏洞，获得管理员访问权限。	SCADA
+Sinapsi eSolar 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"inverterselect"参数提交给dettagliinverter.php脚本和"lingua"参数提交给changelanguagesession.php脚本的输入在用于SQL查询之前缺少过滤，可被利用进行SQL注入攻击，可获得数据库信息或控制应用系统。	SCADA
+Sinapsi eSolar DUO 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"inverterselect"参数提交给dettagliinverter.php脚本和"lingua"参数提交给changelanguagesession.php脚本的输入在用于SQL查询之前缺少过滤，可被利用进行SQL注入攻击，可获得数据库信息或控制应用系统。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"inverterselect"参数提交给dettagliinverter.php脚本和"lingua"参数提交给changelanguagesession.php脚本的输入在用于SQL查询之前缺少过滤，可被利用进行SQL注入攻击，可获得数据库信息或控制应用系统。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar Light是太阳能应用内使用的监控系统。 Sinapsi eSolar Light Photovoltaic System Monitor (又名Schneider Electric Ezylog photovoltaic SCADA管理服务器)，Sinapsi eSolar，Sinapsi eSolar DUO固件2.0.2870_2.2.12之前的版本中的ping.php脚本中存在漏洞。远程攻击者可通过ip_dominio参数中的shell元字符利用该漏洞执行任意命令。	SCADA
+Sinapsi eSolar 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"ping"参数提交给ping.php脚本的输入在用于执行命令之前缺少校验，允许攻击者利用漏洞执行任意Shell命令。	SCADA
+Sinapsi eSolar DUO 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"ping"参数提交给ping.php脚本的输入在用于执行命令之前缺少校验，允许攻击者利用漏洞执行任意Shell命令。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。通过"ping"参数提交给ping.php脚本的输入在用于执行命令之前缺少校验，允许攻击者利用漏洞执行任意Shell命令。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar Light是太阳能应用内使用的监控系统。 基于Sinapsi eSolar Light Photovoltaic System Monitor (又名Schneider Electric Ezylog photovoltaic SCADA 管理服务器)，Sinapsi eSolar，Sinapsi eSolar DUO 固件2.0.2870_2.2.12之前版本中的login.php脚本中存在漏洞，该漏洞源于建立了多个硬编码账户。远程攻击者利用脚本中包含的(1)明文密码或(2)密码哈希值（如密码astridservice 或36e44c9b64），获得管理员身份访问权限。	SCADA
+Sinapsi eSolar 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。应用程序不正确限制对某些页面的访问，允许攻击者利用漏洞获得管理员访问。	SCADA
+Sinapsi eSolar DUO 2.x 	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。应用程序不正确限制对某些页面的访问，允许攻击者利用漏洞获得管理员访问。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar是一款监控与数据采集(SCADA)产品。应用程序不正确限制对某些页面的访问，允许攻击者利用漏洞获得管理员访问。	SCADA
+Sinapsi eSolar Light 2.x	Sinapsi eSolar Light是太阳能应用内使用的监控系统。 Sinapsi eSolar Light Photovoltaic System Monitor (又名Schneider Electric Ezylog photovoltaic SCADA管理服务器)，Sinapsi eSolar，Sinapsi eSolar DUO 固件2.0.2870_2.2.12之前版本中存在多个SQL注入漏洞。远程攻击者利用该漏洞通过(1)primo操作中的&lsquo;inverterselect&rsquo;参数传送到dettagliinverter.php脚本或(2)&lsquo;lingua&rsquo;参数传送到changelanguagesession.php脚本，执行任意SQL命令。	SCADA
+C3-ilex EOScada 11.x	C3-ilex EOScada是一款实时基于windows的能源管理系统，用于水电，油气等SCADA系统。C3-ilex EOScada对监听的端口5050/TCP或者端口24004/TCP没有进行正确的访问控制，允许攻击者提交随机数据使服务崩溃。	SCADA
+C3-ilex EOScada 11.x	C3-ilex EOScada是一款实时基于windows的能源管理系统，用于水电，油气等SCADA系统。C3-ilex EOScada监听的24006/TCP端口服务存在一个资源管理错误，允许攻击者向此端口发送大量随机数据使应用程序崩溃。	SCADA
+C3-ilex EOScada 11.x	C3-ilex EOScada是一款实时基于windows的能源管理系统，用于水电，油气等SCADA系统。攻击者连接C3-ilex EOScada TCP/12000端口，eosfailoverservice.exe会返回明文数据，可导致敏感信息泄露。	SCADA
+C3-ilex EOScada 11.x	C3-ilex EOScada是一款实时基于windows的能源管理系统，用于水电，油气等SCADA系统。C3-ilex EOScada eosfailoverservice.exe监听的12000/TCP端口服务存在一个资源管理错误，允许攻击者向此端口发送大量随机数据使应用程序崩溃。	SCADA
+Fultek WinTr Scada <=4.0.5	Fultek WinTr Scada是一款土耳其的SCADA软件。Fultek WinTr WEB服务器没有过滤用户输入，攻击者可以提交包含目录遍历序列的请求，以WEB权限读取系统文件内容。	SCADA
+Schneider Electric Ezylog photovoltaic management server null	Ezylog photovoltaic management server是一款SCADA产品。Ezylog photovoltaic management server "dettagliinverter.php"脚本不正确处理"inverterselect" GET参数及"changelanguagesession.php"未能正确处理"lingua" POST参数，攻击者可以利用漏洞进行SQL注入攻击，可获得数据库信息或劫持用户会话。	SCADA
+Schneider Electric Ezylog photovoltaic management server null	Ezylog photovoltaic management server是一款SCADA产品。Ezylog photovoltaic management server "login.php"会对用户验证信息进行检查，但设备内置授权2(有些设置上是3)账户，这些账户预定义密码(如加密密文为"satIZufhIrUfk"，相应字符串为"36e44c9b64")内置在PHP文件中，并不能通过更改或删除，攻击者可以借此获得对设备的未授权应用。	SCADA
+Schneider Electric Ezylog photovoltaic management server null	Ezylog photovoltaic management server是一款SCADA产品。Ezylog photovoltaic management server "ping.php"脚本未能正确过滤"ip_dominio" POST参数，攻击者可以利用漏洞以管理员权限执行任意命令。	SCADA
+Schneider Electric Ezylog photovoltaic management server null	Ezylog photovoltaic management server是一款SCADA产品。Ezylog photovoltaic management server对多个页面(如"ping.php"脚本)的访问未能进行正确的验证会话检查，攻击者可以利用漏洞获得对管理页面的未授权访问。	SCADA
+RealFlex RealWinDemo <= 2.1.12 	RealWin是运行在Windows平台上的数据采集与监视控制系统(SCADA)服务器产品。FlexView是为埃斯顿自动化制作的人机界面产品。多个RealFlex产品不安装在库文件，攻击者可以构建恶意DLL文件，存放在远程WebDAV或SMB共享，诱使应用程序解析，可以应用程序上下文执行任意代码。	SCADA
+RealFlex RealWin <= 2.1.12 	RealWin是运行在Windows平台上的数据采集与监视控制系统(SCADA)服务器产品。FlexView是为埃斯顿自动化制作的人机界面产品。多个RealFlex产品不安装在库文件，攻击者可以构建恶意DLL文件，存放在远程WebDAV或SMB共享，诱使应用程序解析，可以应用程序上下文执行任意代码。	SCADA
+RealFlex FlexView <= 3.1.85	RealWin是运行在Windows平台上的数据采集与监视控制系统(SCADA)服务器产品。FlexView是为埃斯顿自动化制作的人机界面产品。多个RealFlex产品不安装在库文件，攻击者可以构建恶意DLL文件，存放在远程WebDAV或SMB共享，诱使应用程序解析，可以应用程序上下文执行任意代码。	SCADA
+Invensys InFusion SCADA 2.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	SCADA
+SpecView SpecView <= 2.5 build 853	SpecView是一款SCADA软件。SpecView提供的WEB服务器不正确过滤用户提交的输入，允许攻击者提交目录遍历序列，绕过WEB ROOT限制，获取系统文件信息。	SCADA
+PROMOTIC PROMOTIC 8.x	MICROSYS PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC ActiveX组件存在一个基于堆的缓冲区溢出，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可进行拒绝服务攻击。	SCADA
+PROMOTIC PROMOTIC 8.x	MICROSYS PROMOTIC是一款SCADA软件。 MICROSYS PROMOTIC ActiveX组件存在一个基于栈的缓冲区溢出，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可进行拒绝服务攻击。	SCADA
+Measuresoft ScadaPro 4.0	Measuresoft ScadaPro是一款用于电力，油气，制药等公司的SCADA系统。Measuresoft ScadaPro使用固定或可控搜索路径发现资源，允许未授权攻击者构建恶意DLL文件，在合法DLL之前装载恶意文件，可导致以应用程序上下文执行任意代码。	SCADA
+(暂无)	WellinTech KingSCADA 3.0版本中存在漏洞，该漏洞源于在user.db中使用base64格式的明文存储密码。攻击者可通过读取文件获取敏感信息。	SCADA
+MICROSYS, spol. s r.o. MICROSYS 8.1.3 	PROMOTIC是一款基于windows的SCADA软件。当打开特制的项目文件时存在一个释放后使用条件，攻击者构建恶意文件，诱使用户解析可以应用程序上下文执行任意代码。	SCADA
+MICROSYS, spol. s r.o. MICROSYS 8.1.4 	PROMOTIC是一款基于windows的SCADA软件。当打开特制的项目文件时存在一个释放后使用条件，攻击者构建恶意文件，诱使用户解析可以应用程序上下文执行任意代码。	SCADA
+MICROSYS, spol. s r.o. MICROSYS 8.1.5	PROMOTIC是一款基于windows的SCADA软件。当打开特制的项目文件时存在一个释放后使用条件，攻击者构建恶意文件，诱使用户解析可以应用程序上下文执行任意代码。	SCADA
+GE Energy D20/D200 Substation Controller null	D20/D200 Substation Controller是IED的SCADA主站、下流子站和供给器的网关。General Electric (GE) D20ME是GE D20Substation Controller产品的一部分。General Electric D20/D200设备包含的TFTP服务器存在多个缓冲区溢出漏洞，允许远程攻击者对设备进行拒绝服务攻击，或可以以应用程序上下文执行任意代码。	SCADA
+Invensys InFusion CE/FE/SCADA 2.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	SCADA
+Invensys InFusion CE/FE/SCADA 2.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	SCADA
+ICP DAS USA KingSCADA 3.0	KingSCADA是一款面向高、中端市场的SCADA产品。KingSCADA把密码以Base64格式存储在user.db文件，用户可容易的解码访问SCADA服务器。	SCADA
+Schweitzer Engineering Laboratories, Inc. SEL-2032 Communications Processor 0	SEL-2032 Communications Processor是一款施耐德公司使用的通信处理器。SEL-2032 Communications Processor SCADA远程终端单元使用明文协议进行密码验证，另外攻击者可通过telnet和端口1024/TCP使服务程序崩溃。攻击者可以利用漏洞对服务进行拒绝服务攻击或获得敏感信息绕过安全限制进行访问。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.x	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。应用程序不安全装载部分库，攻击者可以构建恶意文件，诱使用户在远程WebDAV或SMB共享上打开，可以登录用户上下文执行任意代码。	SCADA
+Cogent Real-Time Systems OPC DataHub 6.4.21 	Cogent DataHub是SCADA和自动化领域的软件。由Cogent Real-Time Systems Inc提供的Cogent DataHub存在一个HTTP头注入漏洞，远程攻击者可向受影响系统发送特制HTTP头，伪造显示在用户WEB浏览器上的信息或进行HTTP应答分片攻击。	SCADA
+Cogent Real-Time Systems DataHub 7.1.2 	Cogent DataHub是SCADA和自动化领域的软件。由Cogent Real-Time Systems Inc提供的Cogent DataHub存在一个HTTP头注入漏洞，远程攻击者可向受影响系统发送特制HTTP头，伪造显示在用户WEB浏览器上的信息或进行HTTP应答分片攻击。	SCADA
+Cogent Real-Time Systems Cascade DataHub 6.4.21	Cogent DataHub是SCADA和自动化领域的软件。由Cogent Real-Time Systems Inc提供的Cogent DataHub存在一个HTTP头注入漏洞，远程攻击者可向受影响系统发送特制HTTP头，伪造显示在用户WEB浏览器上的信息或进行HTTP应答分片攻击。	SCADA
+7-Technologies Interactive Graphical SCADA System 8 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11143 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11200 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11355 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 7 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11129	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System存在缓冲区溢出，允许远程未验证攻击者执行任意代码或使应用程序崩溃。向TCP 12399或者12397端口发送超过特制数据报文，可触发此漏洞。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11200	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System数据服务器存在安全漏洞，允许远程未验证攻击者使应用程序崩溃。向TCP 12401端口发送超过特制数据报文，可触发缓冲区溢出，而使7T数据服务器应用程序崩溃。	SCADA
+7-Technologies Interactive Graphical SCADA System 7 	Safenet提供软件保护和证书管理产品，受影响产品Sentinel HASP，之前为Aladdin HASP SRM是一款数字证书管理程序。7T IGSS使用SafeNet Sentinel HASP SDK用于管理数字证书。可远程访问的WEB应用程序Sentinel HASP管理控制中心不充分校验用户输入，特殊的字符可允许攻击者构建和向配置文件注入HTML。成功利用漏洞允许攻击者更改配置文件中的代码。此漏洞可使用Mozilla FIrefox 2.0重现，目前使用当前的Mozilla Firefox, Microsoft Internet Explorer, Opera和Google Chrome不能触发此漏洞。	SCADA
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad存在多个安全漏洞，允许攻击者通过多个方法停止服务或使服务崩溃。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad存在多个安全漏洞，允许攻击者通过多个方法停止服务或使服务崩溃。	SCADA
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。miniweb.exe监听在80和443端口，通过使用编码的反斜杠和目录遍历模式可下载下载目录之外的文件。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。miniweb.exe监听在80和443端口，通过使用编码的反斜杠和目录遍历模式可下载下载目录之外的文件。	SCADA
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。miniweb存在安全漏洞，允许攻击者提交特制HTTP POST请求使服务器在检查请求文件的扩展名时访问任意非法内存区。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。miniweb存在安全漏洞，允许攻击者提交特制HTTP POST请求使服务器在检查请求文件的扩展名时访问任意非法内存区。	SCADA
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad提供的函数读取数据和unicode字符串存在基于栈的缓冲区溢出，允许攻击者利用漏洞执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad提供的函数读取数据和unicode字符串存在基于栈的缓冲区溢出，允许攻击者利用漏洞执行任意代码。	SCADA
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad服务器存在目录遍历漏洞，允许读，写和删除指定目录之外的任意文件。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。HmiLoad服务器存在目录遍历漏洞，允许读，写和删除指定目录之外的任意文件。	SCADA
+Schneider Electric CitectSCADA 7.1	CitectSCADA是用于在数据采集与监控系统(SCADA)中提供监视和控制功能的软件。 CitectSCADA和Mitsubishi MX4 SCADA 7.10版本中存在缓冲区溢出漏洞。该漏洞影响Batch server模块，攻击者可利用该漏洞在应用程序上下文中运行任意代码，失败的攻击尝试将导致拒绝服务。	SCADA
+Citect CitectSCADA 7.x	CitectSCADA是一款Mitsubishi MX4和施耐德电器使用的工控软件。CitectSCADA和MX4 SCADA Batch产品使用的第三方组件存在一个缓冲区溢出，在正常登录序列过程中向服务器发送超长用户输入字符串可触发此漏洞。精心构建字符串数据可以应用程序上下文执行任意代码。	SCADA
+PROMOTIC PROMOTIC 8.1.4	PROMOTIC是一款SCADA软件。PmTable.ocx ActiveX(19BA6EE6-4BB4-11D1-8085-0020AFC8C4AF)控件不正确处理GetPromoticSite方法，远程攻击者可以利用漏洞通过未初始化指针漏洞执行任意代码。	SCADA
+Microsys, spol. s r.o. PROMOTIC 8.x 	PROMOTIC是一款SCADA软件。PROMOTIC通过"/webdir/" URL传递的输入在用于读取文件之前缺少过滤，通过目录遍历攻击可以应用程序权限读取任意文件。	SCADA
+Microsys, spol. s r.o. PROMOTIC TrendsView ActiveX Control 1.x	PROMOTIC是一款SCADA软件。PROMOTIC通过"/webdir/" URL传递的输入在用于读取文件之前缺少过滤，通过目录遍历攻击可以应用程序权限读取任意文件。	SCADA
+Microsys, spol. s r.o. PROMOTIC 8.x 	PROMOTIC是一款SCADA软件。PROMOTIC PmTrendViewer ActiveX控件的"SaveCfg()"方法存在边界错误，向"vCfg"参数提交超长字符串可触发基于栈的缓冲区溢出。	SCADA
+Microsys, spol. s r.o. PROMOTIC TrendsView ActiveX Control 1.x	PROMOTIC是一款SCADA软件。PROMOTIC PmTrendViewer ActiveX控件的"SaveCfg()"方法存在边界错误，向"vCfg"参数提交超长字符串可触发基于栈的缓冲区溢出。	SCADA
+Microsys, spol. s r.o. PROMOTIC 8.x 	PROMOTIC是一款SCADA软件。PROMOTIC PmTrendViewer ActiveX控件的"AddTrend()"方法存在边界错误，向"sID"参数提交超长字符串可触发基于栈的缓冲区溢出。	SCADA
+Microsys, spol. s r.o. PROMOTIC TrendsView ActiveX Control 1.x	PROMOTIC是一款SCADA软件。PROMOTIC PmTrendViewer ActiveX控件的"AddTrend()"方法存在边界错误，向"sID"参数提交超长字符串可触发基于栈的缓冲区溢出。	SCADA
+easuresoft Development Ltd. ScadaPro 4.0.0.0	Measuresoft ScadaPro提供集成数据手机，监视，日志记录，报告生成等功能。Measuresoft ScadaPro存在安全漏洞，向TCP 11234端口发送特制"wF"命令，可获得任意文件内容。	SCADA
+easuresoft Development Ltd. ScadaPro 4.0.0.0	Measuresoft ScadaPro提供集成数据手机，监视，日志记录，报告生成等功能。Measuresoft ScadaPro存在安全漏洞，向TCP 11234端口发送特制"uF"命令，可删除任意文件。	SCADA
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63	Cogent DataHub是SCADA和自动化领域的软件。Cogent DataHub存在服务器/服务监听4052和4053端口，不同的是第二个端口使用SSL，第一个使用明文。"DH_OneSecondTick"函数存在基于栈的unicode缓冲区溢出，通过"domain", "report_domain", "register_datahub", "slave"和其他命令可触发。	SCADA
+easuresoft Development Ltd. ScadaPro 4.0.0.0	Measuresoft ScadaPro提供集成数据手机，监视，日志记录，报告生成等功能。Measuresoft ScadaPro存在安全漏洞，"xF"命令可被利用在任意DLL中调用任意函数，如通过msvcrt.dll中的"system()"函数执行应用程序。	SCADA
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63	Cogent DataHub是SCADA和自动化领域的软件。Cogent DataHub存在服务器/服务使用自定义WEB服务器，监听80端口，软件不正确处理Content-Length字段(-1 or 4294967295)加1，可导致整数溢出。	SCADA
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63	Cogent DataHub是SCADA和自动化领域的软件。Cogent DataHub存在服务器/服务使用自定义WEB服务器，监听80端口，软件不正确处理目录遍历序列，攻击者可以利用漏洞下载服务器上的文件。	SCADA
+easuresoft Development Ltd. ScadaPro 4.0.0.0	Measuresoft ScadaPro提供集成数据手机，监视，日志记录，报告生成等功能。当处理报文时service.exe存在多个边界错误，向TCP 11234端口发送特制命令可触发基于栈的缓冲区溢出。	SCADA
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63	Cogent DataHub是SCADA和自动化领域的软件。Cogent DataHub存在服务器/服务使用自定义WEB服务器，监听80端口，在请求的脚本后追加+，%20，%2e等字符，可获得脚本源代码信息。	SCADA
+Scadatec ModbusTagServer 4.1.1.81 	ScadaTEC ModbusTagServer和ScadaPhone存在缓冲区溢出，远程攻击者可以利用漏洞以应用程序上下文执行任意代码。失败的攻击可导致拒绝服务。要触发此漏洞，需要诱使目标用户从zip文件中装载一个对象。	SCADA
+Scadatec ScadaPhone 5.3.11.1230	ScadaTEC ModbusTagServer和ScadaPhone存在缓冲区溢出，远程攻击者可以利用漏洞以应用程序上下文执行任意代码。失败的攻击可导致拒绝服务。要触发此漏洞，需要诱使目标用户从zip文件中装载一个对象。	SCADA
+Control Microsystems ClearSCADA 2009 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA Web界面身份验证时存在错误，攻击者可以利用漏洞访问某些“安全模式”诊断功能。	SCADA
+Control Microsystems ClearSCADA 2007 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA Web界面身份验证时存在错误，攻击者可以利用漏洞访问某些“安全模式”诊断功能。	SCADA
+Control Microsystems ClearSCADA 2005	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA Web界面身份验证时存在错误，攻击者可以利用漏洞访问某些“安全模式”诊断功能。	SCADA
+Siemens ProTool 6.0 SP3 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP2 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 SP1 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2005 SP1 	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Siemens SIMATIC WinCC Flexible 2005	Siemens SIMATIC WinCC是一款能为工业领域提供完备的监控与数据采集（SCADA）功能，涵盖单用户系统直到支持冗余服务器和远程Web客户机解决方案的多用户系统。Siemens SIMATIC WinCC Flexible存在内存损坏漏洞。由于在标签模拟器中的未指定错误，导致攻击者可通过打开特制文件引起内存损坏，成功利用漏洞可以执行任意代码。	SCADA
+Control Microsystems ClearSCADA 2010 R1.0 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在安全认证绕过漏洞，攻击者可以利用漏洞获得敏感信息或执行未经授权的操作。	SCADA
+Control Microsystems ClearSCADA 2009 0 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在安全认证绕过漏洞，攻击者可以利用漏洞获得敏感信息或执行未经授权的操作。	SCADA
+Control Microsystems ClearSCADA 2007 0 	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在安全认证绕过漏洞，攻击者可以利用漏洞获得敏感信息或执行未经授权的操作。	SCADA
+Control Microsystems ClearSCADA 2005 0	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在安全认证绕过漏洞，攻击者可以利用漏洞获得敏感信息或执行未经授权的操作。	SCADA
+ClearSCADA ClearSCADA 2005/2007/2009	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在跨站脚本漏洞，部分未明输入在返回用户之前缺少过滤，攻击者可以利用漏洞进行跨站脚本攻击，可获得敏感信息或劫持用户会话。	SCADA
+ClearSCADA ClearSCADA 2005/2007/2009	ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA 应用程序存在一个释放后使用错误，发送超长字符串可触发基于堆的缓冲区溢出，成功利用漏洞可以应用程序上下文执行任意代码。	SCADA
+7-Technologies Interactive Graphical SCADA System 8 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。当处理发送给TCP 20222端口的报文时，开放数据库连接组件存在一个内存破坏漏洞，使用非法结构可导致一个可利用的条件，成功利用漏洞可以以应用程序上下文执行任意代码。	SCADA
+7-Technologies Interactive Graphical SCADA System 9 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。当处理发送给TCP 20222端口的报文时，开放数据库连接组件存在一个内存破坏漏洞，使用非法结构可导致一个可利用的条件，成功利用漏洞可以以应用程序上下文执行任意代码。	SCADA
+7-Technologies Interactive Graphical SCADA System 9.0.0.11129	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。当处理发送给TCP 20222端口的报文时，开放数据库连接组件存在一个内存破坏漏洞，使用非法结构可导致一个可利用的条件，成功利用漏洞可以以应用程序上下文执行任意代码。	SCADA
+7-Technologies Interactive Graphical SCADA System	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。IGSS的ODBC服务组件默认监听TCP 20222端口，应用程序层协议运行在TCP上，读取指定了后续跟进数据量的初始化报文。第二次读取拷贝到可变长度缓冲区的位置和数据，接下来的数据解析可触发缓冲区溢出。	SCADA
+7-Technologies Interactive Graphical SCADA System 8 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System由于不正确校验用户提供的输入，远程攻击者可以利用漏洞以应用程序上下文执行任意代码或使用目录遍历字符串执行未授权操作。	SCADA
+7-Technologies Interactive Graphical SCADA System 9	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。7T Interactive Graphical SCADA System由于不正确校验用户提供的输入，远程攻击者可以利用漏洞以应用程序上下文执行任意代码或使用目录遍历字符串执行未授权操作。	SCADA
+DATAC Control International RealWin SCADA Server 2.1 (Build 6.1.10.10) 	DATAC RealWin是一款SCADA服务器产品，可通过TCP/IP网络操作单个PC或多个PC。DATAC RealWin SCADA Server由于不正确校验用户提供的输入，远程攻击者可以利用漏洞进行缓冲区溢出攻击。成功利用漏洞可以以应用程序安全上下文执行任意代码。	SCADA
+DATAC Control International RealWin SCADA Server 1.06 	DATAC RealWin是一款SCADA服务器产品，可通过TCP/IP网络操作单个PC或多个PC。DATAC RealWin SCADA Server由于不正确校验用户提供的输入，远程攻击者可以利用漏洞进行缓冲区溢出攻击。成功利用漏洞可以以应用程序安全上下文执行任意代码。	SCADA
+DATAC Control International RealWin SCADA Server 2.0 	DATAC RealWin是一款SCADA服务器产品，可通过TCP/IP网络操作单个PC或多个PC。DATAC RealWin SCADA Server由于不正确校验用户提供的输入，远程攻击者可以利用漏洞进行缓冲区溢出攻击。成功利用漏洞可以以应用程序安全上下文执行任意代码。	SCADA
+DATAC Control International RealWin SCADA Server 2.1 	DATAC RealWin是一款SCADA服务器产品，可通过TCP/IP网络操作单个PC或多个PC。DATAC RealWin SCADA Server由于不正确校验用户提供的输入，远程攻击者可以利用漏洞进行缓冲区溢出攻击。成功利用漏洞可以以应用程序安全上下文执行任意代码。	SCADA
+DATAC Control International RealWin SCADA Server 2.1.10	DATAC RealWin是一款SCADA服务器产品，可通过TCP/IP网络操作单个PC或多个PC。DATAC RealWin SCADA Server由于不正确校验用户提供的输入，远程攻击者可以利用漏洞进行缓冲区溢出攻击。成功利用漏洞可以以应用程序安全上下文执行任意代码。	SCADA
+WebSCADA WS200 null 	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中的cgi-bin/read.cgi中存在漏洞。远程认证管理员可以通过使用config.html 2.conf操作替换包含任意代码的标识页面的GIF图像文件执行这些任意代码。	SCADA
+WebSCADA WS100 null	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中的cgi-bin/read.cgi中存在漏洞。远程认证管理员可以通过使用config.html 2.conf操作替换包含任意代码的标识页面的GIF图像文件执行这些任意代码。	SCADA
+WebSCADA WS200 null 	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中的cgi-bin/read.cgi中存在绝对路径遍历漏洞。远程认证管理员可以借助file参数中的完整路径名读取任意文件。	SCADA
+WebSCADA WS100 null	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中的cgi-bin/read.cgi中存在绝对路径遍历漏洞。远程认证管理员可以借助file参数中的完整路径名读取任意文件。	SCADA
+IntelliCom NetBiter NB200	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中的cgi-bin/read.cgi中存在目录遍历漏洞。远程认证管理员可以借助page参数中的".."操作符读取任意文件。	SCADA
+WebSCADA WS200 null 	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中存在默认的用户名与密码。远程攻击者可以借助web界面获取超级管理员的访问。	SCADA
+WebSCADA WS100 null	基于IntelliCom NetBiter NB100和NB200平台的WebSCADA WS100和WS200，Easy Connect EC150，Modbus RTU - TCP Gateway MB100，以及Serial Ethernet Server SS100中存在默认的用户名与密码。远程攻击者可以借助web界面获取超级管理员的访问。	SCADA
+7-Technologies Interactive Graphical SCADA System 8 	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。攻击者可以向目标服务器监听的20222 TCP端口发送特制报文，可触发拒绝服务或任意代码执行攻击。	SCADA
+7-Technologies Interactive Graphical SCADA System 9	7T Interactive Graphical SCADA System是一款自动化监视和控制系统。攻击者可以向目标服务器监听的20222 TCP端口发送特制报文，可触发拒绝服务或任意代码执行攻击。	SCADA
+Control Microsystems ClearSCADA 2009 	Control Microsystems是施耐德电器公司，全球SCADA硬件和软件产品提供商。ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在多个安全漏洞：1，ClearSCADA应用程序存在基于堆的缓冲区溢出，溢出为释放后使用类型堆溢出。发送包含超长字符串的合法报文可触发堆破坏。2，ClearSCADA提供的支持HTTP和HTTPS的WEB接口，默认情况下，ClearSCADA服务器使用HTTP，这允许任何人可通过嗅探获得明文验证信息。3，WEB接口存在反射型跨站脚本攻击，利用这个漏洞，攻击者可以把恶意代码直接注入到用户浏览器会话中。返回给用户的参数缺少过滤。	SCADA
+Control Microsystems ClearSCADA 2007 	Control Microsystems是施耐德电器公司，全球SCADA硬件和软件产品提供商。ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在多个安全漏洞：1，ClearSCADA应用程序存在基于堆的缓冲区溢出，溢出为释放后使用类型堆溢出。发送包含超长字符串的合法报文可触发堆破坏。2，ClearSCADA提供的支持HTTP和HTTPS的WEB接口，默认情况下，ClearSCADA服务器使用HTTP，这允许任何人可通过嗅探获得明文验证信息。3，WEB接口存在反射型跨站脚本攻击，利用这个漏洞，攻击者可以把恶意代码直接注入到用户浏览器会话中。返回给用户的参数缺少过滤。	SCADA
+Control Microsystems ClearSCADA 2005	Control Microsystems是施耐德电器公司，全球SCADA硬件和软件产品提供商。ClearSCADA是包含轮训引擎，实时数据库，WEB服务器，报警处理器和报告软件的集成SCADA主机平台。ClearSCADA存在多个安全漏洞：1，ClearSCADA应用程序存在基于堆的缓冲区溢出，溢出为释放后使用类型堆溢出。发送包含超长字符串的合法报文可触发堆破坏。2，ClearSCADA提供的支持HTTP和HTTPS的WEB接口，默认情况下，ClearSCADA服务器使用HTTP，这允许任何人可通过嗅探获得明文验证信息。3，WEB接口存在反射型跨站脚本攻击，利用这个漏洞，攻击者可以把恶意代码直接注入到用户浏览器会话中。返回给用户的参数缺少过滤。	SCADA
+Indusoft NTWebServer	Indusoft是由indusoft公司开发的一套功能强大的人际界面图控设计软件(SCADA)。InduSoft NTWebServer在TCP 80端口运行测试WEB服务，当提交超过2048字节给固定大小的栈缓冲区时，InduSoft NTWebServer测试WEB服务会触发基于栈的缓冲区溢出，成功利用漏洞可以以服务进程上下文执行任意代码。	SCADA

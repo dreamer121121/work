@@ -1,0 +1,442 @@
+[
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 06CPU-P   ",
+        "Location": "Location Netherlands : Delden",
+        "lon": 6.702707745889058,
+        "ip": "80.65.*.*",
+        "lat": 52.255657529944756,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location United States : Baltimore",
+        "lon": -76.58196031230571,
+        "ip": "23.31.*.*",
+        "lat": 39.303289989779394,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Rosemont",
+        "lon": -87.88431654468359,
+        "ip": "63.85.*.*",
+        "lat": 41.97961629712251,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Powers Lake",
+        "lon": -88.29086010298025,
+        "ip": "66.97.*.*",
+        "lat": 42.5358282808643,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Sweden : Bor\u00e5s",
+        "lon": 12.990868506496694,
+        "ip": "78.70.*.*",
+        "lat": 57.69994426843727,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Sweden : Storuman",
+        "lon": 17.12648981678844,
+        "ip": "79.138.*.*",
+        "lat": 65.10376514330333,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Poland : Warzachewka Polska",
+        "lon": 19.08736431583244,
+        "ip": "83.220.*.*",
+        "lat": 52.593798975469475,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 13UDEHCPU ",
+        "Location": "Location Luxembourg : Luxembourg",
+        "lon": 6.111350263136899,
+        "ip": "83.99.*.*",
+        "lat": 49.57128204997146,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-20 12:26:24",
+        "Banner": "CPUINFO : 02CPU-P   ",
+        "Location": "Location Norway : Ulvik",
+        "lon": 6.894009062621232,
+        "ip": "84.205.*.*",
+        "lat": 60.57493454232223,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Turkey : Bursa",
+        "lon": 29.17595539343674,
+        "ip": "88.247.*.*",
+        "lat": 40.20174429275632,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Sweden : Vaennaes",
+        "lon": 19.723429865622727,
+        "ip": "88.83.*.*",
+        "lat": 63.909218567702055,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 12DCCPU-V ",
+        "Location": "Location Japan : Nagoya",
+        "lon": 136.92391902648833,
+        "ip": "133.6.*.*",
+        "lat": 35.18913471379466,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 12DCCPU-V ",
+        "Location": "Location Japan : Nagoya",
+        "lon": 136.9426603756748,
+        "ip": "133.6.*.*",
+        "lat": 35.18412096519932,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 13UDEHCPU ",
+        "Location": "Location Japan : Tokyo",
+        "lon": 139.83779091893297,
+        "ip": "153.141.*.*",
+        "lat": 35.63159197724902,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 03UDVCPU  ",
+        "Location": "Location Japan : Ishinomaki",
+        "lon": 141.27763590890487,
+        "ip": "153.213.*.*",
+        "lat": 38.413128405943354,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Japan : Tokyo",
+        "lon": 139.87645917161308,
+        "ip": "118.243.*.*",
+        "lat": 35.608691725213525,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Des Moines",
+        "lon": -93.51627890431504,
+        "ip": "166.141.*.*",
+        "lat": 41.598153212794585,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Des Moines",
+        "lon": -93.66964594947747,
+        "ip": "166.141.*.*",
+        "lat": 41.5760453074908,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:38:00",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Wilson",
+        "lon": -77.866780371568,
+        "ip": "166.148.*.*",
+        "lat": 35.7007794813217,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Leesburg",
+        "lon": -77.53155812272308,
+        "ip": "166.149.*.*",
+        "lat": 39.10737071612717,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Leesburg",
+        "lon": -77.57478092278697,
+        "ip": "166.149.*.*",
+        "lat": 39.13453447020438,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Leesburg",
+        "lon": -77.57410929125965,
+        "ip": "166.149.*.*",
+        "lat": 39.09853516194373,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Leesburg",
+        "lon": -77.58190356998014,
+        "ip": "166.149.*.*",
+        "lat": 39.1333722028265,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Des Moines",
+        "lon": -93.65960881311415,
+        "ip": "166.149.*.*",
+        "lat": 41.56173370680078,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Austin",
+        "lon": -97.68775192383868,
+        "ip": "166.155.*.*",
+        "lat": 30.26494448082984,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location United States : San Antonio",
+        "lon": -98.24082322873973,
+        "ip": "166.155.*.*",
+        "lat": 29.531137731992455,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Austin",
+        "lon": -97.86834630821916,
+        "ip": "166.155.*.*",
+        "lat": 30.146112007026577,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Austin",
+        "lon": -97.62690329157857,
+        "ip": "166.155.*.*",
+        "lat": 30.51130186274368,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:26",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Doylestown",
+        "lon": -75.10698381596916,
+        "ip": "166.239.*.*",
+        "lat": 40.30451444518213,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Doylestown",
+        "lon": -75.11358734895653,
+        "ip": "166.239.*.*",
+        "lat": 40.31797539653746,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : San Antonio",
+        "lon": -98.57669826436418,
+        "ip": "166.155.*.*",
+        "lat": 29.696925622523356,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Poland : Nysa",
+        "lon": 17.319880795820325,
+        "ip": "176.98.*.*",
+        "lat": 50.451907525503614,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location Norway : Trondheim",
+        "lon": 10.404302736774639,
+        "ip": "178.164.*.*",
+        "lat": 63.388466746376004,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 04UDEHCPU ",
+        "Location": "Location Japan : Sapporo",
+        "lon": 141.35382162479863,
+        "ip": "180.43.*.*",
+        "lat": 43.08530428829585,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Japan : Osaka",
+        "lon": 135.51199874555803,
+        "ip": "180.50.*.*",
+        "lat": 34.67251989584941,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 02CPU     ",
+        "Location": "Location Canada : Montreal (Southwest)",
+        "lon": -73.5309415457207,
+        "ip": "184.151.*.*",
+        "lat": 45.46028462439473,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 02CPU     ",
+        "Location": "Location Canada : Montreal (Southwest)",
+        "lon": -73.55268136283338,
+        "ip": "184.151.*.*",
+        "lat": 45.49170010573063,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 03UDECPU  ",
+        "Location": "Location Norway : Moss",
+        "lon": 10.62411982597748,
+        "ip": "193.213.*.*",
+        "lat": 59.43599236093037,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:48:27",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location United States : Sandy City",
+        "lon": -111.88111061793727,
+        "ip": "208.64.*.*",
+        "lat": 40.61363154525164,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:54:13",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location Canada : Peace River",
+        "lon": -117.34027397209155,
+        "ip": "209.89.*.*",
+        "lat": 56.23974586911071,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:54:13",
+        "Banner": "CPUINFO : 04UDEHCPU ",
+        "Location": "Location Japan : Sapporo",
+        "lon": 141.39128682070066,
+        "ip": "219.96.*.*",
+        "lat": 43.060195938049304,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:54:13",
+        "Banner": "CPUINFO : 06UDEHCPU ",
+        "Location": "Location China Taiwan : Taoyuan City",
+        "lon": 121.12134604904728,
+        "ip": "211.21.*.*",
+        "lat": 25.0848969095116,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:54:13",
+        "Banner": "CPUINFO : 12DCCPU-V ",
+        "Location": "Location Japan : Komae-shi",
+        "lon": 139.566643558906,
+        "ip": "222.158.*.*",
+        "lat": 35.637917562760066,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    },
+    {
+        "timestamp": "2015-10-26 04:54:13",
+        "Banner": "CPUINFO : 04UDEHCPU ",
+        "Location": "Location Japan : Sapporo",
+        "lon": 141.3803743032604,
+        "ip": "219.96.*.*",
+        "lat": 43.02809038476959,
+        "Service": "Service melsec-q",
+        "port": "5007"
+    }
+]

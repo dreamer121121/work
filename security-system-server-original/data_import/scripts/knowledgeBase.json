@@ -1,0 +1,144 @@
+{
+    "properties": {
+        "INDEX"     : "String",
+        "name"      : "String",
+        "city"      : "String",
+        "country"   : "String",
+        "continent" : "String",
+        "asn"       : "String",
+        "lat"       : "String",
+        "lon"       : "String",
+        "hostname"  : "String",
+        "service"   : "String",
+        "os"        : "String",
+        "app"       : "String",
+        "extrainfo" : "String",
+        "version"   : "String",
+        "port"      : "String",
+        "banner"    : "String",
+        "timestamp" : "String",
+        "url"       : "String",
+        "time"      : "String",
+        "level"     : "String",
+        "description" : "String",
+        "provider"  : "String",
+        "mitigation" : "String",
+        "hash"      : "String"
+    },
+    "vertices" : [
+        {	"type" : "protocol",
+            "properties" : [
+                "name", "description"
+            ]
+        },
+        {	"type"  :   "deviceType",
+            "properties" : [
+                "name"
+            ]
+        },
+        {	"type" : "device",
+            "properties" : [
+                "name"
+            ]
+        },
+        {	"type" : "instance",
+            "properties" : [
+                "name", "city", "country", "continent", "asn", "lat", "lon", "hostname", "service", "os", "app", "extrainfo", "version", "port", "banner", "timestamp"
+            ]
+        },
+        {	"type"  :   "vendor",
+            "properties" : [
+                "name", "country", "url"
+            ]
+        },
+        {	"type" : "event",
+            "properties" : [
+                "name", "time", "level"
+            ]
+        },
+        {	"type"  :   "vulnerability",
+            "properties" : [
+                "name", "level", "description", "url", "mitigation", "provider", "timestamp"
+            ]
+        }
+    ],
+    "edges" : [
+        {
+            "type": "devType2dev",
+			"multiplicity":"MULTI",
+			"properties": [
+                "INDEX", "hash"
+			]
+		},
+		{
+			"type": "dev2vendor",
+			"multiplicity":"MULTI",
+			"properties": [
+                "INDEX", "hash"
+			]
+		},
+        {
+            "type": "ins2ven",
+            "multiplicity":"MULTI",
+            "properties": [
+                "INDEX", "hash"
+            ]
+        },
+        {
+            "type": "vul2ven",
+            "multiplicity":"MULTI",
+            "properties": [
+                "INDEX", "hash"
+            ]
+        },
+        {
+            "type": "ins2pro",
+            "multiplicity":"MULTI",
+            "properties": [
+                "INDEX", "hash"
+            ]
+        },
+        {
+            "type": "dev2vendor",
+            "multiplicity":"MULTI",
+            "properties": [
+                "INDEX", "hash"
+            ]
+        }
+    ],
+	"index" : [
+		{
+			"v_or_e":"v",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"name"
+			],
+            "unique": "false"
+        },
+		{
+			"v_or_e":"v",
+			"index_type":"mixed",
+			"type":"all",
+			"properties":[
+				"name"
+			]
+        },
+        {
+             "v_or_e":"e",
+             "index_type":"mixed",
+             "type":"all",
+             "properties":[
+                "INDEX"
+             ]
+        },
+		{
+			"v_or_e":"e",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"INDEX"
+			]
+		}
+	]
+}

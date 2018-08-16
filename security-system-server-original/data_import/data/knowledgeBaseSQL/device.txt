@@ -1,0 +1,1236 @@
+Triangle MicroWorks SCADA Data Gateway
+ARC Informatique PcVue 10.x 
+Siemens SIMATIC S7-1200 2.0.3
+Emerson Electric Co ROC800 3.50
+Wind River Systems VxWorks 6.x 
+Siemens SIMATIC WinCC Flexible 2008 
+Huawei UAP2105 V300R011C0SPC100(BootRom) 
+ARC Informatique PcVue 7.x 
+Siemens SIMATIC WinCC Flexible 2005 
+SIEMENS SIMATIC WinCC <7.3 
+Schneider Electric BMXP3420xx PLC modules 
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63
+Invensys InFusion Foundation Edition 2.x 
+Control Microsystems ClearSCADA 2005
+Beckhoff Automation TwinCAT Scope 2.9.0.226
+General Electric Company Proficy HMI/SCADA – iFIX 5.0 
+SIEMENS SIMATIC CFC 8.1（<Upd1)
+7-Technologies Interactive Graphical SCADA System 9.0.0.11129
+Infinite Automation Systems, Inc. Mango Automation 2.6.0
+Ecava IntegraXor
+Schneider Electric Quantum 140NOE77111 
+三维力控 pNetPower 6.1
+Siemens SIMATIC HMI Panels 0 
+cogentdatahub cogent_datahub 7.3.2 
+Rockwell Automation 1763-L16BBB（Series B） 
+Siemens SIMATIC S7-1200 3.x
+Emerson DeltaV 11.3.1 
+Invensys InTouch 10.5 
+3S - Smart Software Solutions GmbH CODESYS Runtime Toolkit <2.4.7.48
+Honeywell International Uniformance Process History Database（PHD） R310 
+Rexroth Bosch BLADEcontrol <=3.0.2
+HP Network Automation 9.0X 
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 
+Siemens SIMATIC HMI Panels null 
+Cogent Real-Time Systems DataHub 7.3.2
+Schneider Electric TLXCDSTOFS33 3.5 
+SIEMENS SIMATIC PCS 7 7.1-SP4 
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.2 (build 73.4955) 
+HP Network Automation 7.2 
+HP Network Automation 7.6 
+Emerson Electric Co DeltaV 11 
+Siemens SIMATIC WinCC 7.x 
+Rockwell Automation Controllogix null 
+Invensys Wonderware Information Server 4.5 Portal
+3S - Smart Software Solutions CoDeSys 2.x 
+Siemens SIMATIC WinCC Flexible 2008 SP2
+Advantech WebAccess < 8.1
+Panasonic FPWIN Pro 5.x 
+Siemens SIMATIC WinCC Sm@rtClient for Android
+Siemens WINCC 7.0 SP3
+Schweitzer Engineering Laboratories (SEL) SEL-3530 RTAC 
+Siemens SIMATIC WinCC flexible Runtime 0 
+Honeywell XL Web Controller XL1000C50U EXCEL WEB 52 I/O UU
+Siemens SIMATIC WinCC Flexible 2005 SP1 
+HP Network Automation 7.5 
+Emerson Electric Co ROC800L 1.20 
+Omron ns15 hmi terminal 
+Advantech BroadWin WebAccess 7.0
+SIEMENS WINCC 7.0 
+Invensys Wonderware Application Server 2012 0 
+RuggedCom Rugged Operating System 3.10.1
+Emerson Electric Co DeltaV 10 
+Siemens SIMATIC WinCC 6.2
+ABB WebWare Server 4.6 
+Advantech EKI-1200 Gateway <1.63
+Honeywell Experion PKS R40x(<R400.6) 
+Indusoft Web Studio 7.0B2 
+Rockwell Automation Micrologix 1400 DNP3
+Siemens SIMATIC WinCC V11 
+Advantech BroadWin SCADA WebAccess 6.x.x
+Inductive Automation Ignition 7.7.2
+Emerson Electric Co DeltaV Workstations 9
+Wellintech KingView 6.53
+Siemens SIMATIC STEP 7 (TIA Portal) < V13 SP1 Upd1
+Honeywell Experion PKS R41x(<R410.6) 
+Siemens SIMATIC WinCC TIA Portal 12.x
+Infinite Automation Systems, Inc. Mango Automation 2.5.5 
+Schneider Electric M340 PLC modules
+Indusoft Web Studio 6.1 
+Invensys Wonderware Information Server 4.0 SP1 
+Wind River Systems VxWorks 5.5 through 6.9
+Emerson DeltaV 11.3 
+Indusoft NTWebServer
+Rockwell Automation 1764 MicroLogix 1500 Controllers null 
+Honeywell XL Web Controller XL1000C100U EXCEL WEB 104 I/O 
+SIEMENS SIMATIC S7-300 CPUs with Profinet support < V3.2.12 
+Control Microsystems ClearSCADA 2009 
+Schneider Electric Quantum 140NWM10000 
+SIEMENS SIMATIC WinCC Sm@rtClient Lite for iOS < 1.0.2
+Panasonic FPWIN Pro <=7.122
+Rockwell Automation Micrologix 1400
+Schneider Electric Modicon PLC
+Clorius Controls A/S ICS SCADA 00.00.0095
+Siemens TIM 3V-IE DNP3 devices 
+Schneider Electric ClearSCADA
+Rockwell Automation RSLinx 2.3.1 Build 10
+Siemens SIMATIC RF Manager 2008 
+Advantech WebAccess <8.1_20160519
+Siemens SIMATIC WinCC Flexible 2008 SP2 
+Siemens SIMATIC WinCC Flexible 2004 
+Progea Movicon 11.2 Build 1085 
+3S - Smart Software Solutions GmbH CoDeSys 3.4 SP4 Patch 2
+Siemens SIMATIC WinCC null 
+Siemens SINEMA Server 12
+Rockwell Software RSLinx Enterprise CPR9 
+HP Network Automation 9.1X 
+HP Network Automation 9.2X 
+Schneider Electric ETG3000 FactoryCast HMI Gateway
+Siemens SIMATIC WinCC 0
+7-Technologies Interactive Graphical SCADA System 8 
+cogentdatahub cogent_datahub 7.1.0 
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2 
+HP Network Automation 9.22.02 
+Rockwell Automation PLC-5 Controller null 
+Advantech BroadWin WebAccess null
+SIEMENS SIMATIC STEP 7 V13 SP1
+Cogent Real-Time Systems DataSim 6.4.21
+cogentdatahub cogent_datahub 7.3.3 
+Siemens SIMATIC PCS 7 8.x
+HP Network Automation 9.22 
+ARC Informatique PcVue 9.x 
+Siemens SIMATIC S7-1500 1.x
+Emerson Electric Co DL8000 2.30 
+SIEMENS WINCC 7.0-SP3 
+Siemens SIMATIC S7-1200 2.x 
+SIEMENS SIMATIC CFC <8.0 SP4 Upd9 
+Invensys Wonderware InBatch 9.5
+Wellintech KingView 6.53 
+Beckhoff IPC Diagnostics <1.8
+Siemens SIMATIC WinCC V11
+Rockwell Automation Micrologix 1100 
+ABB Test Signal Viewer 1.x
+Schneider Electric InduSoft Web Studio <8.0
+Invensys Wonderware Inbatch 9.0 
+ARC Informatique PcVue 8.x 
+Schneider Electric Ezylog photovoltaic management server null
+Indusoft Thin Client 7.1
+ICONICS, Inc. GENESIS32 9.13 
+Progea Movicon 11.2 Build 1084 
+Cogent Real-Time Systems DataPid 6.4.21 
+yokogawa CENTUM CENTUM VP 
+Indusoft Web Studio 7.1
+Meteocontrol WEB'log Light 
+Saia Burgess Controls PCD3.Mxxx0 <1.24.50 
+Emerson Electric Co DeltaV 9 
+National Instruments Corporation National
+Omron ns12 hmi terminal 
+Rockwell Automation FactoryTalk View Studio <= 8.00.00
+3S-Smart Software Solutions CODESYS Gateway Server < 2.3.9.47
+Advantech WebAccess <7.2
+cogentdatahub cogent_datahub 7.0 
+National Instruments Corporation LabVIEW 
+ARC Informatique PlantVue null
+Invensys Wonderware Information Server 3.1
+7-Technologies TERMIS 2.10
+Trihedral VTScada <11.2.02
+General Electric Company Proficy HMI/SCADA-CIMPLICITY 8.2
+Cogent Real-Time Systems OPC DataHub 6.4.21 
+Siemens SIMATIC PCS 7 7.x
+3S - Smart Software Solutions GmbH CoDeSys 3.5
+Invensys Wonderware Inbatch 8.1 SP1 
+Schneider Electric SCADA Expert ClearSCADA 2013 R2 (build 74.5094) 
+ABB RobotStudio 5.60-5.61.01.0 
+Siemens CP 343-1 Lean devices 
+Ecava IntegraXor <5.0 build 4522
+Invensys Wonderware Application Server 3.x 
+3S - Smart Software Solutions CoDeSys Gateway Server 2.x
+Rockwell Automation Rockwell OPC Automation 1.1.8.0 
+Siemens Scalance X-200 Series Switches
+Meteocontrol WEB'log
+Siemens SIMATIC WinCC Flexible 2007 
+Rockwell Automation 1766 MicroLogix 1400 Controllers null 
+Rockwell Automation RSLinx Enterprise Software
+Advantech Co., Ltd. Advantech WebAccess 7.2
+Siemens CP 443-1 devices 
+Siemens simatic wincc open architecture <3.12
+Schweitzer Engineering Laboratories (SEL) SEL-2241 RTAC
+Cogent Real-Time Systems DataSim 7.2.2 
+ESC 8832 <=3.02
+Cogent Real-Time Systems DataHub 7.1.2 
+Rockwall Automation RSLogix 5000 18 
+Schneider Electric M340 BMXNOE0100x 
+Siemens SIMATIC WinCC flexible Runtime 
+HP Network Automation 9.10
+Schneider Electric SCADA Expert ClearSCADA 2013 R1 (build 73.4729) 
+Ecava IntegraXor 3.5.3900.5 
+ABB RobotStudio 5.14.02 
+CG Automation Solutions Inc. ePAQ-9410/9420 Multifunction Gateway
+Trihedral VTScada 8 
+Advantech WebAccess 3.4.3 
+Invensys Wonderware Information Server 4.5 
+General Electric Company Proficy Machine Edition 7.00 SIM 7
+Rockwell Automation Allen-Bradley MicroLogix 1100 1763-L16AWA（Series B） 
+Invensys Wonderware Information Server 4.0 
+General Electric Proficy HMI/SCADA – CIMPLICITY 4.01 - 8.2
+7-Technologies Interactive Graphical SCADA System 7 
+7-Technologies Interactive Graphical SCADA System 9.x
+3S - Smart Software Solutions GmbH CoDeSys 2.x
+Saia Burgess Controls PCD7.D4xxxT5F <1.24.50 
+Invensys InFusion CE/FE/SCADA 2.5 
+SIEMENS simatic hmi basic panels generation 2 
+Indusoft Web Studio 7.0
+cogentdatahub cogent_datahub 7.1.1 
+ABB QuickTeach null 
+Siemens SCALANCE X-200 4.4.9 
+Invensys Wonderware Information Server 5.5 Portal
+Rockwell Automation 1763-L16BWA（Series B） 
+Invensys Foxboro Control Software 3.1 
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4 
+ICONICS, Inc. GENESIS32 9.2 
+cogentdatahub cogent_datahub 7.3.4
+Siemens TIM 4R-IE DNP3 devices 
+SIEMENS PCS7 <8.1
+Siemens SIMATIC WinCC V11 SP1 
+Indusoft Thin Client 7.0
+Schneider Electric SCADA Expert ClearSCADA 2013 R1 - 2013 R1.2
+Pro-face GP-Pro EX
+Honeywell XL Web Controller XL1000C1000 EXCEL WEB 600 I/O 
+Ecava IntegraXor 3.60.4032 
+Invensys InTouch 2012 
+Pro-face PFXEXGRPLS <4.05.000
+easuresoft Development Ltd. ScadaPro 4.0.0.0
+WellinTech KingView 通用版6.55（kingMess.exe 65.50.2011.18049） 
+ICONICS GENESIS32 9.x 
+Advantech WebAccess HMI/SCADA software 7.0-2012.12.05
+Cogent Real-Time Systems Cascade DataHub 6.4.21 
+Emerson DeltaV 12.3
+3S - Smart Software Solutions GmbH CoDeSys 2.3 
+Control Microsystems ClearSCADA 2007 
+Triangle MicroWorks SCADA Data Gateway < 3.03.729
+Indusoft Web Studio 7.0.1 04 
+3S - Smart Software Solutions GmbH CoDeSys 2.3.9.32 
+RuggedCom Rugged Operating System <3.12.2
+SIEMENS SIMATIC S7-400 V6 6.0.1 
+cogentdatahub cogent_datahub 7.3.0 
+Invensys Systems, Inc. Wonderware InTouch 10.x
+Cogent Real-Time Systems Cogent DataHub 7.2.2 
+Wind River Systems Inc. VxWorks 5.5-6.9.4.1
+Siemens SCALANCE X-200IRT switches with firmware <5.2.0
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1a (build 73.4903) 
+Invensys Wonderware Information Server 4.5 Client 
+SIEMENS SIMATIC PCS 7 8.1
+Cogent Real-Time Systems DataPid 7.2.2 
+Emerson Electric Co DeltaV Workstations 10 
+Clorius Controls A/S ICS SCADA 00.00.0110 
+7-Technologies Interactive Graphical SCADA System 9
+General Electric Company Proficy HMI/SCADA – iFIX 5.0
+Siemens SIMATIC WinCC <7.2 
+Rockwell Automation 1763-L16AWA（Series A） 
+General Electric Company Proficy HMI/SCADA – iFIX 7.44a
+Invensys Wonderware Information Server 5.0 Portal 
+Sixnet Sixnet UDR < 2.0
+Schneider Electric Premium TSXETY4103 
+Mitsubishi Electric Europe B.V. MC-WorX 8.x
+Emerson DeltaV 10.3.1 
+ICONICS, Inc. GENESIS32 8.02 
+General Electric Company Proficy HMI/SCADA-CIMPLICITY 4.01
+Siemens SIMATIC WinCC TIA Portal V13 SP1
+Advantech WebAccess HMI/SCADA 7.0-2012.12.05
+Schneider Electric TLXCDLFOFS33 3.5
+cogentdatahub cogent_datahub 7.0.2 
+Emerson DeltaV 10.x
+Indusoft Thin Client 7.0 
+ICONICS BizViz 9.x 
+ICONICS, Inc. GENESIS32 8.05
+Indusoft ISSymbol ActiveX Control 
+honeywellprocess Environmental Combustion and Controls, and SymmetrE R410.1 
+Schneider Electric ClearSCADA 2010
+Siemens SIMATIC S7-1200 2.x
+Wind River Systems VxWorks 6.5 through 6.9
+Saia Burgess Controls PCD7.D4xxD <1.24.50 
+Cogent Real-Time Systems Cogent DataHub < 7.3.5
+Advantech Advantech Studio 6.1 SP6 Build 61.6.0
+Ecava IntegraXor SCADA Server <=4.1.4360
+Emerson DeltaV 11.x 
+Siemens Siemens SIMATIC WinCC flexible Runtime 0 
+Invensys Wonderware Historian Client 10.x 
+Siemens SIMATIC S7-1200 2.0.2 
+Invensys InFusion Control Edition 2.x 
+Schneider Electric M340 BMXNOE011xx 
+SIEMENS SIMATIC S7-400 V6 6.0.2 
+Rockwell Automation 1763 MicroLogix 1100 Controllers null 
+Invensys Wonderware Win-XML Exporter 1522.148.0.0
+Rockwell Automation RSLogix/FactoryTalk <=19
+Schneider Electric Wonderware InTouch Machine Edition 7.1 SP3 Patch 4
+7-Technologies Interactive Graphical SCADA System
+Ecava IntegraXor 3.6.4000.0 
+Unitronics VisiLogic OPLC IDE <=9.8.0.00
+Cogent Real-Time Systems Cogent DataHub < 7.3.4
+Rockwell Automation RSLinx Enterprise
+Wellintech KingView 65.30.2010.18018
+Rockwall Automation FactoryTalk Activation Server 3.2 
+yokogawa CENTUM CENTUM CS 1000
+Siemens CP 1616和CP 1604 C Onboard card of SIMANTIC IPCs <2.5.2 
+icsgmbh PACTware 4.1 SP3
+Wind River Systems VxWorks 7.x
+Honeywell Experion PKS R43x(<R430.2)
+ABB WebWare Server 4.0 
+Invensys Wonderware Application Server 2012 
+Indusoft Web Studio 7.0B2 Hotfix 7.0.01. 
+Invensys ArchestrA Application Object Toolkit 3.2
+7-Technologies Interactive Graphical SCADA System 9.x 
+Schweitzer Engineering Laboratories (SEL) SEL-3505 RTAC 
+Schneider Electric SCADA Expert ClearSCADA 2014 R1 (build 75.5210)
+Siemens TIM 3V-IE devices 
+Schneider Electric ClearSCADA 2010 R3 (build 72.4560) 
+Schneider Electric ClearSCADA 2010 R2 - 2010 R3.1 
+General Electric Company Proficy HMI/SCADA – iFIX 7.19i 
+Siemens SIMATIC PCS 7 7.x 
+Siemens SINAMICS S/G < 4.6.11
+Invensys InFusion SCADA 2.x 
+ABB UNITROL 1000 Series Commissioning and Maintenance 6.x 
+Indusoft Web Studio 7.0 
+ABB Interlink Module 4.9
+Schneider Electric TLXCDLUOFS33 3.5 
+Advantech WebAccess 7.2
+SIEMENS simatic hmi comfort panels 
+ICONICS, Inc. BizViz 9.13 
+General Electric Company Proficy HMI/SCADA – iFIX 5.5 
+Schneider Electric Magelis XBT HMI controller
+ABB RobotStudio S4 0 
+ARC Informatique PcVue 6.x 
+Schneider Electric ClearSCADA 2010 R3-2014 R1
+ICONICS, Inc. GENESIS32 8.0 
+ABB WebWare Server 4.91 
+Pro-face GP-Pro EX EX-ED <4.05.000 
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1 (build 73.4832) 
+Cogent Real-Time Systems Cogent DataHub
+ICONICS, Inc. BizViz 9.22
+Siemens APOGEE Insight 3.12 
+Siemens SIMATIC WinCC V11 SP2 
+Rockwell Automation FactoryTalk Diagnostics Viewer 2.10.00
+Omron ns8 hmi terminal 
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5 
+Honeywell XL Web Controller XL1000C100 EXCEL WEB 104 I/O 
+SIEMENS simatic hmi mobile panels
+GE Energy D20/D200 Substation Controller null
+Wellintech Co., Ltd. KingView 6.53
+Wonderware InTouch <=2012 R2
+Sinapsi eSolar Light 2.x
+Schneider Electric Modicon M340
+Emerson Electric Co DeltaV Workstations 11 
+Advantech BroadWin SCADA WebAccess 7.x.x 
+HP Network Automation 10.X
+ICONICS, Inc. GENESIS64 10.51 
+Westermo WeOS 4.19.0
+Kessler-Ellis Infilink HMI
+Wind River Systems, Inc. vxworks /
+Ecava IntegraXor SCADA Server < 4.2.4488
+Siemens SIMATIC WinCC Flexible 2008 SP1 
+GE Proficy CIMPLICITY
+3S - Smart Software Solutions GmbH CoDeSys 3.5 
+Yokogawa Electric Corporation CENTUM CS3000 <= R3.09.50
+Ecava IntegraXor 4.1.4380
+7-Technologies Interactive Graphical SCADA System 9 
+cogentdatahub cogent_datahub 7.3.1 
+Rockwell Automation Integrated Architecture Builder <=9.6.0.8 
+Ecava IntegraXor 3.x
+Yokogawa Electric Corporation CS3000
+ABB PCM600 2.6
+HP Network Automation 9.22.01 
+Siemens SIMATIC S7-1200 CPU
+ICONICS GENESIS64 10.x 
+Siemens SIMATIC S7-1500 CPU family <V1.8.3
+Rockwell Software Rockwell Automation CCW <=6.01.00
+Siemens TIM 3V-IE Advanced devices 
+ICONICS BizViz 9.21 
+Clorius Controls A/S Java web client
+Rockwell Automation 1763-L16DWD（Series A） <=15.000
+HP Network Automation 10.00.01
+Rockwell Automation Controllogix 0
+Honeywell XL Web Controller XL1000C500U EXCEL WEB 300 I/O 
+HP Network Automation 10.00 
+SIEMENS WINCC 7.2 
+Cogent Real-Time Systems Cascade DataHub 6.4.21
+Omron ns10 hmi terminal 
+SIEMENS WINCC 7.1 
+Panasonic FPWIN Pro 6.x 
+Invensys Wonderware Inbatch 9.0 SP1 
+SIEMENS SIMATIC PCS 7 < 8.0 SP1
+7-Technologies Interactive Graphical SCADA System 9.0.0.11200
+Schneider Electric Modicon M340 PLC Station P34 module
+Schneider Electric InTouch Machine Edition 2014(<7.1.3.4 SP3 Patch 4)
+Infinite Automation Systems, Inc. Mango Automation <=2.4.0
+ICONICS, Inc. GENESIS32 8.05 
+ABB WebWare SDK 4.9 
+Rockwell Automation Allen-Bradley CompactLogix 1769-L*(<28.011+)
+Rockwall Automation RSLogix 5000 17 
+honeywellprocess Experion Releases R400.x, R31x, R30x, and R2xx 
+webaccess Advantech/BroadWin 7.0
+Triangle Research International, Inc Nano-10 PLC < r81
+Invensys Wonderware Information Server 4.5 Portal 
+Schneider Electric Premium TSXETY5103 
+Schneider Electric Premium Series Modules null
+Siemens WINCC < 7.2
+Wellintech KingView 6.55 
+SIEMENS WINCC 7.3（<Update 2） 
+HP Network Automation 9.20
+Saia Burgess Controls PCD2.M5xx0 <1.24.50 
+Schneider Electric ClearSCADA 2010 R3.1 (build 72.4644) 
+Rockwell Software Automation RSLogix 5000 7 - 20.01 
+SIEMENS SIMATIC S7-1200 <4.1
+Moxa ioLogik E2200 <3.12 
+HP Network Automation 9.0 
+Schneider Electric Modicon Quantum 0
+! SIEMENS SIMATIC S7-300 CPUs without Profinet support < V3.3.12
+General Electric Company PACSystems RX3i Ethernet Interface (IC695ETM001) 6.12
+Invensys Wonderware InTouch 10.x
+Pro-face PFXEXEDV <4.05.000 
+ABB Interlink Module 4.6 
+Rockwell Software Automation RSLogix 5000 21.0
+SIEMENS WINCC 7.2（<Update 9） 
+ABB WebWare Server null
+wago WAGO I/O System 758
+Progea Movicon 11.2
+ICONICS, Inc. GENESIS32 8.04
+Rockwell Automation 1766-L32 Series
+Invensys Wonderware Inbatch 8.1
+SIEMENS SIMATIC S7-400 V5 6.0.2 
+Omron ns series system program firmware 8.68 
+Schneider Electric M340 BMXNOC0401 
+Invensys InTouch 10.0 
+Advantech Advantech/BroadWin SCADA WebAccess 7.0
+Meteocontrol WEB'log ProPro Unlimited
+ABB UNITROL 1000 Series Commissioning and Maintenance 4.x 
+ABB RobotWare 5.x
+Honeywell XL Web Controller XL1000C50 EXCEL WEB 52 I/O 
+Schneider Electric SCADA Expert ClearSCADA 2013 R2.1 (build 74.5192) 
+ARC Informatique FrontVue null 
+ICONICS VersionInfo ActiveX Control 8.x
+SIEMENS simatic hmi basic panels generation 1 
+Pro-face PFXEXEDLS <4.05.000 
+Siemens SIMATIC CP 343-1 Advanced devices <3.0.44 
+Siemens Automation License Manager null
+Siemens SCALANCE X-200IRT 5.0.9
+cogentdatahub cogent_datahub 7.1.1.63 
+SIEMENS SIMATIC WinCC <7.3
+Schneider Electric InduSoft Web Studio <7.1.3.5 Patch 5 
+SIEMENS SIMATIC S7-400 V5 6.0.1
+Schneider Electric TLXCDSUOFS33 3.5 
+Measuresoft ScadaPro 4.0
+ABB WebWare SDK 4.6 
+Schneider Electric Modicon Quantum Series Modules null 
+Saia Burgess Controls PCD7.D4xxWTPF <1.24.50 
+yokogawa Exaopc <=R3.72.00 
+Beckhoff Automation TwinCAT 2.11 R2 Build 2038 
+Ecava IntegraXor 3.5.3900.10 
+ICONICS, Inc. BizViz 8.05 
+cogentdatahub cogent_datahub 7.2.2 
+Invensys Wonderware Information Server 4.0:sp1 
+Ecava IntegraXor 3.60 
+SIEMENS SIMATIC WinCC Runtime Advanced 13 SP1 Upd2
+cogentdatahub cogent_datahub 7.1.2 
+Invensys Foxboro Control Software 4.x 
+SIEMENS SIMATIC HMI Comfort Panels before WinCC (TIA Portal) 13 SP1 Upd2 
+ABB Test Signal 1.5
+ICONICS, Inc. GENESIS32 9.1 
+yokogawa CENTUM CENTUM CS 3000 Entry 
+Siemens SIMATIC RF Manager Basic 3.x
+General Electric Company Proficy HMI/SCADA – iFIX 5.1 
+SIEMENS SIMATIC S7-300 CPU devices
+Schneider Electric Modicon M580
+Omron ns series system program firmware 8.1 
+ICONICS IcoSetServer ActiveX Control 9.21 
+WellinTech KingView 通用版6.53（kingMess.exe 65.20.2003.10400） 
+Rockwall Automation RSLogix 5000 19
+Schneider Electric ClearSCADA 2013 
+yokogawa CENTUM CENTUM VP Entry 
+Schneider Electric SCADAPack 33x
+ABB UNITROL 1000 Series Commissioning and Maintenance 5.x
+SIEMENS SIMATIC WinCC Sm@rtClient for IOS <1.0.2 
+Sixnet RTU firmware < 4.8 
+IDS RTU 850C
+ICONICS, Inc. GENESIS32 9.01 
+Siemens CP 1616和CP 1604 C Microbox package <2.5.2
+Progea Movicon 11.2.1085.4 
+WAGO WAGO 758-870 
+Ecava IntegraXor 4.1.4360
+Ecava IntegraXor 3.60.4050
+Rockwell Automation 1769-L18ER/A LOGIX5318ER
+Mitsubishi Electric Europe B.V. MELSEC FX3G PLC
+MatrikonOPC DNP3 OPC Server 1.2.3.0
+Rockwell Automation SLC 500 Controller null
+Wellintech KingView 6.52 
+Beckhoff Automation TwinCAT 2.11 R2 Build 2032
+Rockwell Automation Rockwell RSLogix <=19
+WAGO WAGO I/O System <=V2.3.9.44
+Emerson Electric Co DeltaV 10
+Invensys Wonderware Inbatch 8.1 
+Honeywell XL Web Controller XL1000C500 EXCEL WEB 300 I/O 
+Invensys Wonderware Application Server 2012
+Siemens APOGEE Insight 3.13
+Schneider Electric Premium TSXWMY100
+Saia Burgess Controls PCD3.T666 <1.24.41
+Progea Movicon/PowerHMI <=11.2.1085
+Siemens SIMATIC WinCC Flexible 2005
+ABB MicroSCADA 9.x
+Siemens SIMATIC S7-300
+Unitronics VisiLogic OPLC IDE
+General Electric Proficy Process Systems with CIMPLICITY null 
+Schneider Electric InduSoft Web Studio Remote Agent
+Rockwell Automation 1762 MicroLogix 1200 Controllers null 
+Honeywell International Uniformance Process History Database（PHD） R321
+3S - Smart Software Solutions GmbH CoDeSys 3.4 
+Omron ns5 hmi terminal
+Honeywell XL Web Controller XL1000C1000U EXCEL WEB 600 I/O 
+Indusoft Web Studio 7.1 sp1 
+honeywellprocess HMIWeb Browser null
+General Electric Proficy Process Systems with CIMPLICITY null
+ABB RobotStudio 5.14.01 
+HP HP Business Service Automation Essentials 2.01
+Ecava IntegraXor 4.x
+National Instruments Corporation LabWindows/CVI 
+Saia Burgess Controls PCD3.Mxx60 <1.24.50 
+Invensys Wonderware Information Server
+Rockwell Automation 1763-L16BBB（Series A） 
+SIEMENS SIMATIC PCS 7 8.0-SP2 
+ABB Panel Builder 800 5.1
+Invensys Wonderware InBatch 9.0 SP2 
+Invensys Wonderware InBatch 9.x 
+ICONICS GENESIS32 9.21
+HP Network Automation 9.10 
+General Electric Proficy HMI/SCADA – CIMPLICITY <= 4.01 
+Yokogawa Electric Corporation FAST/TOOLS
+Moxa activex_sdk
+Saia Burgess Controls PCD7.D4xxV <1.24.50 
+Schneider Electric M340 BMXNOE0110x
+ABB S4 OPC Server null 
+Siemens CP 443-1 Advanced devices
+Indusoft Web Studio <=7.1 sp2 
+Meteocontrol WEB'log Basic 100 
+honeywellprocess Enterprise Building Manager Releases null 
+7-Technologies Interactive Graphical SCADA System 9.0.0.11143 
+Siemens SICAM MIC <2404
+Wellintech KingView 65.30.17249 
+Motorola Solutions, Inc MOSCAD IP Gateway
+RuggedCom Rugged Operating System 3.x
+WellinTech KingView <=6.5.3
+Ecava IntegraXor 3.5
+Rockwell Automation FactoryTalk Services Platform < 2.71.00 
+ICONICS, Inc. GENESIS32 9.22 
+ICONICS WebHMI <=9
+Invensys Wonderware Information Server 4.x 
+SIEMENS simatic hmi mobile panel 277 
+7-Technologies AQUIS 1.5
+Unitronics VisiLogic OPLC IDE <9.8.30
+Siemens ProcessSuite null 
+Cogent Real-Time Systems Cogent DataHub <=7.3.9
+Advantech WebAccess 8.0
+Sixnet SixView 2.4.1
+ICONICS, Inc. BizViz 9.01 
+Exemys Telemetry Web Server
+Moxa ioAdmin Configuration Utility <3.18
+Indusoft Web Studio 7.0B2 hotfix 7.0.01.04
+Siemens TIM 4R-IE devices 
+Siemens SIMATIC WinCC TIA Portal 11.x
+Rockwell Automation 1763-L16DWD（Series B） 
+Huawei UAP2105 V300R011C01SPC110(BootRom)
+General Electric Company Proficy HMI/SCADA – iFIX 4.5
+Rockwell Software RSLinx Enterprise CPR9-SRx(x<=6)
+Schneider Electric Quantum 140NOE77101 
+Schneider Electric M340 BMXNOE01xx modules
+Honeywell International Uniformance Process History Database（PHD） R320 
+Saia Burgess Controls PCD1.M0xx0/M2xx0 <1.24.50 
+ICONICS, Inc. GENESIS32 9.21
+Siemens ProTool 6.0 SP3 
+三维力控 ForceControl 6.1
+3S-Smart Software Solutions CODESYS Gateway Server <2.3.9.48
+Siemens SIMATIC STEP 7 5.x
+ICONICS, Inc. GENESIS32 9.0 
+Progea Movicon 11.2.1085.3 
+Huawei UAP2105 V300R011C01B028(BootRom)[2] 
+SIEMENS PCS7 
+7-Technologies Interactive Graphical SCADA System 9.0.0.11200 
+﻿ABB PCM600 2.6
+Schneider Electric CitectSCADA 7.1
+SIEMENS SIMATIC S7 PLC null
+Schneider Electric ClearSCADA 2013
+ABB RobotStudio Lite 0 
+SIEMENS SIMATIC ProSave <13 SP1 
+Novus WS10 Data Server 1.83
+Siemens SIMATIC S7-1200 CPU < V4.0
+Schneider Electric Interactive Graphical SCADA System 10.x
+Huawei UAP2105 V300R011C01B030(BootRom) 
+Rockwell Automation PLC Micrologix 1200
+Citect CitectSCADA 7.x
+Rockwell Automation 1763-L16BWA（Series A） 
+Saia Burgess Controls PCD3.T665 <1.24.41 
+7-Technologies Interactive Graphical SCADA System 9.0.0.11355 
+Kessler Ellis Products Infilink HMI 5.00.23
+RuggedCom Rugged Operating System 3.9.1
+Rockwell Automation Integrated Architecture Builder >=9.7.x，<=9.7.0.2
+Triangle Research International, Inc Nano-10 PLC
+yokogawa CENTUM CENTUM CS 3000 
+SIEMENS WINCC 7.3 
+Schneider Electric M340 Series Modules null 
+Schweitzer Engineering Laboratories, Inc. SEL-2032 Communications Processor 0
+Siemens CP 343-1 devices 
+WellinTech KingView 通用版6.52（kingMess.exe 65.20.2003.10300）
+Omron ns series system program firmware 8.1
+Omron ns series system program firmware 8.68
+Omron ns15 hmi terminal
+Omron ns12 hmi terminal
+Omron ns10 hmi terminal
+Omron ns8 hmi terminal
+Siemens SIMATIC WinCC flexible Runtime
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced
+Siemens SIMATIC WinCC Flexible 2008
+Siemens SIMATIC WinCC Flexible 2007
+Siemens SIMATIC WinCC Flexible 2004
+Siemens SIMATIC HMI Panels null
+Siemens SIMATIC WinCC null
+Ing. Punzenberger COPA-DATA GmbH zenon 6.51 SP0
+C3-ilex EOScada 11.x
+3ssoftware codesys 3.4 sp4 patch2
+Schneider Electric BMXP3420xx PLC modules
+General Electric Company Proficy HMI/SCADA – iFIX 7.19i
+Invensys Wonderware Information Server 4.5
+Invensys Wonderware Application Server 2012 0
+Invensys InTouch 10.0
+Invensys InTouch 10.5
+Invensys InFusion CE/FE/SCADA 2.5
+Invensys Foxboro Control Software 3.1
+Optimalog OPTIMA PLC 1.5.2
+HP Network Automation 7.2
+HP Network Automation 7.5
+HP Network Automation 7.6
+HP Network Automation 9.0
+Rockwell Automation Micrologix 1100
+Honeywell Experion PKS R40x(<R400.6)
+Honeywell Experion PKS R41x(<R410.6)
+Panasonic FPWIN Pro 5.x
+Panasonic FPWIN Pro 6.x
+Novell, Inc. eDirectory 8.8.5 ftf1/8.8.2 ftf2/8.8.2/8.8.1/8.8.5.2/8.8 SP5 FTF1/8.8 SP5/8.8 SP4 FTF1/8.8 SP4/8.8 SP3 FTF3/8.8 SP3/8.8 SP2/8.8 SP1/8.8
+Emerson Electric Co ROC800L 1.20
+Emerson Electric Co DL8000 2.30
+MICROSYS, spol. s r.o. PROMOTIC
+WebSCADA WS200 null
+WebSCADA WS100 null
+VMware, Inc. Workstation 7.0
+VMware, Inc. Workstation 6.5.x
+VMware, Inc. Server 2.x
+VMware, Inc. Fusion 3.0
+VMware, Inc. Fusion 2.x
+VMware, Inc. Player 3.0
+VMware, Inc. Player 2.5.x
+VMware, Inc. ACE 2.5.x
+VMware, Inc. ACE 2.6
+Siemens SIMATIC RF Manager 2008
+Catapult Software HMI/SCADA DNP3 I/O Driver 7.x
+BMC Dashboards 7.6.01
+Schneider Electric ClearSCADA 2010 R2 - 2010 R3.1
+Meteocontrol WEB'log Basic 100
+Meteocontrol WEB'log Light
+SIEMENS SIMATIC WinCC Sm@rtClient for IOS <1.0.2
+Cogent Real-Time Systems OPC DataHub 6.4.21
+Cogent Real-Time Systems Cogent DataHub 7.2.2
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2
+Cogent Real-Time Systems DataPid 7.2.2
+Cogent Real-Time Systems DataPid 6.4.21
+Cogent Real-Time Systems DataSim 7.2.2
+vTiger vtiger CRM <= 5.2.x
+Oracle Audit Vault 10.x
+Invensys Wonderware Information Server 4.0 SP1
+IBM Datacap Taskmaster Capture 8.0.1 Fix Pack 1
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09
+RedHat Enterprise Linux 6
+Microsys, spol. s r.o. PROMOTIC 8.1.4
+MICROSYS, spol. s r.o. PROMOTIC 8.1.3
+SIEMENS SIMATIC NET PC-Software < V13 SP2
+Emerson Electric Co DeltaV 9
+Emerson Electric Co DeltaV 11
+Emerson Electric Co DeltaV ProEssentials Scientific Graph 5
+Emerson Electric Co DeltaV Workstations 11
+Emerson Electric Co DeltaV Workstations 10
+Pacom RTU/1000 CCU/EMCS
+Parallels Parallels Plesk Panel 10.0
+ARC Informatique PCVue 10.0
+Sinapsi eSolar 2.x
+Sinapsi eSolar DUO 2.x
+Infinite Automation Systems, Inc. Mango Automation 2.5.5
+Rockwell Automation Controllogix null
+EmbryoCore CMS EmbryoCore CMS 1.03
+VMware, Inc. VMware Workstation 10.0.1 build-1379776
+VMware, Inc. VMware Player 6.0.1 build-1379776
+Koha Library Software Community Koha
+ARC Informatique FrontVue null
+ARC Informatique PcVue 6.x
+ARC Informatique PcVue 7.x
+ARC Informatique PcVue 8.x
+ARC Informatique PcVue 9.x
+ARC Informatique PcVue 10.x
+Ecava IntegraXor <=3.6.4000.0
+SIELCO SISTEMI Winlog Pro 2.7
+SIEMENS SIMATIC WinCC 7.2
+SIEMENS SIMATIC WinCC 7.0
+PROMOTIC PROMOTIC 8.x
+Siemens SIMATIC WinCC flexible Runtime 0
+Stanley Huang MiniWeb 0
+IntelliCom NetBiter NB200
+IBM Rational Build Forge 7.0
+IBM Rational Build Forge 7.0.2
+IBM Rational Build Forge 7.1.0
+7-Technologies Interactive Graphical SCADA System 7
+SafeNet Sentinel HASP SDK 5.10
+SafeNet Sentinel HASP Run-time 5.95
+Siemens SIMATIC WinCC 7.x
+Microsys, spol. s r.o. PROMOTIC 8.x
+Microsys, spol. s r.o. PROMOTIC TrendsView ActiveX Control 1.x
+SIEMENS SIMATIC S7-400 V6 6.0.2
+SIEMENS SIMATIC S7-400 V6 6.0.1
+SIEMENS SIMATIC S7-400 V5 6.0.2
+7-Technologies Interactive Graphical SCADA System 8
+VMware, Inc. ESX 2.5.5
+VMware, Inc. ESX 3.0.3
+VMware, Inc. ESX 3.5
+VMware, Inc. ESX 4.0
+VMware, Inc. ESXi 3.5
+VMware, Inc. ESXi 4.0
+Ecava IntegraXor 3.5.3900.5
+xArrow xArrow 3.4
+Parallels Plesk Panel 10.0-10.2
+Saia Burgess Controls PCD7.D4xxWTPF <1.24.50
+Saia Burgess Controls PCD7.D4xxD <1.24.50
+Saia Burgess Controls PCD7.D4xxV <1.24.50
+Saia Burgess Controls PCD7.D4xxxT5F <1.24.50
+Saia Burgess Controls PCD3.Mxx60 <1.24.50
+Saia Burgess Controls PCD3.Mxxx0 <1.24.50
+Saia Burgess Controls PCD2.M5xx0 <1.24.50
+Saia Burgess Controls PCD1.M0xx0/M2xx0 <1.24.50
+Saia Burgess Controls PCD3.T665 <1.24.41
+SIELCO SISTEMI Winlog Pro SCADA < 2.07.1
+SIELCO SISTEMI Winlog Lite SCADA < 2.07.18
+Invensys Wonderware Information Server 4.x
+Invensys Wonderware InBatch 9.x
+Invensys Foxboro Control Software 4.x
+Invensys Wonderware Application Server 3.x
+Invensys InFusion Control Edition 2.x
+Invensys InFusion Foundation Edition 2.x
+Invensys InFusion SCADA 2.x
+Invensys Wonderware Historian Client 10.x
+Wellintech KingSCADA 3.1
+Wellintech KingGraphic 3.1
+Wellintech KingAlarm&Event 2.0.2
+vTiger vtiger CRM 5.2.1
+Scadatec ModbusTagServer 4.1.1.81
+Scadatec ScadaPhone 5.3.11.1230
+IBM Rational Build Forge 7.x
+Trihedral VTScada 8
+Optimal APIFTP Server <=1.5.2.13
+Siemens SIMATIC CP 343-1 Advanced devices <3.0.44
+Siemens CP 343-1 Lean devices
+Siemens CP 343-1 devices
+Siemens TIM 3V-IE devices
+Siemens TIM 3V-IE Advanced devices
+Siemens TIM 3V-IE DNP3 devices
+Siemens TIM 4R-IE devices
+Siemens TIM 4R-IE DNP3 devices
+Siemens CP 443-1 devices
+Parallels Parallels Plesk Panel 10.2.0_build20110407.20
+Cyber-Ark Software Password Vault Web Access 5.0
+Cyber-Ark Software Password Vault Web Access 5.5.patch #4
+Cyber-Ark Software Password Vault Web Access 6.0 patch #2
+Elipse SCADA 2.29 b141
+Schneider Electric TLXCDSUOFS33 3.5
+Schneider Electric TLXCDSTOFS33 3.5
+Schneider Electric TLXCDLUOFS33 3.5
+rockwellautomation rsview32 <=7.60.00
+Invensys Wonderware Inbatch 9.0 SP1
+Invensys Wonderware Inbatch 9.0
+Invensys Wonderware InBatch 9.0 SP2
+Progea Movicon 11.2 Build 1085
+Siemens ProTool 6.0 SP3
+Siemens SIMATIC WinCC Flexible 2008 SP1
+Siemens SIMATIC WinCC Flexible 2005 SP1
+Rockwall Automation FactoryTalk Activation Server 3.2
+Rockwall Automation RSLogix 5000 17
+Rockwall Automation RSLogix 5000 18
+atvise atvise 0
+Ecava IntegraXor 3.60
+Ecava IntegraXor 3.60.4032
+Ecava IntegraXor 3.6.4000.0
+Ecava IntegraXor 3.5.3900.10
+ZOHO Corporation ManageEngine ADSelfService Plus 4.4
+3S - Smart Software Solutions GmbH CoDeSys 2.3
+3S - Smart Software Solutions GmbH CoDeSys 2.3.9.32
+Rockwell Software RSLinx Enterprise CPR9
+vTiger vtiger CRM 5.x
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4
+Siemens APOGEE Insight 3.12
+PROMOTIC PROMOTIC 8.1.4
+yokogawa Exaopc <=R3.72.00
+yokogawa CENTUM CENTUM VP Entry
+yokogawa CENTUM CENTUM VP
+yokogawa CENTUM CENTUM CS 3000 Entry
+yokogawa CENTUM CENTUM CS 3000
+VMware, Inc. Workstation 5.5.x
+Proface GP-Pro EX
+IBM Datacap Taskmaster Capture 8.0.1
+Koha Library Software Community Koha 3.6
+Koha Library Software Community Koha 3.4.6
+Koha Library Software Community Koha 3.4.1
+Koha Library Software Community Koha 3.4.2
+IBC SOLAR ServeMaster TLP+
+IBC SOLAR Danfoss TLX Pro+
+Alstom Grid e-Terracontrol 3.5
+Alstom Grid e-Terracontrol 3.6
+Alstom Grid e-Terracontrol 3.7
+Parallels Plesk Panel 8.6
+Parallels Plesk Panel 9.2
+Parallels Plesk Panel 9.3
+Parallels Plesk Panel 9.5.4
+IOServer IOServer 1.0.18.0
+VMware, Inc. Workstation 6.5.4 build 246459
+VMware, Inc. Fusion 2.0.6 build 246742
+VMware, Inc. Player 2.5.4 build 246459
+VMware, Inc. VIX API 1.7
+Indusoft Web Studio 7.0B2
+KAKO HMI
+HP Network Automation 9.22
+HP Network Automation 9.22.01
+HP Network Automation 9.22.02
+HP Network Automation 10.00
+VMware, Inc. Movie Decoder 6.x
+Parallels Plesk Panel 7.6.1
+Parallels Plesk Panel 10.3.1
+Parallels Parallels Plesk Panel 10.1
+Parallels Parallels Plesk Panel 10.2
+Parallels Parallels Plesk Panel 9.3
+Parallels Parallels Plesk Panel 10.3
+Parallels Parallels Plesk Panel 9.5
+Softing AG Softing FG-100 PB 2.02.0.00
+Schneider Electric Quantum 140NOE77111
+Schneider Electric Quantum 140NOE77101
+Schneider Electric Quantum 140NWM10000
+Schneider Electric M340 BMXNOC0401
+Schneider Electric M340 BMXNOE0100x
+Schneider Electric M340 BMXNOE011xx
+Schneider Electric Premium TSXETY4103
+Schneider Electric Premium TSXETY5103
+WECON LeviStudio
+Schweitzer Engineering Laboratories (SEL) SEL-3530 RTAC
+Schweitzer Engineering Laboratories (SEL) SEL-3505 RTAC
+atvise webMI2ADS 1.0
+NovaTech Orion5/Orion5r DNP Slave 1.23.10
+NovaTech Orion5/Orion5r DNP Master 1.27.38
+NovaTech OrionLX DNP Slave 1.23.10
+NovaTech OrionLX DNP Master 1.27.38
+SIEMENS WINCC 7.0-SP3
+SIEMENS WINCC 7.2（<Update 9）
+SIEMENS WINCC 7.3（<Update 2）
+SIEMENS SIMATIC PCS 7 7.1-SP4
+SIEMENS SIMATIC PCS 7 8.0-SP2
+ICONICS IcoSetServer ActiveX Control 9.21
+ICONICS BizViz 9.21
+Indusoft Web Studio <=7.1 sp2
+Indusoft Web Studio 7.1 sp1
+SIEMENS WINCC 7.0
+SIEMENS WINCC 7.1
+SIEMENS WINCC 7.2
+SIEMENS WINCC 7.3
+SIEMENS simatic hmi basic panels generation 1
+SIEMENS simatic hmi basic panels generation 2
+SIEMENS simatic hmi comfort panels
+SIEMENS simatic hmi mobile panel 277
+Invensys Wonderware Information Server 5.0 Portal
+Resource Data Management Resource Data Management < 2.2
+Microsoft Corporation RealWin 2.1 Build 6.1.8.10
+HP Insight Orchestration 6.1
+HP Insight Orchestration 6.0
+Moxa ioLogik E2200 <3.12
+3S - Smart Software Solutions CoDeSys 2.x
+HomeSeer HS2 2.5.0.20
+D-Link DCS-930L, 固件版本 1.04
+D-Link DCS-932L, 固件版本 1.02
+DATAC Control International RealWin SCADA Server 2.1 (Build 6.1.10.10)
+DATAC Control International RealWin SCADA Server 1.06
+DATAC Control International RealWin SCADA Server 2.0
+DATAC Control International RealWin SCADA Server 2.1
+DATAC Control International RealWin SCADA Server 2.1.10
+Rockwell Automation 1762 MicroLogix 1200 Controllers null
+Rockwell Automation 1763 MicroLogix 1100 Controllers null
+Rockwell Automation 1764 MicroLogix 1500 Controllers null
+Rockwell Automation 1766 MicroLogix 1400 Controllers null
+Rockwell Automation PLC-5 Controller null
+ClearSCADA ClearSCADA 2005/2007/2009
+Parallels Plesk Panel 11.x
+Wellintech KingView 6.55
+Wellintech KingView 6.52
+cogentdatahub cogent_datahub 7.3.0
+cogentdatahub cogent_datahub 7.2.2
+cogentdatahub cogent_datahub 7.1.2
+cogentdatahub cogent_datahub 7.1.1.63
+cogentdatahub cogent_datahub 7.1.1
+cogentdatahub cogent_datahub 7.1.0
+cogentdatahub cogent_datahub 7.0.2
+cogentdatahub cogent_datahub 7.0
+cogentdatahub cogent_datahub 7.3.1
+cogentdatahub cogent_datahub 7.3.2
+cogentdatahub cogent_datahub 7.3.3
+CSWorks Inc. CSWorks <2.0.4115.1
+Siemens SIMATIC S7-1200 2.0.2
+Schneider Electric M340 Series Modules null
+Schneider Electric Modicon Quantum Series Modules null
+Fultek WinTr Scada <=4.0.5
+Control Microsystems ClearSCADA 2010 R1.0
+Control Microsystems ClearSCADA 2009 0
+Control Microsystems ClearSCADA 2007 0
+Control Microsystems ClearSCADA 2005 0
+Rockwell Software Automation RSLogix 5000 7 - 20.01
+Indusoft ISSymbol ActiveX Control
+Koyo ECOM100 Ethernet Module 0
+Rockwall Automation RSLogix 5000
+General Electric Company Proficy HMI/SCADA – iFIX 5.1
+WellinTech KingView 通用版6.53（kingMess.exe 65.20.2003.10400）
+WellinTech KingView 通用版6.55（kingMess.exe 65.50.2011.18049）
+Siemens Siemens SIMATIC WinCC flexible Runtime 0
+Siemens SIMATIC HMI Panels 0
+Siemens SIMATIC WinCC V11 SP2
+Siemens SIMATIC WinCC V11 SP1
+SIELCO SISTEMI Winlog Lite 2.07.14
+i-GEN Solutions Inc. opLYNX 2.x
+Wonderware InTouch 10.5
+Wonderware SuiteLink 51.5.0.0
+Wonderware SuiteLink 51.5
+Optimalog S.A.R.L Optima PLC 2.x
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18
+Hitachi Tuning Manager Software 6.4 01 (Solaris(SPARC))
+Hitachi Tuning Manager Software 6.0 (Solaris(SPARC))
+Hitachi Tuning Manager Software 6.0 (Windows)
+Hitachi Tuning Manager Software 6.1 -00 (Solaris(SPARC))
+Hitachi Tuning Manager Software 6.1 -00 (Windows)
+Hitachi Tuning Manager Software 6.2 -00 (Solaris(SPARC))
+Hitachi Tuning Manager Software 6.2 -00 (Windows)
+Hitachi Tuning Manager Software 6.2 -01 (Solaris(SPARC))
+Hitachi Tuning Manager Software 6.2 -01 (Windows)
+Hitachi Tuning Manager Software 6.4 01 (Windows)
+Hitachi Tuning Manager Software 7.0 (Solaris(SPARC))
+Hitachi Tuning Manager Software 7.0 (Windows)
+Galil Motion Control RIO-47100
+Emerson DeltaV 11.x
+Emerson DeltaV 10.3.1
+Emerson DeltaV 11.3
+Emerson DeltaV 11.3.1
+SIEMENS SIMATIC S7-300 CPUs with Profinet support < V3.2.12
+SIELCO SISTEMI Winlog Pro 2.7.9
+Apple iphone os 4.x
+National Instruments Corporation Lookout 6.5 - 6.7
+SpecView SpecView <= 2.5 build 853
+IOServer IOServer <=1.0.20
+Sixnet RTU firmware < 4.8
+Pro-face GP-Pro EX EX-ED <4.05.000
+Pro-face PFXEXEDV <4.05.000
+Pro-face PFXEXEDLS <4.05.000
+General Electric Company Proficy HMI/SCADA – iFIX 5.5
+GE CIMPLICITY <8.2 SIM 27
+ICONICS BizViz 9.x
+ICONICS GENESIS32 9.x
+ICONICS GENESIS64 10.x
+SIEMENS PCS7
+Advantech WebAccess 3.4.3
+SCADA Engine BACnet OPC Client 1.0.24
+Sauter EY-WS505F0x0 moduWeb Vision <1.6.0
+SIEMENS SIMATIC ProSave <13 SP1
+SIEMENS SIMATIC CFC <8.0 SP4 Upd9
+ICP DAS USA KingSCADA 3.0
+Everest Software LLC PeakHMI HMI
+Control Microsystems ClearSCADA 2009
+Control Microsystems ClearSCADA 2007
+MICROSYS PROMOTIC <8.3.11
+Invensys Wonderware Information Server 4.0
+GE Fanuc Automation, Inc. Proficy HMI/SCADA-CIMPLICITY null
+GE Fanuc Automation, Inc. Proficy HMI/SCADA-CIMPLICITY 4.01
+IOServer IOServer 1.0.19.0
+ICONICS, Inc. GENESIS32 8.0
+ICONICS, Inc. GENESIS32 8.02
+ininet solutions scada web server <2.02
+Clorius Controls A/S ICS SCADA 00.00.0110
+IOServer IOServer Beta driver
+ComponentOne FlexGrid 7.1
+ComponentOne FlexGrid 7.1 Light
+OPC SYSTEMS OPC Systems.NET 0
+Invensys Foxboro I/A Series Batch 8.1
+Honeywell International Uniformance Process History Database（PHD） R310
+Honeywell International Uniformance Process History Database（PHD） R320
+SIEMENS SIMATIC HMI Comfort Panels before WinCC (TIA Portal) 13 SP1 Upd2
+ABB WebWare Server 4.0
+ABB WebWare Server 4.6
+ABB WebWare Server 4.91
+ABB WebWare SDK 4.6
+ABB WebWare SDK 4.9
+ABB S4 OPC Server null
+ABB RobotStudio S4 0
+ABB RobotStudio Lite 0
+ABB RobotStudio 5.14.01
+ABB RobotStudio 5.14.02
+ABB QuickTeach null
+ABB Interlink Module 4.6
+xArrow xArrow 3.2
+RealFlex RealWinDemo <= 2.1.12
+RealFlex RealWin <= 2.1.12
+RealFlex FlexView <= 3.1.85
+HP Network Automation 9.0X
+HP Network Automation 9.1X
+HP Network Automation 9.2X
+3ssoftware codesys3.4 sp4
+Indusoft Web Studio 6.1
+Invensys InTouch 2012
+Wind River Systems VxWorks 6.x
+SDG Technologies cc Plug and Play SCADA
+General Electric Proficy HMI/SCADA – CIMPLICITY <= 4.01
+Scadatec Procyon 1.13
+ICONICS, Inc. GENESIS64 10.51
+Parallels H-Sphere 3.3 Patch 1
+Indusoft Web Studio 7.0.1 04
+Indusoft Web Studio 7.0B2 Hotfix 7.0.01.
+SPECVIEW SPECVIEW null
+Koha Library Software Community Koha 4.2
+TURCK BL67 Programmable Gateway
+TURCK BL20 Programmable Gateway
+SIELCO SISTEMI Winlog Pro 2.7.1
+3ssoftware CoDeSys Runtime Toolkit <2.4.7.44
+OPC Systems OPC Systems.NET 4.0.48
+7-Technologies Interactive Graphical SCADA System 9.0.0.11143
+7-Technologies Interactive Graphical SCADA System 9.0.0.11355
+Nordex SE Nordex Control 2 (NC2) SCADA 16
+SubSTATION SubSTATION Server 2 Telegyr 8979 Master Protocol
+Beijing Jichang Qiu Shi Science and Technology Co., Ltd. CenturyStar 7.12
+RLE International GmbH Nova-Wind Turbine HMI
+realflex realwin 1.06
+realflex realwin 2.0
+Rockwell Automation FactoryTalk Services Platform < 2.71.00
+ABB RobotStudio 5.60-5.61.01.0
+Invensys Wonderware Inbatch 8.1 SP1
+Schneider Electric InduSoft Web Studio <7.1.3.5 Patch 5
+honeywellprocess Experion Releases R400.x, R31x, R30x, and R2xx
+honeywellprocess Enterprise Building Manager Releases null
+honeywellprocess Environmental Combustion and Controls, and SymmetrE R410.1
+Catapult Software (HMI/SCADA) DNP3 I/O Driver 7.x
+ABB UNITROL 1000 Series Commissioning and Maintenance 4.x
+ABB UNITROL 1000 Series Commissioning and Maintenance 6.x
+Rockwell Automation Allen-Bradley MicroLogix 1100 1763-L16AWA（Series B）
+Rockwell Automation 1763-L16BBB（Series B）
+Rockwell Automation 1763-L16BWA（Series B）
+Rockwell Automation 1763-L16DWD（Series B）
+Rockwell Automation 1763-L16AWA（Series A）
+Rockwell Automation 1763-L16BBB（Series A）
+Rockwell Automation 1763-L16BWA（Series A）
+Rockwall Automation RSLinx Classic 1.0.5.1
+Ing. Punzenberger COPA-DATA GmbH zenon DNP3 Process Gateway 7.11 SP0 build 10238
+Ing. Punzenberger COPA-DATA GmbH zenon DNP3 NG driver 7.10 SP0
+Ing. Punzenberger COPA-DATA GmbH zenon DNP3 NG driver 7.11 SP0 build 10238
+Nordex SE Nordex Control 2 (NC2) SCADA <=16
+Cloupia FlexPod Management and Automation 0
+Cogent Real-Time Systems DataHub 7.1.2
+Rockwell Automation Integrated Architecture Builder <=9.6.0.8
+Ocean Data Systems Dream Reports 3.0
+Invensys Wonderware Information Server 4.5 Client
+Schneider Electric ClearSCADA 2010 R3 (build 72.4560)
+Schneider Electric ClearSCADA 2010 R3.1 (build 72.4644)
+Schneider Electric SCADA Expert ClearSCADA 2013 R1 (build 73.4729)
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1 (build 73.4832)
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.1a (build 73.4903)
+Schneider Electric SCADA Expert ClearSCADA 2013 R1.2 (build 73.4955)
+Schneider Electric SCADA Expert ClearSCADA 2013 R2 (build 74.5094)
+Schneider Electric SCADA Expert ClearSCADA 2013 R2.1 (build 74.5192)
+Siemens CP 1616和CP 1604 C Onboard card of SIMANTIC IPCs <2.5.2
+Novell, Inc. eDirectory
+VMware, Inc. Workstation 7.0.1 build 227600
+VMware, Inc. Player 3.0.1 build 227600
+vtiger vtiger CRM 5.1
+Honeywell XL Web Controller XL1000C100 EXCEL WEB 104 I/O
+Honeywell XL Web Controller XL1000C1000 EXCEL WEB 600 I/O
+Honeywell XL Web Controller XL1000C1000U EXCEL WEB 600 I/O
+Honeywell XL Web Controller XL1000C100U EXCEL WEB 104 I/O
+Honeywell XL Web Controller XL1000C50 EXCEL WEB 52 I/O
+Honeywell XL Web Controller XL1000C500 EXCEL WEB 300 I/O
+Honeywell XL Web Controller XL1000C500U EXCEL WEB 300 I/O
+CIMON UltimateAccess 3.00
+CIMON UltimateAccess <=3.01
+CIMON CmnView 2.14.0.1
+OpenSCAP OpenSCAP 0.x
+ForeScout Technologies CounterACT 6.x
+Siemens ProcessSuite null
+Websense Email Security 6.1-7.3
+vtiger vtiger CRM 5.x
+Parallels Plesk Panel 10.4.4
+IRAI AUTOMGEN <= 8.0.0.7
+ICONICS, Inc. GENESIS32 9.2
+ICONICS, Inc. GENESIS32 9.1
+ICONICS, Inc. GENESIS32 9.0
+IntelliCom Innovation NetBiter webSCADA WS200/WS100
+ICONICS, Inc. GENESIS32 9.13
+ICONICS, Inc. GENESIS32 9.01
+ICONICS, Inc. GENESIS32 9.22
+ICONICS, Inc. BizViz 9.13
+ICONICS, Inc. BizViz 9.01
+ICONICS, Inc. BizViz 8.05
+Advantech BroadWin SCADA WebAccess 7.x.x
+Progea Movicon 11.2 Build 1084
+Progea Movicon 11.2.1085.3
+Progea Movicon 11.2.1085.4
+WAGO WAGO 758-870
+3S - Smart Software Solutions GmbH CoDeSys 3.4
+National Instruments Corporation LabVIEW
+National Instruments Corporation LabWindows/CVI
+Advantech WebAccess 7.1
+IBM Tivoli Security Information and Event Manager 2.0
+Siemens SCALANCE X-200 4.4.9
+AzeoTech DAQFactory <5.85 build 1842
+Rockwell Automation Rockwell OPC Automation 1.1.8.0
+MICROSYS, spol. s r.o. MICROSYS 8.1.3
+MICROSYS, spol. s r.o. MICROSYS 8.1.4
+MICROSYS, spol. s r.o. MICROSYS 8.1.5
+vtiger vtiger CRM 5.0.4 RC
+vtiger vtiger CRM 4.2
+vtiger vtiger CRM 4.2.4
+vtiger vtiger CRM 5.0.3
+vtiger vtiger CRM 5.0.4
+vtiger vtiger 5.0.4 RC
+D-Link DCS-900 null
+D-Link DCS-5300 null
+D-Link DCS-2000 null
+HP Operations Orachestration < v9.0
+Tecomat Tecomat Foxtrot 0
+ClearSCADA ClearSCADA 2010R1
+AzeoTech DAQFactory AzeoTech DAQFactory <= 5.85 build 1853
+Siemens SIMATIC WinCC <7.2
+Wellintech KingView 65.30.17249
+MICROSYS, spol. s r.o. MICROSYS 8.2.13
+SIEMENS SIMATIC PCS 7 <=7.1 SP4
+SIEMENS SIMATIC PCS 7 8.0
+SIEMENS SIMATIC PCS 7 8.1
+SIEMENS SIMATIC PCS 7 8.2
+SIEMENS SIMATIC WinCC Runtime Professional < V13 SP 1 Update 9
+SIEMENS SIMATIC WinCC <=7.0 SP 2
+SIEMENS SIMATIC WinCC 7.0 SP 3
+SIEMENS SIMATIC WinCC 7.3 x，< 7.3 Update 10
+SIEMENS SIMATIC WinCC 7.4 x，< 7.4 Update 1
+Invensys Wonderware Information Server 4.0:sp1
+Beckhoff Automation TwinCAT 2.11 R2 Build 2038
+Huawei UAP2105 V300R011C01B028(BootRom)[2]
+Huawei UAP2105 V300R011C01B030(BootRom)
+Huawei UAP2105 V300R011C0SPC100(BootRom)
+Ab micrologix controller Rockwellautomation 1100
+Ab micrologix controller Rockwellautomation 1400
+HP Insight Orchestration <6.1
+﻿SIEMENS SIMATIC S7-300 CPUs with Profinet support < V3.2.12 
+SIEMENS SIMATIC S7-300 CPUs without Profinet support < V3.3.12
+(暂无)
+﻿Panasonic FPWIN Pro 5.x 
+TURCK BL67 Programmable Gateway 
+Wonderware SuiteLink 51.5.0.0 
+IBM Rational Build Forge 7.0 
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 
+Koha Library Software Community Koha 3.4.6 
+Parallels Parallels Plesk Panel 10.3 
+Parallels Plesk Panel 7.6.1 
+Koha Library Software Community Koha 3.6 
+Parallels Parallels Plesk Panel 9.3 
+Parallels Plesk Panel 8.6 
+Stanley Huang MiniWeb 0 
+Koha Library Software Community Koha 3.4.2 
+Parallels Parallels Plesk Panel 10.2.0_build20110407.20 
+﻿Honeywell International Uniformance Process History Database（PHD） R310 
+Parallels Plesk Panel 10.3.1 
+Parallels Parallels Plesk Panel 10.2 
+Koha Library Software Community Koha 3.4.1 
+Parallels Parallels Plesk Panel 10.1 
+Parallels Plesk Panel 9.3 
+Parallels Plesk Panel 9.2 
+Wonderware InTouch 10.5 
+IBM Rational Build Forge 7.0.2 
+Parallels Parallels Plesk Panel 10.0 
+D-Link DCS-930L, 固件版本 1.04 
+VMware, Inc. VMware Workstation 10.0.1 build-1379776 
+vtiger vtiger CRM 5.0.4 
+Cyber-Ark Software Password Vault Web Access 5.5.patch #4 
+Parallels Parallels Plesk Panel 10.2.0_build1011110331.18 
+D-Link DCS-5300 null 
+Hitachi Tuning Manager Software 6.1 -00 (Solaris(SPARC)) 
+Hitachi Tuning Manager Software 6.2 -00 (Windows) 
+vtiger vtiger CRM 5.0.4 RC 
+Hitachi Tuning Manager Software 6.0 (Solaris(SPARC)) 
+Cyber-Ark Software Password Vault Web Access 5.0 
+Hitachi Tuning Manager Software 6.2 -00 (Solaris(SPARC)) 
+D-Link DCS-900 null 
+Hitachi Tuning Manager Software 6.2 -01 (Solaris(SPARC)) 
+Hitachi Tuning Manager Software 6.0 (Windows) 
+Hitachi Tuning Manager Software 6.4 01 (Solaris(SPARC)) 
+Hitachi Tuning Manager Software 6.1 -00 (Windows) 
+vtiger vtiger CRM 5.0.3 
+SafeNet Sentinel HASP SDK 5.10 
+vtiger vtiger CRM 4.2.4 
+Hitachi Tuning Manager Software 6.2 -01 (Windows) 
+vtiger vtiger CRM 4.2 
+Hitachi Tuning Manager Software 7.0 (Solaris(SPARC)) 
+Hitachi Tuning Manager Software 6.4 01 (Windows) 
+Alstom Grid e-Terracontrol 3.6 
+IBC SOLAR ServeMaster TLP+ 
+NovaTech Orion5/Orion5r DNP Slave 1.23.10 
+Microsys, spol. s r.o. PROMOTIC 8.x 
+Wellintech KingSCADA 3.1 
+Microsys, spol. s r.o. PROMOTIC 8.1.4 
+WebSCADA WS200 null 
+Sinapsi eSolar 2.x 
+Wellintech KingGraphic 3.1 
+DATAC Control International RealWin SCADA Server 1.06 
+NovaTech Orion5/Orion5r DNP Master 1.27.38 
+Alstom Grid e-Terracontrol 3.5 
+Control Microsystems ClearSCADA 2007 0 
+NovaTech OrionLX DNP Slave 1.23.10 
+RealFlex RealWin <= 2.1.12 
+Sinapsi eSolar DUO 2.x 
+Scadatec ModbusTagServer 4.1.1.81 
+CIMON UltimateAccess 3.00 
+MICROSYS, spol. s r.o. MICROSYS 8.1.3 
+﻿Trihedral VTScada 8 
+CIMON UltimateAccess <=3.01 
+MICROSYS, spol. s r.o. MICROSYS 8.1.4 
+DATAC Control International RealWin SCADA Server 2.1 
+RealFlex RealWinDemo <= 2.1.12 
+DATAC Control International RealWin SCADA Server 2.0 
+Control Microsystems ClearSCADA 2010 R1.0 
+Control Microsystems ClearSCADA 2009 0 
+DATAC Control International RealWin SCADA Server 2.1 (Build 6.1.10.10) 
+﻿WECON LeviStudio
+SIELCO SISTEMI Winlog Pro SCADA < 2.07.1 
+Ing. Punzenberger COPA-DATA GmbH zenon DNP3 NG driver 7.10 SP0 
+GE Fanuc Automation, Inc. Proficy HMI/SCADA-CIMPLICITY null 
+ComponentOne FlexGrid 7.1 
+﻿Advantech WebAccess <8.1_20160519
+SIELCO SISTEMI Winlog Pro 2.7.9 
+Ing. Punzenberger COPA-DATA GmbH zenon DNP3 Process Gateway 7.11 SP0 build 10238 
+SIELCO SISTEMI Winlog Pro 2.7 
+ComponentOne FlexGrid 7.1 Light 

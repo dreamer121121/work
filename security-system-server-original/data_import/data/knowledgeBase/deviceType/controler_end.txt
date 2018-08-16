@@ -1,0 +1,15 @@
+﻿SIEMENS SIMATIC S7-300 CPUs with Profinet support < V3.2.12 	Siemens SIMATIC S7-300 CPU是西门子（Siemens）公司的一款用于制造行业的模块化通用控制器。 Siemens SIMATIC S7-300 CPU系列设备存在拒绝服务漏洞。攻击者利用漏洞在一定条件下可发起拒绝服务攻击，即通过发送精心编制的数据包到102/ TCP（ISO-TSAP）端口或现场总线Profibus，导致设备进入故障模式，冷启动可恢复系统。	控制器
+SIEMENS SIMATIC S7-300 CPUs without Profinet support < V3.3.12	Siemens SIMATIC S7-300 CPU是西门子（Siemens）公司的一款用于制造行业的模块化通用控制器。 Siemens SIMATIC S7-300 CPU系列设备存在拒绝服务漏洞。攻击者利用漏洞在一定条件下可发起拒绝服务攻击，即通过发送精心编制的数据包到102/ TCP（ISO-TSAP）端口或现场总线Profibus，导致设备进入故障模式，冷启动可恢复系统。	控制器
+Moxa ioLogik E2200 <3.12 	Moxa ioLogik E2200和ioAdmin Configuration Utility都是摩莎（Moxa）公司的产品。前者是一款以太网RTU（远程终端控制系统）控制器，后者是一套用于管理和配置ioLogik E2200的软件。 Moxa ioLogik E2200 3.12之前版本和ioAdmin Configuration Utility 3.18之前版本中存在安全漏洞，该漏洞源于程序未能加密证书。远程攻击者可利用该漏洞获取相关的明文数据。	控制器
+Moxa ioAdmin Configuration Utility <3.18	Moxa ioLogik E2200和ioAdmin Configuration Utility都是摩莎（Moxa）公司的产品。前者是一款以太网RTU（远程终端控制系统）控制器，后者是一套用于管理和配置ioLogik E2200的软件。 Moxa ioLogik E2200 3.12之前版本和ioAdmin Configuration Utility 3.18之前版本中存在安全漏洞，该漏洞源于程序未能加密证书。远程攻击者可利用该漏洞获取相关的明文数据。	控制器
+Moxa ioLogik E2200 <3.12 	Moxa ioLogik E2200和ioAdmin Configuration Utility都是摩莎（Moxa）公司的产品。前者是一款以太网RTU（远程终端控制系统）控制器，后者是一套用于管理和配置ioLogik E2200的软件。 Moxa ioLogik E2200 3.12之前版本和ioAdmin Configuration Utility 3.18之前版本中存在安全漏洞，该漏洞源于程序未能加密数据。远程攻击者可利用该漏洞获取相关的明文数据。	控制器
+Moxa ioAdmin Configuration Utility <3.18	Moxa ioLogik E2200和ioAdmin Configuration Utility都是摩莎（Moxa）公司的产品。前者是一款以太网RTU（远程终端控制系统）控制器，后者是一套用于管理和配置ioLogik E2200的软件。 Moxa ioLogik E2200 3.12之前版本和ioAdmin Configuration Utility 3.18之前版本中存在安全漏洞，该漏洞源于程序未能加密数据。远程攻击者可利用该漏洞获取相关的明文数据。	控制器
+Siemens SIMATIC S7-1500 CPU family <V1.8.3	Siemens SIMATIC S7-1500是模块化结构的控制器系列产品。 Siemens SIMATIC S7-1500存在绕过机制漏洞。远程攻击者利用该漏洞，借助TCP 102端口上的特制的数据包可绕过重放保护机制。	控制器
+Siemens SIMATIC S7-1500 CPU family <V1.8.3	Siemens SIMATIC S7-1500是模块化结构的控制器系列产品。 Siemens SIMATIC S7-1500 1.8.3之前的版本在处理特制的TCP数据包时存在拒绝服务漏洞。攻击者利用漏洞可使CPU自动重启并停留在STOP模式，需要手动进入RUN模式。	控制器
+Rockwell Automation 1769-L18ER/A LOGIX5318ER	Rockwell Automation 1769-L18ER/A LOGIX5318ER是美国罗克韦尔的一款可编程逻辑控制器。 Rockwell Automation 1769-L18ER/A LOGIX5318ER存在跨站脚本漏洞，允许远程攻击者利用漏洞注入恶意脚本或HTML代码，当恶意数据被查看时，可获取敏感信息或劫持用户会话。	控制器
+Emerson DeltaV 11.x 	Emerson Deltav是一款集散控制系统。Emerson Deltav在处理某些报文时存在一个安全漏洞。允许攻击者利用漏洞重启控制器，造成拒绝服务攻击。	控制器
+Emerson DeltaV 10.x	Emerson Deltav是一款集散控制系统。Emerson Deltav在处理某些报文时存在一个安全漏洞。允许攻击者利用漏洞重启控制器，造成拒绝服务攻击。	控制器
+3S - Smart Software Solutions GmbH CoDeSys 2.3.9.32 	CoDeSys是Windows平台下，独立于硬件的IEC 61131-3开发系统，用于编程和创建控制器应用。3S CoDeSys 3.4 SP4 Patch 2内的Control服务CmbWebserver.dll模块在处理包含不存在目录的HTTP GET请求时存在错误。通过向TCP端口8080发送特制请求，可允许远程攻击者在Webroot下创建任意目录。	控制器
+3S - Smart Software Solutions GmbH CoDeSys 3.5	CoDeSys是Windows平台下，独立于硬件的IEC 61131-3开发系统，用于编程和创建控制器应用。3S CoDeSys 3.4 SP4 Patch 2内的Control服务CmbWebserver.dll模块在处理包含不存在目录的HTTP GET请求时存在错误。通过向TCP端口8080发送特制请求，可允许远程攻击者在Webroot下创建任意目录。	控制器
+Siemens SIMATIC S7-1200 2.x	Siemens SIMATIC S7-1200是一款西门子推出的模块化控制器。Siemens SIMATIC S7-1200存在安全漏洞， 引擎软件向可编程逻辑控制器发送未加密数据，通过中间人攻击攻击者可以重播引擎软件发送的重播命令。	控制器
+Siemens SIMATIC S7-1200 2.x	Siemens SIMATIC S7-1200是一款西门子退出的模块化控制器。Siemens SIMATIC S7-1200 WEB服务器存在未明错误可触发拒绝服务攻击。	控制器

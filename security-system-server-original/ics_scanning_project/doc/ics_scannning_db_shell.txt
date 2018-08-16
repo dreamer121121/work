@@ -1,0 +1,65 @@
+CREATE TABLE t_ip_subnet(
+    id              INT         AUTO_INCREMENT,
+    city            VARCHAR(50) NOT NULL,
+    ip_subnet_from  VARCHAR(15) NOT NULL,
+    ip_subnet_to    VARCHAR(15) NOT NULL,
+    PRIMARY KEY ( id )
+);
+
+CREATE TABLE t_ip_port(
+    ip_address  VARCHAR(15)  NOT NULL,
+    port        INT          NOT NULL,
+    PRIMARY KEY(ip_address, port)
+);
+
+CREATE TABLE t_ip_location(
+    ip_address  VARCHAR(15)  NOT NULL,
+    lat         VARCHAR(15)  NOT NULL,
+    lng         VARCHAR(15)  NOT NULL,
+    PRIMARY KEY (ip_address)
+);
+
+CREATE TABLE t_device(
+    ip_address    VARCHAR(15)  NOT NULL,
+    lat           VARCHAR(15),
+    lng           VARCHAR(15),
+    asn           VARCHAR(15),
+    country       VARCHAR(30),
+    city          VARCHAR(30),
+    organization  VARCHAR(30),
+    ISP           VARCHAR(30),
+    dev_type      VARCHAR(30),
+    brand         VARCHAR(30),
+    status        VARCHAR(15),
+    add_time      TIMESTAMP,
+    update_time   TIMESTAMP,
+    PRIMARY KEY (ip_address)
+);
+
+CREATE TABLE t_device_port(
+    ip_address    VARCHAR(15)  NOT NULL,
+    port          INT          NOT NULL,
+    protocol      VARCHAR(30),
+    banner        TEXT,
+    status        VARCHAR(15),
+    add_time      TIMESTAMP,
+    update_time   TIMESTAMP,
+    PRIMARY KEY (ip_address, port)
+);
+
+
+CREATE TABLE t_web(
+    ip_address    VARCHAR(15)  NOT NULL,
+    port          INT          NOT NULL,
+    lat           VARCHAR(15),
+    lng           VARCHAR(15),
+    asn           VARCHAR(15),
+    country       VARCHAR(30),
+    city          VARCHAR(30),
+    html          TEXT,
+    header        TEXT,
+    status        VARCHAR(15),
+    add_time      TIMESTAMP,
+    update_time   TIMESTAMP,
+    PRIMARY KEY (ip_address, port)
+);

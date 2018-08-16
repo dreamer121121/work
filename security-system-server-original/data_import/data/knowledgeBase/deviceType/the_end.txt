@@ -1,0 +1,469 @@
+﻿Honeywell International Uniformance Process History Database（PHD） R310 	Honeywell Uniformance Process History Database（PHD）R310、R320和R321都是美国霍尼韦尔国际（Honeywell International）公司的与DCS一起使用提供工程和业务分析的产品。 多款Honeywell Uniformance PHD产品中存在缓冲区溢出漏洞，远程攻击者可利用该漏洞造成拒绝服务。	未归类
+Honeywell International Uniformance Process History Database（PHD） R320 	Honeywell Uniformance Process History Database（PHD）R310、R320和R321都是美国霍尼韦尔国际（Honeywell International）公司的与DCS一起使用提供工程和业务分析的产品。 多款Honeywell Uniformance PHD产品中存在缓冲区溢出漏洞，远程攻击者可利用该漏洞造成拒绝服务。	未归类
+Honeywell International Uniformance Process History Database（PHD） R321	Honeywell Uniformance Process History Database（PHD）R310、R320和R321都是美国霍尼韦尔国际（Honeywell International）公司的与DCS一起使用提供工程和业务分析的产品。 多款Honeywell Uniformance PHD产品中存在缓冲区溢出漏洞，远程攻击者可利用该漏洞造成拒绝服务。	未归类
+Rockwell Automation Integrated Architecture Builder <=9.6.0.8 	Rockwell Automation Integrated Architecture Builder（IAB）是美国罗克韦尔（Rockwell Automation）公司的一套用于配置工业控制系统中使用的基于Logix的自动化系统。 Rockwell Automation IAB存在任意代码执行漏洞。攻击者可利用该漏洞通过特制的工程文件以登录用户权限在受影响计算机中执行任意代码。	未归类
+Rockwell Automation Integrated Architecture Builder >=9.7.x，<=9.7.0.2	Rockwell Automation Integrated Architecture Builder（IAB）是美国罗克韦尔（Rockwell Automation）公司的一套用于配置工业控制系统中使用的基于Logix的自动化系统。 Rockwell Automation IAB存在任意代码执行漏洞。攻击者可利用该漏洞通过特制的工程文件以登录用户权限在受影响计算机中执行任意代码。	未归类
+Westermo WeOS 4.19.0	Westermo Industrial Switches是瑞典Westermo公司的一款工业以太网交换机产品。 Westermo Industrial switches存在安全漏洞，允许远程攻击者可利用该漏洞实施中间人攻击，未授权访问设备。	未归类
+MICROSYS PROMOTIC <8.3.11	MICROSYS PROMOTIC是一套用在工业领域的基于Windows平台的监控与数据采集人机界面软件编程套件。 MICROSYS PROMOTIC存在堆缓冲区溢出漏洞，允许远程攻击者可利用畸形的HTML文档进行拒绝服务攻击。	未归类
+Pacom RTU/1000 CCU/EMCS	Pacom 1000 CCU和RTU都是瑞典Pacom公司的产品。前者是一套用于控制、监控和维护远程站点的网络安全面板，后者是一套控制门禁报警系统的安全面板。 Pacom 1000 CCU和RTU的加密算法中存在安全漏洞。攻击者可利用该漏洞控制程序和基站之间的通信。	未归类
+Siemens APOGEE Insight 3.12 	Insight是西门子楼宇自控系统APOGEE中用到的监控组态软件。 Siemens APOGEE Insight Database Conversion Tool存在DLL劫持漏洞。由于Insight的Database Conversion组件Convert.exe程序不安全装载库文件（指向atlas.dll文件），攻击者可通过构造恶意应用置放于特定路径中，可使应用恶意加载DLL并执行。	未归类
+Siemens APOGEE Insight 3.13	Insight是西门子楼宇自控系统APOGEE中用到的监控组态软件。 Siemens APOGEE Insight Database Conversion Tool存在DLL劫持漏洞。由于Insight的Database Conversion组件Convert.exe程序不安全装载库文件（指向atlas.dll文件），攻击者可通过构造恶意应用置放于特定路径中，可使应用恶意加载DLL并执行。	未归类
+Wind River Systems, Inc. vxworks /	Wind River VxWorks一套用于物联网的实时操作系统。 Wind River VxWorks存在整数溢出漏洞，允许远程攻击者利用该漏洞提交特殊的请求使应用程序崩溃或执行任意代码。	未归类
+3S-Smart Software Solutions CODESYS Gateway Server <2.3.9.48	CODESYS Gateway Server是软件定义的服务器。 CODESYS Gateway Server 2.3.9.47及更早版本处理某些HTTP POST/GET请求时，存在空指针异常漏洞。攻击者可利用该漏洞造成拒绝服务。	未归类
+3S - Smart Software Solutions GmbH CODESYS Runtime Toolkit <2.4.7.48	CODESYS Runtime Toolkit是嵌入式第三方软件，用于多种行业。 3S-Smart CODESYS 2.3.9.48之前版本中，Runtime Toolkit 2.4.7.48之前版本存在空指针间接引用漏洞。远程攻击者利用此漏洞可造成拒绝服务（受影响应用崩溃）。	未归类
+Wind River Systems Inc. VxWorks 5.5-6.9.4.1	VxWorks是广泛应用在ICS相关设备上的实时操作系统。 Wind River VxWorks 5.5-6.9.4.1版本在实现上存在整数溢出漏洞。成功利用后可使攻击者在操作系统中远程执行任意代码，破坏或绕过所有的内存保护，设置后门帐户。	未归类
+Huawei UAP2105 V300R011C01B028(BootRom)[2] 	Huawei UAP2105是一款家庭化的WCDMA无线网络接入设备。 Huawei UAP2105存在命令注入漏洞，允许本地攻击者可通过串口接入shell执行VxWorks的调试命令，查看和修改内存和文件，造成信息泄露和系统异常。	未归类
+Huawei UAP2105 V300R011C01B030(BootRom) 	Huawei UAP2105是一款家庭化的WCDMA无线网络接入设备。 Huawei UAP2105存在命令注入漏洞，允许本地攻击者可通过串口接入shell执行VxWorks的调试命令，查看和修改内存和文件，造成信息泄露和系统异常。	未归类
+Huawei UAP2105 V300R011C0SPC100(BootRom) 	Huawei UAP2105是一款家庭化的WCDMA无线网络接入设备。 Huawei UAP2105存在命令注入漏洞，允许本地攻击者可通过串口接入shell执行VxWorks的调试命令，查看和修改内存和文件，造成信息泄露和系统异常。	未归类
+Huawei UAP2105 V300R011C01SPC110(BootRom)	Huawei UAP2105是一款家庭化的WCDMA无线网络接入设备。 Huawei UAP2105存在命令注入漏洞，允许本地攻击者可通过串口接入shell执行VxWorks的调试命令，查看和修改内存和文件，造成信息泄露和系统异常。	未归类
+yokogawa Exaopc <=R3.72.00 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 1000	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa Exaopc <=R3.72.00 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 1000	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa Exaopc <=R3.72.00 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM VP 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 Entry 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 3000 	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+yokogawa CENTUM CENTUM CS 1000	Yokogawa日本横河电机株式会社是测量、工业自动化控制、和信息系统的领导者。 多个Yokogawa产品中存在栈缓冲区溢出漏洞，攻击者通过发送构造的数据包，利用此漏洞造成网络通讯不响应。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在SQL注入漏洞，允许攻击者利用漏洞访问或修改数据库数据。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在目录遍历漏洞，允许攻击者利用漏洞读取任意文件。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在HTML注入漏洞，允许攻击者利用漏洞在受影响浏览器的上下文中执行攻击者提供的HTML和脚本代码。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在跨站脚本漏洞，允许攻击者利用漏洞在受影响浏览器的上下文中执行攻击者提供的HTML和脚本代码。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在跨站请求伪造漏洞，允许攻击者利用漏洞执行未授权操作。	未归类
+Siemens SIMATIC WinCC Sm@rtClient for Android	Siemens SIMATIC WinCC Sm@rtClient for Android是一款安卓系统上的客户端程序。Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC WinCC Sm@rtClient for Android存储存在安全漏洞，允许本地用户获取敏感信息。	未归类
+icsgmbh PACTware 4.1 SP3	PACTware是德国PACTware软件联盟的一套用于操作现场仪表的独立现场总线软件。 PACTware 4.1 SP3版本中存在安全漏洞。远程攻击者可借助特制的文件利用该漏洞造成拒绝服务（应用程序崩溃）。	未归类
+Wind River Systems VxWorks 6.x 	VxWorks是广泛应用在ICS相关设备上的实时操作系统。 VxWorks软件生成可预测的TCP初始顺序号码，攻击者可根据之前的值进行预测，从而欺骗或中断TCP连接。	未归类
+Wind River Systems VxWorks 7.x	VxWorks是广泛应用在ICS相关设备上的实时操作系统。 VxWorks软件生成可预测的TCP初始顺序号码，攻击者可根据之前的值进行预测，从而欺骗或中断TCP连接。	未归类
+IDS RTU 850C	NC854和NC856 modules for IDS RTU 850C devices是德国IDS公司的用于自动化和遥控设备中的通信模块。 IDS RTU 850C设备的NC854和NC856模块中存在目录遍历漏洞。远程攻击者可借助内网服务器读取任意文件。	未归类
+SIEMENS SIMATIC S7-300 CPU devices	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-300未能正确处理用户通过Proibus提交的发送给Port 102/TCP (ISO-TSAP)的报文，允许攻击者利用漏洞使应用程序崩溃。	未归类
+SIEMENS SIMATIC ProSave <13 SP1 	Siemens SIMATIC ProSave；SIMATIC CFC 8 SP4 upd9 8.1 upd1；SIMATIC STEP 7 5.5 SP1 Hf2 5.5 SP2 5.5 SP4 HF4 HF7 sp35.5；SIMOTION Scout 4.4起动器4.4 HF3都是德国西门子（西门子）公司的产品。 Siemens多款产品存在搜索路径漏洞，允许本地用户通过木马程序文件获得特权。	未归类
+SIEMENS SIMATIC CFC <8.0 SP4 Upd9 	Siemens SIMATIC ProSave；SIMATIC CFC 8 SP4 upd9 8.1 upd1；SIMATIC STEP 7 5.5 SP1 Hf2 5.5 SP2 5.5 SP4 HF4 HF7 sp35.5；SIMOTION Scout 4.4起动器4.4 HF3都是德国西门子（西门子）公司的产品。 Siemens多款产品存在搜索路径漏洞，允许本地用户通过木马程序文件获得特权。	未归类
+SIEMENS SIMATIC CFC 8.1（<Upd1)	Siemens SIMATIC ProSave；SIMATIC CFC 8 SP4 upd9 8.1 upd1；SIMATIC STEP 7 5.5 SP1 Hf2 5.5 SP2 5.5 SP4 HF4 HF7 sp35.5；SIMOTION Scout 4.4起动器4.4 HF3都是德国西门子（西门子）公司的产品。 Siemens多款产品存在搜索路径漏洞，允许本地用户通过木马程序文件获得特权。	未归类
+Siemens SIMATIC STEP 7 (TIA Portal) < V13 SP1 Upd1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC STEP 7存在敏感信息泄露漏洞，由于项目文件中的设备用户密码使用不安全的哈希算法加密，允许攻击者利用漏洞获取敏感信息。	未归类
+Siemens SIMATIC STEP 7 (TIA Portal) < V13 SP1 Upd1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC STEP 7 TCP 102端口存在中间人攻击漏洞，允许攻击者利用漏洞截获或修改通信。	未归类
+Advantech EKI-1200 Gateway <1.63	Advantech EKI-1200 Gateway是中国研华（Advantech）公司的EKI-1200系列Modbus数据网关产品，它主要用于将Modbus/RTU及Modbus/ASCI串行设备集成到基于TCP/IP网络的双向网关。 Advantech EKI-1200 Series存在未明缓冲区溢出漏洞。远程攻击者可利用该漏洞执行任意代码。	未归类
+Siemens SIMATIC STEP 7 (TIA Portal) < V13 SP1 Upd1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC STEP 7 TIA存在安全漏洞，允许攻击者利用漏洞访问TIA项目文件，重构密码或WEB服务器密码。	未归类
+SIEMENS SIMATIC STEP 7 V13 SP1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC STEP 7存在安全漏洞，由于SIMATIC STEP 7中设备用户特权信息存在未保护的TIA门户项目中，允许攻击者利用漏洞可访问项目文件读取敏感信息。	未归类
+Siemens SCALANCE X-200IRT switches with firmware <5.2.0	Siemens SCALANCE X-200IRT是德国西门子（Siemens）公司的一款工业以太网交换机产品。 Siemens SCALANCE X-200IRT 交换机5.2.0之前版本中的Web服务器中存在安全漏洞。远程攻击者可利用该漏洞劫持会话。	未归类
+Clorius Controls A/S Java web client	Clorius Controls A/S是一款工业控制系统软件。 Clorius Controls A/S Java Web客户端存在信息泄露漏洞，由于程序未能正确处理验证凭据加密。允许攻击者利用此漏洞嗅探网络通信，获取敏感信息，控制服务器。	未归类
+Koha Library Software Community Koha	Koha是第一个开放源代码的图书馆自动化系统。 Koha存在多个跨站脚本漏洞。由于程序未能正确过滤用户提供的输入，攻击者可能利用这些漏洞在受影响用户不知情的浏览器上下文中执行任意脚本代码。	未归类
+Softing AG Softing FG-100 PB 2.02.0.00	FG-100 PB PROFIBUS是一款DP总线诊断和故障排除工具。 Softing FG-100 PB PROFIBUS存在HTML注入漏洞，因为它无法正确过滤用户提供的输入。允许攻击者利用漏洞在受影响的浏览器中的上下文中执行HTML和脚本代码。	未归类
+Softing AG Softing FG-100 PB 2.02.0.00	FG-100 PB PROFIBUS是一款DP总线诊断和故障排除工具。 softing FG-100 PB PROFIBUS存在未授权访问漏洞，允许攻击者利用漏洞获得未经授权的访问和修改敏感信息。	未归类
+ABB RobotStudio 5.60-5.61.01.0 	ABB是电力和自动化技术的领导企业。ABB致力于在增效节能,提高工业生产率和电网稳定性方面为各行业提供高效而可靠的解决方案。 多个ABB产品存在本地代码执行漏洞，本地攻击者可以利用这个漏洞来执行任意代码。	未归类
+ABB Test Signal 1.5	ABB是电力和自动化技术的领导企业。ABB致力于在增效节能,提高工业生产率和电网稳定性方面为各行业提供高效而可靠的解决方案。 多个ABB产品存在本地代码执行漏洞，本地攻击者可以利用这个漏洞来执行任意代码。	未归类
+IOServer IOServer <=1.0.20	IOServer是一款基于windows的OPC服务器，允许OPC客户端如人机接口和监控及数据采集系统与可编程逻辑电路交换工厂数据。 IOServer存在越界读取拒绝服务漏洞，攻击者可以利用此问题使应用程序崩溃，拒绝服务合法用户。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在跨站脚本漏洞，攻击者可利用此漏洞在受影响站点上下文不知情用户的浏览器中执行任意脚本代码或窃取基于cookie的认证证书。	未归类
+Invensys Wonderware Information Server 4.5 Portal 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在跨站脚本漏洞，攻击者可利用此漏洞在受影响站点上下文不知情用户的浏览器中执行任意脚本代码或窃取基于cookie的认证证书。	未归类
+Invensys Wonderware Information Server 5.0 Portal 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在跨站脚本漏洞，攻击者可利用此漏洞在受影响站点上下文不知情用户的浏览器中执行任意脚本代码或窃取基于cookie的认证证书。	未归类
+Invensys Wonderware Information Server 5.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在跨站脚本漏洞，攻击者可利用此漏洞在受影响站点上下文不知情用户的浏览器中执行任意脚本代码或窃取基于cookie的认证证书。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在信息泄露漏洞，本地攻击者可以利用此漏洞获取敏感信息。	未归类
+Invensys Wonderware Information Server 4.5 Portal 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在信息泄露漏洞，本地攻击者可以利用此漏洞获取敏感信息。	未归类
+Invensys Wonderware Information Server 5.0 Portal 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在信息泄露漏洞，本地攻击者可以利用此漏洞获取敏感信息。	未归类
+Invensys Wonderware Information Server 5.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在信息泄露漏洞，本地攻击者可以利用此漏洞获取敏感信息。	未归类
+Invensys Wonderware Information Server	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys Wonderware Information Server存在弱加密漏洞，允许攻击者查看加密数据和获取敏感信息。	未归类
+WAGO WAGO I/O System <=V2.3.9.44	AGO IPC是紧凑型工业PC，它适用于控制应用。 WAGO I/O System CODESYS WebVisu存在密码信息泄露漏洞，允许攻击者访问进一步获取敏感信息。	未归类
+SubSTATION SubSTATION Server 2 Telegyr 8979 Master Protocol	SubSTATION Server是用于智能变电站智能化和IT网络的多功能软件，可进行数据集中，协议转译，自动化逻辑等。 SubSTATION Server协议存在安全漏洞，攻击者通过发送特制的模拟RTU的报文消息给Telegyr 8979 master，可触发缓冲区溢出，导致拒绝服务攻击。	未归类
+Yokogawa Electric Corporation CS3000	日本横河电机株式会社(YOKOGAWA)是一个全球著名的测量、工业自动化控制、和信息系统的领导者。 Yokogawa多个产品'BKFSim_vhfd.exe'存在缓冲区溢出漏洞,由于多个YOKOGAWA产品“BKFSim_vhfd.exe”服务中的sub_403E10” (IDA notation)函数用于记录功能，函数在使用用户可控数据来创建日志时使用类似vsprintf和memcpy函数，可导致攻击者触发缓冲区溢出，可使应用程序崩溃或以应用程序上下文执行任意代码。	未归类
+Parallels Plesk Panel 10.4.4	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。 Parallels Plesk Panel存在XML外部实体注入漏洞，允许攻击者利用漏洞通过特制的XML文档，获取敏感文件信息。	未归类
+Emerson DeltaV 10.3.1 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。本地攻击者可以利用漏洞通过‘engineering-level’权限，修改或读取配置文件。	未归类
+Emerson DeltaV 11.3 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。本地攻击者可以利用漏洞通过‘engineering-level’权限，修改或读取配置文件。	未归类
+Emerson DeltaV 11.3.1 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。本地攻击者可以利用漏洞通过‘engineering-level’权限，修改或读取配置文件。	未归类
+Emerson DeltaV 12.3	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。本地攻击者可以利用漏洞通过‘engineering-level’权限，修改或读取配置文件。	未归类
+Emerson DeltaV 10.3.1 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。由于程序对诊断服务使用硬编码证书，远程攻击者可通过TCP会话，绕过既定的访问限制。	未归类
+Emerson DeltaV 11.3 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。由于程序对诊断服务使用硬编码证书，远程攻击者可通过TCP会话，绕过既定的访问限制。	未归类
+Emerson DeltaV 11.3.1 	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。由于程序对诊断服务使用硬编码证书，远程攻击者可通过TCP会话，绕过既定的访问限制。	未归类
+Emerson DeltaV 12.3	Emerson DeltaV是美国艾默生（Emerson）公司的一套数字自动化系统。该系统提供I/O按需配置、嵌入式智能控制和报警面板等功能。 Emerson DeltaV存在安全绕过漏洞。由于程序对诊断服务使用硬编码证书，远程攻击者可通过TCP会话，绕过既定的访问限制。	未归类
+ABB UNITROL 1000 Series Commissioning and Maintenance 4.x 	ABB UNITROL 1000 series commissioning and maintenance tool是系统调试和维护工具。 ABB UNITROL 1000系统CMD工具ActivX控件存在任意文件覆盖漏洞。攻击者可利用此漏洞在特制网站上下文中覆盖受害者计算机上的任意文件。	未归类
+ABB UNITROL 1000 Series Commissioning and Maintenance 6.x 	ABB UNITROL 1000 series commissioning and maintenance tool是系统调试和维护工具。 ABB UNITROL 1000系统CMD工具ActivX控件存在任意文件覆盖漏洞。攻击者可利用此漏洞在特制网站上下文中覆盖受害者计算机上的任意文件。	未归类
+ABB UNITROL 1000 Series Commissioning and Maintenance 5.x	ABB UNITROL 1000 series commissioning and maintenance tool是系统调试和维护工具。 ABB UNITROL 1000系统CMD工具ActivX控件存在任意文件覆盖漏洞。攻击者可利用此漏洞在特制网站上下文中覆盖受害者计算机上的任意文件。	未归类
+Sixnet SixView 2.4.1	美国SIXNET公司是一家历史悠久的工业自动化和工业以太网产品生产厂商，自1976年起向世界各地用户提供高品质的控制系统和工业网络通讯产品。 Sixnet SixView Manager存在目录遍历漏洞，允许远程攻击者在受影响应用程序上下文中通过精心设置请求directory-traversal序列(“. . /”)读取任意文件。	未归类
+IOServer IOServer <=1.0.20	IOServer是一款基于windows的OPC服务器，允许OPC客户端如人机接口和监控及数据采集系统与可编程逻辑电路交换工厂数据。 IOServer存在越界读取漏洞，攻击者可以利用此漏洞使应用程序崩溃，拒绝合法用户。	未归类
+Schneider Electric TLXCDSUOFS33 3.5 	Schneider Electric为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。 Schneider Electric OFS产品中的OPC Automation 2.0 Server Object ActiveX控件在Schneider Electric OFS TLXCDSUOFS33 3.5及之前版本，TLXCDSTOFS33 3.5及之前版本，TLXCDLUOFS33 3.5及之前版本，TLXCDLTOFS33 3.5及之前版本，TLXCDLFOFS33 3.5及之前版本中存在堆缓冲区溢出漏洞。允许远程攻击者通过‘long’参数导致拒绝服务。	未归类
+Schneider Electric TLXCDSTOFS33 3.5 	Schneider Electric为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。 Schneider Electric OFS产品中的OPC Automation 2.0 Server Object ActiveX控件在Schneider Electric OFS TLXCDSUOFS33 3.5及之前版本，TLXCDSTOFS33 3.5及之前版本，TLXCDLUOFS33 3.5及之前版本，TLXCDLTOFS33 3.5及之前版本，TLXCDLFOFS33 3.5及之前版本中存在堆缓冲区溢出漏洞。允许远程攻击者通过‘long’参数导致拒绝服务。	未归类
+Schneider Electric TLXCDLUOFS33 3.5 	Schneider Electric为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。 Schneider Electric OFS产品中的OPC Automation 2.0 Server Object ActiveX控件在Schneider Electric OFS TLXCDSUOFS33 3.5及之前版本，TLXCDSTOFS33 3.5及之前版本，TLXCDLUOFS33 3.5及之前版本，TLXCDLTOFS33 3.5及之前版本，TLXCDLFOFS33 3.5及之前版本中存在堆缓冲区溢出漏洞。允许远程攻击者通过‘long’参数导致拒绝服务。	未归类
+Schneider Electric TLXCDLFOFS33 3.5	Schneider Electric为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。 Schneider Electric OFS产品中的OPC Automation 2.0 Server Object ActiveX控件在Schneider Electric OFS TLXCDSUOFS33 3.5及之前版本，TLXCDSTOFS33 3.5及之前版本，TLXCDLUOFS33 3.5及之前版本，TLXCDLTOFS33 3.5及之前版本，TLXCDLFOFS33 3.5及之前版本中存在堆缓冲区溢出漏洞。允许远程攻击者通过‘long’参数导致拒绝服务。	未归类
+VMware, Inc. VMware Workstation 10.0.1 build-1379776 	VMware Player是一款可以让PC用户在Windows或Linux PC上很容易的运行虚拟机的免费软件。VMWare Workstation是一款流行的虚拟机应用程序。 VMware Workstation / Player vmx86.sys驱动IOCTL存在本地拒绝服务漏洞。允许本地攻击者造成蓝屏，导致系统崩溃。	未归类
+VMware, Inc. VMware Player 6.0.1 build-1379776	VMware Player是一款可以让PC用户在Windows或Linux PC上很容易的运行虚拟机的免费软件。VMWare Workstation是一款流行的虚拟机应用程序。 VMware Workstation / Player vmx86.sys驱动IOCTL存在本地拒绝服务漏洞。允许本地攻击者造成蓝屏，导致系统崩溃。	未归类
+Ecava IntegraXor 4.x	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。 Ecava IntegraXor存在未明错误，允许攻击者利用漏洞获取敏感账户信息。	未归类
+RuggedCom Rugged Operating System 3.10.1	RuggedCom Inc罗杰康公司是世界领先的生产用于工业环境的高性能网络和通信设备的制造商。 RuggedCom Rugged Operating System系统中监听80端口的WEB服务器未能正确处理用户提交的特制报文，允许攻击者提交特制的请求使WEB接口崩溃，此漏洞不影响HTTPS服务及交换功能。	未归类
+Yokogawa Electric Corporation CENTUM CS3000 <= R3.09.50	Yokogawa CENTUM CS 3000是新一代的集散控制系统，以WINDOWS XP为操作平台的DCS系统。 Yokogawa CENTUM CS 3000在处理进站报文时，模块 "BKCLogSvr.exe"、"BKHOdeq.exe"、"BKBCopyD.exe"内存在错误，恶意用户通过向UDP端口52302、TCP端口20171、TCP端口20111发送特制的数据包，攻击者可以利用漏洞造成堆缓冲区溢出。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500未能正确处理特制Profinet报文，允许能访问本地以太段的远程攻击者利用漏洞发送特制请求使设备进入defect模式，需要重新启动恢复正常功能。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500所集成的WEB服务器存在未明跨站请求伪造漏洞，允许远程攻击者构建恶意URI，诱使用户解析，可以目标用户上下文执行恶意操作。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500集成的WEB服务器未能正确处理用户提交的输入，允许远程攻击者利用漏洞重定向用户到不可信的WEB站点。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500未能正确处理发送给443/tcp (HTTPS)端口的特制报文，允许远程攻击者利用漏洞发送特制请求使设备进入defect模式，需要重新启动恢复正常功能。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500集成的WEB服务器未能正确处理用户提交的输入，允许远程攻击者利用漏洞注入HTML头，可获取目标用户敏感信息或劫持用户会话。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500未能正确处理发送到102/TCP(ISO-TSAP)端口的特制报文，允许远程攻击者利用漏洞发送特制请求使设备进入defect模式，需要重新启动恢复正常功能。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500所集成的WEB服务器存在未明跨站脚本漏洞，远程攻击者可以利用漏洞构建恶意URI，诱使用户解析，可获得敏感Cookie，劫持会话或在客户端上进行恶意操作。	未归类
+Siemens SIMATIC S7-1500 1.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。 Siemens SIMATIC S7-1500未能正确处理发送到80/tcp (HTTP)端口的特制报文，允许远程攻击者利用漏洞发送特制请求使设备进入defect模式，需要重新启动恢复正常功能。	未归类
+ICONICS, Inc. GENESIS32 8.05 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。 Iconics GENESIS32 ActiveX Control存在远程代码执行漏洞，攻击者可利用该漏洞在应用程序的上下文中使用ActiveX控件执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 8.0 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。 Iconics GENESIS32 ActiveX Control存在远程代码执行漏洞，攻击者可利用该漏洞在应用程序的上下文中使用ActiveX控件执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 8.02 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。 Iconics GENESIS32 ActiveX Control存在远程代码执行漏洞，攻击者可利用该漏洞在应用程序的上下文中使用ActiveX控件执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 8.04	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。 Iconics GENESIS32 ActiveX Control存在远程代码执行漏洞，攻击者可利用该漏洞在应用程序的上下文中使用ActiveX控件执行任意代码。	未归类
+Rockwell Software Automation RSLogix 5000 7 - 20.01 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。 Rockwell Automation RSLogix 5000产品未能正确实现对.acd文件的密码保护，允许本地攻击者利用漏洞获取敏感信息或修改数据。	未归类
+Rockwell Software Automation RSLogix 5000 21.0	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。 Rockwell Automation RSLogix 5000产品未能正确实现对.acd文件的密码保护，允许本地攻击者利用漏洞获取敏感信息或修改数据。	未归类
+Ecava IntegraXor 4.1.4380	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。 Ecava IntegraXor存在一个缓冲区溢出漏洞，攻击者可以使用命令加载程序主文件夹中的任意DLL中的任意资源来触发该漏洞，成功利用漏洞可使应用程序崩溃或以应用程序上下文执行任意代码。	未归类
+Ecava IntegraXor	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。 Ecava IntegraXor存在一个敏感信息泄漏漏洞，允许攻击者利用漏洞获取项目目录信息。	未归类
+Schneider Electric Modicon M340	施耐德电气为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。 Schneider Electric Modicon M340默认包含'USER/USER'和'ntpupdate/ntpupdate'账户，允许远程攻击者利用漏洞利用该账户未授权访问设备。	未归类
+ABB Test Signal Viewer 1.x	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。 ABB Test Signal Viewer所包含的CWGraph3D ActiveX控件处理"ExportStyle"方法时存在目录遍历错误，攻击者构建恶意WEB页，诱使用户解析，可向系统任意位置写入任意文件。	未归类
+ABB RobotWare 5.x	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。 ABB RobotWare所包含的CWGraph3D ActiveX控件处理"ExportStyle"方法时存在目录遍历错误，攻击者构建恶意WEB页，诱使用户解析，可向系统任意位置写入任意文件。	未归类
+Indusoft Thin Client 7.1	Indusoft Web Studio是一款功能强大的图控软件。 InduSoft Thin Client 'novapi7.dll' ActiveX控件不正确过滤用户提交的参数，允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+RuggedCom Rugged Operating System 3.x	RuggedCom Inc罗杰康公司是世界领先的生产用于工业环境的高性能网络和通信设备的制造商。 RuggedCom Rugged操作系统处理WEB接口中的告警配置时存在一个错误，允许Guest和Operator用户操作原来受限的告警配置设置。	未归类
+Mitsubishi Electric Europe B.V. MC-WorX 8.x	Mitsubishi MC-WorkX是工厂自动化应用工具。 Mitsubishi MC-WorkX LaunchCtl ActiveX控件(IcoLaunch.dll)提供不安全的"FileName"属性，允许远程攻击者利用漏洞构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意程序。	未归类
+Siemens Scalance X-200 Series Switches	Siemens Scalance X200是西门子公司发布的工业以太网交换机。 Siemens SCALANCE X-200系列交换机随机数生成器存在一个错误，允许远程攻击者利用漏洞劫持WEB会话，可未授权访问应用设备。	未归类
+Sixnet RTU firmware < 4.8 	美国SIXNET公司是一家历史悠久的工业自动化和工业以太网产品生产厂商，自1976年起向世界各地用户提供高品质的控制系统和工业网络通讯产品。 Sixnet Universal Protocol存在远程安全绕过漏洞。攻击者可以利用漏洞绕过安全限制，获取文件描述和文件大小，读取或写入文件，创建新文件和执行任意代码。	未归类
+Sixnet Sixnet UDR < 2.0	美国SIXNET公司是一家历史悠久的工业自动化和工业以太网产品生产厂商，自1976年起向世界各地用户提供高品质的控制系统和工业网络通讯产品。 Sixnet Universal Protocol存在远程安全绕过漏洞。攻击者可以利用漏洞绕过安全限制，获取文件描述和文件大小，读取或写入文件，创建新文件和执行任意代码。	未归类
+National Instruments Corporation LabVIEW 	National Instruments是一家致力于为测试测量、自动化和嵌入式应用领域的公司。 National Instruments LabWindows/CVI, LabVIEW，ABB DataManager 1 - 6.3.6中的Data Analysis组件和其他产品中的cw3dgrph.ocx所提供的cwui.ocx ActiveX控件存在绝对路径遍历漏洞，允许远程攻击者向CWNumEdit, CWGraph, CWBoolean, CWSlide, 或CWKnob ActiveX控件中ExportStyle方法，结合Caption或FormatString属性值中的文件内容，提供包含全路径的参数创建和执行任意文件。	未归类
+National Instruments Corporation LabWindows/CVI 	National Instruments是一家致力于为测试测量、自动化和嵌入式应用领域的公司。 National Instruments LabWindows/CVI, LabVIEW，ABB DataManager 1 - 6.3.6中的Data Analysis组件和其他产品中的cw3dgrph.ocx所提供的cwui.ocx ActiveX控件存在绝对路径遍历漏洞，允许远程攻击者向CWNumEdit, CWGraph, CWBoolean, CWSlide, 或CWKnob ActiveX控件中ExportStyle方法，结合Caption或FormatString属性值中的文件内容，提供包含全路径的参数创建和执行任意文件。	未归类
+National Instruments Corporation National	National Instruments是一家致力于为测试测量、自动化和嵌入式应用领域的公司。 National Instruments LabWindows/CVI, LabVIEW，ABB DataManager 1 - 6.3.6中的Data Analysis组件和其他产品中的cw3dgrph.ocx所提供的cwui.ocx ActiveX控件存在绝对路径遍历漏洞，允许远程攻击者向CWNumEdit, CWGraph, CWBoolean, CWSlide, 或CWKnob ActiveX控件中ExportStyle方法，结合Caption或FormatString属性值中的文件内容，提供包含全路径的参数创建和执行任意文件。	未归类
+IOServer IOServer Beta driver	IOServer是一款基于windows的OPC服务器，允许OPC客户端如人机接口和监控及数据采集系统与可编程逻辑电路交换工厂数据。 IOServer driver没有校验或者没有正确校验端口20000/TCP上的主服务器上的输入，可影响程序的控制流或数据库流。当攻击者可以提交特殊请求使IOServer进入死循环而不退出，需要手工重新启动获取正常功能。	未归类
+Cogent Real-Time Systems Cogent DataHub	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems Datahub包含的WEB服务器组件处理HTTP头字段时存在缺陷，通过发送超大的HTTP头，攻击者可溢出固定大小的栈缓冲区，允许以Datahub进程上下文执行任意代码。	未归类
+IOServer IOServer 1.0.19.0	IOServer是一款运行在windows上的工控软件。 IOServer DNP3驱动处理TCP报文时存在一个未明错误，允许远程攻击者利用漏洞向TCP 2000发送特制的报文，触发死循环而造成拒绝服务攻击。	未归类
+Parallels Plesk Panel 8.6 	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。 Parallels Plesk Panel存在一个不正确的配置，在调用PHP路径时不正确引用了'/usr/bin'，允许远程攻击者利用漏洞提交特殊的请求以WEB权限执行任意OS命令。	未归类
+Parallels Plesk Panel 9.2 	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。 Parallels Plesk Panel存在一个不正确的配置，在调用PHP路径时不正确引用了'/usr/bin'，允许远程攻击者利用漏洞提交特殊的请求以WEB权限执行任意OS命令。	未归类
+Parallels Plesk Panel 9.3 	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。 Parallels Plesk Panel存在一个不正确的配置，在调用PHP路径时不正确引用了'/usr/bin'，允许远程攻击者利用漏洞提交特殊的请求以WEB权限执行任意OS命令。	未归类
+Parallels Plesk Panel 9.5.4	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。 Parallels Plesk Panel存在一个不正确的配置，在调用PHP路径时不正确引用了'/usr/bin'，允许远程攻击者利用漏洞提交特殊的请求以WEB权限执行任意OS命令。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys WIS未能正确限制请求资源的大小或数量，允许远程攻击者利用漏洞消耗大量资源，可造成拒绝服务攻击或可以以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。 Invensys WIS未能正确限制请求资源的大小或数量，允许远程攻击者利用漏洞消耗大量资源，可造成拒绝服务攻击或可以以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware Win-XML Exporter 1522.148.0.0	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys Wonderware Win-XML存在信息泄露漏洞。攻击者可以利用漏洞获得敏感信息，这可能会导致进一步的攻击。攻击者还可能利用此漏洞导致拒绝服务。	未归类
+Cogent Real-Time Systems OPC DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems Cascade DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems Cogent DataHub 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems DataPid 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems DataPid 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems DataSim 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems DataSim 6.4.21	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataSim和DataPid程序通过TCP连接DataHub，信息和命令交换通过此链接上的格式化文本消息来完成。如果用户连接DataSim或DataPid到服务器而非DataHub，服务器设计生成随机或畸形消息，那么DataSim和DataPid会崩溃。	未归类
+Cogent Real-Time Systems OPC DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems Cascade DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems Cogent DataHub 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems DataPid 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems DataPid 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems DataSim 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems DataSim 6.4.21	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub应用程序接收TCP链接方式的格式化文本命令，这些命令在应用程序内解析，校验和执行。发送随机数据给解析器，可导致越界访问已分配堆缓冲区，使应用程序崩溃，也可能越界访问栈缓冲区，可能利用特制消息修改栈来执行任意命令。	未归类
+Cogent Real-Time Systems OPC DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems Cascade DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems Cogent DataHub 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems DataPid 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems DataPid 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems DataSim 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems DataSim 6.4.21	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确处理包含特制格式文本消息的TCP通信，允许攻击者提交恶意请求触发空指针引用，使应用程序崩溃。	未归类
+Cogent Real-Time Systems OPC DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems Cascade DataHub 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems Cogent DataHub 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems DataHub QuickTrend 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems DataPid 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems DataPid 6.4.21 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems DataSim 7.2.2 	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Cogent Real-Time Systems DataSim 6.4.21	Cogent Real-Time Systems是一家实时数据解决方案厂商。 Cogent Real-Time Systems DataHub不正确过滤用户提交的请求，允许远程攻击者可以利用漏洞进行缓冲区溢出攻击。 如果攻击者提交的HTTP请求中包含超长'header'参数，可触发基于栈的缓冲区溢出，结果可导致拒绝服务或任意代码执行。	未归类
+Siemens CP 1616和CP 1604 C Onboard card of SIMANTIC IPCs <2.5.2 	西门子CP 1616和1604是工业以太网通讯卡，用于连接桌面工作站和PCI-104系统至PROFINET接口。 西门子CP 1616和1604固件默认启用调试接口，并启用远程访问的调试端口，远程攻击者利用向UDP 17185端口发送特制的报文，可进行拒绝服务或任意代码执行攻击。	未归类
+Siemens CP 1616和CP 1604 C Microbox package <2.5.2	西门子CP 1616和1604是工业以太网通讯卡，用于连接桌面工作站和PCI-104系统至PROFINET接口。 西门子CP 1616和1604固件默认启用调试接口，并启用远程访问的调试端口，远程攻击者利用向UDP 17185端口发送特制的报文，可进行拒绝服务或任意代码执行攻击。	未归类
+Wind River Systems VxWorks 6.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks存在拒绝服务漏洞。允许远程攻击者通过特制的报文造成拒绝服务。	未归类
+Wind River Systems VxWorks 6.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks SSH server (IPSSH)存在拒绝服务漏洞。攻击者可以通过一个特制的身份验证请求导致拒绝服务。	未归类
+Wind River Systems VxWorks 6.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks SSH server (IPSSH)存在拒绝服务漏洞。攻击者可以通过一个特制的数据包，造成拒绝服务。	未归类
+Wind River Systems VxWorks 6.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks SSH server (IPSSH)存在拒绝服务漏洞。攻击者可以通过一个特制的私人请求造成拒绝服务。	未归类
+Wind River Systems VxWorks 6.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks SSH server (IPSSH)存在拒绝服务漏洞。攻击者可以通过通过特制的公钥认证请求，执行任意代码或者引起拒绝服务。	未归类
+Wind River Systems VxWorks 5.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks WebCLI存在拒绝服务漏洞。攻击者可以借助一个特制的命令字符串，造成拒绝服务。	未归类
+Wind River Systems VxWorks 5.5 through 6.9	VxWorks是一款嵌入式实时操作系统。 VxWorks Web服务器存在拒绝服务漏洞。攻击者可以通过特制URI导致拒绝服务。	未归类
+Schneider Electric M340 Series Modules null 	施耐德电气为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。Schneider Electric Ethernetmokuai存在跨站请求伪造漏洞，允许攻击者构建恶意URI，诱使用户解析，可以目标用户上下文执行恶意操作，如更改密码。如下版本受此漏洞影响：Quantum: 140NOE77111 140NOE77101 140NWM10000 M340: BMXNOC0401 BMXNOE0100x BMXNOE011xx Premium: TSXETY4103 TSXETY5103 TSXWMY100	未归类
+Schneider Electric Modicon Quantum Series Modules null 	施耐德电气为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。Schneider Electric Ethernetmokuai存在跨站请求伪造漏洞，允许攻击者构建恶意URI，诱使用户解析，可以目标用户上下文执行恶意操作，如更改密码。如下版本受此漏洞影响：Quantum: 140NOE77111 140NOE77101 140NWM10000 M340: BMXNOC0401 BMXNOE0100x BMXNOE011xx Premium: TSXETY4103 TSXETY5103 TSXWMY100	未归类
+Schneider Electric Premium Series Modules null	施耐德电气为100多个国家的能源及基础设施、工业、数据中心及网络、楼宇和住宅市场提供整体解决方案。Schneider Electric Ethernetmokuai存在跨站请求伪造漏洞，允许攻击者构建恶意URI，诱使用户解析，可以目标用户上下文执行恶意操作，如更改密码。如下版本受此漏洞影响：Quantum: 140NOE77111 140NOE77101 140NWM10000 M340: BMXNOC0401 BMXNOE0100x BMXNOE011xx Premium: TSXETY4103 TSXETY5103 TSXWMY100	未归类
+Wellintech KingView 6.55 	KingView是一款用于工业自动化的构建数据信息服务平台的产品。KingView不正确处理异常信息，可导致一个内存破坏漏洞，攻击者可以向KingView发送特制报文，使KingMess应用不正确处理报文，造成一个内存缓冲区溢出，可执行任意代码。	未归类
+Wellintech KingView 6.52 	KingView是一款用于工业自动化的构建数据信息服务平台的产品。KingView不正确处理异常信息，可导致一个内存破坏漏洞，攻击者可以向KingView发送特制报文，使KingMess应用不正确处理报文，造成一个内存缓冲区溢出，可执行任意代码。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。KingView不正确处理异常信息，可导致一个内存破坏漏洞，攻击者可以向KingView发送特制报文，使KingMess应用不正确处理报文，造成一个内存缓冲区溢出，可执行任意代码。	未归类
+D-Link DCS-930L, 固件版本 1.04 	D-Link DCS是摄像设备产品。D-Link DCS web cameras允许未验证攻击者远程获得设备的配置信息，攻击者可以提交如下URL：http://<device IP address>/frame/GetConfig获得配置文件。	未归类
+D-Link DCS-932L, 固件版本 1.02	D-Link DCS是摄像设备产品。D-Link DCS web cameras允许未验证攻击者远程获得设备的配置信息，攻击者可以提交如下URL：http://<device IP address>/frame/GetConfig获得配置文件。	未归类
+General Electric Proficy Process Systems with CIMPLICITY null	GE智能平台是一个为用户提供用于自动化控制和嵌入式领域的软硬件产品、服务以及专业技术。GE Proficy CIMPLICITY是上位机组态软件。GE Proficy CIMPLICITY WebView CimWeb组件(substitute.bcl)没有正确检查输入变量，向TCP 80端口发送恶意报文，攻击者可以通过目录遍历攻击，查看和下载服务器上的文件。	未归类
+General Electric Proficy Process Systems with CIMPLICITY null	GE智能平台是一个为用户提供用于自动化控制和嵌入式领域的软硬件产品、服务以及专业技术。GE Proficy CIMPLICITY是上位机组态软件。GE Proficy CIMPLICITY CimWebServer未能正确校验输入信息，通过发送特制的报文，允许攻击者使内置Web服务器崩溃，在服务器上执行任意命令或完全控制服务器。	未归类
+Siemens SIMATIC RF Manager 2008 	Siemens SIMATIC RF Manager是一款RFID读卡器工程和配置工具。Siemens SIMATIC RF Manager存在一个未明的ActiveX控件存在一个缓冲区溢出漏洞，允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Siemens SIMATIC RF Manager Basic 3.x	Siemens SIMATIC RF Manager是一款RFID读卡器工程和配置工具。Siemens SIMATIC RF Manager存在一个未明的ActiveX控件存在一个缓冲区溢出漏洞，允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Siemens SIMATIC S7-1200 2.0.2 	SIEMENS SIMATIC S7-1200是一款西门子开发的自动化应用产品。SIEMENS SIMATIC S7-1200 处理SNMP状态信息时存在一个错误，攻击者可以向UDP 161端口发送特殊报文使设备进入缺陷模式(defect mode)。允许攻击者利用漏洞进行拒绝服务攻击。	未归类
+Siemens SIMATIC S7-1200 2.0.3	SIEMENS SIMATIC S7-1200是一款西门子开发的自动化应用产品。SIEMENS SIMATIC S7-1200 处理SNMP状态信息时存在一个错误，攻击者可以向UDP 161端口发送特殊报文使设备进入缺陷模式(defect mode)。允许攻击者利用漏洞进行拒绝服务攻击。	未归类
+Rockwell Automation 1762 MicroLogix 1200 Controllers null 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation Controllers存在拒绝服务漏洞，由于程序在处理某些消息时的错误，攻击者可以通过向TCP和2222或44818UDP端口发送消息，导致设备发生故障。	未归类
+Rockwell Automation 1763 MicroLogix 1100 Controllers null 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation Controllers存在拒绝服务漏洞，由于程序在处理某些消息时的错误，攻击者可以通过向TCP和2222或44818UDP端口发送消息，导致设备发生故障。	未归类
+Rockwell Automation 1764 MicroLogix 1500 Controllers null 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation Controllers存在拒绝服务漏洞，由于程序在处理某些消息时的错误，攻击者可以通过向TCP和2222或44818UDP端口发送消息，导致设备发生故障。	未归类
+Rockwell Automation 1766 MicroLogix 1400 Controllers null 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation Controllers存在拒绝服务漏洞，由于程序在处理某些消息时的错误，攻击者可以通过向TCP和2222或44818UDP端口发送消息，导致设备发生故障。	未归类
+Rockwell Automation SLC 500 Controller null	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation Controllers存在拒绝服务漏洞，由于程序在处理某些消息时的错误，攻击者可以通过向TCP和2222或44818UDP端口发送消息，导致设备发生故障。	未归类
+Parallels Plesk Panel 11.x	Parallels Plesk Panel是带有集成web设计、SaaS市场与付费系统的web主机控制面板。Parallels Plesk Panel存在未明安全错误，目前没有详细漏洞细节提供。	未归类
+WellinTech KingView <=6.5.3	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView使用弱密码哈希算法，允许本地用户读取特定文件比较容易的解密获取验证凭据。	未归类
+Emerson Electric Co DeltaV 10	Emerson DeltaV是一款艾默生公司开发的数字工程控制系统。Emerson DeltaV未能正确过滤项目文件中的输入，某些字段中的非法信息可使程序崩溃或用于执行任意代码。	未归类
+Parallels H-Sphere 3.3 Patch 1	Parallels H-Sphere提供面向Linux、BSD 和Windows平台的多服务器主机自动化解决方案。Parallels H-Sphere存在跨站请求伪造漏洞。允许攻击者构建恶意URI，诱使用户解析，可以目标用户上下文执行恶意操作。	未归类
+Siemens SIMATIC S7-1200 2.0.2 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC S7-1200存在安全漏洞，由于在多个设备中使用一个SSL私钥，攻击者可利用漏洞创建自己的整数，通过伪造其他SIMATIC S7-1200设备和中间人攻击截获和对通信进行解密。	未归类
+Siemens SIMATIC S7-1200 2.0.3	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC S7-1200存在安全漏洞，由于在多个设备中使用一个SSL私钥，攻击者可利用漏洞创建自己的整数，通过伪造其他SIMATIC S7-1200设备和中间人攻击截获和对通信进行解密。	未归类
+Siemens SIMATIC WinCC 7.x 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。部分传递给WebNavigator组件的输入在返回用户之前缺少过滤，可被利用进行跨站脚本攻击，可获得敏感信息或劫持用户会话。	未归类
+Siemens SIMATIC PCS 7 7.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。部分传递给WebNavigator组件的输入在返回用户之前缺少过滤，可被利用进行跨站脚本攻击，可获得敏感信息或劫持用户会话。	未归类
+Siemens SIMATIC WinCC 7.x 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。通过SOAP消息传递给Siemens SIMATIC WebNavigator组件的输入在用于SQL查询之前缺少过滤，可被攻击者利用进行SQL注入攻击，可获得数据库信息或控制应用系统。	未归类
+Siemens SIMATIC PCS 7 7.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。通过SOAP消息传递给Siemens SIMATIC WebNavigator组件的输入在用于SQL查询之前缺少过滤，可被攻击者利用进行SQL注入攻击，可获得数据库信息或控制应用系统。	未归类
+Siemens SIMATIC WinCC 6.2	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC存在跨站请求伪造漏洞，允许攻击者构建恶意WEB页，诱使用户解析，可以目标用户上下文执行恶意操作。	未归类
+Siemens SIMATIC WinCC 7.x 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WebNavigator使用的ActiveX控件存在安全漏洞，构建恶意WEB页，诱使用户解析，可获得目标用户用户名和密码信息。	未归类
+Siemens SIMATIC PCS 7 7.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WebNavigator使用的ActiveX控件存在安全漏洞，构建恶意WEB页，诱使用户解析，可获得目标用户用户名和密码信息。	未归类
+Siemens SIMATIC WinCC 7.x 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC WebNavigator组件不正确处理输入，允许攻击者利用目录遍历序列读取系统文件。	未归类
+Siemens SIMATIC PCS 7 7.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC WebNavigator组件不正确处理输入，允许攻击者利用目录遍历序列读取系统文件。	未归类
+RuggedCom Rugged Operating System 3.x	RuggedCom是通讯网络解决方案提供商。RuggedCom Rugged Operating System存在SSL私人密钥复用漏洞，攻击者可以利用漏洞拦截和公开加密的流量。	未归类
+Websense Email Security 6.1-7.3	Websense Email Security是一款email安全解决方案。Websense Email Security中的SMTP组件默认配置在"SurfControl plc\SuperScout Email Filter\SMTP"注册键值中启用弱SSL加密，允许远程攻击者通过嗅探网络，然后对加密会话数据进行暴力攻击获得敏感信息。	未归类
+IOServer IOServer 1.0.18.0	IOServer是一款运行在windows上的工控软件。 IOServer包含的WEB接口未能正确过滤用户提交的URL，攻击者可以利用漏洞进行目录遍历攻击，可获得任意文件内容。要成功利用漏洞需要启用"XML Server"。	未归类
+IOServer IOServer 1.0.18.0	IOServer是运行在Windows上的工业控制软件，包含内置Web服务器以支持XML服务器功能。IOServer 1.0.19.0之前版本没有正确过滤URL后的输入即用于显示文件，可通过目录遍历序列下载和泄露任意文件内容。成功利用此漏洞需要启用 "XML Server"。	未归类
+Wellintech KingView 65.30.17249 	KingView是一款用于工业自动化的构建数据信息服务平台的产品。Wellintech KingView存在一个默认验证凭据，攻击者可以利用这个未文档化默认用户登录应用程序，进行未授权访问。	未归类
+Wellintech KingView 6.53 	KingView是一款用于工业自动化的构建数据信息服务平台的产品。Wellintech KingView存在一个默认验证凭据，攻击者可以利用这个未文档化默认用户登录应用程序，进行未授权访问。	未归类
+Wellintech KingView 65.30.2010.18018	KingView是一款用于工业自动化的构建数据信息服务平台的产品。Wellintech KingView存在一个默认验证凭据，攻击者可以利用这个未文档化默认用户登录应用程序，进行未授权访问。	未归类
+SIEMENS SIMATIC S7-400 V6 6.0.2 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V6上的以太端口接收到畸形IP报文时，设备会进入Defect模式，SIMATIC S7-400 V6 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V6 6.0.1 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V6上的以太端口接收到畸形IP报文时，设备会进入Defect模式，SIMATIC S7-400 V6 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V5 6.0.2 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V6上的以太端口接收到畸形IP报文时，设备会进入Defect模式，SIMATIC S7-400 V6 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V5 6.0.1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V6上的以太端口接收到畸形IP报文时，设备会进入Defect模式，SIMATIC S7-400 V6 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V6 6.0.2 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V5上的以太端口接收到畸形IP或HTTP报文时，设备会进入Defect模式，SIMATIC S7-400 V5 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V6 6.0.1 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V5上的以太端口接收到畸形IP或HTTP报文时，设备会进入Defect模式，SIMATIC S7-400 V5 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V5 6.0.2 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V5上的以太端口接收到畸形IP或HTTP报文时，设备会进入Defect模式，SIMATIC S7-400 V5 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+SIEMENS SIMATIC S7-400 V5 6.0.1	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIEMENS SIMATIC S7-400存在安全漏洞。由于SIMATIC S7-400 V5上的以太端口接收到畸形IP或HTTP报文时，设备会进入Defect模式，SIMATIC S7-400 V5 CPU defect模式会锁定单元，因此不能在进行进程控制处理，攻击者可以利用此漏洞进行拒绝服务攻击。	未归类
+Invensys Wonderware Information Server 4.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware InBatch 9.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Foxboro Control Software 4.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware Application Server 3.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware Application Server 2012 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys InFusion Control Edition 2.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys InFusion Foundation Edition 2.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware Historian Client 10.x 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Invensys Wonderware InTouch 10.x	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。多个Invensys Wonderware产品不安全装载库文件，攻击者可以构建特制的文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Siemens SIMATIC PCS 7 7.x 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC STEP 7和PCS 7不安全装载库文件，攻击者可以构建特制的项目文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Siemens SIMATIC STEP 7 5.x	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC STEP 7和PCS 7不安全装载库文件，攻击者可以构建特制的项目文件，放置在远程WebDAV或SMB共享，诱使用户解析，可以应用程序上下文执行任意代码。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView存在安全漏洞，允许攻击者向TCP 555端口发送特制报文，可触发基于栈的缓冲区溢出，可能以应用程序上下文执行任意代码。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView存在安全漏洞，允许攻击者向TCP 555端口发送特制报文，可触发基于堆的缓冲区溢出，可能以应用程序上下文执行任意代码。	未归类
+Invensys InTouch 2012 	WonderWare是一款工业控制与自动化软件。Invensys InTouch 2012和Wonderware Application Server 2012中的Invensys Wonderware SuiteLink提供的slssvc.exe存在一个安全漏洞。允许远程攻击者提交超长unicode字符串消耗大量资料造成拒绝服务攻击。	未归类
+Invensys Wonderware Application Server 2012	WonderWare是一款工业控制与自动化软件。Invensys InTouch 2012和Wonderware Application Server 2012中的Invensys Wonderware SuiteLink提供的slssvc.exe存在一个安全漏洞。允许远程攻击者提交超长unicode字符串消耗大量资料造成拒绝服务攻击。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView存在安全漏洞，允许攻击者向TCP 2001或UPD 2001端口发送特制报文，可触发读取非法内存域数据，导致应用程序崩溃。	未归类
+Invensys InTouch 2012 	WonderWare是一款工业控制与自动化软件。InTouch/Wonderware Application Server IT 10.5之前版本和WAS 3.5之前版本, DASABCIP 4.1 SP2之前版本, DASSiDirect3.0之前版本, DAServer Runtime Components 3.0 SP2之前版本,及其他产品使用的sslssvc.exe存在一个基于栈的缓冲区溢出安全漏洞，允许远程攻击者提交超长unicode字符串使守护进程崩溃或挂起，造成拒绝服务攻击。	未归类
+Invensys Wonderware Application Server 2012	WonderWare是一款工业控制与自动化软件。InTouch/Wonderware Application Server IT 10.5之前版本和WAS 3.5之前版本, DASABCIP 4.1 SP2之前版本, DASSiDirect3.0之前版本, DAServer Runtime Components 3.0 SP2之前版本,及其他产品使用的sslssvc.exe存在一个基于栈的缓冲区溢出安全漏洞，允许远程攻击者提交超长unicode字符串使守护进程崩溃或挂起，造成拒绝服务攻击。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView存在安全漏洞，允许攻击者向TCP 8001端口发送特制GET请求，可以WEB权限查看系统文件内容。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。Kingview存在缓冲区溢出漏洞。攻击者可以利用漏洞在应用程序上下文中执行任意代码。	未归类
+Siemens WINCC 7.0 SP3	WinCC flexible是用在一些机器或流程应用中的人机接口。Siemens SIMATIC WinCC Flexible在解析URL参数时没有过滤掉特制字符，在实现上存在安全漏洞。攻击者可利用漏洞重定向用户到恶意站点。	未归类
+Siemens WINCC 7.0 SP3	WinCC flexible是用在一些机器或流程应用中的人机接口。Siemens SIMATIC WinCC Flexible在解析URL参数时未能过滤掉特制字符，在实现上存在多个跨站脚本漏洞。攻击者可利用漏洞通过涉及特殊字符的参数向量注入任意Web脚本或HTML。	未归类
+Siemens WINCC 7.0 SP3	WinCC flexible是用在一些机器或流程应用中的人机接口。Siemens SIMATIC WinCC Flexible在解析URL参数时没有过滤掉特制字符，在实现上存在安全漏洞，攻击者可利用漏洞读取或写入系统设置。	未归类
+Siemens WINCC 7.0 SP3	WinCC flexible是用在一些机器或流程应用中的人机接口。Siemens SIMATIC WinCC Flexible在解析URL参数时没有过滤掉特制字符，在实现上存在目录遍历漏洞。攻击者可利用漏洞读取任意文件。	未归类
+Siemens WINCC 7.0 SP3	WinCC flexible是用在一些机器或流程应用中的人机接口。Siemens SIMATIC WinCC Flexible在解析URL参数时没有过滤掉特制字符，在实现上存在缓冲区溢出漏洞。攻击者可利用漏洞造成拒绝服务。	未归类
+ForeScout Technologies CounterACT 6.x	ForeScout CounterACT是一款自动化的安全控制平台。ForeScout CounterACT 'username'和'loginname'存在跨站脚本漏洞，由于通过"username"和"loginname"参数传递到状态的输入在返回用户前未能正确过滤，攻击者可以利用漏洞在受影响站点上下文的用户浏览器会话中执行任意HTML和脚本代码。	未归类
+xArrow xArrow 3.4	xArrow是轻量级但全功能的工业配置软件，用于监视和控制工控系统。xArrow存在漏洞，由于服务器执行无效读取操作，远程攻击者可利用漏洞通过未明向量执行任意代码。	未归类
+xArrow xArrow 3.4	xArrow是轻量级但全功能的工业配置软件，用于监视和控制工控系统。xArrow服务器中存在整数溢出漏洞，远程攻击者利用漏洞通过特制触发越界读取操作的数据包，执行任意代码。	未归类
+xArrow xArrow 3.4	xArrow是轻量级但全功能的工业配置软件，用于监视和控制工控系统。xArrow服务器中存在基于堆的缓冲区溢出漏洞，远程攻击者利用漏洞通过触发无效free操作的数据包，执行任意代码。	未归类
+xArrow xArrow 3.4	xArrow 3.4.1之前版本中的服务器中存在漏洞，该漏洞源于未正确分配内存。远程攻击者可利用该漏洞借助未明向量导致拒绝服务（空指针解引用和守护进程崩溃）	未归类
+Wonderware InTouch 10.5 	WonderWare是一款工业控制与自动化软件。Wonderware Archestra SuiteLink调用_Grow()函数时slssvc服务未能正确进行边界检查，攻击者向服务发送包含超长字符串参数的TCP报文，可导致应用程序崩溃。	未归类
+Wonderware SuiteLink 51.5.0.0 	WonderWare是一款工业控制与自动化软件。Wonderware Archestra SuiteLink调用_Grow()函数时slssvc服务未能正确进行边界检查，攻击者向服务发送包含超长字符串参数的TCP报文，可导致应用程序崩溃。	未归类
+Wonderware SuiteLink 51.5	WonderWare是一款工业控制与自动化软件。Wonderware Archestra SuiteLink调用_Grow()函数时slssvc服务未能正确进行边界检查，攻击者向服务发送包含超长字符串参数的TCP报文，可导致应用程序崩溃。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView以不安全方式装载DLL文件，攻击者构建恶意文件，存放在远程WebDAV或SMB共享上，诱使用户解析，可以应用程序上下文装载恶意库。	未归类
+RuggedCom Rugged Operating System 3.9.1	RuggedCom Inc罗杰康公司是世界领先的生产用于工业环境的高性能网络和通信设备的制造商。用于RuggedCom RuggedSwitches和RuggedServers的ROS操作系统默认包含一个内置用户账户"factory"，并且未能被禁用，此账户密码基于设备的MAC地址，可比较容易的通过反向工程获取。ROS也支持HTTP(S)和SSH服务，目前不正确这些服务是否使用factory，也不清楚成功或不成功登录尝试是否会被记录。	未归类
+ABB WebWare Server 4.0 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB WebWare Server 4.6 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB WebWare Server 4.91 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB WebWare SDK 4.6 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB WebWare SDK 4.9 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB S4 OPC Server null 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB RobotStudio S4 0 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB RobotStudio Lite 0 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB RobotStudio 5.14.01 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB RobotStudio 5.14.02 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB QuickTeach null 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB Interlink Module 4.6 	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+ABB Interlink Module 4.9	ABB是位居全球500强之列的电力和自动化技术领域的领导厂商。ABB多个产品包含的COM和ActiveX控件不充分检查用户输入数据，攻击者构建恶意WEB页，诱使用户解析，可溢出栈指针或导致控制停止操作。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在输入验证漏洞，允许攻击者进行SQL注入攻击，可进行数据库操作，获得敏感信息或控制应用系统。	未归类
+Invensys Wonderware Information Server 4.5 Client 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在输入验证漏洞，允许攻击者进行SQL注入攻击，可进行数据库操作，获得敏感信息或控制应用系统。	未归类
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在输入验证漏洞，允许攻击者进行SQL注入攻击，可进行数据库操作，获得敏感信息或控制应用系统。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在跨站脚本漏洞，允许攻击者构建恶意URI，诱使用户解析，获得敏感信息或劫持会话等。	未归类
+Invensys Wonderware Information Server 4.5 Client 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在跨站脚本漏洞，允许攻击者构建恶意URI，诱使用户解析，获得敏感信息或劫持会话等。	未归类
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server存在跨站脚本漏洞，允许攻击者构建恶意URI，诱使用户解析，获得敏感信息或劫持会话等。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server Client存在访问权限问题，允许攻击者提升特权，进行拒绝服务等攻击。	未归类
+Invensys Wonderware Information Server 4.5 Client 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server Client存在访问权限问题，允许攻击者提升特权，进行拒绝服务等攻击。	未归类
+Invensys Wonderware Information Server 4.5 Portal	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server Client存在访问权限问题，允许攻击者提升特权，进行拒绝服务等攻击。	未归类
+(暂无)	Rockwell Automation Allen-Bradley FactoryTalk CPR9到SR5和RSLogix 5000 17到20版本中的FactoryTalk (FT) RNADiagReceiver服务中存在漏洞。远程攻击者可借助特制数据包导致拒绝服务（越界读取）。	未归类
+(暂无)	Rockwell Automation Allen-Bradley FactoryTalk CPR9到SR5和RSLogix 5000 17到20版本中的FactoryTalk (FT) RNADiagReceiver服务中存在漏洞，该漏洞源于未正确处理未明函数的返回值。远程攻击者借助特制数据包导致拒绝服务（服务中断）。	未归类
+Invensys Wonderware Information Server 4.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys Wonderware Application Server 2012 0 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys InTouch 10.0 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys InTouch 10.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys Foxboro Control Software 3.1 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys ArchestrA Application Object Toolkit 3.2	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys WWCabFile AciveX组件存在基于堆的缓冲区溢出，向WWCabFile组件的"Open"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys Wonderware Information Server 4.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys Wonderware Application Server 2012 0 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys InTouch 10.0 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys InTouch 10.5 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys Foxboro Control Software 3.1 	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Invensys ArchestrA Application Object Toolkit 3.2	英维思(Invensys)是面向制造业和基础设施产业的领先自动化和信息技术、系统、软件解决方案、服务和咨询供应商。 Invensys向WWCabFile组件的"AddFile"成员发送超长字符串数据可触发基于堆的溢出，可覆盖函数指针，攻击者执行任意代码。	未归类
+Ecava IntegraXor 3.60 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。项目类(igcom.dll)使用不安全方法，可被利用通过目录遍历序列覆盖系统任意文件，成功利用漏洞可以应用程序上下文执行任意代码。	未归类
+Ecava IntegraXor 3.60.4032 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。项目类(igcom.dll)使用不安全方法，可被利用通过目录遍历序列覆盖系统任意文件，成功利用漏洞可以应用程序上下文执行任意代码。	未归类
+Ecava IntegraXor 3.60.4050	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。项目类(igcom.dll)使用不安全方法，可被利用通过目录遍历序列覆盖系统任意文件，成功利用漏洞可以应用程序上下文执行任意代码。	未归类
+xArrow xArrow 3.2	xArrow是轻量级但全功能的工业配置软件，用于监视和控制工控系统。xArrow存在多个安全漏洞，允许攻击者进行拒绝服务攻击。攻击者可以发送恶意报文，触发解压缩NULL指针，堆破坏，非法读访问，内存破坏等攻击，可导致应用程序崩溃。	未归类
+Beckhoff Automation TwinCAT 2.11 R2 Build 2038 	TwinCAT是一款工控自动化产品。TwinCAT存在安全漏洞，允许恶意用户控制应用系统。当处理Scope view文件时TCatScopeView.exe工具存在一个错误，攻击者构建特制的SVW文件，诱使用户解析，可触发基于堆的缓冲区溢出，成功利用漏洞可以以应用程序上下文执行任意代码。	未归类
+Beckhoff Automation TwinCAT Scope 2.9.0.226	TwinCAT是一款工控自动化产品。TwinCAT存在安全漏洞，允许恶意用户控制应用系统。当处理Scope view文件时TCatScopeView.exe工具存在一个错误，攻击者构建特制的SVW文件，诱使用户解析，可触发基于堆的缓冲区溢出，成功利用漏洞可以以应用程序上下文执行任意代码。	未归类
+Parallels Plesk Panel 7.6.1 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Plesk Panel 8.6 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Plesk Panel 10.3.1 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 10.0 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 10.1 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 10.2 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 9.3 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 10.3 	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+Parallels Parallels Plesk Panel 9.5	Parallels Plesk是服务器虚拟化自动化解决方案。Parallels Plesk存在一个安全漏洞，允许匿名攻击者无需验证远程入侵Plesk服务器，允许未授权访问和修改服务器。	未归类
+ABB WebWare Server null	ABB WebWare Server是一种软件产品，主要用于生产数据控制。ABB WebWare Server提供的RobNetScanHost.exe存在安全缺陷，当它解析5512端口上的opcodes为0xE和0xA的'Netscan'报文时，由于分配了固定的20字节大小的缓冲区可导致触发基于栈的缓冲区溢出，成功利用漏洞可以以服务进程(LocalSystem)上下文执行任意代码。	未归类
+7-Technologies TERMIS 2.10	7-Technologies (7T) TERMIS 2.10及之前版本中存在不可信搜索路径漏洞。本地用户可利用该漏洞借助当前工作目录中的特洛伊木马动态链接库，获取权限。	未归类
+7-Technologies AQUIS 1.5	AQUIS Operation是丹麦7-Technologies公司（简称7T）研发的软件产品。用于水力模型，自动化工程，系统工程和软件工程方面。7-Technologies AQUIS软件存在DLL劫持问题，攻击者可以把恶意DLL防止在软件目录中，会在合法DLL之前被装载，攻击者必须访问宿主文件系统来利用此漏洞，成功利用漏洞可以以应用程序上下文执行任意代码。	未归类
+7-Technologies TERMIS 2.10	7-Technologies TERMIS是一款能源网络仿真平台，为提高系统的设计和操作。7-Technologies TERMIS软件存在DLL劫持问题，攻击者可以把恶意DLL防止在软件目录中，会在合法DLL之前被装载，攻击者必须访问宿主文件系统来利用此漏洞，成功利用漏洞可以以应用程序上下文执行任意代码。	未归类
+Ing. Punzenberger COPA-DATA GmbH zenon 6.51 SP0	Punzenberger COPA-DATA GmbH zenon是一款工业自动化软件。Punzenberger COPA-DATA GmbH zenon人机接口存在拒绝服务漏洞，允许攻击者向监听在tcp 50777端口的zenAdminSrv.exe发送特制的报文使服务程序崩溃，可能导致任意代码执行。	未归类
+Ing. Punzenberger COPA-DATA GmbH zenon 6.51 SP0	Punzenberger COPA-DATA GmbH zenon是一款工业自动化软件。Punzenberger COPA-DATA GmbH zenon人机接口存在拒绝服务漏洞，针对监听在tcp 1101端口的ZenSysSrv.exe服务尝试多次连接和断开，可导致拒绝服务攻击。	未归类
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	未归类
+Ocean Data Systems Dream Reports 3.0	Dream Report是一款用于工业自动化的集成报告解决方案。Ocean Data Dream Report应用程序对查询字符串参数值缺少充分过滤，可导致跨站脚本攻击，构建特制的URL，诱使用户解析，可获得敏感信息或劫持用户会话。	未归类
+Ocean Data Systems Dream Reports 3.0	Dream Report是一款用于工业自动化的集成报告解决方案。Ocean Data Dream Report应用程序存在写访问冲突漏洞，构建特制的文件，诱使用户解析打开，可以应用程序上下文执行任意代码。	未归类
+Rockwell Automation Controllogix 0	Rockwell Automation Controllogix模块启动代码存在安全漏洞。允许泄露数据。	未归类
+Rockwell Automation Controllogix 0	Rockwell Automation Controllogix固件升级存在安全漏洞。允许任意代码执行或进行拒绝服务攻击。	未归类
+Rockwell Automation Controllogix 0	Rockwell Automation Controllogix存在输入验证攻击，允许攻击者提交畸形请求使应用程序崩溃，需物理重启动获得正常功能。	未归类
+GE Energy D20/D200 Substation Controller null	GE Energy D20/D200 Substation Controller存在多个安全漏洞，允许恶意用户泄露敏感信息和控制设备。TFTP服务存在未明错误,远程攻击者可以利用漏洞获得敏感信息或执行任意代码。	未归类
+Rockwall Automation FactoryTalk Activation Server 3.2 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver处理数据包时存在错误，提交包含超过2000字节的数据包到UDP 4445端口可导致不能提供后续连接。	未归类
+Rockwall Automation RSLogix 5000 17 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver处理数据包时存在错误，提交包含超过2000字节的数据包到UDP 4445端口可导致不能提供后续连接。	未归类
+Rockwall Automation RSLogix 5000 18 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver处理数据包时存在错误，提交包含超过2000字节的数据包到UDP 4445端口可导致不能提供后续连接。	未归类
+Rockwall Automation RSLogix 5000 19	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver处理数据包时存在错误，提交包含超过2000字节的数据包到UDP 4445端口可导致不能提供后续连接。	未归类
+Rockwall Automation FactoryTalk Activation Server 3.2 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver存在非法内存访问问题可导致服务器崩溃。	未归类
+Rockwall Automation RSLogix 5000 17 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver存在非法内存访问问题可导致服务器崩溃。	未归类
+Rockwall Automation RSLogix 5000 18 	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver存在非法内存访问问题可导致服务器崩溃。	未归类
+Rockwall Automation RSLogix 5000 19	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Activation Server RNADiagReceiver存在非法内存访问问题可导致服务器崩溃。	未归类
+Cogent Real-Time Systems Cogent DataHub 7.1.1.63	Cogent DataHub是DataHub长线产品的最新版本，该产品为即时资料解决方案设定效能评定。Cogent DataHub存在跨站脚本漏洞.远程攻击者可以利用漏洞通过未明向量注入任意web脚本或者HTML。	未归类
+3ssoftware codesys 3.4 sp4 patch2	3S CoDeSys控制服务的CmbWebserver.dll模块存在漏洞。利用该漏洞，远程攻击者可在HTTP GET请求时，通过\ (反斜杠) 字符指定一个不存在的目录，从而在web根目录下创建任意目录。	未归类
+3ssoftware codesys3.4 sp4	3S CoDeSys 3.4 SP4 Patch 2版本中的Control服务中的CmpWebServer.dll模块中存在漏洞。远程攻击者可借助(1)HTTP POST中的特制Content-Length或者(2)一个无效的HTTP请求方法导致拒绝服务（空指针解引用）。	未归类
+(暂无)	3S CoDeSys 3.4 SP4 Patch 2版本中的GatewayService组件中存在整数溢出漏洞。远程攻击者可借助数据包头中的超大值执行任意代码，该漏洞可触发基于堆的缓冲区溢出。	未归类
+(暂无)	3S CoDeSys 3.4 SP4 Patch 2版本中的CmpWebServer组件中存在基于栈的缓冲区溢出漏洞。远程攻击者可借助到TCP 8080端口的超长URI执行任意代码。	未归类
+Wellintech KingView 65.30.2010.18018	KingView是一款用于工业自动化的构建数据信息服务平台的产品。Wellintech KingView HistoryServer.exe存在一个基于堆的缓冲区溢出，允许远程未验证攻击者执行任意代码。向TCP 777端口发送超过特定长度的数据报文，可触发此漏洞。	未归类
+Koha Library Software Community Koha 3.6 	Koha，是第一个开放源代码的图书馆自动化系统，产生于1999。Koha最初设计的时候就是以占用最小的硬件资源为目标。Koha 的'help.pl' 文件容易产生注入漏洞。攻击者可以利用这个漏洞在WEB服务器进程下查看本地文件和执行脚本。可能有进一步攻击危险。 远程攻击者成功利用此漏洞可执行任意代码，如果利用失败可能引起拒绝服务。	未归类
+Koha Library Software Community Koha 3.4.6 	Koha，是第一个开放源代码的图书馆自动化系统，产生于1999。Koha最初设计的时候就是以占用最小的硬件资源为目标。Koha 的'help.pl' 文件容易产生注入漏洞。攻击者可以利用这个漏洞在WEB服务器进程下查看本地文件和执行脚本。可能有进一步攻击危险。 远程攻击者成功利用此漏洞可执行任意代码，如果利用失败可能引起拒绝服务。	未归类
+Koha Library Software Community Koha 3.4.1 	Koha，是第一个开放源代码的图书馆自动化系统，产生于1999。Koha最初设计的时候就是以占用最小的硬件资源为目标。Koha 的'help.pl' 文件容易产生注入漏洞。攻击者可以利用这个漏洞在WEB服务器进程下查看本地文件和执行脚本。可能有进一步攻击危险。 远程攻击者成功利用此漏洞可执行任意代码，如果利用失败可能引起拒绝服务。	未归类
+Koha Library Software Community Koha 3.4.2	Koha，是第一个开放源代码的图书馆自动化系统，产生于1999。Koha最初设计的时候就是以占用最小的硬件资源为目标。Koha 的'help.pl' 文件容易产生注入漏洞。攻击者可以利用这个漏洞在WEB服务器进程下查看本地文件和执行脚本。可能有进一步攻击危险。 远程攻击者成功利用此漏洞可执行任意代码，如果利用失败可能引起拒绝服务。	未归类
+Invensys Wonderware InBatch 9.5	Invensys Wonderware inBatch中存在多个基于栈的缓冲区溢出漏洞。攻击者可利用该漏洞在使用ActiveX控件的应用程序（通常Internet Explorer）的上下文中执行任意代码，攻击失败可能导致拒绝服务。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Small Business Panel 10.2.0版本中的Site Editor (也称为SiteBuilder)功能中存在漏洞。远程攻击者可通过直接向wysiwyg/fckconfig.js请求获取ASP源代码。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在cookie的Set-Cookie头中不包含HTTPOnly标志。远程攻击者更易于借助对该cookie的脚本访问获取潜在地敏感信息，正如get_password.php和某些其他文件中使用的cookies证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在cookie的Set-Cookie头中不包含HTTPOnly标志。远程攻击者更易于借助对该cookie的脚本访问获取潜在地敏感信息，正如get_password.php和某些其他文件中使用的cookies证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Control Panel中存在漏洞，其在cookie的Set-Cookie头中未包含HTTPOnly标识。远程攻击者可通过脚本访问获取敏感信息，该漏洞已在help.php和某些其他文件使用的cookie中被证实。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.3.1_build1013110726.09版本中的计费系统存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制输入注入任意的web脚本或者HTML，正如admin/index.php/default和某些其他文件证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.3.1_build1013110726.09版本中的计费系统存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制输入注入任意的web脚本或者HTML，正如admin/index.php/default和某些其他文件证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本中存在漏洞，该漏洞源于Control Panel向某些资源发送不正确的Content-Type头。远程攻击者可通过利用包含admin/health/parameters和某些其他文件的解释冲突导致未明影响。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Small Business Panel 10.2.0版本的Site Editor (也称为SiteBuilder)功能中存在漏洞，此功能在cookie的Set-Cookie头中未包含HTTPOnly标志。远程攻击者可借助访问该cookie的脚本获取敏感信息，该漏洞已在Wizard/Edit/Modules/ImageGallery/MultiImagesUpload和某些其他文件使用的cookies中被证实。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在HTTP响应体中递交密码。远程攻击者可以通过嗅探网络获得敏感信息，正如client@2/domain@1/odbc/dsn@1/properties/处理的密码证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在HTTP响应体中递交密码。远程攻击者可以通过嗅探网络获得敏感信息，正如client@2/domain@1/odbc/dsn@1/properties/处理的密码证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Control Panel中存在SQL注入漏洞。远程攻击者可通过验证表cookie执行任意SQL命令。	未归类
+Parallels Parallels Plesk Panel 10.2.0_build20110407.20 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板给某些源发送不正确的Content-Type头。远程攻击者可能利用涉及到smb/admin-home/featured-applications/和某些其他文件的解释冲突导致未明的影响。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板给某些源发送不正确的Content-Type头。远程攻击者可能利用涉及到smb/admin-home/featured-applications/和某些其他文件的解释冲突导致未明的影响。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本中存在漏洞，该漏洞源于Control Panel删除了某些资源的Content-Type头的charset参数。远程攻击者可通过利用包含admin/customer-service-plan/list/reset-search/true/和某些其他文件的解释冲突导致未明影响。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Small Business Panel 10.2.0版本中的Site Editor (也称为SiteBuilder)功能中存在多个跨站脚本漏洞。远程攻击者可借助特制的输入注入任意web脚本或者HTML。正如Wizard/Edit/Modules/Image和某些其他文件中证明的。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板通过HTTP接收明文密码。远程攻击者可以通过嗅探网络获得敏感信息，正如login_up.php3和某些其他文件中的格式证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板通过HTTP接收明文密码。远程攻击者可以通过嗅探网络获得敏感信息，正如login_up.php3和某些其他文件中的格式证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Site Editor (也称为SiteBuilder)功能中存在跨站脚本漏洞。远程攻击者可借助login参数注入任意web脚本或者HTML。	未归类
+Parallels Parallels Plesk Panel 10.2.0_build20110407.20 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板带有包含邮件地址的web页面，该地址不是用来部署本地应用程序的。远程攻击者可以通过读取页面获得潜在地敏感信息，正如smb/user/list和某些其他文件证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板带有包含邮件地址的web页面，该地址不是用来部署本地应用程序的。远程攻击者可以通过读取页面获得潜在地敏感信息，正如smb/user/list和某些其他文件证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Control Panel中存在漏洞，其不能保证Content-Type HTTP头匹配HTML META元素中对应的Content-Type数据。远程攻击者可通过利用包含get_enabled_product_icon程序的解释冲突导致未明影响。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中的控制面板存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制的输入注入任意web脚本或者HTML，正如smb/user/create和某些其他文件中证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中的控制面板存在多个跨站脚本（XSS）漏洞。远程攻击者可以借助特制的输入注入任意web脚本或者HTML，正如smb/user/create和某些其他文件中证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Control Panel中存在多个跨站脚本漏洞。远程攻击者可借助特制输入注入任意web脚本或者HTML，该漏洞已在admin/update/settings/和某些其他文件中被证实。	未归类
+Parallels Parallels Plesk Panel 10.2.0_build20110407.20 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在web页面中包含数据库连接字符串。远程攻击者可能通过读取该页面获取潜在地敏感信息，正如client@2/domain@1/hosting/aspdotnet/证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，其控制面板在web页面中包含数据库连接字符串。远程攻击者可能通过读取该页面获取潜在地敏感信息，正如client@2/domain@1/hosting/aspdotnet/证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本的Control Panel中存在漏洞，其包含web页面中的RFC 1918 IP地址。远程攻击者可通过读取该页面获取敏感信息，该漏洞已在smb/user/list-data/items-per-page/和某些其他文件中被证实。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.3.1_build1013110726.09版本中存在漏洞，该漏洞源于计费系统生成密码格式字段时没有禁用自动完成功能。远程攻击者更易于通过利用未被注意的工作站绕过认证，正如admin/index.php/default中某些页面的格式证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.3.1_build1013110726.09版本中存在漏洞，该漏洞源于计费系统生成密码格式字段时没有禁用自动完成功能。远程攻击者更易于通过利用未被注意的工作站绕过认证，正如admin/index.php/default中某些页面的格式证明的。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中的控制面板存在多个SQL注入漏洞。远程攻击者可以借助特制的输入执行任意SQL命令，正如file-manager/和某些其他文件中证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中的控制面板存在多个SQL注入漏洞。远程攻击者可以借助特制的输入执行任意SQL命令，正如file-manager/和某些其他文件中证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Small Business Panel 10.2.0版本中的Site Editor (也称为SiteBuilder)功能中存在漏洞，该功能删除了某些资源Content-Type头的charset参数。远程攻击者可通过利用涉及包含Wizard/Edit/Modules/Image和某些其他文件的解释冲突导致未明影响。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，当控制面板响应带有smb/app/search-data/catalogId/marketplace和某些其他文件的查询字符串的GET请求时生成包含外部链接的web页面。远程攻击者更易于通过读取(1) web-server访问日志或者(2) web-server引用日志获得敏感信息，与"cross-domain Referer leakage"问题有关。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，当控制面板响应带有smb/app/search-data/catalogId/marketplace和某些其他文件的查询字符串的GET请求时生成包含外部链接的web页面。远程攻击者更易于通过读取(1) web-server访问日志或者(2) web-server引用日志获得敏感信息，与"cross-domain Referer leakage"问题有关。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本中的Control Panel中存在漏洞，其产生包含外置链接的web页面，该链接响应带有enterprise/mobile-monitor/和某些其他文件中的查询字符串的GET请求。远程攻击者可通过读取(1)web服务器访问日志或者（2）web服务器引用日志获取敏感信息，该漏洞与"cross-domain Referer leakage"问题有关。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.3.1_build1013110726.09版本中存在漏洞，该漏洞源于计费系统未阻止SSL会话的弱密码使用。远程攻击者更易于借助特制的CipherSuite列表击败密码保护机制。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.3.1_build1013110726.09版本中存在漏洞，该漏洞源于计费系统未阻止SSL会话的弱密码使用。远程攻击者更易于借助特制的CipherSuite列表击败密码保护机制。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Small Business Panel 10.2.0版本中的Site Editor (也称为SiteBuilder)功能中存在漏洞，此功能包含邮件地址的web页面，该邮件的目的不是了解本地应用程序部署。远程攻击者可通过读取页面获取敏感信息，该漏洞已在js/Wizard/Status.js和某些其他文件中被证实。	未归类
+Parallels Parallels Plesk Panel 10.3.1_build1013110726.09 	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板生成密码格式字段时没有禁用自动完成功能。远程攻击者更易于通过利用未被注意的工作站绕过认证，正如smb/my-profile以及某些其他文件中的格式证明的。	未归类
+RedHat Enterprise Linux 6	Parallels Plesk Panel 10.2.0 build 20110407.20版本中存在漏洞，该漏洞源于控制面板生成密码格式字段时没有禁用自动完成功能。远程攻击者更易于通过利用未被注意的工作站绕过认证，正如smb/my-profile以及某些其他文件中的格式证明的。	未归类
+Parallels Parallels Plesk Panel 10.0	Parallels Plesk Panel 10.4.4_build20111103.18版本中存在漏洞，Control Panel未禁用&ldquo;自动完成&rdquo;功能就产生密码表单字段。远程攻击者可通过利用无人值守的工作站绕过认证，该漏洞已在server/google-tools/和某些其他文件的表单中被证实。	未归类
+HomeSeer HS2 2.5.0.20	HS2 2.5.0.20版本web界面中存在目录遍历漏洞。远程攻击者可借助未明向量访问任意文件。	未归类
+HomeSeer HS2 2.5.0.20	HomeSeer HS2 2.5.0.20版本web界面中存在跨站脚本漏洞。远程攻击者可借助特制的URI请求注入任意web脚本或者HTML。	未归类
+3S - Smart Software Solutions GmbH CoDeSys 3.4 SP4 Patch 2	CoDeSys Automation Suite是工业自动化技术综合软件工具。CoDeSys在实现上存在多个远程拒绝服务漏洞，远程攻击者可利用此漏洞使应用程序崩溃，拒绝服务合法用户。	未归类
+Siemens SIMATIC WinCC flexible Runtime 0 	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在拒绝服务漏洞。攻击者可以利用漏洞导致服务器崩溃。	未归类
+Stanley Huang MiniWeb 0 	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在拒绝服务漏洞。攻击者可以利用漏洞导致服务器崩溃。	未归类
+Siemens SIMATIC WinCC Flexible 2008 SP2	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在拒绝服务漏洞。攻击者可以利用漏洞导致服务器崩溃。	未归类
+Siemens SIMATIC WinCC flexible Runtime 0 	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在目录遍历漏洞。攻击者可以利用漏洞在受影响的服务器中下载任意文件。	未归类
+Stanley Huang MiniWeb 0 	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在目录遍历漏洞。攻击者可以利用漏洞在受影响的服务器中下载任意文件。	未归类
+Siemens SIMATIC WinCC Flexible 2008 SP2	MiniWeb是一个针对嵌入式应用而开发的微型Web Server，用C语音编写。MiniWeb存在目录遍历漏洞。攻击者可以利用漏洞在受影响的服务器中下载任意文件。	未归类
+Koha Library Software Community Koha 3.4.1 	LibLime Koha存在本地文件包含漏洞。攻击者可以利用漏洞在Web服务器进程的上下文中获得敏感信息和执行任意代码，危及应用程序和计算机。	未归类
+Koha Library Software Community Koha 3.4.2 	LibLime Koha存在本地文件包含漏洞。攻击者可以利用漏洞在Web服务器进程的上下文中获得敏感信息和执行任意代码，危及应用程序和计算机。	未归类
+Koha Library Software Community Koha 4.2	LibLime Koha存在本地文件包含漏洞。攻击者可以利用漏洞在Web服务器进程的上下文中获得敏感信息和执行任意代码，危及应用程序和计算机。	未归类
+IRAI AUTOMGEN <= 8.0.0.7	IRAI AUTOMGEN是一款工业控制仿真软件。IRAI AUTOMGEN由于对某些文件的处理不够严密容易产生漏洞。攻击者可以利用这个问题在受影响的机器上执行任意代码达到攻击的目的。 远程攻击者成功利用此漏洞可执行任意代码，如果利用失败可能引起拒绝服务。	未归类
+ICONICS, Inc. GENESIS32 9.2 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。ICONICS GENESIS32产品存在八个内存破坏漏洞，这些漏洞影响ScriptWorX32, GraphWorX32, AlarmWorX32和TrendWorX32容器，攻击者构建特制的文件，诱使用户打开，可使应用程序崩溃或执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 9.1 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。ICONICS GENESIS32产品存在八个内存破坏漏洞，这些漏洞影响ScriptWorX32, GraphWorX32, AlarmWorX32和TrendWorX32容器，攻击者构建特制的文件，诱使用户打开，可使应用程序崩溃或执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 9.0 	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。ICONICS GENESIS32产品存在八个内存破坏漏洞，这些漏洞影响ScriptWorX32, GraphWorX32, AlarmWorX32和TrendWorX32容器，攻击者构建特制的文件，诱使用户打开，可使应用程序崩溃或执行任意代码。	未归类
+ICONICS, Inc. GENESIS32 8.05	GENESIS32是由美国ICONICS公司研制开发的新一代工控软件。ICONICS GENESIS32产品存在八个内存破坏漏洞，这些漏洞影响ScriptWorX32, GraphWorX32, AlarmWorX32和TrendWorX32容器，攻击者构建特制的文件，诱使用户打开，可使应用程序崩溃或执行任意代码。	未归类
+ARC Informatique PCVue 10.0	PcVue是一款ARC Informatique推出的数据采集控制系统软件。SVUIGrd.ocx控件中的Save/LoadObject方法直接以函数指针使用，存在任意代码执行漏洞。	未归类
+ARC Informatique PCVue 10.0	PcVue是一款ARC Informatique推出的数据采集控制系统软件。PcVue控件存在安全漏洞，通过SVUIGrd.ocx中的GetExtendedColor方法可向任意内存位置写dword。	未归类
+ARC Informatique PCVue 10.0	PcVue是一款ARC Informatique推出的数据采集控制系统软件。PcVue控件存在安全漏洞，SVUIGrd.ocx中的Save/LoadObject方法可用于破坏本地文件。	未归类
+ARC Informatique PCVue 10.0	PcVue是一款ARC Informatique推出的数据采集控制系统软件。aipgctl.ocx DeletePage方法存在数组溢出问题。	未归类
+三维力控 pNetPower 6.1	pNetPower是北京三维力控科技有限公司推出的一款电力版监控组态软件。2010年5月20日三维力控公司根据国外漏洞研究者Dillon Beresford的研究成果发布了PNETPower 6存在的一个堆缓冲区溢出漏洞补丁，http://www.sunwayland.com.cn/news_info_.asp?Nid=3593。不过在该补丁中，由于对关键参数未进行SEH保护，有可能诱发Angelserver.exe进程崩溃，导致拒绝服务。攻击者可以利用漏洞发起远程攻击。	未归类
+Rockwell Automation RSLogix/FactoryTalk <=19	Rockwell RSLogix是一款工业自动化方面的编程软件。Rockwell RSLogix存在缓冲区溢出漏洞，远程攻击者可借助带有向TCP端口4446发送的超长字符串的特制rna数据包导致拒绝服务，该数据包可触发“一个memset零溢出”或越界读取。	未归类
+HP HP Business Service Automation Essentials 2.01	HP Business Service Automation (BSA) Essentials是自动化数据库和分析软件。HP Business Service Automation (BSA) Essentials存在远程代码执行漏洞，攻击者可以利用漏洞以应用程序上下文执行任意代码。	未归类
+Rockwell Automation Rockwell RSLogix <=19	Rockwell RSLogix是一款工业自动化方面的编程软件。Rockwell RSLogix中某些dll文件不能很好限制位于'RNA'字段的数据包大小，容易产生溢出和无效的读取访问。攻击者利用此漏洞可以执行任意代码达到攻击目的。	未归类
+Beckhoff Automation TwinCAT 2.11 R2 Build 2032	Beckhoff TwinCAT是一款提供完整数控功能的基于PC的软件解决方案。Beckhoff TwinCAT不正确处理用户提交的请求，远程攻击者可利用漏洞触发非法访问，造成拒绝服务攻击。	未归类
+Rockwall Automation RSLogix 5000	RSLinx Classic能够将RSLogix和RSNetWorx产品连接到罗克韦尔自动化网络和设备，也是一个OPC服务器。RsvcHost.exe和RNADiagReceiver.exe监听4446和其他端口，这些服务使用RnaUtility.dll没有正确处理"rna"报文中32位大小字段，可导致memset零溢出或非法读访问。	未归类
+(暂无)	Siemens SIMATIC WinCC flexible和WinCC (TIA Portal) Runtime Advanced是用于虚拟化的软件包。Siemens SIMATIC WinCC在实现上存在安全漏洞，恶意用户可利用此漏洞控制受影响系统。此漏洞源于解析收到的报文时，运行时加载程序中的错误，通过发送到端口2308/TCP的特制报文造成堆缓冲区溢出。	未归类
+(暂无)	ICONICS IcoSetServer ActiveX控件的可信空间中存在任意域名注入漏洞。远程攻击者可利用该漏洞向浏览器的可信空间中添加任意域名，导致执行任意代码。	未归类
+IBM Rational Build Forge 7.0 	IBM Rational Build Forge是一款自动化流程执行软件，能帮助客户进行自动化软件构建，测试及发布。IBM Rational Build Forge存在信息泄露漏洞，攻击者可以利用漏洞获得敏感信息。	未归类
+IBM Rational Build Forge 7.0.2 	IBM Rational Build Forge是一款自动化流程执行软件，能帮助客户进行自动化软件构建，测试及发布。IBM Rational Build Forge存在信息泄露漏洞，攻击者可以利用漏洞获得敏感信息。	未归类
+IBM Rational Build Forge 7.1.0	IBM Rational Build Forge是一款自动化流程执行软件，能帮助客户进行自动化软件构建，测试及发布。IBM Rational Build Forge存在信息泄露漏洞，攻击者可以利用漏洞获得敏感信息。	未归类
+ICONICS IcoSetServer ActiveX Control 9.21 	ICONICS是一家专业提供基于OPC可视化软件的公司。ICONICS IcoSetServer ActiveX Control存在安全漏洞，由于"SetTrustedZone Policy"功能中的错误，可以被攻击者利用添加一个任意域到信任的站点区域。	未归类
+ICONICS BizViz 9.21 	ICONICS是一家专业提供基于OPC可视化软件的公司。ICONICS IcoSetServer ActiveX Control存在安全漏洞，由于"SetTrustedZone Policy"功能中的错误，可以被攻击者利用添加一个任意域到信任的站点区域。	未归类
+ICONICS GENESIS32 9.21	ICONICS是一家专业提供基于OPC可视化软件的公司。ICONICS IcoSetServer ActiveX Control存在安全漏洞，由于"SetTrustedZone Policy"功能中的错误，可以被攻击者利用添加一个任意域到信任的站点区域。	未归类
+Indusoft ISSymbol ActiveX Control 	InduSoft ISSymbol ActiveX Control存在缓冲区溢出漏洞，由于处理'Open()'、 'Close()' 和 'SetCurrentLanguage()'方法时存在边界条件错误，可以被攻击者利用导致缓冲区溢出。	未归类
+Indusoft Web Studio 7.0B2 hotfix 7.0.01.04	InduSoft ISSymbol ActiveX Control存在缓冲区溢出漏洞，由于处理'Open()'、 'Close()' 和 'SetCurrentLanguage()'方法时存在边界条件错误，可以被攻击者利用导致缓冲区溢出。	未归类
+AzeoTech DAQFactory <5.85 build 1842	AzeoTech DAQFactory是一款完整的系统解决方案，它包容了数据采集，过程控制和数据分析。AzeoTech DAQFactory存在拒绝服务漏洞，恶意攻击者可以利用此漏洞导致拒绝服务。	未归类
+(暂无)	Siemens SIMATIC S7-1200及其他版本中存在拒绝服务漏洞。远程攻击者可利用此漏洞导致受影响设备崩溃。	未归类
+Siemens SIMATIC S7-300	Siemens SIMATIC S7-300中存在硬编码证书安全绕过漏洞。远程攻击者可利用该漏洞访问受影响设备。	未归类
+Invensys Wonderware Information Server 4.0 SP1 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server中使用的两个不同ActiveX控件存在基于栈的缓冲区溢出，成功利用漏洞可以在客户端以应用程序上下文执行任意代码。攻击者可以构建恶意文件或WEB页，诱使用户解析来触发此漏洞。	未归类
+Invensys Wonderware Information Server 4.0 	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server中使用的两个不同ActiveX控件存在基于栈的缓冲区溢出，成功利用漏洞可以在客户端以应用程序上下文执行任意代码。攻击者可以构建恶意文件或WEB页，诱使用户解析来触发此漏洞。	未归类
+Invensys Wonderware Information Server 3.1	Invensys Wonderware Information Server是一款实现基于网络的实时工厂运营数据的图形可视化、报告和分析，帮助在整个用户企业范围中推动产力的实现。Invensys Wonderware Information Server中使用的两个不同ActiveX控件存在基于栈的缓冲区溢出，成功利用漏洞可以在客户端以应用程序上下文执行任意代码。攻击者可以构建恶意文件或WEB页，诱使用户解析来触发此漏洞。	未归类
+Invensys Wonderware Information Server 4.0:sp1 	Invensys Wonderware Information Server是Wonderware公司的企业制造智能解决方案的一个关键组成模块。Invensys Wonderware Information Server存在基于栈的缓冲区溢出漏洞，远程攻击者可利用两个未明ActiveX控件导致拒绝服务或执行任意代码。	未归类
+Invensys Wonderware Information Server 4.0 	Invensys Wonderware Information Server是Wonderware公司的企业制造智能解决方案的一个关键组成模块。Invensys Wonderware Information Server存在基于栈的缓冲区溢出漏洞，远程攻击者可利用两个未明ActiveX控件导致拒绝服务或执行任意代码。	未归类
+Invensys Wonderware Information Server 3.1	Invensys Wonderware Information Server是Wonderware公司的企业制造智能解决方案的一个关键组成模块。Invensys Wonderware Information Server存在基于栈的缓冲区溢出漏洞，远程攻击者可利用两个未明ActiveX控件导致拒绝服务或执行任意代码。	未归类
+Ecava IntegraXor 3.x	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在跨站脚本漏洞。由于应用程序对用户提交的数据缺少过滤，攻击者利用漏洞可以窃取基于Cookie的身份验证凭据，在受影响的站点上下文的不知情用户浏览器中执行任意代码。	未归类
+Rockwell Automation FactoryTalk Diagnostics Viewer 2.10.00	Rockwell Automation是工业自动化，控制和信息技术解决方案供应商。Rockwell Automation FactoryTalk Diagnostics Viewer存在一个安全漏洞，可触发内存破坏。通过使用特制的FactoryTalk Diagnostics Viewer配置文件(.ftd)，攻击者可触发内存破坏允许执行任意代码。	未归类
+(暂无)	Sunway ForceControl主要提供通用监控组态软件服务。Sunway ForceControl产品在实现上存在多个漏洞，远程攻击者可利用此漏洞在受影响设备上执行任意代码或造成拒绝服务。	未归类
+Rockwall Automation RSLinx Classic 1.0.5.1	RSLinx Classic能够将RSLogix和RSNetWorx产品连接到罗克韦尔自动化网络和设备，也是一个OPC服务器。RSLinx Classic绑定的EDS硬件安装工具(RSHWare.exe)不正确解析格式化的EDS文件，攻击者可以构建特制.eds文件，诱使用户解析，触发缓冲区溢出，成功利用漏洞可以以应用程序上下文执行任意代码。	未归类
+三维力控 ForceControl 6.1	ForceControl是北京三维力控科技有限公司生产的一款工业监控组态软件。ForceControl 6.1版本中SP3, SP2和SP1存在一个堆缓冲区溢出漏洞。由于httpsvr.exe服务器进程对超长Request-URI HTTP请求未能充分进行边界检查，攻击者可以利用漏洞进行拒绝服务攻击或远程执行任意代码。	未归类
+三维力控 pNetPower 6.1	pNetPower是北京三维力控科技有限公司推出的一款电力版监控组态软件。PNETPower 6存在一个堆缓冲区溢出漏洞。在AngelServer.exe进程中，对UDP包处理监听未能充分检查边界。攻击者可以利用漏洞进行拒绝服务攻击或远程执行任意代码。	未归类
+IBM Datacap Taskmaster Capture 8.0.1	IBM Datacap Taskmaster Capture可将文档数据输入过程自动化，从而降低成本，提高文档处理效率。当启用windows验证时，IBM Datacap Taskmaster Capture FP1之前的8.0.1版本中存在权限许可和访问控制漏洞，远程攻击者可以使用与其他域的账户名结合不非法密码进行系统登录。	未归类
+IBM Datacap Taskmaster Capture 8.0.1 Fix Pack 1	IBM Datacap Taskmaster Capture可将文档数据输入过程自动化，从而降低成本，提高文档处理效率。IBM Datacap Taskmaster Capture eDocument转换操作存在一个安全漏洞，允许攻击者使受影响的应用程序崩溃。	未归类
+Indusoft Web Studio 6.1 	Indusoft Web Studio是一款功能强大的图控软件。Indusoft Web Studio不正确用户提交的包含目录遍历字符的URL请求，远程攻击者可以利用漏洞以应用程序上下文查看系统文件信息。	未归类
+Indusoft Web Studio 7.0	Indusoft Web Studio是一款功能强大的图控软件。Indusoft Web Studio不正确用户提交的包含目录遍历字符的URL请求，远程攻击者可以利用漏洞以应用程序上下文查看系统文件信息。	未归类
+IBM Datacap Taskmaster Capture 8.0.1	IBM Datacap Taskmaster Capture可将文档数据输入过程自动化，从而降低成本，提高文档处理效率。部分传递给IBM Datacap Taskmaster Capture TMWeb组件的输入缺少充分过滤，攻击者可以利用漏洞注入任意SQL代码，可获得敏感信息或操作数据库。	未归类
+ICONICS BizViz 9.x 	GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。ICONICS VersionInfo ActiveX控件存在安全漏洞，允许攻击者构建恶意WEB页，诱使用户解析，以应用程序上下文执行任意代码。"SetActiveXGUID()"方法(GenVersion.dll)存在边界错误，向"Ax_GUID"参数传递超长字符串，可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序安全上下文执行任意代码。	未归类
+ICONICS GENESIS32 9.x 	GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。ICONICS VersionInfo ActiveX控件存在安全漏洞，允许攻击者构建恶意WEB页，诱使用户解析，以应用程序上下文执行任意代码。"SetActiveXGUID()"方法(GenVersion.dll)存在边界错误，向"Ax_GUID"参数传递超长字符串，可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序安全上下文执行任意代码。	未归类
+ICONICS GENESIS64 10.x 	GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。ICONICS VersionInfo ActiveX控件存在安全漏洞，允许攻击者构建恶意WEB页，诱使用户解析，以应用程序上下文执行任意代码。"SetActiveXGUID()"方法(GenVersion.dll)存在边界错误，向"Ax_GUID"参数传递超长字符串，可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序安全上下文执行任意代码。	未归类
+ICONICS VersionInfo ActiveX Control 8.x	GENESIS32/64是由美国ICONICS公司研制开发的新一代工控软件。ICONICS VersionInfo ActiveX控件存在安全漏洞，允许攻击者构建恶意WEB页，诱使用户解析，以应用程序上下文执行任意代码。"SetActiveXGUID()"方法(GenVersion.dll)存在边界错误，向"Ax_GUID"参数传递超长字符串，可触发基于栈的缓冲区溢出。成功利用漏洞可以以应用程序安全上下文执行任意代码。	未归类
+Ecava IntegraXor 3.60 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Ecava IntegraXor 3.60.4032 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Ecava IntegraXor 3.6.4000.0 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Ecava IntegraXor 3.5.3900.10 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Ecava IntegraXor 3.5.3900.5 	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Ecava IntegraXor 3.5	Ecava IntegraXor是一款使用HTML和SVG的人机接口产品。Ecava IntegraXor存在一个未明SQL注入漏洞，允许远程攻击者提交特制的HTTP POST请求获得敏感数据，操作数据或执行任意代码。	未归类
+Progea Movicon 11.2	Progea Movicon是一款新一代自动化监控软件。Progea Movicon提供的TCPUploadServer.exe存在漏洞，允许远程未验证主机在服务器上执行任意命令。利用此漏洞允许攻击者删除任意文件，以任意参数执行程序，使服务程序崩溃，获得敏感数据。攻击者向服务器TCP 10651端口发送特制报文，可使系统回应OS版本和驱动信息。另外，攻击者发送特制报文可导致删除文件或使服务程序崩溃。	未归类
+OpenSCAP OpenSCAP 0.x	OpenSCAP是一个开源框架，主要集成了安全内容自动化协议。OpenSCAP存在未明安全错误。目前没有详细漏洞细节提供。	未归类
+Wellintech KingView 6.52 	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView 'KVWebSvr.dll' ActiveX控件处理ValidateUser方法的参数存在边界条件错误，远程攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，以应用程序安全上下文执行任意代码。	未归类
+Wellintech KingView 6.53	KingView是一款用于工业自动化的构建数据信息服务平台的产品。WellinTech KingView 'KVWebSvr.dll' ActiveX控件处理ValidateUser方法的参数存在边界条件错误，远程攻击者可以利用漏洞构建恶意WEB页，诱使用户解析，以应用程序安全上下文执行任意代码。	未归类
+Moxa activex_sdk	Moxa致力于发展及制造信息联网产品，提供客户具成本效益且稳定性高的串口通信解决方案、串口设备联网解决方案、及工业以太网解决方案。Moxa ActiveX SDK中的MediaDBPlayback.DLL 2.2.0.5版本中的某个ActiveX控件中存在基于栈的缓冲区溢出漏洞。远程攻击者可以借助超长PlayFileName属性值执行任意代码。	未归类
+ZOHO Corporation ManageEngine ADSelfService Plus 4.4	ManageEngine ADSelfService Plus是一个安全的，基于Web的最终用户自助服务密码重置方案。ManageEngine ADSelfService Plus存在安全漏洞，在注册期间程序会让用户设置一系列安全问题进行回答以方便之后能恢复丢失的密码。在恢复请求和用户ID发送之后，系统会要求用户回答一系列安全问题，这些回答会使用POST请求发送：POST /accounts/ValidateAnswers?methodToCall=validateAll HTTP/1.1Host: SERVERUser-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.13) Gecko/20101206 Ubuntu/10.10 (maverick) Firefox/3.6.13Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8Accept-Language: en-us,en;q=0.5Accept-Encoding: gzip,deflateAccept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7Keep-Alive: 115Proxy-Connection: keep-aliveReferer: http://SERVER/accounts/ValidateUserCookie: JSESSIONID=8F93EB242EF06C51BE93EB0CEDA69085Content-Type: application/x-www-form-urlencodedContent-Length: 294loginId=1501&Hide_Captcha=0&POLICY_ID=1&Confirm_Answer=1&SESSION_EXPIRY_TIME=5&LOGIN_NAME=alice&REM_SESSION_TIME=00%3A40&bAns=11111&bQues=PreDefined-2&bAns=22222&bQues=PreDefined-3&bAns=33333&bQues=PreDefined-4&bAns=44444&bQues=PreDefined-5&quesList=4&DIGEST=qodpgd&next=Continue&DIS_ALL_QUES=1从上面的HTTP POST请求可以看出，客户端可以有能力决定：-通过修改"Hide_Captcha"字段来决定他是否愿意完成验证码。-修改"quesList"参数可决定他愿意回答多少问题。因此，攻击者可以选择回答一个安全问题，而且验证码可以绕过表示此过程可自动化。允许攻击者绕过安全限制，执行任意脚本代码，泄漏敏感信息。	未归类
+ZOHO Corporation ManageEngine ADSelfService Plus 4.4	ManageEngine ADSelfService Plus是一个安全的，基于Web的最终用户自助服务密码重置方案。ManageEngine ADSelfService Plus存在安全漏洞，安全问题回答机制可以完全绕过，允许攻击者重置任意用户密码。要绕过此机制，攻击者必须首先选择要更改密码的用户，操作无需验证，然后提交一个接收密码更改的HTTP请求给URL来绕过安全问题回答机制。	未归类
+ZOHO Corporation ManageEngine ADSelfService Plus 4.4	ManageEngine ADSelfService Plus是一个安全的，基于Web的最终用户自助服务密码重置方案。ManageEngine ADSelfService Plus存在安全漏洞，相关雇员搜索功能存在跨站脚本问题。第一个问题存在于http://SERVER/EmployeeSearch.cc?actionId=showList中，提交类似如下注入：http://SERVER/EmployeeSearch.cc?actionId=showList&searchString=alice%22%20onmouseover=%22alert%28%27xss%27%29&parameterName=name&searchType=contains如上会导致如下的HTML提交给用户：<option value="equals" > Equals</option></select><input type="text" name="searchString" id="searchTextField" class="textfield" value="alice" onmouseover="alert('xss')" onkeypress="javascript:return searchOnKeyPressEvent(event)"><input type="button" name="search" id="search" class="button" value="&nbsp;Go&nbsp;" onclick="javascript:searchAD()"></td><tr>第二个问题存在于http://SERVER/EmployeeSearch.cc?actionId=Search，此页面接收搜索参数，然后创建发送给http://SERVER/EmployeeSearch.cc?actionId=showList的表单。在创建过程中，未过滤输入会以如下所示的javasript块反映给用户：<script> var searchValue = 'alice'; alert('xss'); var a='a'; var paramName = 'name'; var searchType = 'contains';</script>如上的例子可通过如下链接生成：http://SERVER/EmployeeSearch.cc?actionId=Search&amp;parameterName=name&amp;searchType=contains&amp;searchString=alice%22+onMouseOver%3D%22javascript%3Aalert%28%27xss%27%29	未归类
+IBM Rational Build Forge 7.x	IBM Rational Build Forge是一款自动化流程执行软件，能帮助客户进行自动化软件构建，测试及发布。部分传递给fullcontrol/的输入在返回用户之前缺少正确过滤，攻击者可以利用漏洞进行任意HTML和脚本代码攻击，可获得敏感信息或劫持目标用户会话。	未归类
+Oracle Audit Vault 10.x	Oracle	Audit Vault可自动化审计收集、监视和报告流程，将审计数据转变为关键的安全资源以检测未授权活动。Oracle Audit Vault AV组件默认监听TCP 5700端口，当处理action.execute请求时，进程对用户提交给参数的输入缺少充分校验，远程攻击者可以利用漏洞创建任意对象，以应用程序进程上下文执行任意代码。	未归类

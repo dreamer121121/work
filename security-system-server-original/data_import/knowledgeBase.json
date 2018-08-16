@@ -1,0 +1,90 @@
+{
+    "vertices" : {
+        "protocol" : {
+            "key" : "v_protocol",
+            "properties" : [
+                "name", "description"
+            ]
+        },
+        "deviceType" : {
+            "key" : "v_deviceType",
+            "properties" : [
+                "name"
+            ]
+        },
+        "device" : {
+            "key" : "v_device",
+            "properties" : [
+                "name"
+            ]
+        },
+        "instance" : {
+            "key" : "v_instance",
+            "properties" : [
+                "name", "ins_type", "ip", "city", "country", "continent", "asn", "lat", "lon", "hostname", "service", "os", "app", "extrainfo", "version", "port", "banner", "timestamp", "type_index"
+            ]
+        },
+        "vendor" : {
+            "key" : "v_vendor",
+            "properties" : [
+                "name", "country", "url"
+            ]
+        },
+        "event" : {
+            "key" : "v_event",
+            "properties" : [
+                "name", "time", "level"
+            ]
+        },
+        "vulnerability" : {
+            "key" : "v_vulnerability",
+            "properties" : [
+                "name", "level", "description", "url", "mitigation", "provider", "timestamp"
+            ]
+        }
+    },
+    "edges" : {
+        "devType2dev" : {
+            "key" : "e_devType2dev",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["deviceType", "device"]
+        },
+        "dev2vendor" : {
+            "key" : "e_dev2vendor",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["device", "vendor"]
+        },
+        "ins2ven" : {
+            "key" : "e_ins2ven",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["instance", "vendor"]
+        },
+        "vul2dev" : {
+            "key" : "e_vul2dev",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["vulnerability", "device"]
+        },
+        "vul2ven" : {
+            "key" : "e_vul2ven",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["vulnerability", "vendor"]
+        },
+        "ins2pro" : {
+            "key" : "e_ins2pro",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["instance", "protocol"]
+        }
+    }
+}

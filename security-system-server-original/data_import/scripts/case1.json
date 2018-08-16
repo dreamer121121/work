@@ -1,0 +1,102 @@
+{
+    "properties": {
+        "INDEX"    : "String",
+        "name"     : "String",
+        "province" : "String",
+        "country"  : "String",
+        "info"     : "String",
+        "accessExit" : "String",
+        "event"    : "String",
+        "srcPort"  : "Integer",
+        "dstPort"  : "Integer",
+        "time"     : "String",
+        "device"   : "String",
+        "returnValue" : "String",
+        "hash"     : "String",
+        "packages" : "String",
+        "bytes"    : "String",
+        "tcpFlag"  : "String",
+        "transProto" : "String"
+    },
+    "vertices":[
+        {	"type" : "ip",
+            "properties" : [
+                "name", "province", "country"
+            ]
+        },
+        {	"type" : "domain",
+            "properties" : [
+                "name", "info"
+            ]
+        },
+        {	"type"  :   "url",
+            "properties" : [
+                "name", "info"
+            ]
+        }
+        ],
+    "edges":[
+             {
+			"type": "attack",
+			"multiplicity":"MULTI",
+			"properties": [
+                "INDEX", "accessExit", "event", "srcPort", "dstPort", "time", "device", "returnValue", "hash"
+			]
+		},
+		{
+			"type": "access",
+			"multiplicity":"MULTI",
+			"properties": [
+                "INDEX", "packages", "bytes", "srcPort", "dstPort", "time", "tcpFlag", "transProto", "hash"
+			]
+		},
+		{
+			"type": "ip2domain",
+			"multiplicity":"MULTI",
+			"properties": [
+                "INDEX", "hash"
+			]
+		},
+		{
+			"type": "ip2url",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash", "time"
+			]
+		},
+		{
+			"type": "domain2url",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "time", "hash"
+			]
+		}
+	],
+	"index":[
+        {
+             "v_or_e":"v",
+             "index_type":"mixed",
+             "type":"all",
+             "properties":[
+                "name"
+            ]
+        },
+        {
+             "v_or_e":"v",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"name"
+			],
+            "unique": "false"
+        },
+		{
+			"v_or_e":"e",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"INDEX"
+			]
+		}
+	]
+}

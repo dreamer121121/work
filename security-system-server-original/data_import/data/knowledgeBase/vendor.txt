@@ -1,0 +1,81 @@
+﻿Adcon Telemetry	奥地利	http://www.adcon.com/
+ACKP	美国	http://www.akcp.com/
+ABB	瑞士	http://new.abb.com/
+Allen-Bradley	美国	http://ab.rockwellautomation.com/
+BroadWeb	中国台湾	http://shop1733449.yellowurl.cn/
+Beck IPC	美国	http://www.beck-ipc.com/en/index.asp
+Cimetrics	美国	https://www.cimetrics.com/
+Clorius Controls	丹麦	http://www.cloriuscontrols.cn/
+Codesys	德国	https://www.codesys.com/
+Delta Controls	英国	https://www.delta-controls.com/
+Elster EnergyICT	德国	http://www.elster.com/en/electricity
+Echelon	美国	http://www.echelon.com/
+Electro Industries GaugeTech	美国	www.electroind.com
+Fujitsu	日本	http://www.fujitsu.com/jp/
+General Electric	美国	http://www.ge.com/
+HMS	瑞典	http://www.hms-networks.com/
+Siemens	德国	http://www.siemens.com/entry/cn/zh/?stc=cncg100560
+SoftPLC	美国	http://www.softplc.com/
+SpiderControl	德国	http://www.spidercontrol.net/
+Stulz	德国	http://www.stulz.cn/cn/
+Schweitzer Engineering Laboratories	法国	http://www.schneider-electric.com/ww/en/
+Schleifenbauer	德国	https://schleifenbauer.eu/en/
+SAP	德国	http://go.sap.com/china/index.html
+Somfy	法国	http://www.somfy.org.cn/portail/index.cfm
+Tridium	美国	https://www.tridium.com/
+Novatech	美国	http://www.novatechweb.com/
+NRG Systems	美国	http://www.renewablenrgsystems.com/
+Moxa	中国台湾	http://www.moxa.com.cn/
+RTS Services	加拿大	http://www.rtsservices.ca/
+Reliance	印度	http://www.ril.com/
+Rockwell Automation	美国	https://www.rockwellautomation.com/
+Rabbit	美国	http://www.digi.com/lp/rabbit
+Wind River	美国	http://www.windriver.com/
+Wago	德国	http://www.wago.com.cn/
+三维力控科技有限公司	中国	
+PROGEA	意大利	
+PROGEA	意大利	
+SIXNET	美国	
+Rexroth Bosch	德国	
+Unitronics	以色列	
+Trihedral VTScada	加拿大	
+ESC	美国	
+Meteocontrol	德国	
+Panasonic	日本	
+Ecava	马来西亚	
+Honeywell International	美国	
+Cogent Real-Time Systems	加拿大	
+HP	美国	
+Westermo	瑞典	
+Pacom	瑞典	
+Motorola Solutions	美国	
+Saia Burgess Controls	瑞士	
+Exemys	阿根廷	
+Infinite Automation Systems	美国	
+Mitsubishi Electric	日本	
+Huawei	中国	
+Yokogawa	日本	
+PACTware	德国	
+IDS	德国	
+MatrikonOPC	加拿大	
+CG Automation Solutions	美国	
+CG Automation Solutions	美国	
+RuggedCom Inc	德国	
+泓格	中国台湾	
+亚控	中国	
+ICONICS	美国	
+Invensys	英国	
+Pro-face	日本	
+Advantech WebAccess	中国台湾	
+Arc Informatique
+3S-Smart Software Solutions		
+NOVUS Electronics		
+Omron		
+Triangle MicroWorks		
+Kessler-Ellis		
+Inductive Automation		
+Emerson Process Management		
+THUS		
+Trend		
+7-Technologies		
+Measuresoft ScadaPro		

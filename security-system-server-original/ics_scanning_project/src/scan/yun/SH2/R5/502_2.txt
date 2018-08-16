@@ -1,0 +1,1 @@
+# Nmap 6.40 scan initiated Thu Jul 13 12:39:44 2017 as: nmap -p 502 -sS -Pn --script /opt/ics_scanning_project/src/scan/NSE -iL /opt/ics_scanning_project/src/scan//yun/SH2/R4/502_2.txt -oN /opt/ics_scanning_project/src/scan//yun/SH2/R5/502_2.txt

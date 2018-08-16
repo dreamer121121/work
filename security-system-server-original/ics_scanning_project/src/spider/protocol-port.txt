@@ -1,0 +1,12 @@
+Siemens S7              102
+Modbus                  502
+IEC 60870-5-104         2404
+DNP3                    20000
+EtherNet/IP             44818
+BACnet                  47808
+Tridium Niagara Fox     1911
+Crimson V3              789
+OMRON FINS              9600
+PCWorx                  1962
+ProConOs                20547
+MELSEC-Q                5007

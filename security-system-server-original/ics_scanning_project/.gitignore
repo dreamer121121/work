@@ -1,0 +1,5 @@
+.idea
+*.pyc
+/src/web/frontend/node_modules
+/src/web/frontend/app/node_modules
+/src/web/backend/icsscan/home/migrations

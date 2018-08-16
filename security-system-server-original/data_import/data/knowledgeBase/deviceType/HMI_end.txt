@@ -1,0 +1,150 @@
+﻿WECON LeviStudio	WECON LeviStudio是HMI编程软件。 WECON LeviStudio处理某些文件中存在栈缓冲区溢出漏洞，可使攻击者造成栈缓冲区溢出，在当前进程上下文中执行任意代码。	HMI
+Rexroth Bosch BLADEcontrol <=3.0.2	Rexroth Bosch BLADEcontrol是德国博世力士乐（Rexroth Bosch）公司的一套基于Web的HMI（人机界面）系统。 Rexroth Bosch BLADEcontrol 3.0.2及之前版本中存在跨站脚本漏洞。远程攻击者可利用该漏洞注入任意Web脚本或HTML。	HMI
+Rexroth Bosch BLADEcontrol <=3.0.2	Rexroth Bosch BLADEcontrol是基于Web的HMI系统。 Rexroth Bosch BLADEcontrol在数据库操作中存在SQL注入漏洞，可导致控制数据库服务器或远程代码执行。	HMI
+Unitronics VisiLogic OPLC IDE <9.8.30	Unitronics VisiLogic OPLC IDE是以色列Unitronics公司的一套用于Vision和SAMBA系列控制器中的人机界面（HMI）和PLC应用程序编程环境。 Unitronics VisiLogic OPLC IDE 9.8.30之前版本中存在栈缓冲区溢出漏洞，该漏洞源于程序未能验证请求长度。远程攻击者可利用该漏洞执行任意代码。	HMI
+Pro-face GP-Pro EX EX-ED <4.05.000 	Pro-face GP-Pro EX是一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX的FTP服务器使用硬编码的证书，允许远程攻击者可利用该漏洞访问设备中的项目，获取敏感信息。	HMI
+Pro-face PFXEXEDV <4.05.000 	Pro-face GP-Pro EX是一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX的FTP服务器使用硬编码的证书，允许远程攻击者可利用该漏洞访问设备中的项目，获取敏感信息。	HMI
+Pro-face PFXEXEDLS <4.05.000 	Pro-face GP-Pro EX是一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX的FTP服务器使用硬编码的证书，允许远程攻击者可利用该漏洞访问设备中的项目，获取敏感信息。	HMI
+Pro-face PFXEXGRPLS <4.05.000	Pro-face GP-Pro EX是一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX的FTP服务器使用硬编码的证书，允许远程攻击者可利用该漏洞访问设备中的项目，获取敏感信息。	HMI
+Pro-face GP-Pro EX EX-ED <4.05.000 	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX中存在安全漏洞。远程攻击者可利用该漏洞执行任意代码或造成拒绝服务（越边界读取）。	HMI
+Pro-face PFXEXEDV <4.05.000 	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX中存在安全漏洞。远程攻击者可利用该漏洞执行任意代码或造成拒绝服务（越边界读取）。	HMI
+Pro-face PFXEXEDLS <4.05.000 	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX中存在安全漏洞。远程攻击者可利用该漏洞执行任意代码或造成拒绝服务（越边界读取）。	HMI
+Pro-face PFXEXGRPLS <4.05.000	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX中存在安全漏洞。远程攻击者可利用该漏洞执行任意代码或造成拒绝服务（越边界读取）。	HMI
+Pro-face GP-Pro EX	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX存在堆缓冲区溢出漏洞。远程攻击者可利用该漏洞在进程上下文中执行任意代码。	HMI
+Pro-face GP-Pro EX	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX存在栈缓冲区溢出漏洞。远程攻击者可利用该漏洞在进程上下文中执行任意代码。	HMI
+Pro-face GP-Pro EX	Pro-face GP-Pro EX是美国Pro-face公司的一套HMI画面编辑和逻辑编程软件。 Pro-face GP-Pro EX存在安全漏洞，由于FTP服务器使用硬编码的证书。远程攻击者可利用该漏洞访问设备中的项目。	HMI
+ABB Panel Builder 800 5.1	ABB Panel Builder 800是一套基于Web的HMI（人机界面）系统。 ABB Panel Builder未能正确处理DLL文件，允许攻击者可利用未指定绝对路径的DLL注入并执行任意代码。	HMI
+Proface GP-Pro EX	Proface GP-Pro EX是多个平台上使用的人机接口HMI软件。 Proface GP-Pro EX在ParseAPI.dll处理D-Script数据中存在安全漏洞。畸形的文件可使攻击者利用此漏洞在堆缓冲区之外写入D-Script数据，在当前进程上下文中执行任意代码。	HMI
+Proface GP-Pro EX	Proface GP-Pro EX是多个平台上使用的人机接口HMI软件。 Proface GP-Pro EX在处理畸形的0x7f77类型字段时BeginPreRead中存在安全漏洞。攻击者利用此漏洞可越界读取，获取任意内存信息。	HMI
+Proface GP-Pro EX	Proface GP-Pro EX是多个平台上使用的人机接口HMI软件。 Proface GP-Pro EX在处理畸形的0x7f77类型字段时BeginPreRead中存在安全漏洞。，攻击者利用此漏洞可造成栈缓冲区溢出，在当前进程上下文中执行任意代码。	HMI
+Unitronics VisiLogic OPLC IDE	Unitronics VisiLogic OPLC IDE是以色列Unitronics公司的一套用于Vision和SAMBA系列控制器中的人机界面（HMI）和PLC应用程序编程环境。 Unitronics VisiLogic OPLC IDE中存在缓冲区溢出漏洞，该漏洞源于程序未正确解析vlp文件。远程攻击者可利用该漏洞在本地管理员上下文中执行任意代码。	HMI
+Unitronics VisiLogic OPLC IDE <=9.8.0.00	Unitronics VisiLogic OPLC IDE是Unitronics公司的一套用于SAMBA系列控制器的人机界面（HMI）和PLC应用程序编程环境。 Unitronics VisiLogic OPLC IDE 9.8.0.0及之前版本存在安全漏洞。由于程序未能正确限制使用ActiveX控件。远程攻击者可通过特制的Web站点利用该漏洞执行任意代码。	HMI
+Unitronics VisiLogic OPLC IDE <=9.8.0.00	Unitronics VisiLogic OPLC IDE是Unitronics公司的一套用于SAMBA系列控制器的人机界面（HMI）和PLC应用程序编程环境。 Unitronics VisiLogic OPLC IDE 9.8.0.0及之前版本存在安全漏洞。远程攻击者可利用该漏洞执行任意代码。	HMI
+Schneider Electric InduSoft Web Studio Remote Agent	Schneider Electric InduSoft Web Studio是一个嵌入式HMI软件包。Remote Agent是其中的一个远程代理组件。 Schneider Electric InduSoft Web Studio的Remote Agent组件中存在安全漏洞，允许远程攻击者可利用漏洞提交特殊请求执行任意代码。	HMI
+Schneider Electric InduSoft Web Studio <8.0	Schneider Electric InduSoft Web Studio是一个嵌入式HMI软件包。Remote Agent是其中的一个远程代理组件。 Schneider Electric InduSoft Web Studio处理Indusoft Project文件存在安全漏洞，允许攻击者构建恶意文件，诱使应用解析，可使应用程序崩溃或执行任意代码。	HMI
+RLE International GmbH Nova-Wind Turbine HMI	Nova-Wind Turbine HMI是风力涡轮机的人机接口。 Nova-Wind Turbine HMI以纯文件文件存储凭证，这可使恶意用户访问设备、获取敏感信息、更改配置。	HMI
+rockwellautomation rsview32 <=7.60.00	RSView32是用于监控自动化机器和进程的HMI系统。 RSView32用于创建密码存储文件的加密方法存在安全漏洞，使用旧算法的软件用户可导致未授权解密，成功后将泄露用户密码。攻击者可以利用漏洞获取敏感信息。	HMI
+Kessler-Ellis Infilink HMI	Kessler-Ellis是著名仪器仪表厂商。Infilink HMI是Kessler-Ellis产品的人机接口(HMI)。 Infilink HMI存在未明安全漏洞，允许远程攻击者利用漏洞提交特殊请求，使应用程序崩溃。	HMI
+Everest Software LLC PeakHMI HMI	PeakHMI HMI是人机接口(HMI)应用。 PeakHMI HMI存在未明安全漏洞，允许远程攻击者利用漏洞提交特殊请求，使应用程序崩溃。	HMI
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4 	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序通过使用硬编码的明文密码控制项目文件和项目配置文件的读访问权限。本地攻击者利用该漏洞可通过发现密码获取敏感信息。	HMI
+Schneider Electric InTouch Machine Edition 2014(<7.1.3.4 SP3 Patch 4)	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序通过使用硬编码的明文密码控制项目文件和项目配置文件的读访问权限。本地攻击者利用该漏洞可通过发现密码获取敏感信息。	HMI
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4 	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序提供的HMI用户界面包含全部有效的用户名。远程攻击者可通过实施暴力破解攻击利用该漏洞获取访问权限。	HMI
+Schneider Electric InTouch Machine Edition 2014(<7.1.3.4 SP3 Patch 4)	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序提供的HMI用户界面包含全部有效的用户名。远程攻击者可通过实施暴力破解攻击利用该漏洞获取访问权限。	HMI
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4 	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序传输明文证书。远程攻击者可通过嗅探网络利用该漏洞获取敏感信息。	HMI
+Schneider Electric InTouch Machine Edition 2014(<7.1.3.4 SP3 Patch 4)	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于程序传输明文证书。远程攻击者可通过嗅探网络利用该漏洞获取敏感信息。	HMI
+Schneider Electric InduSoft Web Studio <7.1.3.4 SP3 Patch 4 	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于配置文件中存储明文的OPC用户证书。本地攻击者可通过读取文件利用该漏洞获取敏感信息。	HMI
+Schneider Electric InTouch Machine Edition 2014(<7.1.3.4 SP3 Patch 4)	Schneider Electric InduSoft Web Studio和InTouch Machine Edition都是法国施耐德电气（Schneider Electric）公司的一个嵌入式HMI软件包。 Schneider Electric InduSoft Web Studio 7.1.3.4 SP3 Patch 4之前版本和InTouch Machine Edition 2014 7.1.3.4 SP3 Patch 4之前版本中存在安全漏洞，该漏洞源于配置文件中存储明文的OPC用户证书。本地攻击者可通过读取文件利用该漏洞获取敏感信息。	HMI
+Rockwell Automation FactoryTalk Services Platform < 2.71.00 	FactoryTalk Services Platform为FactoryTalk系统中的产品和应用程序提供常规. 服务（如诊断信息、健康监视服务和实时数据访问）。FactoryTalk View Studio 是用于开发或测试机器级或者监控管理级人机交互界面(HMI)应用项目的组态软件。 多个Rockwell Automation产品DLL加载存在多个本地代码执行漏洞。攻击者可以利用漏洞与系统特权执行任意代码。	HMI
+Rockwell Automation FactoryTalk View Studio <= 8.00.00	FactoryTalk Services Platform为FactoryTalk系统中的产品和应用程序提供常规. 服务（如诊断信息、健康监视服务和实时数据访问）。FactoryTalk View Studio 是用于开发或测试机器级或者监控管理级人机交互界面(HMI)应用项目的组态软件。 多个Rockwell Automation产品DLL加载存在多个本地代码执行漏洞。攻击者可以利用漏洞与系统特权执行任意代码。	HMI
+Schneider Electric ETG3000 FactoryCast HMI Gateway	Schneider Electric ETG3000 FactoryCast HMI Gateway是一种全新的智能Web网关。 Schneider Electric ETG3000 FactoryCast HMI Gateway FTP服务器存在默认账户漏洞，允许攻击者无需验证访问服务。	HMI
+Rockwell Software Rockwell Automation CCW <=6.01.00	Rockwell Automation CCW是一款用于设计和配置应用程序和进行微控制器变成的HMI编辑器和组件级工业产品。 Rockwell Automation CCW多个ActiveX控件存在任意代码执行漏洞，允许攻击者构建恶意WEB页，诱使用户解析，执行任意代码等。	HMI
+Omron ns series system program firmware 8.1 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns series system program firmware 8.68 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns15 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns12 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns10 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns8 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns5 hmi terminal	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在跨站请求伪造漏洞。允许远程攻击者通过特制的数据执行未授权操作。	HMI
+Omron ns series system program firmware 8.1 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns series system program firmware 8.68 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns15 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns12 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns10 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns8 hmi terminal 	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Omron ns5 hmi terminal	Omron NS5、NS8、NS10、NS12和NS15 HMI Terminals都是欧姆龙（Omron）公司的触摸屏人机界面编程软件。 Omron NS series HMI Terminals存在HTML注入漏洞。远程攻击者可通过特制的数据注入任意的Web脚本或HTML。	HMI
+Invensys Systems, Inc. Wonderware InTouch 10.x	Invensys Wonderware InTouch是Invensys Wonderware创建的HMI，用于设计、构建、部署、维护生产和基础架构操作的应用。 Invensys Wonderware InTouch在解析XML实体时存在错误，允许提交包含外部实体引用的特制XML文档，获取本地文件敏感内容或进行拒绝服务攻击。	HMI
+Siemens Scalance X-200 Series Switches	Siemens Scalance X200系列交换机可用于连接工业组件，例如PLC或HMI。 Scalance X200 IRT固件对用户Web界面访问权的验证放在客户端执行，在服务器端没有正确验证。攻击者可利用此漏洞用未授权账户执行特权命令。	HMI
+Siemens Scalance X-200 Series Switches	Siemens Scalance X200系列交换机可用于连接工业组件，例如PLC或HMI。 Scalance X200 IRT 在SNMPv3的实现中没有有效验证用户凭证攻击者可无需凭证执行SNMP命令。	HMI
+Schneider Electric Magelis XBT HMI controller	Schneider Electric Magelis XBT HMI是一款人机界面控制器。 Schneider Electric Magelis XBT HMI控制器对配置上传身份验证有个默认密码，可使远程攻击者通过特制的配置数据绕过访问限制。	HMI
+Schneider Electric Magelis XBT HMI controller	Schneider Electric Magelis XBT HMI controller是一款人机界面控制器。 Schneider Electric Magelis XBT HMI controller包含一个默认密码用于配置上传验证，远程攻击者可通过提交特制的配置数据绕过安全限制。	HMI
+Siemens Automation License Manager null	Siemens Automation License Manager是各种西门子软件产品使用的证书管理软件。Siemens Automation License Manager存在一个内存泄露漏洞，允许攻击者利用此漏洞向TCP 4410端口发送恶意请求使应用程序崩溃，造成拒绝服务攻击，如下产品受此漏洞影响：SIMATIC (如STEP 7) SIMATIC HMI (如WinCC, WinCC flexible) SIMATIC PCS 7 SIMOTION (如Scout) SIMATIC NET SINAMICS (如Starter) SIMOCODE.	HMI
+Siemens ProcessSuite null 	Siemens ProcessSuite/Invensys Wonderware InTouch是分布式控制系统“APACS ”。ProcessSuite多用于制造，油气，化学等地。InTouch是一款HMI软件。由于包含密码的用户管理系统以可逆格式存储在文件"Ps_security.ini"中，拥有读取权限的用户可利用此漏洞获取密码信息，以特权用户登录，影响系统完整性，可用性和机密性。	HMI
+Wonderware InTouch <=2012 R2	Siemens ProcessSuite/Invensys Wonderware InTouch是分布式控制系统“APACS ”。ProcessSuite多用于制造，油气，化学等地。InTouch是一款HMI软件。由于包含密码的用户管理系统以可逆格式存储在文件"Ps_security.ini"中，拥有读取权限的用户可利用此漏洞获取密码信息，以特权用户登录，影响系统完整性，可用性和机密性。	HMI
+honeywellprocess Experion Releases R400.x, R31x, R30x, and R2xx 	HMIWeb采用Honeywell的新一代的操作员界面技术，以HTML（超文本置标语言）为显示画面的基本文件格式，提供采用Microsoft公司的IE浏览器访问Experion PKS过程画面的功能。Honeywell HMIWeb Browser HSCDSPRenderDLL ActiveX控件存在一个基于栈的缓冲区溢出。允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	HMI
+honeywellprocess Enterprise Building Manager Releases null 	HMIWeb采用Honeywell的新一代的操作员界面技术，以HTML（超文本置标语言）为显示画面的基本文件格式，提供采用Microsoft公司的IE浏览器访问Experion PKS过程画面的功能。Honeywell HMIWeb Browser HSCDSPRenderDLL ActiveX控件存在一个基于栈的缓冲区溢出。允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	HMI
+honeywellprocess Environmental Combustion and Controls, and SymmetrE R410.1 	HMIWeb采用Honeywell的新一代的操作员界面技术，以HTML（超文本置标语言）为显示画面的基本文件格式，提供采用Microsoft公司的IE浏览器访问Experion PKS过程画面的功能。Honeywell HMIWeb Browser HSCDSPRenderDLL ActiveX控件存在一个基于栈的缓冲区溢出。允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	HMI
+honeywellprocess HMIWeb Browser null	HMIWeb采用Honeywell的新一代的操作员界面技术，以HTML（超文本置标语言）为显示画面的基本文件格式，提供采用Microsoft公司的IE浏览器访问Experion PKS过程画面的功能。Honeywell HMIWeb Browser HSCDSPRenderDLL ActiveX控件存在一个基于栈的缓冲区溢出。允许攻击者构建恶意WEB页，诱使用户解析，可以应用程序上下文执行任意代码。	HMI
+Kessler Ellis Products Infilink HMI 5.00.23	Kessler-Ellis是著名仪器仪表厂商。Infilink HMI是Kessler-Ellis产品的人机接口(HMI)。Kessler Ellis Products Infilink HMI产品未能对项目文件中的验证凭据进行安全哈希处理，此产品使用简单的两进制XOR处理对明文密码进行加密，攻击者可以简单的提取密码信息，控制应用程序。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，但没有校验提交的字符串，允许攻击者读写执行文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，由于没有充分校验进入的数据，存在多个拒绝服务攻击可使程序崩溃。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC HMI Smart Options web server存在两个独立的跨站脚本攻击，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。监听TCP 80和443端口的HMI Web服务器没有正确校验HTTP请求中的URL，构建包含特制编码斜杠的URL，可进行目录遍历攻击，读取文件系统中的任意文件。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。HMI web server存在头注入漏洞，允许特权提升，窃取数据或破坏服务。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。HMI Web服务器没有正确校验HTTP请求，操作URL中的第一个字节，服务器会切换到特殊的URL解析模式，允许攻击者读取应用程序进程内存，或指定非法内存位置进行拒绝服务攻击。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。此漏洞允许攻击者通过特制项目文件执行任意代码。需要社会工程使管理员下载文件并执行。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。SIMATIC panels默认包含Telnet守护程序，但守护程序没有实现任何验证功能。	HMI
+Siemens SIMATIC WinCC flexible Runtime 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC (TIA Portal) Runtime Advanced 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC Flexible 2008 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC Flexible 2007 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC Flexible 2005 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC Flexible 2004 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC HMI Panels null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC null 	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+Siemens SIMATIC WinCC V11	Siemens SIMATIC是一款采用单一工程技术环境的自动化软件。Siemens SIMATIC WinCC HMI Web服务器存在安全漏洞。当传送模式启用时运行时装载器监听在2308/TCP或50523/TCP端口，没有正确数据段长度和Unicode字符串，可触发栈溢出，导致任意代码执行。	HMI
+(暂无)	SIMATIC是西门子自动化系列产品品牌统称，来源于SIEMENS + Automatic（西门子+自动化）。它诞生于1958年，至今已有50年历史，涵盖了从PLC、工业软件到HMI，是全球自动化领导品牌。Siemens SIMATIC S7-1200 PLC Systems在实现上存在安全绕过和拒绝服务漏洞，攻击者可利用这些漏洞通过重播攻击发送任意命令在受影响控制器中执行未授权操作。攻击者可通过将受影响控制器系统放置在stop/defect状态利用拒绝服务漏洞。	HMI

@@ -1,0 +1,6 @@
+Port		FileNumber		Total
+21		1		1
+80		1		4
+443		1		4
+
+ALL_IP_NUM is : 9

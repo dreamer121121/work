@@ -1,0 +1,32 @@
+{
+  "name": "ics-scanning",
+  "version": "1.0.0",
+  "description": "工控扫描",
+  "main": "app.js",
+  "scripts": {
+    "test": "http-server -p 12345 -C ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://10.1.1.45/sec-group/ics_scanning_project.git"
+  },
+  "keywords": [
+    "ICS"
+  ],
+  "author": "WangAo",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "http-server": "^0.10.0"
+  },
+  "dependencies": {
+    "angular": "1.3.0",
+    "angular-bootstrap": "^0.12.2",
+    "angular-ui-grid": "^4.0.4",
+    "angular-ui-router": "^1.0.3",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "install": "^0.10.0",
+    "jquery": "^2.1.4"
+  }
+}

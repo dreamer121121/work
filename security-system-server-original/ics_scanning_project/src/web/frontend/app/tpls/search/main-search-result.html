@@ -1,0 +1,138 @@
+<div ng-controller="searchResultCtrl">
+    <div class="sub-search-wrapper">
+        <div class="container">
+            <form class="search-form clearfix" action="#">
+                <select class="search-select" name="" id="" ng-model="input.type" ng-options="t.value as t.name for t in input.options">
+                </select>
+                <div class="input-group">
+                    <input type="text" title="设备查询字段包括:ip、country、city、port、protocol,对于WEB页面查询字段包括:ip,port,city,port。
+多个查询条件使用空格分隔,例如:ip:192.168.10.100 port:8080" placeholder="搜索格式为“查询字段:查询内容" ng-model="input.key">
+                    <button class="submit main-input-submit" type="submit" title="搜索" ng-click="input.submit($event)"></button>
+                    <ul class="select-wrapper" ng-show="input.related">
+                        <li ng-repeat="key in input.relatedKey"><a href="" ng-click="input.keyOnClick(key.text)">{{key.text}}</a></li>
+                        <li><a href="" ng-click="input.keyOnClick('S7-200')">S7-200</a></li>
+                        <li><a href="" ng-click="input.keyOnClick('S7-300')">S7-300</a></li>
+                        <div class="close"><a href="" ng-click="input.closeRelated();">关闭</a></div>
+                    </ul>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="result-list-wrapper">
+        <div class="container clearfix">
+            <!--<ul class="result-tab">-->
+                <!--<li class="active"><a href="#">搜索内容</a></li>-->
+                <!--<li><a href="#">地图视角</a></li>-->
+            <!--</ul>-->
+            <p class="result-intro">
+                找到约{{result.totalNum}}条结果（{{result.timeCost}}毫秒）
+            </p>
+            <div class="result-list">
+                <ul class="list-ul">
+                    <li class="clearfix" ng-repeat="each in result.list">
+                        <h4>{{each.ip}}</h4>
+                        <div class="list-left">
+                            <p class="location"><span class="flag flag-cn"></span>{{each.country}} {{each.city}}</p>
+                            <p class="time">{{each.add_time | date: "M月d日 , yyyy"}}</p>
+                            <p class="list-links">
+                                <a href="#">TCP</a>
+                                <a href="" ng-show="each.protocol">{{each.protocol}}</a>
+                                <a href="" ng-show="each.brand">{{each.brand}}</a></p>
+                        </div>
+                        <div class="list-right">
+                            <div class="tips">
+                                <a class="tip-1" href="">{{each.port}}</a>
+                                <!--<a class="tip-2" href="">504</a>-->
+                            </div>
+                            <!--HTTP/1.0 200 OK-->
+                            <!--Content-Length: 344-->
+                            <!--Content-Type: text/html-->
+                            <!--Last-Modified: Wed, 30-Nov-2016 20:46:41 GMT-->
+                            <!--&lt;html&gt;-->
+                            <!--&lt;head&gt;-->
+                            <!--&lt;SCRIPT LANGUAGE="JavaScript"&gt;-->
+                            <!--window.location.href = "app/login.esp";-->
+                            <!--&lt;/SCRIPT&gt;-->
+                            <!--&lt;NOSCRIPT&gt;-->
+                            <!--Your browser doesn't support JavaScript or-->
+                            <!--JavaScript suport-->
+                            <pre class="expand on">{{each.banner}}</pre>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="pagination" ng-show="result.totalNum > 0">
+                    <li><a href=""  ng-click="result.setPage(1)">首页</a></li>
+                    <li ng-repeat="each in result.pageList" ng-class="{true: 'active', false: 'inactive'}[each == result.currentPage]">
+                        <a href="" ng-click="result.setPage(each)">{{each}}</a>
+                    </li>
+                    <li><a href=""  ng-click="result.setPage(result.totalPage)">尾页</a></li>
+                </ul>
+            </div>
+            <div class="classify">
+                <dl>
+                    <dt>年</dt>
+                    <dd class="clearfix">
+                        <label for="">2017</label>
+                        <div class="progress">
+                            <span style="width: 40%;">123456</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">2016</label>
+                        <div class="progress">
+                            <span style="width: 60%;">987654</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">2016</label>
+                        <div class="progress">
+                            <span style="width: 50%;">987654</span>
+                        </div>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>城市</dt>
+                    <dd class="clearfix">
+                        <label for="">北京</label>
+                        <div class="progress">
+                            <span style="width: 40%;">123456</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">天津</label>
+                        <div class="progress">
+                            <span style="width: 60%;">987654</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">上海</label>
+                        <div class="progress">
+                            <span style="width: 50%;">987654</span>
+                        </div>
+                    </dd>
+                </dl>
+                <dl>
+                    <dt>品牌</dt>
+                    <dd class="clearfix">
+                        <label for="">西门子</label>
+                        <div class="progress">
+                            <span style="width: 40%;">123456</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">施耐德</label>
+                        <div class="progress">
+                            <span style="width: 60%;">987654</span>
+                        </div>
+                    </dd>
+                    <dd class="clearfix">
+                        <label for="">ABB</label>
+                        <div class="progress">
+                            <span style="width: 50%;">987654</span>
+                        </div>
+                    </dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>

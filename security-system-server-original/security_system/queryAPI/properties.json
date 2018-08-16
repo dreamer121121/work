@@ -1,0 +1,25 @@
+{
+    "server" : "http://10.1.1.48:8182",
+    "graphs" : {
+        "graph1" : {
+            "abstract" : "g1",
+            "properties" : ["name", "province", "country", "info", "accessExit", "event", "srcPort", "dstPort", "time", "device", "returnValue", "packages", "bytes", "tcpFalg", "transProto"]
+        },
+        "graph2" : {
+            "abstract" : "g2",
+            "properties" : ["name", "province", "country", "info", "srcPort", "dstPort", "time", "returnValue", "packages", "bytes", "tcpFlag", "transProto", "DSI", "DSU", "DNSServer", "reqDomain", "reqType", "reqCount", "direct", "respFlag", "respVal", "RPReqType", "RSIP", "TTL", "SR"]
+        },
+        "knowledgeBase" : {
+            "abstract" : "kb",
+            "properties" : ["ins_type","ip","name", "city", "country", "continent", "asn", "lat", "lon", "hostname", "service", "os", "app", "extrainfo", "version", "port", "banner", "timestamp", "url", "time", "level", "description", "provider", "mitigation"]
+        }
+    },
+    "proConvert" : {
+        "id"    : "id",
+        "label" : "type",
+        "inV"   : "dstID",
+        "outV"  : "srcID"
+    },
+    "threadNum" : 8,
+    "CountLimit" : 100
+}

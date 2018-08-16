@@ -1,0 +1,5629 @@
+--------------------------------------------------
+HOST: 192.198.160.15 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Server: Apache
+Last-Modified: Tue, 03 Jan 2017 16:14:16 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            font-size: 500%;
+        }
+        .status-reason {
+            font-size: 250%;
+            display: block;
+        }
+        .contact-info,
+        .reason-text {
+            color: #000000;
+        }
+        .additional-info {
+            background-repeat: no-repeat;
+            background-color: #293A4A;
+            color: #FFFFFF;
+        }
+        .additional-info a {
+            color: #FFFFFF;
+        }
+        .additional-info-items {
+            padding: 20px 0;
+            min-height: 193px;
+        }
+        .contact-info {
+            margin-bottom: 20px;
+            font-size: 16px;
+        }
+        .contact-info a {
+            text-decoration: underline;
+            color: #428BCA;
+        }
+        .contact-info a:hover,
+        .contact-info a:focus,
+        .contact-info a:active {
+            color: #2A6496;
+        }
+        .reason-text {
+            margin: 20px 0;
+            font-size: 16px;
+        }
+        ul {
+            display: inline-block;
+            list-style: none outside none;
+            margin: 0;
+            padding: 0;
+        }
+        ul li {
+            float: left;
+            text-align: center;
+        }
+        .additional-info-items ul li {
+            width: 100%;
+        }
+        .info-image {
+            padding: 10px;
+        }
+        .info-heading {
+            font-weight: bold;
+            text-align: left;
+            word-break: break-all;
+            width: 100%;
+        }
+        .info-server address {
+            text-align: left;
+        }
+        footer {
+            text-align: center;
+            margin: 60px 0;
+        }
+        footer a {
+            text-decoration: none;
+        }
+        footer a img {
+            border: 0;
+        }
+        .copyright {
+            font-size: 10px;
+            color: #3F4143;
+        }
+        @media (min-width: 768px) {
+            .additional-info {
+                position: relative;
+                overflow: hidden;
+                background-image: none;
+            }
+            .additional-info-items {
+                padding: 20px;
+            }
+            .container {
+                width: 90%;
+            }
+            .additional-info-items ul li {
+                width: 100%;
+                text-align: left;
+            }
+            .additional-info-items ul li:first-child {
+                padding: 20px;
+            }
+            .reason-text {
+                font-size: 18px;
+            }
+            .contact-info {
+                font-size: 18px;
+            }
+            .info-image {
+                float: left;
+            }
+            .info-heading {
+                margin: 62px
+--------------------------------------------------
+HOST: 192.198.160.16 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #3C6EB4;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #294172;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1>Welcome to <strong>nginx</strong> on Fedora!</h1>
+
+        <div class="content">
+            <p>This page is used to test the proper operation of the
+            <strong>nginx</strong> HTTP server after it has been
+            installed. If you can read this page, it means that the
+            web server installed at this site is working
+            properly.</p>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>This is the default <tt>index.html</tt> page that
+                    is distributed with <strong>nginx</strong> on
+                    Fedora.  It is located in
+                    <tt>/usr/share/nginx/html</tt>.</p>
+
+                    <p>You should now put your content in a location of
+                    your choice and edit the <tt>root</tt> configuration
+                    directive in the <strong>nginx</strong>
+                    configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+
+                <a href="http://fedoraproject.org/"><img 
+                    src="poweredby.png" 
+                    alt="[ Powered by Fedora ]" 
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</h
+--------------------------------------------------
+HOST: 192.198.160.25 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Server: Apache
+Last-Modified: Tue, 03 Jan 2017 16:14:16 GMT
+Accept-Ranges: bytes
+Content-Length: 111
+Content-Type: text/html
+
+<html><head><META HTTP-EQUIV="refresh" CONTENT="0;URL=/cgi-sys/defaultwebpage.cgi"></head><body></body></html>
+HTTP/1.1 400 Bad Request
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Server: Apache
+Accept-Ranges: bytes
+Connection: close
+Content-Type: text/html
+
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>400 Bad Request</title>
+    <style type="text/css">
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 14px;
+            line-height: 1.428571429;
+            background-color: #ffffff;
+            color: #2F3230;
+            padding: 0;
+            margin: 0;
+        }
+        section, footer {
+            display: block;
+            padding: 0;
+            margin: 0;
+        }
+        .container {
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0 10px;
+        }
+        .response-info {
+            color: #CCCCCC;
+        }
+        .status-code {
+            font-size: 50
+--------------------------------------------------
+HOST: 192.198.160.32 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.160.15/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.160.34 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.160.15/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.160.38 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #3C6EB4;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #294172;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1>Welcome to <strong>nginx</strong> on Fedora!</h1>
+
+        <div class="content">
+            <p>This page is used to test the proper operation of the
+            <strong>nginx</strong> HTTP server after it has been
+            installed. If you can read this page, it means that the
+            web server installed at this site is working
+            properly.</p>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>This is the default <tt>index.html</tt> page that
+                    is distributed with <strong>nginx</strong> on
+                    Fedora.  It is located in
+                    <tt>/usr/share/nginx/html</tt>.</p>
+
+              
+--------------------------------------------------
+HOST: 192.198.160.39 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: XOS 22nov2004
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Last-Modified: Wed, 08 Jul 2015 20:01:46 GMT
+Accept-Ranges: bytes
+Connection: close
+Content-Length: 19245
+
+<!DOCTYPE html>
+<!-- TODO: do we need to remove this "en" lang flag for i18n to behave properly -->
+<html lang="en" ng-app="ChaletModule">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<!-- TODO: This i18n favicon strategy is broken.  The title bar favicon does not load in any browser. -->
+    <link rel="icon"
+          type="image/png"
+          href="{{resourceBundle.extreme_logo_white_favicon}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Extreme Networks, Inc.">
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+    <title>{{pageTitle}}</title>
+
+    <!-- Stylesheets -->
+    <link href="vendor/toastr/toastr.min.css" rel="stylesheet" />
+    <link href="vendor/bootstrap/bootstrap.css" rel="stylesheet" />
+    <!--TODO: needs investigation. Are we using animate.css?-->
+    <link href="vendor/animate.css/animate.min.css" rel="stylesheet" />
+    <link href="vendor/bootstrap-switch/build/css/bootstrap3/bootstrap-sw
+--------------------------------------------------
+HOST: 192.198.160.44 PORT: 80
+message:
+HTTP/1.1 200 OK
+Server: XOS 22nov2004
+Content-Type: text/html; charset=utf-8
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Last-Modified: Wed, 08 Jul 2015 20:01:46 GMT
+Accept-Ranges: bytes
+Connection: close
+Content-Length: 19245
+
+<!DOCTYPE html>
+<!-- TODO: do we need to remove this "en" lang flag for i18n to behave properly -->
+<html lang="en" ng-app="ChaletModule">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+<!-- TODO: This i18n favicon strategy is broken.  The title bar favicon does not load in any browser. -->
+    <link rel="icon"
+          type="image/png"
+          href="{{resourceBundle.extreme_logo_white_favicon}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="Extreme Networks, Inc.">
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+
+    <title>{{pageTitle}}</title>
+
+    <!-- Stylesheets -->
+    <link href="vendor/toastr/toastr.min.css" rel="stylesheet" />
+    <link href="vendor/bootstrap/bootstrap.css" rel="stylesheet" />
+    <!--TODO: needs investigation. Are we using animate.css?-->
+    <link href="vendor/animate.css/animate.min.css" rel="stylesheet" />
+    <link href="vendor/bootstrap-switch/build/css/bootstrap3/bootstrap-sw
+--------------------------------------------------
+HOST: 192.198.160.59 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.160.61 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.160.16:80/
+Server: Microsoft-IIS/8.5
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 208
+Set-Cookie: BIGipServerprd2cqcontent-http=!PVluWrv0R2x9fYr1vcPAUINn7OQ6nby792JksptCFis4lP8NSuctPJw7V5ba+tCblBTa82kIOJGc5A==; expires=Mon, 09-Jan-2017 12:12:10 GMT; path=/
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.160.16:80/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.160.67 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #3C6EB4;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #294172;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1>Welcome to <strong>nginx</strong> on Fedora!</h1>
+
+        <div class="content">
+            <p>This page is used to test the proper operation of the
+            <strong>nginx</strong> HTTP server after it has been
+            installed. If you can read this page, it means that the
+            web server installed at this site is working
+            properly.</p>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>This is the default <tt>index.html</tt> page that
+                    is distributed with <strong>nginx</strong> on
+                    Fedora.  It is located in
+                    <tt>/usr/share/nginx/html</tt>.</p>
+
+                    <p>You should now put your content in a location of
+                    your choice and edit the <tt>root</tt> configuration
+                    directive in the <strong>nginx</strong>
+                    configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+
+                <a href="http://fedoraproject.org/"><img 
+                    src="poweredby.png" 
+                    alt="[ Powered by Fedora ]" 
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</h
+--------------------------------------------------
+HOST: 192.198.164.12 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.160.48/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.20 PORT: 80
+message:
+HTTP/1.0 404 Not Found
+Connection: close
+Content-Type: text/html
+
+<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD><BODY><H4>404 Not Found</H4><BR>Document Not Found</BODY></HTML>
+--------------------------------------------------
+HOST: 192.198.164.23 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.160.59/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.28 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://xdticketing.intel.com/app/index.aspx
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 167
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://xdticketing.intel.com/app/index.aspx">here</a></body>
+--------------------------------------------------
+HOST: 192.198.164.32 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 26 Nov 2015 22:27:23 GMT
+Accept-Ranges: bytes
+ETag: "5d84de9e9928d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.33 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.160.60:80/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 208
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.160.60:80/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.164.38 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Server: Apache
+Location: https://192.198.160.67
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://192.198.160.67">here</a>.</p>
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.164.47 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://gameplay.intel.com/
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 150
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://gameplay.intel.com/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.164.52 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/plain; charset=utf-8
+X-Cf-Routererror: unknown_route
+X-Content-Type-Options: nosniff
+X-Vcap-Request-Id: b1373f1d-f510-4574-7ac6-7382b2a14b47
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 69
+
+404 Not Found: Requested route ('192.198.164.16:80') does not exist.
+HTTP/1.0 400 Bad request
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>400 Bad request</h1>
+Your browser sent an invalid request.
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.164.59 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.164.62 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.21/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.70 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.38/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.74 PORT: 80
+message:
+HTTP/1.1 503 Service Temporarily Unavailable
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Server: Apache
+Last-Modified: Tue, 29 Nov 2016 20:11:32 GMT
+ETag: "1f81-baa-5427631c32500"
+Accept-Ranges: bytes
+Content-Length: 2986
+Connection: close
+Content-Type: text/html
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="hpdd.intel.com maintenance">
+    <meta http-equiv="refresh" content="60">
+
+    <title>Site temporarily unavailable - Planned Maintenance</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/mlaf/css/it-mlaf.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+    <nav class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <img class="navbar-logo" src="/mlaf/images/intel-logo-white-100.png" alt="">
+          <a class="navbar-brand" href="#">High Performance Data Div
+--------------------------------------------------
+HOST: 192.198.164.78 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.56/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.80 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.84 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.52/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.86 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.56/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.88 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:53:22 GMT
+Accept-Ranges: bytes
+ETag: "01da44fddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 228
+Set-Cookie: BIGipServerprd1etc-http=2819428874.20480.0000; expires=Mon, 09-Jan-2017 11:32:11 GMT; path=/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+	<title>Intel</title>
+	<meta http-equiv="REFRESH" content="0;url=http://www.intel.com/"></HEAD>
+	<BODY>
+		Redirecting user...
+	</BODY>
+</HTML>
+--------------------------------------------------
+HOST: 192.198.164.90 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.92 PORT: 80
+message:
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Content-Length: 188
+
+<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 4845960237319685562</body></html>
+--------------------------------------------------
+HOST: 192.198.164.93 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.164.94 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.69/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.101 PORT: 80
+message:
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Content-Length: 188
+
+<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 4845960237315408349</body></html>
+--------------------------------------------------
+HOST: 192.198.164.104 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://xdticketing.intel.com/app/index.aspx
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 167
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://xdticketing.intel.com/app/index.aspx">here</a></body>
+--------------------------------------------------
+HOST: 192.198.164.105 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.106 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 1208
+Vary: Accept-Encoding
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>500 - Internal server error.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>500 - Internal server error.</h2>
+  <h3>There is a problem with the resource you are looking for, and it cannot be displayed.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.164.106 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #3C6EB4;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #294172;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1>Welcome to <strong>nginx</strong> on Fedora!</h1>
+
+        <div class="content">
+            <p>This page is used to test the proper operation of the
+            <strong>nginx</strong> HTTP server after it has been
+            installed. If you can read this page, it means that the
+            web server installed at this site is working
+            properly.</p>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>This is the default <tt>index.html</tt> page that
+                    is distributed with <strong>nginx</strong> on
+                    Fedora.  It is located in
+                    <tt>/usr/share/nginx/html</tt>.</p>
+
+                    <p>You should now put your content in a location of
+                    your choice and edit the <tt>root</tt> configuration
+                    directive in the <strong>nginx</strong>
+                    configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+
+                <a href="http://fedoraproject.org/"><img 
+                    src="poweredby.png" 
+                    alt="[ Powered by Fedora ]" 
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</h
+--------------------------------------------------
+HOST: 192.198.164.110 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 309
+Set-Cookie: BIGipServerprd1bodcs-http=2836206090.20480.0000; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.111 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+
+--------------------------------------------------
+HOST: 192.198.164.114 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.88/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.115 PORT: 80
+message:
+HTTP/1.1 401 Unauthorized
+Content-Type: text/plain; charset=utf-8
+Server: Microsoft-IIS/7.5
+SPRequestGuid: a851c99d-2207-00cb-8e83-c64abd11ee35
+request-id: a851c99d-2207-00cb-8e83-c64abd11ee35
+X-FRAME-OPTIONS: SAMEORIGIN
+WWW-Authenticate: NTLM
+X-Powered-By: ASP.NET
+MicrosoftSharePointTeamServices: 15.0.0.4569
+X-Content-Type-Options: nosniff
+X-MS-InvokeApp: 1; RequireReadOnly
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 16
+
+401 UNAUTHORIZED
+--------------------------------------------------
+HOST: 192.198.164.116 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:53:22 GMT
+Accept-Ranges: bytes
+ETag: "01da44fddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 228
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+	<title>Intel</title>
+	<meta http-equiv="REFRESH" content="0;url=http://www.intel.com/"></HEAD>
+	<BODY>
+		Redirecting user...
+	</BODY>
+</HTML>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.164.117 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 16 Oct 2015 22:41:35 GMT
+Accept-Ranges: bytes
+ETag: "771f0cf638d11:0"
+X-Powered-By: ASP.NET
+X-Node: FM01
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 518
+
+<!doctype html>
+<title>Sfederation.intel.com</title>
+<style>
+  body { text-align: center; padding: 20px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <h1>Welcome</h1>
+    <div>
+        <p>You've made it!</p>
+        <p>&mdash; The Team</p>
+    </div>
+</article>
+--------------------------------------------------
+HOST: 192.198.164.124 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.88/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.131 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Sat, 20 Aug 2011 10:13:35 GMT
+Accept-Ranges: bytes
+ETag: "7cf094d2215fcc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.136 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.92/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.137 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.94/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.142 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 16 Oct 2015 22:41:35 GMT
+Accept-Ranges: bytes
+ETag: "771f0cf638d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+X-Node: FM01
+Date: Mon, 09 Jan 2017 11:12:10 GMT
+Content-Length: 518
+
+<!doctype html>
+<title>Sfederation.intel.com</title>
+<style>
+  body { text-align: center; padding: 20px; }
+  h1 { font-size: 50px; }
+  body { font: 20px Helvetica, sans-serif; color: #333; }
+  article { display: block; text-align: left; width: 650px; margin: 0 auto; }
+  a { color: #dc8100; text-decoration: none; }
+  a:hover { color: #333; text-decoration: none; }
+</style>
+
+<article>
+    <h1>Welcome</h1>
+    <div>
+        <p>You've made it!</p>
+        <p>&mdash; The Team</p>
+    </div>
+</article>
+--------------------------------------------------
+HOST: 192.198.164.144 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.105/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.145 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:56:44 GMT
+Accept-Ranges: bytes
+ETag: "0deac8ddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 307
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.151 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.93/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.152 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://b2bbizcons.intel.com/LFTMaintenance.htm
+Connection: close
+
+
+--------------------------------------------------
+HOST: 192.198.164.153 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.101/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.154 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.111/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.157 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.158 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.162 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.164.164 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.113/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.184 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.186 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Type: text/html
+Content-Length: 3700
+Last-Modified: Tue, 26 Jan 2016 18:15:47 GMT
+ETag: "56a7b7d3-e74"
+Cache-Control: public, max-age=300
+Age: 0
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+grace: none
+Connection: keep-alive
+Accept-Ranges: bytes
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+    <head>
+        <title>Test Page for the Nginx HTTP Server on Fedora</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <style type="text/css">
+            /*<![CDATA[*/
+            body {
+                background-color: #fff;
+                color: #000;
+                font-size: 0.9em;
+                font-family: sans-serif,helvetica;
+                margin: 0;
+                padding: 0;
+            }
+            :link {
+                color: #c00;
+            }
+            :visited {
+                color: #c00;
+            }
+            a:hover {
+                color: #f50;
+            }
+            h1 {
+                text-align: center;
+                margin: 0;
+                padding: 0.6em 2em 0.4em;
+                background-color: #294172;
+                color: #fff;
+                font-weight: normal;
+                font-size: 1.75em;
+                border-bottom: 2px solid #000;
+            }
+            h1 strong {
+                font-weight: bold;
+                font-size: 1.5em;
+            }
+            h2 {
+                text-align: center;
+                background-color: #3C6EB4;
+                font-size: 1.1em;
+                font-weight: bold;
+                color: #fff;
+                margin: 0;
+                padding: 0.5em;
+                border-bottom: 2px solid #294172;
+            }
+            hr {
+                display: none;
+            }
+            .content {
+                padding: 1em 5em;
+            }
+            .alert {
+                border: 2px solid #000;
+            }
+
+            img {
+                border: 2px solid #fff;
+                padding: 2px;
+                margin: 2px;
+            }
+            a:hover img {
+                border: 2px solid #294172;
+            }
+            .logos {
+                margin: 1em;
+                text-align: center;
+            }
+            /*]]>*/
+        </style>
+    </head>
+
+    <body>
+        <h1>Welcome to <strong>nginx</strong> on Fedora!</h1>
+
+        <div class="content">
+            <p>This page is used to test the proper operation of the
+            <strong>nginx</strong> HTTP server after it has been
+            installed. If you can read this page, it means that the
+            web server installed at this site is working
+            properly.</p>
+
+            <div class="alert">
+                <h2>Website Administrator</h2>
+                <div class="content">
+                    <p>This is the default <tt>index.html</tt> page that
+                    is distributed with <strong>nginx</strong> on
+                    Fedora.  It is located in
+                    <tt>/usr/share/nginx/html</tt>.</p>
+
+                    <p>You should now put your content in a location of
+                    your choice and edit the <tt>root</tt> configuration
+                    directive in the <strong>nginx</strong>
+                    configuration file
+                    <tt>/etc/nginx/nginx.conf</tt>.</p>
+
+                </div>
+            </div>
+
+            <div class="logos">
+                <a href="http://nginx.net/"><img
+                    src="nginx-logo.png" 
+                    alt="[ Powered by nginx ]"
+                    width="121" height="32" /></a>
+
+                <a href="http://fedoraproject.org/"><img 
+                    src="poweredby.png" 
+                    alt="[ Powered by Fedora ]" 
+                    width="88" height="31" /></a>
+            </div>
+        </div>
+    </body>
+</h
+--------------------------------------------------
+HOST: 192.198.164.208 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.220 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 309
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.228 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 29 Jul 2016 17:06:25 GMT
+Accept-Ranges: bytes
+ETag: "3ac0e289bbe9d11:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.235 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.186/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.237 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.164.237 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.196/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.241 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: https://192.198.164.186:80/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 150
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://192.198.164.186:80/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.164.242 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.197/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.164.246 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 01 Nov 2012 17:30:53 GMT
+Accept-Ranges: bytes
+ETag: "6cd5e4a456b8cd1:0"
+Server: IA Web Server
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa OUR STP ONL UNI COM NAV INT DEM STA PRE"
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 18238
+Vary: Accept-Encoding
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
+<head>
+<title>Laptop, Notebook, Desktop, Server and Embedded Processor Technology - Intel</title>
+<meta name = "description" content = "Intel, the world leader in silicon innovation, develops processor technologies and supports global initiatives to continually advance how people work and live."/>
+<meta name = "keywords" content = ""/>
+<meta name = "creator" content = "jvdewitt"/>
+<meta name = "date" content = "08-31-2009"/>
+<meta name = "robots" content = "index, follow" />
+<meta name = "language" content = "en_US"/>
+<meta http-equiv = "content-type" content = "text/html; charset=UTF-8"/>
+<meta property="fb:app_id" content="402090853160810" />
+<script type="text/javascript">
+	// Namespace
+    var intel = {};
+</script>
+<script type="text/javascript" src="/sites/js/INTEL.js"> </script>
+<script type="text/javascript" src="/sites/sitewide/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/homepage/js/geocheck.js"></script>
+<link type="text/css" href="/homepage/css/intel-main.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway.css" />
+<link rel="shortcut icon" href="/sites/sitewide/pix/favicon.ico" />
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie7.css" />
+<![endif]-->
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie6.css" />
+	<script type="text/javascript" src="/homepage/js/unitpngfix.js"></script>
+    <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache", false, true);
+        } catch(err) {}
+    </script>
+<![endif]-->
+
+<style type="text/css">
+   #nav-c {visibility:hidden !important;}
+   #browser-notice {visibility:visible !important;}
+   #footerdiv {visibility:hidden}
+  .header-hide{visibility:hidden !important}
+  .header-show{visibility:visible !important}
+   #HAT-filtermenu-container div, #HAT-filtermenu-container iframe{display:none}
+</style>
+
+
+</head>
+<body>
+<script type="text/javascript">
+			document.body.className += ' has_js';
+		</script>
+<div id="main-c">
+  <!-- Nav -->
+  <div id="nav-c">
+    <div id="headerdiv" class="headerdiv">
+        <!--header-->
+
+        <!--#include virtual="/sites/sitewide/cs_CZ/inc/gh_gateway.inc"-->
+
+        <!--/header-->
+    </div>
+  </div>
+  <!-- End Nav -->
+  <div id="ggw">
+	<div id="ggw-background"></div>
+    <h2 id="banner"><span id="gfx"></span> <span id="bannertxt" aria-live="polite"></span></h2>
+   <!-- <div class="top-div"></div>-->
+    <div class="no-script">
+      <h2>Choose Your Location</h2>
+      <div class="no-script-list">
+        <!-- ideally this section would be generated server-side -->
+        <!-- until it is, please take care to keep it in sync with the XML list used for the Ajax version of the page -->
+        <!-- a (JavaScript) utility function has been included to facilitate the conversion -->
+        <!-- once server-side generation is enabled, however, the links should instead point _back_ to this page -->
+        <!-- but with the selected language loaded -->
+        <!-- ***************************************************** -->
+        <!-- Languages used for Global Gateway and the Change Location global asset are sync'd up. -->
+        <!-- Before changing any locale, region, or language, please contact the InSite mailbox with your proposal. -->
+        <!-- Changes to either change location or GG pages need to stay in sync. -->
+        <ul>
+          <li><a href
+--------------------------------------------------
+HOST: 192.198.164.247 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.253 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.164.254 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 309
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.9 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.218/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.12 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.13 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 01 Nov 2012 17:30:53 GMT
+Accept-Ranges: bytes
+ETag: "6cd5e4a456b8cd1:0"
+Server: IA Web Server
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa OUR STP ONL UNI COM NAV INT DEM STA PRE"
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 18238
+Vary: Accept-Encoding
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
+<head>
+<title>Laptop, Notebook, Desktop, Server and Embedded Processor Technology - Intel</title>
+<meta name = "description" content = "Intel, the world leader in silicon innovation, develops processor technologies and supports global initiatives to continually advance how people work and live."/>
+<meta name = "keywords" content = ""/>
+<meta name = "creator" content = "jvdewitt"/>
+<meta name = "date" content = "08-31-2009"/>
+<meta name = "robots" content = "index, follow" />
+<meta name = "language" content = "en_US"/>
+<meta http-equiv = "content-type" content = "text/html; charset=UTF-8"/>
+<meta property="fb:app_id" content="402090853160810" />
+<script type="text/javascript">
+	// Namespace
+    var intel = {};
+</script>
+<script type="text/javascript" src="/sites/js/INTEL.js"> </script>
+<script type="text/javascript" src="/sites/sitewide/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/homepage/js/geocheck.js"></script>
+<link type="text/css" href="/homepage/css/intel-main.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway.css" />
+<link rel="shortcut icon" href="/sites/sitewide/pix/favicon.ico" />
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie7.css" />
+<![endif]-->
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie6.css" />
+	<script type="text/javascript" src="/homepage/js/unitpngfix.js"></script>
+    <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache", false, true);
+        } catch(err) {}
+    </script>
+<![endif]-->
+
+<style type="text/css">
+   #nav-c {visibility:hidden !important;}
+   #browser-notice {visibility:visible !important;}
+   #footerdiv {visibility:hidden}
+  .header-hide{visibility:hidden !important}
+  .header-show{visibility:visible !important}
+   #HAT-filtermenu-container div, #HAT-filtermenu-container iframe{display:none}
+</style>
+
+
+</head>
+<body>
+<script type="text/javascript">
+			document.body.className += ' has_js';
+		</script>
+<div id="main-c">
+  <!-- Nav -->
+  <div id="nav-c">
+    <div id="headerdiv" class="headerdiv">
+        <!--header-->
+
+        <!--#include virtual="/sites/sitewide/cs_CZ/inc/gh_gateway.inc"-->
+
+        <!--/header-->
+    </div>
+  </div>
+  <!-- End Nav -->
+  <div id="ggw">
+	<div id="ggw-background"></div>
+    <h2 id="banner"><span id="gfx"></span> <span id="bannertxt" aria-live="polite"></span></h2>
+   <!-- <div class="top-div"></div>-->
+    <div class="no-script">
+      <h2>Choose Your Location</h2>
+      <div class="no-script-list">
+        <!-- ideally this section would be generated server-side -->
+        <!-- until it is, please take care to keep it in sync with the XML list used for the Ajax version of the page -->
+        <!-- a (JavaScript) utility function has been included to facilitate the conversion -->
+        <!-- once server-side generation is enabled, however, the links should instead point _back_ to this page -->
+        <!-- but with the selected language loaded -->
+        <!-- ***************************************************** -->
+        <!-- Languages used for Global Gateway and the Change Location global asset are sync'd up. -->
+        <!-- Before changing any locale, region, or language, please contact the InSite mailbox with your proposal. -->
+        <!-- Changes to either change location or GG pages need to stay in sync. -->
+        <ul>
+          <li><a href
+--------------------------------------------------
+HOST: 192.198.165.22 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.219/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.36 PORT: 80
+message:
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+Content-Length: 5
+ETag: "-1675848843"
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: keep-alive
+
+Error
+--------------------------------------------------
+HOST: 192.198.165.52 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.78 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 01 Nov 2012 17:30:53 GMT
+Accept-Ranges: bytes
+ETag: "6cd5e4a456b8cd1:0"
+Server: Microsoft-IIS/8.5
+P3P: CP="CAO DSP COR CURa ADMa DEVa TAIa PSAa PSDa OUR STP ONL UNI COM NAV INT DEM STA PRE"
+X-Powered-By: ASP.NET
+Set-Cookie: AnonymousGuest=B130666B4C79426cA07EC3FF2215E64F254; expires=Fri 28-May-2021 23:59:00 GMT; path=/;
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 18238
+Vary: Accept-Encoding
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US">
+<head>
+<title>Laptop, Notebook, Desktop, Server and Embedded Processor Technology - Intel</title>
+<meta name = "description" content = "Intel, the world leader in silicon innovation, develops processor technologies and supports global initiatives to continually advance how people work and live."/>
+<meta name = "keywords" content = ""/>
+<meta name = "creator" content = "jvdewitt"/>
+<meta name = "date" content = "08-31-2009"/>
+<meta name = "robots" content = "index, follow" />
+<meta name = "language" content = "en_US"/>
+<meta http-equiv = "content-type" content = "text/html; charset=UTF-8"/>
+<meta property="fb:app_id" content="402090853160810" />
+<script type="text/javascript">
+	// Namespace
+    var intel = {};
+</script>
+<script type="text/javascript" src="/sites/js/INTEL.js"> </script>
+<script type="text/javascript" src="/sites/sitewide/js/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/homepage/js/geocheck.js"></script>
+<link type="text/css" href="/homepage/css/intel-main.css" rel="stylesheet"/>
+<link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway.css" />
+<link rel="shortcut icon" href="/sites/sitewide/pix/favicon.ico" />
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie7.css" />
+<![endif]-->
+
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="/homepage/css/global-gateway-ie6.css" />
+	<script type="text/javascript" src="/homepage/js/unitpngfix.js"></script>
+    <script type="text/javascript">
+        try {
+            document.execCommand("BackgroundImageCache", false, true);
+        } catch(err) {}
+    </script>
+<![endif]-->
+
+<style type="text/css">
+   #nav-c {visibility:hidden !important;}
+   #browser-notice {visibility:visible !important;}
+   #footerdiv {visibility:hidden}
+  .header-hide{visibility:hidden !important}
+  .header-show{visibility:visible !important}
+   #HAT-filtermenu-container div, #HAT-filtermenu-container iframe{display:none}
+</style>
+
+
+</head>
+<body>
+<script type="text/javascript">
+			document.body.className += ' has_js';
+		</script>
+<div id="main-c">
+  <!-- Nav -->
+  <div id="nav-c">
+    <div id="headerdiv" class="headerdiv">
+        <!--header-->
+
+        <!--#include virtual="/sites/sitewide/cs_CZ/inc/gh_gateway.inc"-->
+
+        <!--/header-->
+    </div>
+  </div>
+  <!-- End Nav -->
+  <div id="ggw">
+	<div id="ggw-background"></div>
+    <h2 id="banner"><span id="gfx"></span> <span id="bannertxt" aria-live="polite"></span></h2>
+   <!-- <div class="top-div"></div>-->
+    <div class="no-script">
+      <h2>Choose Your Location</h2>
+      <div class="no-script-list">
+        <!-- ideally this section would be generated server-side -->
+        <!-- until it is, please take care to keep it in sync with the XML list used for the Ajax version of the page -->
+        <!-- a (JavaScript) utility function has been included to facilitate the conversion -->
+        <!-- once server-side generation is enabled, however, the links should instead point _back_ to this page -->
+        <!-- but with the selected language loaded -->
+        <!-- ***************************************************** -->
+        <!-- Languages used for Global Gateway and the Change Location global asset are sync'd up. -->
+        <!-- Before changing any locale, region, or language, please contact the InSite mailbox with you
+--------------------------------------------------
+HOST: 192.198.165.79 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.241/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.87 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 309
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.165.95 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.165.96 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.245/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.125 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:07:59 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.165.138 PORT: 80
+message:
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Content-Length: 188
+
+<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 4845960237303889499</body></html>
+--------------------------------------------------
+HOST: 192.198.165.142 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.164.247/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.143 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 309
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.159 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.12/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.180 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Mon, 28 Sep 2015 21:38:49 GMT
+Accept-Ranges: bytes
+ETag: "e067b0f36fad01:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 1398
+Vary: Accept-Encoding
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Microsoft Internet Information Services 8</title>
+		
+		<style type="text/css">
+			body {
+				font-family: "Segoe UI", "Helvetica", "Arial", San-serif;
+				font-size: 13px;
+				margin: 0;
+				background: #fcfefe url(bkg-gry.jpg) no-repeat center top fixed;
+				-webkit-background-size: cover;
+        		-moz-background-size: cover;
+        		-o-background-size: cover;
+        		background-size: cover;		
+			}
+		
+			.page {
+				width: 740px;
+				margin: 0 auto;
+			}
+			
+			img {
+				border: none;
+			}
+			
+			a {
+				text-align: center;
+				display: block;
+				margin: 100px 0 0 0;
+			}
+			
+			#branding {
+				
+			}
+			
+			.hero {
+				margin-bottom: 100px;
+				clear: both;
+			}
+			
+			.brand {
+				float: left;
+			}
+			
+			.url {
+				float: right;
+				margin-top: 17px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="page">
+			<a href="http://go.microsoft.com/fwlink/?LinkID=209093" title="microsoft.com/web" >
+				<img src="iis-8.png" alt="Microsoft Internet Information Services 8.0" class="hero" />
+				<div id="branding">
+					<img src="ws8-brand.png" alt="Microsoft Windows Server" class="brand" />
+					<img src="msweb-brand.png" alt="Microsoft.com/Web" class="url"  />
+				</div>
+			</a>
+		</div>
+	</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.165.182 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:11:34 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.165.183 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 1208
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>500 - Internal server error.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>500 - Internal server error.</h2>
+  <h3>There is a problem with the resource you are looking for, and it cannot be displayed.</h3>
+ </fieldset></
+--------------------------------------------------
+HOST: 192.198.165.193 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.120/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.194 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.194 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.73/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.204 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 24 Oct 2014 22:55:58 GMT
+Accept-Ranges: bytes
+ETag: "326234adddefcf1:0"
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 309
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title></title>
+</head>
+<body>
+<p>LAR Apps 2</p>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.165.205 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.147/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.219 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.166/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.220 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.159/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.221 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.159/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.234 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Content-Length: 198
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL / was not found on this server.</p>
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.165.236 PORT: 80
+message:
+HTTP/1.1 401 Unauthorized
+Content-Type: text/html
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 1293
+Set-Cookie: BIGipServersharedspaces-http=218960394.20480.0000; expires=Mon, 09-Jan-2017 11:17:12 GMT; path=/
+Set-Cookie: TS016d4675=01c5f9c67cf263ec59ded1d788b6856053ead9685e512e840e98a0e4e96f7fceeb097cdd4dedaecaeee0a5cffbbd1eb8fffb760b4d; Path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>401 - Unauthorized: Access is denied due to invalid credentials.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>401 - Unauthorized: Access is denied due to invalid credentials.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.165.237 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.165.183:80/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 209
+Set-Cookie: BIGipServercqstaging-http=3640922634.20480.0000; expires=Mon, 09-Jan-2017 12:12:12 GMT; path=/
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.165.183:80/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.165.241 PORT: 80
+message:
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Pragma: no-cache
+Content-Length: 188
+
+<html><head><title>Request Rejected</title></head><body>The requested URL was rejected. Please consult with your administrator.<br><br>Your support ID is: 4845960237315408445</body></html>
+--------------------------------------------------
+HOST: 192.198.165.242 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.188/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.165.249 PORT: 80
+message:
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=UTF-8
+Location: https://gameplay.intel.com/
+Server: Microsoft-IIS/8.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:11 GMT
+Content-Length: 150
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://gameplay.intel.com/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.165.250 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/7.5
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 5444
+Set-Cookie: BIGipServerprd1virtualshow-http=3373077002.20480.0000; expires=Mon, 09-Jan-2017 11:32:13 GMT; path=/
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Object reference not set to an instance of an object.</title>
+        <meta name="viewport" content="width=device-width" />
+        <style>
+         body {font-family:"Verdana";font-weight:normal;font-size: .7em;color:black;} 
+         p {font-family:"Verdana";font-weight:normal;color:black;margin-top: -5px}
+         b {font-family:"Verdana";font-weight:bold;color:black;margin-top: -5px}
+         H1 { font-family:"Verdana";font-weight:normal;font-size:18pt;color:red }
+         H2 { font-family:"Verdana";font-weight:normal;font-size:14pt;color:maroon }
+         pre {font-family:"Consolas","Lucida Console",Monospace;font-size:11pt;margin:0;padding:0.5em;line-height:14pt}
+         .marker {font-weight: bold; color: black;text-decoration: none;}
+         .version {color: gray;}
+         .error {margin-bottom: 10px;}
+         .expandable { text-decoration:underline; font-weight:bold; color:navy; cursor:hand; }
+         @media screen and (max-width: 639px) {
+          pre { width: 440px; overflow: auto; white-space: pre-wrap; word-wrap: break-word; }
+         }
+         @media screen and (max-width: 479px) {
+          pre { wid
+--------------------------------------------------
+HOST: 192.198.166.10 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.11 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.191/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.21 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 23:09:42 GMT
+Accept-Ranges: bytes
+ETag: "5ab15ebad511d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.22 PORT: 80
+message:
+HTTP/1.1 200 OK
+Cache-Control: max-age=300
+Content-Type: text/html
+Last-Modified: Tue, 13 Dec 2011 18:42:34 GMT
+Accept-Ranges: bytes
+ETag: "146ad7fac6b9cc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.34 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.219/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.35 PORT: 80
+message:
+HTTP/1.1 200 OK
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Server: Apache
+Last-Modified: Wed, 26 Oct 2016 19:25:54 GMT
+ETag: "86006-155-53fc997f5d480"
+Accept-Ranges: bytes
+Content-Length: 341
+Content-Type: text/html
+
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+<title>Configurator</title>
+<meta name="robots" content="noindex, nofollow">
+</head>
+<body>
+<h1>Configurator for Intel<sup>&reg;</sup> OmniPath Fabric Products</h1>
+<p>
+Please contact your Intel representative if you wish to use this application.
+</body>
+</html>
+
+
+--------------------------------------------------
+HOST: 192.198.166.37 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.220/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.47 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.166.48 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: https://ittp.intel.com/
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 146
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://ittp.intel.com/">here</a></body>
+--------------------------------------------------
+HOST: 192.198.166.52 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.240/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.60 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.250/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.64 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.165.235/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.75 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 17 Aug 2011 08:44:40 GMT
+Accept-Ranges: bytes
+ETag: "5aeef0e6b95ccc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.166.93 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.10/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.98 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.22/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.103 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.22/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.105 PORT: 80
+message:
+HTTP/1.0 301 Moved Permanently
+Location: http://corpredirect.intel.com/Redirector/404Redirector.aspx?http://192.198.166.10:80/
+Server: BigIP
+Connection: close
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.110 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.52/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.118 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.59/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.122 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.66/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.122 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.22/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.122 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.22/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.131 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.75/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.135 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.64/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.140 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.64/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.143 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.166.152 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.64/irj/portal/IntelPremierSupportUser
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.169 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.64/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.182 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.166.206 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Aug 2013 21:25:38 GMT
+Accept-Ranges: bytes
+ETag: "1e20302435a4ce1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+Set-Cookie: BIGipServerprd1compdb-pres-http=!RGQ4q5PIQ0V7Pdz1vcPAUINn7OQ6nQdRlSPZlq5R+DNdPd/8WkrGFFY0vlmgSB3sfEYYD7CDB5ORbOM=; expires=Mon, 09-Jan-2017 11:32:13 GMT; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.209 PORT: 80
+message:
+HTTP/1.1 400 BAD REQUEST
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Server: Apache/2.4.12 (Win64) mod_wsgi/4.4.6 Python/3.4.2
+X-Frame-Options: SAMEORIGIN
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1a
+<h1>Bad Request (400)</h1>
+0
+
+
+--------------------------------------------------
+HOST: 192.198.166.210 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.93/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.166.241 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Sat, 20 Aug 2011 10:13:35 GMT
+Accept-Ranges: bytes
+ETag: "7cf094d2215fcc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:12 GMT
+Content-Length: 689
+Set-Cookie: BIGipServerdr-downloadcenter-http=541856266.20480.0000; expires=Mon, 09-Jan-2017 11:32:12 GMT; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.245 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Sat, 20 Aug 2011 10:13:35 GMT
+Accept-Ranges: bytes
+ETag: "7cf094d2215fcc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.166.251 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.131/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.16 PORT: 80
+message:
+HTTP/1.1 400 BAD REQUEST
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Server: Apache/2.4.12 (Win64) mod_wsgi/4.4.6 Python/3.4.2
+X-Frame-Options: SAMEORIGIN
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+1a
+<h1>Bad Request (400)</h1>
+0
+
+
+--------------------------------------------------
+HOST: 192.198.167.19 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+Server: Microsoft-IIS/8.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 1208
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>500 - Internal server error.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>500 - Internal server error.</h2>
+  <h3>There is a problem with the resource you are looking for, and it cannot be displayed.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.167.28 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.210/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.29 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.181/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.41 PORT: 80
+message:
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 8218
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>OData.intel.com</title>
+
+    <link rel="stylesheet" type="text/css" href="/Content/styles/jquery-ui-1.10.1.custom.min.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/styles/jquery-ui-1.10.1.custom.overrides.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/styles/cpc-styles.css?v=1.0.0.0" id="ark-main-styles" />  
+    <link rel="stylesheet" type="text/css" href="/Content/styles/odata-styles.css?v=1.0.0.0" id="ark-main-styles" />
+    <link rel="stylesheet" type="text/css" href="/Content/styles/not-ie8-styles.css" id="not-ie8-styles" />
+
+	<link rel="shortcut icon" href="/sites/sitewide/pix/favicon.ico" />
+
+    <!--[if lte IE 9]>
+        <script src="/Content/Scripts/jquery-1.11.1.min.js" type="text/javascript"></script>
+    <![endif]-->
+    <!--[if !IE]><!-->
+        <script src="/Content/Scripts/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <!-- <![endif]-->
+
+    <script src="/Content/Scripts/jquery-ui.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+    <div id="grid-03-shb" class="main-outer" style="width:1003px;">
+        <span class="main-left" style="width:10px;"></span>
+
+        <div class="main-center" style="width:983px;">
+            <div id="headerInc">
+                <!--header--> 
+<!--GAATversion='50recode' date='08/04/2013 15:20:16' version='95':CharacterEncoding:utf8bom--> 
+<script type="text/javascript" src="http://www.intel.com/sites/js/INTEL.js"> </script> 
+<script type="text/javascript">
+/*<![CDATA[*/  
+document.write('<style type="text/css">#recode50header {height:91px;visibility:hidden;}#smallfootprint-header,#smallfootprint-footer {display:none !important}</style>');
+INTELNAV = window.INTELNAV || {};
+INTELNAV.renderSettings={pageWidth:"w1024",renderMode:"standards",textDirection:"ltr",protocol:"http",culture:"en_US",assetPathRoot:"http://www.intel.com",buildType:"html",OutputId:"gh_products"};
+/*]]>*/</script> 
+<div id="smallfootprint-header"><a class="gaat40-logo" title="Logo - Intel" href="http://www.intel.com/content/www/us/en/homepage.html"><img src="http://www.intel.com/sites/sitewide/HAT/50recode/pix/main-logo.png" height="50" width="77" alt="Logo - Intel" /></a><form method="get" id="user-bar-searchbox-form" name="user-bar-searchbox-form" action="http://search.intel.com/default.aspx"><fieldset><legend></legend><label for="input-search">Search</label><input type="text" id="input-search" name="q" /><input type="hidden" id="input-market" name="c" value="en_US" /><input type="hidden" id="input-method" name="method" value="text" /><input type="submit" id="input-submit" name="input-submit" value="Search" /></fieldset></form></div> 
+<div id="recode50header"> </div> 
+<script type="text/javascript" src="http://www.intel.com/sites/sitewide/HAT/50recode/js/headerChooser.js"> </script> 
+<!--/header-->
+            </div>
+            <div class="mod-breadcrumb">
+                <ul>
+                    <li>
+                        <a href="/">OData Home</a>
+                    </li>
+                </ul>
+            </div>
+
+            
+
+<div class="main-inner mainMarquee">
+    <div class="con con-nck" style="margin-bottom: -157px;">
+        <div class="mod-brand-stage home-stage">
+            <div class="info-bucket">
+                <h1>
+                    <span>
+                        <img src="/Content/images/marquees/txt-intel-odata-web-api.png" 
+                                alt="OData.intel.com" title="OData.intel.com" />
+                    </span>
+                </h1>
+                <p style="color:White; ">
+                    Your source for
+--------------------------------------------------
+HOST: 192.198.167.42 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 04 Jun 2010 01:34:26 GMT
+Accept-Ranges: bytes
+ETag: "44187111863cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.167.44 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 04 Jun 2010 01:34:26 GMT
+Accept-Ranges: bytes
+ETag: "44187111863cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.167.45 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.241/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.46 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.245/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.56 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.13/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.57 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Content-Type: text/html
+Server: Microsoft-IIS/8.0
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 75
+
+The page cannot be displayed because an internal server error has occurred.
+--------------------------------------------------
+HOST: 192.198.167.74 PORT: 80
+message:
+HTTP/1.1 403 Forbidden
+Content-Length: 1409
+Content-Type: text/html
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>The page must be viewed over a secure channel</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=Windows-1252">
+<STYLE type="text/css">
+  BODY { font: 8pt/12pt verdana }
+  H1 { font: 13pt/15pt verdana }
+  H2 { font: 8pt/12pt verdana }
+  A:link { color: red }
+  A:visited { color: maroon }
+</STYLE>
+</HEAD><BODY><TABLE width=500 border=0 cellspacing=10><TR><TD>
+
+<h1>The page must be viewed over a secure channel</h1>
+The page you are trying to access is secured with Secure Sockets Layer (SSL).
+<hr>
+<p>Please try the following:</p>
+<ul>
+<li>Type <b>https://</b> at the beginning of the address you are attempting to reach and press ENTER.</li>
+</ul>
+<h2>HTTP Error 403.4 - Forbidden: SSL is required to view this resource.<br>Internet Information Services (IIS)</h2>
+<hr>
+<p>Technical Information (for support personnel)</p>
+<ul>
+<li>Go to <a href="http://go.microsoft.com/fwlink/?linkid=8180">Microsoft Product Support Services</a> and perform a title search for the words <b>HTTP</b> and <b>403</b>.</li>
+<li>Open <b>IIS Help</b>, which is accessible in IIS Manager (inetmgr),
+ and search for topics titled <b>About Security</b>, <b>Secure Sockets Layer (SSL)</b>, and <b>About Custom Error Messages</b>.</li>
+</ul>
+
+</TD></TR></TABLE></BODY></HTML>
+HTTP/1.1 400 Bad Request
+Content-Type: text/html
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Connection: close
+Content-Length: 35
+
+<h1>Bad Request (Invalid Verb)</h1>
+--------------------------------------------------
+HOST: 192.198.167.74 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.13/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.85 PORT: 80
+message:
+HTTP/1.1 302 Redirect
+Content-Type: text/html; charset=UTF-8
+Location: https://sssopreprod.intel.com/CustomError/Default/10403
+X-Powered-By: ASP.NET
+X-Node: FM01
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 178
+
+<head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://sssopreprod.intel.com/CustomError/Default/10403">here</a></body>
+--------------------------------------------------
+HOST: 192.198.167.86 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jun 2010 05:38:23 GMT
+Accept-Ranges: bytes
+ETag: "d6d2acfbde2cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.167.92 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.13/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.97 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 28 Oct 2015 22:53:58 GMT
+Accept-Ranges: bytes
+ETag: "77afb687d311d11:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 701
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS Windows Server</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#0072C6;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="iis-85.png" alt="IIS" width="960" height="600" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.167.117 PORT: 80
+message:
+HTTP/1.1 401 Unauthorized
+Content-Type: text/html
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 1293
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>401 - Unauthorized: Access is denied due to invalid credentials.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>401 - Unauthorized: Access is denied due to invalid credentials.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.167.121 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.35/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.123 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.17/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.126 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.35/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.129 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.42/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.139 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.17/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.139 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.17/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.172 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.42/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.173 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.44/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.174 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.167.175 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Location: https://192.198.167.13
+Content-Length: 206
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://192.198.167.13">here</a>.</p>
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.167.176 PORT: 80
+message:
+HTTP/1.1 403 Forbidden
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.177 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.117/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.188 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jun 2010 05:38:23 GMT
+Accept-Ranges: bytes
+ETag: "d6d2acfbde2cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.167.189 PORT: 80
+message:
+HTTP/1.1 302 HTTP/1.1 302 Object Moved
+Cache-Control: no-store
+Content-Length: 0
+Location: https://signinpp.intel.com/?appid=1&TYPE=33554433&REALMOID=06-35cddd57-aeed-4db4-8739-1933b2e52db1&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=$SM$yDDfMWb3qbo7ngpy2XgwiF4S6KXgzc0%2bDL%2f7LAD5bWGubhof8aoymgm%2brExEp0%2bq&TARGET=$SM$http%3a%2f%2ftst1kratos%2ecps%2eintel%2ecom%3a80%2f
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+
+
+--------------------------------------------------
+HOST: 192.198.167.192 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.126/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.204 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.129/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.216 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.176/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.167.230 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Tue, 16 Jun 2015 05:00:38 GMT
+Accept-Ranges: bytes
+ETag: "05fc862f1a7d01:0"
+Server: Microsoft-IIS/8.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 1398
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Microsoft Internet Information Services 8</title>
+		
+		<style type="text/css">
+			body {
+				font-family: "Segoe UI", "Helvetica", "Arial", San-serif;
+				font-size: 13px;
+				margin: 0;
+				background: #fcfefe url(bkg-gry.jpg) no-repeat center top fixed;
+				-webkit-background-size: cover;
+        		-moz-background-size: cover;
+        		-o-background-size: cover;
+        		background-size: cover;		
+			}
+		
+			.page {
+				width: 740px;
+				margin: 0 auto;
+			}
+			
+			img {
+				border: none;
+			}
+			
+			a {
+				text-align: center;
+				display: block;
+				margin: 100px 0 0 0;
+			}
+			
+			#branding {
+				
+			}
+			
+			.hero {
+				margin-bottom: 100px;
+				clear: both;
+			}
+			
+			.brand {
+				float: left;
+			}
+			
+			.url {
+				float: right;
+				margin-top: 17px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="page">
+			<a href="http://go.microsoft.com/fwlink/?LinkID=209093" title="microsoft.com/web" >
+				<img src="iis-8.png" alt="Microsoft Internet Information Services 8.0" class="hero" />
+				<div id="branding">
+					<img src="ws8-brand.png" alt="Microsoft Windows Server" class="brand" />
+					<img src="msweb-brand.png" alt="Microsoft.com/Web" class="url"  />
+				</div>
+			</a>
+		</div>
+	</body>
+</html>
+HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.167.253 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.176/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.180.97 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.175/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.180.200 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 20 Apr 2011 12:45:05 GMT
+Accept-Ranges: bytes
+ETag: "d6bf41c658ffcb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.184.54 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jun 2010 05:38:23 GMT
+Accept-Ranges: bytes
+ETag: "d6d2acfbde2cb1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.184.106 PORT: 80
+message:
+HTTP/1.1 400 BAD REQUEST
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+X-Frame-Options: SAMEORIGIN
+Connection: close
+Content-Type: text/html
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+1a
+<h1>Bad Request (400)</h1>
+0
+
+
+--------------------------------------------------
+HOST: 192.198.192.28 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Connection: close
+Content-Length: 315
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.192.29 PORT: 80
+message:
+HTTP/1.1 302 Object Moved
+Cache-control: no-store
+Location: https://signinpp.intel.com/?TYPE=33554433&REALMOID=06-8ab4d4e4-2aee-4100-9c8f-89ca0ee1dde9&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=2pvY8wEavClSQNUIk26cfKVUdsR6zHObwTjL9F97yQFPIprRFK5F4y1qkjES1doT&TARGET=$SM$http%3a%2f%2fefttest-stress6%2ecps%2eintel%2ecom%3a80%2f
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.192.30 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jan 2013 19:05:18 GMT
+Accept-Ranges: bytes
+ETag: "533cb145e5e9cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:11:55 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:11:55 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.192.66 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Fri, 04 Jan 2013 15:40:51 GMT
+Accept-Ranges: bytes
+ETag: "5ce153e091eacd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:13:02 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:13:02 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.192.67 PORT: 80
+message:
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+X-Powered-By: ASP.NET
+X-Hostname: tst1idz2w01
+Date: Mon, 09 Jan 2017 11:12:52 GMT
+Content-Length: 1233
+Vary: Accept-Encoding
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>403 - Forbidden: Access is denied.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>403 - Forbidden: Access is denied.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.192.68 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jan 2013 18:59:14 GMT
+Accept-Ranges: bytes
+ETag: "b7137a6ce4e9cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:02 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:02 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.192.69 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.204/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.192.210 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.167.215/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.192.211 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jan 2013 19:29:28 GMT
+Accept-Ranges: bytes
+ETag: "477ada5e8e9cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:05 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:05 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.192.213 PORT: 80
+message:
+HTTP/1.1 403 Forbidden
+Content-Type: text/html
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 1233
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>403 - Forbidden: Access is denied.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>403 - Forbidden: Access is denied.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+
+--------------------------------------------------
+HOST: 192.198.192.214 PORT: 80
+message:
+HTTP/1.1 302 Found
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Server: Apache
+Location: https://192.198.167.253:80/
+Content-Length: 211
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="https://192.198.167.253:80/">here</a>.</p>
+</body></html>
+HTTP/1.1 400 Bad Request
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Server: Apache
+Content-Length: 226
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>400 Bad Request</title>
+</head><body>
+<h1>Bad Request</h1>
+<p>Your browser sent a request that this server could not understand.<br />
+</p>
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.193.2 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jan 2013 19:11:31 GMT
+Accept-Ranges: bytes
+ETag: "cbe9f023e6e9cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>HTTP/1.1 400 Bad Request
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Connection: close
+Content-Length: 326
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Bad Request</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Bad Request - Invalid Verb</h2>
+<hr><p>HTTP Error 400. The request verb is invalid.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.193.2 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.166.75/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.193.4 PORT: 80
+message:
+HTTP/1.1 500 Internal Server Error
+Server: Microsoft-IIS
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-type: text/html
+
+<HEAD><TITLE>500: Server Error [00-0016]</TITLE></HEAD>
+<BODY>
+<H1>500: Server Error [00-0016]<H1>
+
+</BODY>
+</HTML>
+
+
+--------------------------------------------------
+HOST: 192.198.193.5 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 03 Aug 2011 03:54:59 GMT
+Accept-Ranges: bytes
+ETag: "fe4a841d9151cc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 689
+Set-Cookie: BIGipServertst1psirtws-http=901649162.20480.0000; expires=Mon, 09-Jan-2017 11:32:14 GMT; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.193.6 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.180.97/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.193.7 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.180.97/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.193.8 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Thu, 03 Jan 2013 19:21:28 GMT
+Accept-Ranges: bytes
+ETag: "6089d487e7e9cd1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Length: 689
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.193.9 PORT: 80
+message:
+HTTP/1.0 302 Found
+Location: https://192.198.192.30/irj/portal/IntelPremierSupportUser
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+
+--------------------------------------------------
+HOST: 192.198.193.10 PORT: 80
+message:
+HTTP/1.1 200 OK
+Content-Type: text/html
+Last-Modified: Wed, 17 Aug 2011 07:49:18 GMT
+Accept-Ranges: bytes
+ETag: "e03502bb25ccc1:0"
+Server: Microsoft-IIS/7.5
+X-Powered-By: ASP.NET
+Date: Mon, 09 Jan 2017 11:12:13 GMT
+Content-Length: 689
+Set-Cookie: BIGipServerprd1servsvcsws-http=1862865418.20480.0000; expires=Mon, 09-Jan-2017 11:32:13 GMT; path=/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>IIS7</title>
+<style type="text/css">
+<!--
+body {
+	color:#000000;
+	background-color:#B3B3B3;
+	margin:0;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	}
+
+a img {
+	border:none;
+}
+
+-->
+</style>
+</head>
+<body>
+<div id="container">
+<a href="http://go.microsoft.com/fwlink/?linkid=66138&amp;clcid=0x409"><img src="welcome.png" alt="IIS7" width="571" height="411" /></a>
+</div>
+</body>
+</html>
+--------------------------------------------------
+HOST: 192.198.193.11 PORT: 80
+message:
+HTTP/1.0 503 Service Unavailable
+Cache-Control: no-cache
+Connection: close
+Content-Type: text/html
+
+<html><body><h1>503 Service Unavailable</h1>
+No server is available to handle this request.
+</body></html>
+
+--------------------------------------------------
+HOST: 192.198.193.12 PORT: 80
+message:
+HTTP/1.1 404 Not Found
+Content-Type: text/html; charset=us-ascii
+Server: Microsoft-HTTPAPI/2.0
+Date: Mon, 09 Jan 2017 11:12:02 GMT
+Connection: close
+Content-Length: 315
+Set-Cookie: BIGipServertst1psirtw-http=700257034.20480.0000; expires=Mon, 09-Jan-2017 11:32:14 GMT; path=/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<HTML><HEAD><TITLE>Not Found</TITLE>
+<META HTTP-EQUIV="Content-Type" Content="text/html; charset=us-ascii"></HEAD>
+<BODY><h2>Not Found</h2>
+<hr><p>HTTP Error 404. The requested resource is not found.</p>
+</BODY></HTML>
+
+--------------------------------------------------
+HOST: 192.198.193.14 PORT: 80
+message:
+HTTP/1.1 401 Impact 360 authentication failed - no windowsAuthUsername
+Server: nginx/1.6.2
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Type: text/html
+Content-Length: 1293
+Connection: keep-alive
+WWW-Authenticate: Negotiate
+WWW-Authenticate: NTLM
+X-Powered-By: ASP.NET
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<title>401 - Unauthorized: Access is denied due to invalid credentials.</title>
+<style type="text/css">
+<!--
+body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}
+fieldset{padding:0 15px 10px 15px;} 
+h1{font-size:2.4em;margin:0;color:#FFF;}
+h2{font-size:1.7em;margin:0;color:#CC0000;} 
+h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;} 
+#header{width:96%;margin:0 0 0 0;padding:6px 2% 6px 2%;font-family:"trebuchet MS", Verdana, sans-serif;color:#FFF;
+background-color:#555555;}
+#content{margin:0 0 0 2%;position:relative;}
+.content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}
+-->
+</style>
+</head>
+<body>
+<div id="header"><h1>Server Error</h1></div>
+<div id="content">
+ <div class="content-container"><fieldset>
+  <h2>401 - Unauthorized: Access is denied due to invalid credentials.</h2>
+  <h3>You do not have permission to view this directory or page using the credentials that you supplied.</h3>
+ </fieldset></div>
+</div>
+</body>
+</html>
+HTTP/1.1 400 Bad Request
+Server: nginx/1.6.2
+Date: Mon, 09 Jan 2017 11:12:14 GMT
+Content-Type: text/html
+Content-Length: 172
+Connection: close
+
+<html>
+<head><title>400 Bad Request</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<hr><center>nginx/1.6.2</center>
+</body>
+</html>
+

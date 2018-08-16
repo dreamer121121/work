@@ -1,0 +1,117 @@
+20101108	[Canvas] Agora 1.21. point release	1.21 point release with bugfixes and modules is available for download.\
+Two modules for SCADA systems and two web exploits this time.\
+While one SCADA module is unpatched in current official version, the\
+other is patchable, but we think is still usefull.\
+\
+The exact list by now:\
+- Invensys Wonderware InFusion SCADA (and other products) Ax exploit.\
+- DATAC RealWin SCADA 1.06 Buffer Overflow Exploit. unpatched as of\
+07.11.2010\
+- DNET Live-Stats 0.8 Local File Inclusion. unpatched as of 07.11.2010\
+- OvBB v0.16a Local File Inclusion. unpatched as of 07.11.2010	Joel Langill	http://scadahacker.blogspot.com/2010/11/canvas-agora-121-point-release.html
+20101105	Stuxnet Under the Microsoft	By now, everyone has read the detailed report written by Symantec entitled "Win32.Stuxnet Dossier".  ESET.com has published an UPDATE (ver 1.2) to what appears to be an equally detailed report that takes a look at the well-crafted worm from a different perspective.  This is a document well worth reading, and can be downloaded by clicking here. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/stuxnet-under-microsoft.html
+20101028	ICSJWG Wraps Up in Seattle	The Industrial Control System Joint Working Group (ICSJWG) fall conference hosted by the U.S. Department of Homeland Security's Control System Security Program (CSSP) has just wrapped up in Seattle.  If you were not fortunate enough to attend, you missed out on an incredible opportunity to meet and network with most of the leaders within the cyber security community from leading vendors, academia, research firms, and government entities.  However, you can still view all of the presentations delivered at the conference at the ICSJWG website (http://www.us-cert.gov/control_systems/icsjwg/index.html).  In addition to making all of this year's presentations available for download, you can also view presentations from previous conferences as well.\
+\
+On Wednesday, I presented a solution on Defense-in-Depth Strategies for Open, Remote Access to Control System Networks.  You can view this presentation by clicking here or visiting the "My Resources" section below.\
+\
+While visiting this website, be sure to jump over to the section "Standards & References" for one of the most comprehensive repositories of best practices, recommended solutions, guidelines, guidance documents, and technical reports.	Joel Langill	http://scadahacker.blogspot.com/2010/10/icsjwg-completes-in-seattle.html
+20101027	Welcome to SCADAhacker	I would like to welcome you all to the launch of the SCADAhacker blog.  I have been very active helping to educate users and integrators on cyber security for industrial automation and control systems over the past few years, and feel that it is time to begin to consolidate my personal collection of information.  I also would like to share my thoughts and views relating to industrial security from a unique perspective.  If you want to secure your systems, you need to stop thinking like an engineering and begin to "Think like a hacker!".  I hope you find this site both informative and relevant.  	Joel Langill	http://scadahacker.blogspot.com/2010/10/welcome-to
+20101119	Cyber Security Standard Published to Protect Global Critical Infrastructure	The International Instrument Users Association (WIB), an international organization that represents global manufacturers in the industrial automation industry, announced the second version of the Process Control Domain Security Requirements For Vendors document – the first international standard that outlines a set of specific requirements focusing on cyber security best practices for suppliers of industrial automation and control systems.  View the updated standard by clicking here or viewing it from the reference links at the bottom of this page under "Recommended Reading". 	Joel Langill	http://scadahacker.blogspot.com/2010/11/cyber-security-standard-published-to.html
+20101119	Symantec Continues to Undercover the Secrets of Stuxnet	Symantec has released version 1.3 of their document entitled "W32.Stuxnet Dossier" available by clicking here, which provides additional details on how it not only targets specific controllers within the Siemens PCS7 control system (S7-315 or S7-417 CPUs with CP-342 Profibus modules), but also two specific variable frequency drives manufactured by Fararo Paya (Tehran, Iran) and Vacon (Finland).  The more that is discovered about Stuxnet, the more it demonstrates the sophistication of its developers and the targeted nature of the attack. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/symantec-continues-to-undercover.html
+20101105	SCADA Security Certification	Are you considering a certification plan focused on the unique aspects of industrial control systems, including SCADA and DCS???  Consider the Certified SCADA Security Architect certification offered by IACRB.  I am the instructor for this course offered by InfoSec Institute.  Courses are regularly offered in Washington D.C., Chicago and Las Vegas.  Check it out. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/scada-security-certification.html
+20101028	Analysis: Cyber defenders, attackers probe Stuxnet's secrets	View the article published this morning by Reuters	Joel Langill	http://scadahacker.blogspot.com/2010/10/icsjwg-completes-in-seattle.html
+20101122	BackTrack 4 R2 Now Available for Download	For those involved in assessments and penetration testing, BackTrack is one of the essential tools in the box.  Offensive Security has recently released R2 with an updated kernel and several new enhancments.  You can download by clicking here. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/backtrack-4-r2-now-available-for.html
+20101122	Presentations Now Available from Fall ICSJWG Seattle Conference	The presentations from the Fall Conference of the U.S. Dept. of Homeland Security's (DHS) Industrial Control System Joint Working Group (ICSJWG) are now available by clicking here. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/presentations-now-available-from-fall.html
+20101129	A Search Engine to Find Vulnerable Control Systems	If you have not had a chance to take a look at Shodan, I would suggest that you do so in short order.  Most hackers have been using Google Hacks for some time to find specific sites based on banner information.  As reported in a ICS-CERT Alert released on October 28 (ICS-Alert-10-301-01), independent security researchers employ the SHODAN search engine to discover Internet facing SCADA systems using potentially insecure mechanisms for authentication and authorization.  In most cases, the affected control system interfaces were designed to provide remote access for monitoring system status and/or certain asset management features. \
+\
+This again demonstrates why asset-owners need to re-evaluate and implement improved defense-in-depth strategies when providing remote access to trusted control system networks to not only prevent authorized access, but provide notification when a breach occurs and minimize the negative consequences of such a break.  I presented one such solution at the recent ICSJWG conference in Seattle (click here to view the presentation).\
+\
+These vulnerable systems have been found to be readily accessible from the Internet and with tools, such as SHODAN, the resources required to identify them has been greatly reduced.  In addition to the increased risk of account brute forcing from having these systems available on the Internet, some of the identify systems continue to use default user names and passwords and/or common vendor accounts for remote access into these systems. These default/common accounts can in many cases be easily found in online documentation and/or online default password repositories, such as those presented at this site. 	Joel Langill	http://scadahacker.blogspot.com/2010/11/search-engine-to-find-vulnerable.html
+20101202	November issue of Hakin9: Botnets, Malware, Spyware |	Click here to view the November issue.\
+\
+Hakin9 has released their November Free Issue of Hakin9 Magazine. This month the magazine has articles focused in Botnets, Malwares and Spywares.\
+Here is a briefing of what you can find in it:\
+\
+    A brief analysis of the cyber security threat by Julian Evans\
+    Cyber State-Bullying by Matthew Jonkman\
+    The Spyware Within You by Rajat Khare\
+    The Ear of Sauron by John Aycock\
+    dasbot: controlling IRC via bash by Israel Torres\
+    Knowing VoIP Part II – Getting deeper to the settings by Winston Santos\
+    TDSS botnet – full disclosure. Part II by Andrey Rassokhin and Dmitry Oleksyuk\
+    Search Engine Security and Privacy – Part 2 by Rebecca Wynn	Joel Langill	http://scadahacker.blogspot.com/2010/12/november-issue-of-hakin9-botnets.html
+20101206	Langer's "Controller Integrity Checker" for Siemens S7	This is an interesting article and product from Roger Langer that talks of a mitigation tool for post-Stuxnet malware and potential vulnerability exploits.  Read the full article by clicking here.  This continues to stress the need to a thorough review of all security risks within a facility, and the development of a comprehensive security program that offers a solid defense-in-depth strategy to offer three primary goals:\
+\
+    Mitigate the attack entirely, if possible, including timely detection of the attack\
+    Contain the attack, and minimize the negative consequences associated with the attack\
+    Provide sufficient forensic data to investigate the attack and adjust the DiD program to prevent future atta	Joel Langill	http://scadahacker.blogspot.com/2010/12/langers-controller-integrity-checker.html
+20101207	Comparing Software Vulnerabilities	A key component in any control system security program is a complete analysis of all client-side applications covering not only the base operating system, but also the often necessary add-ons.  Security vulnerability management firm Secunia just announced the availability of security "factsheets".  Click here to read the press release, or click here to go directly to the factsheet site.\
+\
+As always, it is important to address all client-side applications that exist on any control system node (server, HMI, historian, application/batch, etc.) and make sure that they are properly patched.  This requires a conscience look at how to manage updates outside the traditional "Windows Update" or WSUS arena. 	Joel Langill	http://scadahacker.blogspot.com/2010/12/comparing-software-vulnerabilities.html
+20101210	Database of Industrial Cyber Security Incidents	I just obtained some hot news from AutomationWorld.com ...\
+\
+"For a limited time,” says a recent announcement from the non-profit organization, the SIO is offering a 25 percent discount on all new RISI memberships and membership renewals. What’s more, if you sign up now, your company will also receive a newly released RISI report providing a study of more than 50 control system incidents caused by malware such as viruses, Trojans and worms.\
+\
+What’s RISI? It is the Repository of Industrial Security Incidents, a member-supported database of industrial control-system cyber-security incidents that is billed as the largest known database of its kind. Its purpose is to collect, investigate, analyze and share important industrial security incidents among member companies so that they can learn from the experiences of others. RISI includes accidental cyber-related incidents, as well as deliberate events that have resulted in loss of control, loss of production or a process safety incident.\
+\
+Read the entire new article by clicking here. 	Joel Langill	http://scadahacker.blogspot.com/2010/12/database-of-industrial-cyber-security.html
+20101215	Final Stuxnet EoP Vulnerability Patched on Tuesday as MS10-092	It has been almost five months since Stuxnet was discovered in July of this year. However, the intricacies of this highly sophisticated worm have challenged the best minds in security research. This week on "Patch Tuesday", Microsoft released a record 17 patches to address 40 vulnerabilities. You can view the Microsoft Security Bulletin Summary for December 2010 by clicking here.\
+\
+For those of you interested, the exploit code for the Task Scheduler EoP 0-day was made available on November 20. You can review this code by clicking here.\
+\
+Interesting enough, this is the third time this year that Microsoft has set a record for closing vulnerabilities on Patch Tuesday. On a year-over-year basis, Microsoft closed out 2010 issuing 106 bulletins, compared with 74 in 2009, 78 in 2008. However, what is more interesting is that in these 106 bulletins, Microsoft has patched 261 vulnerabilities compared to 170 in 2009. This data, as published in Information Week confirms the growing trend in both number and complexity of the exploits released (and discovered!). 	Joel Langill	http://scadahacker.blogspot.com/2010/12/final-stuxnet-eop-vulnerability-patched.html
+20101217	Metasploit releases Framework 3.5.1	Any ethical hacker realizes the importance of the Metasploit Framework.  The features and functions available facilitate simple to advanced system exploitation invaluable to comprehensive assessments and pen tests.  On December 15, Rapid 7 released an updated Framework 3.5.1.  You can view the Release Notes by clicking here.  This update includes 47 new modules since the last point release, bringing the total to 635 exploit modules.\
+\
+What is worthy of mention in a SCADA blog is the inclusion of some new control system related exploits.  Specifically addressed in 3.5.1:\
+\
+    MOXA MediaDPPlayback ActiveX Control Buffer Overview\
+    MOXA Device Manager Tool 2.1 Buffer Overview\
+    BACnet OPC Client Buffer Overflow\
+    CitectSCADA/CitectFacilities ODBC Buffer Overview\
+    DATAC RealWin SCADA Server SCPC_TXTEVENT Buffer Overflow\
+\
+This adds to some of the SCADA modules that are already included in previous updates, specifically the following modules which be used to exploit various aspects of the Stuxnet worm:\
+\
+    MS10-046: Shortcut LNK vulnerability used to install Stuxnet\
+    MS10-061: Print Spooler vulnerability used to propagate and replicate Stuxnet\
+    MS08-067: SMB vulnerability used to propagate and replicate Stuxnet\
+\
+If you want access to the 2 other Stuxnet exploits (MS10-073 and 092), consider using Immunity's CANVAS product.  These exploit modules were released October 5 (well in advance of the security patches!).\
+\
+Of course, always remember to update your local Metasploit database by running "svnupdate" or "msfupdate" depending on your version. 	Joel Langill	http://scadahacker.blogspot.com/2010/12/metasploit-releases-framework-351.html
+20101221	FCC Approves Plan to Regulate Internet	Today, this change seems harmless, but it could be the beginning of a new round of legislation and associated governmental control that could impact how we use our broadband resources.  This needs to be considered as we review current communications required for wide-area SCADA systems.\
+The rules would prohibit phone and cable companies from abusing their control over broadband connections to discriminate against rival content or services, such as Internet phone calls or online video, or play favorites with Web traffic.\
+Read more: http://www.foxnews.com/politics/2010/12/21/fcc-poised-pass-network-neutrality-rules/#ixzz18n9TuxYJ	Joel Langill	http://scadahacker.blogspot.com/2010/12/odva-announces-new-editions-of-cip.html
+20101221	ODVA Announces New Editions of CIP Network Specifications	The ODVA has recently released updates to their specifications for EtherNet/IP, DeviceNet, CompoNet and ControlNet technologies, and the CIP Safety extension to the EtherNet/IP and DeviceNet networks. This release provides 44 enhancements to the specifications, including the additional of "quick-connect" functionality and the CIP safety extension to Ethernet/IP and DeviceNet.\
+\
+As with most ICS protocols, there is little in terms of security, and this is no different with the ODVA protocols.  In general, ICS protocols lack appropriate authentication between data users and data owners.  Even if authentication is provided, there is little in the way of preventing session hijacking from occurring between authenticated sources due to the inability of most ICS devices to support embedded, on-board encryption (aka tunnels).  This means that a sound SCADA design needs to begin with a thoroughly documented architecture diagram highlighting various control zones and communication conduits, and then provide sufficient compensating controls within the zones and conduits to mitigate the likelihood of a successful attack.\
+\
+For additional information, you can view the ODVA announcement by clicking here. 	Joel Langill	http://scadahacker.blogspot.com/2010/12/fcc-approves-plan-to-regulate-internet.html
+20111130	Hackers accessed city infrastructure via SCADA	The deputy assistant director of the FBI's Cyber Division says hackers recently accessed the infrastructure of three cities through SCADA systems\
+\
+Hackers recently accessed the critical infrastructure of three unnamed cities by compromising their SCADA (supervisory control and data acquisition) systems, the deputy assistant director of the FBI's Cyber Division said today.\
+\
+Speaking at the Flemings Cyber Security conference in London, Michael Welch said the hackers could theoretically have dumped sewage into a lake or shut off the power to a shopping mall.\
+\
+"We just had a circumstance where we had three cities, one of them a major city within the US, where you had several hackers that had made their way into SCADA systems within the city," Welch said.\
+The attack "was sort of a tease to law enforcement and the local city administration, saying 'I’m here, what are you going to do about it," he said. "Essentially it was an ego trip for the hacker because he had control of that city’s systems and he could dump raw sewage into the lake, he could shut down the power plant at the mall – a wide array of things."\
+\
+Welch would not clarify whether the attacks in question realated to a reported SCADA attack on a water facility in Springfield, Illinois. On Wednesday, the Department of Homeland Security denied that there was any hacking involved in the failure of a water pump at the Springfield facility.\
+\
+Cyber security is "a huge growth factor" for the FBI, says Welch. He expects the bureau's Cyber Division to double in size during the next 12 to 18 months.\
+\
+"A big part of what we do is private sector liaison," he said. "At no time in our history have we had to stretch the definition of what constitutes crime more than we do now."\
+\
+Additional References:\
+InfoSec Island	Joel Langill	http://scadahacker.blogspot.com/2011/11/hackers-accessed-city-infrastructure.html
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N
+\N	\N	\N	\N	\N

@@ -1,0 +1,136 @@
+{
+    "properties" : {
+        "INDEX"     : "String",
+        "name"      : "String",
+        "province"  : "String",
+        "country"   : "String",
+        "info"      : "String",
+        "srcPort"   : "Integer",
+        "dstPort"   : "Integer",
+        "time"      : "String",
+        "returnValue" : "String",
+        "hash"      : "String",
+        "packages"  : "String",
+        "bytes"     : "String",
+        "tcpFlag"   : "String",
+        "transProto" : "String",
+        "DSI"       : "String",
+        "DSU"       : "String",
+        "DNSServer" : "String",
+        "reqDomain" : "String",
+        "reqType"   : "String",
+        "reqCount"  : "String",
+        "direct"    : "String",
+        "respFlag"  : "String",
+        "respVal"   : "String",
+        "RPReqType" : "String",
+        "RSIP"      : "String",
+        "TTL"       : "String",
+        "SR"        : "String"
+    },
+	"vertices":[
+		{	"type":"ip",
+			"properties":[
+				"name", "province", "country"
+			]
+		},
+		{	"type":"department",
+			"properties":[
+				"name", "info"
+			]
+		},
+		{	"type":"file",
+			"properties":[
+				"name", "info"
+			]
+		},
+		{	"type":"url",
+			"properties":[
+				"name", "info"
+			]
+		},
+		{	"type":"domain",
+			"properties":[
+				"name", "info"
+			]
+		}
+	],
+	"edges":[
+		{
+			"type": "ip2dep",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash"
+			]
+		},
+		{
+			"type": "ip2file",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash", "time", "DSI", "DSU"
+			]
+		},
+		{
+			"type": "url2file",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash"
+			]
+		},
+		{
+			"type": "ip2url",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash"
+			]
+		},
+		{
+			"type": "DNS",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash", "time", "DNSServer", "transProto", "reqDomain", "reqType", "reqCount", "direct", "respFlag", "respVal", "RPReqType", "RSIP", "TTL", "SR"
+			]
+		},
+		{
+			"type": "ip2domain",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash"
+			]
+		},
+		{
+			"type": "access",
+			"multiplicity":"MULTI",
+			"properties": [
+				"INDEX", "hash", "packages", "bytes", "srcPort", "dstPort", "time", "tcpFlag", "transProto"
+			]
+		}
+	],
+	"index":[
+        {
+             "v_or_e":"v",
+             "index_type":"mixed",
+             "type":"all",
+             "properties":[
+                "name"
+            ]
+        },
+        {
+             "v_or_e":"v",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"name"
+			],
+            "unique": "false"
+        },
+		{
+			"v_or_e":"e",
+			"index_type":"composite",
+			"type":"all",
+			"properties":[
+				"INDEX"
+			]
+		}
+	]
+}

@@ -1,0 +1,59 @@
+{
+    "vertices" : {
+        "ip" : {
+            "key" : "v_ip",
+            "properties" : [
+                "name", "province", "country"
+            ]
+        },
+        "domain" : {
+            "key" : "v_domain",
+            "properties" : [
+                "name", "info"
+            ]
+        },
+        "url" : {
+            "key" : "v_url",
+            "properties" : [
+                "name", "info"
+            ]
+        }
+    },
+    "edges" : {
+        "attack" : {
+            "key" : "e_attack",
+            "properties": [
+                "INDEX", "accessExit", "event", "srcPort", "dstPort", "time", "device", "returnValue", "hash"
+            ],
+            "vertices" : ["ip", "ip"]
+        },
+        "access" : {
+            "key" : "e_access",
+            "properties" : [
+                "INDEX", "packages", "bytes", "srcPort", "dstPort", "time", "tcpFlag", "transProto", "hash"
+            ],
+            "vertices" : ["ip", "ip"]
+        },
+        "ip2domain" : {
+            "key" : "e_ip2domain",
+            "properties" : [
+                "INDEX", "hash"
+            ],
+            "vertices" : ["ip", "domain"]
+        },
+        "ip2url" : {
+            "key" : "e_ip2url",
+            "properties" : [
+                "INDEX", "hash", "time"
+            ],
+            "vertices" : ["ip", "url"]
+        },
+        "domain2url" : {
+            "key" : "e_domain2url",
+            "properties" : [
+                "INDEX", "hash", "time"
+            ],
+            "vertices" : ["domain", "url"]
+        }
+    }
+}

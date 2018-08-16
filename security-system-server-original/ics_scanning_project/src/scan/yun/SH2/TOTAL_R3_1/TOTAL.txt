@@ -1,0 +1,6 @@
+Port		FileNumber		Total
+8090		1		1
+8000		1		2
+8081		1		5
+
+ALL_IP_NUM is : 8
