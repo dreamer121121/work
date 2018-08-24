@@ -74,7 +74,10 @@ git clone git@github.com:dreamer121121/test.git
 ！！！！当不同的本地仓库关联到同一个远程的github仓库时 
 git push -m"jafljaf"可能会报错，
 
-
+===================================================================
+查看分支名称：
+git log --graph --all --decorate
+git log --graph --pretty=oneline --decorate
 
 
 
